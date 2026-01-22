@@ -40,7 +40,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Akashi...",
+"“Akashi...”",
 {"rt2"},
 },
 },
@@ -80,7 +80,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué es lo que está viendo?...",
+"“¿Qué es lo que está viendo?...”",
 {"rt2"},
 },
 },
@@ -107,7 +107,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué está observando?...",
+"“¿Qué está observando?...”",
 {"rt2"},
 },
 },
@@ -191,7 +191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué es lo que se puede ver desde acá?...",
+"“¿Qué es lo que se puede ver desde acá?...”",
 {"rt2"},
 },
 },
@@ -218,7 +218,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No hay nada que resalte en particular...",
+"“No hay nada que resalte en particular...”",
 {"rt2"},
 },
 },
@@ -258,7 +258,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué era lo que estaba viendo ese tipo?...",
+"“¿Qué era lo que estaba viendo ese tipo?...”",
 {"rt2"},
 },
 },
@@ -288,7 +288,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Un extraterrestre...",
+"“Un extraterrestre...”",
 {"rt2"},
 },
 },
@@ -393,7 +393,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Para ser sincero... en el momento en que entré al colegio Yumihari, me quedé\nasombrado...",
+"“Para ser sincero... en el momento en que entré al colegio Yumihari, me quedé\nasombrado...”",
 {"rt2"},
 },
 },
@@ -459,7 +459,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Quién diría que en este lugar tan pequeño, se podría encontrar tanto talento\ncondensado...",
+"“Quién diría que en este lugar tan pequeño, se podría encontrar tanto talento\ncondensado...”",
 {"rt2"},
 },
 },
@@ -499,7 +499,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así será, supongo...",
+"“Así será, supongo...”",
 {"rt2"},
 },
 },
@@ -557,7 +557,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aunque...",
+"“Aunque...”",
 {"rt2"},
 },
 },
@@ -584,7 +584,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, ya tiene todos los instrumentos y materiales.",
+"“No, ya tiene todos los instrumentos y materiales.”",
 {"rt2"},
 },
 },
@@ -598,7 +598,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Seguramente, los tiene casi todos ya.",
+"“Seguramente, los tiene casi todos ya.”",
 {"rt2"},
 },
 },
@@ -625,7 +625,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Genios de mierda...",
+"“Genios de mierda...”",
 {"rt2"},
 },
 },
@@ -665,7 +665,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Fuh...",
+"“Fuh...”",
 {"rt2"},
 },
 },
@@ -718,7 +718,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -745,7 +745,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que Akashi está en ausencia justificada del colegio...",
+"“Así que Akashi está en ausencia justificada del colegio...”",
 {"rt2"},
 },
 },
@@ -785,7 +785,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero en realidad, no fue así. Es tal como lo dijo una vez...",
+"“Pero en realidad, no fue así. Es tal como lo dijo una vez...”",
 {"rt2"},
 },
 },
@@ -807,7 +807,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"¿Es que no les dije ya que simplemente retrasé un poco mi graduación?...",
+"“¿Es que no les dije ya que simplemente retrasé un poco mi graduación?...”",
 {"rt2"},
 },
 },
@@ -824,7 +824,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Estaba esperando por algo... Ciertamente, la retrasó para hacer algo...",
+"“Estaba esperando por algo... Ciertamente, la retrasó para hacer algo...”",
 {"rt2"},
 },
 },
@@ -838,7 +838,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Nunca sé cuándo habla en serio y cuándo lo hace en broma...",
+"“Nunca sé cuándo habla en serio y cuándo lo hace en broma...”",
 {"rt2"},
 },
 },
@@ -852,7 +852,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -866,7 +866,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué era lo que estaba esperando?",
+"“¿Qué era lo que estaba esperando?”",
 {"rt2"},
 },
 },
@@ -1062,7 +1062,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cuál es ese día qué está esperando?",
+"“¿Cuál es ese día qué está esperando?”",
 {"rt2"},
 },
 },
@@ -1080,7 +1080,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿Andas de mirón?",
+"“¿Andas de mirón?”",
 {"rt2"},
 },
 },
@@ -1102,7 +1102,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, pero si eres tú...",
+"“Ah, pero si eres tú...”",
 {"rt2"},
 },
 },
@@ -1125,7 +1125,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Últimamente has venido frecuentemente a la iglesia. ¿Tienes tus ojos puestos\nsobre Komaki? Si es así, entonces estás perdiendo tu tiempo. Esa muchacha no\nse tomará la molestia de hablar contigo.",
+"“Últimamente has venido frecuentemente a la iglesia. ¿Tienes tus ojos puestos\nsobre Komaki? Si es así, entonces estás perdiendo tu tiempo. Esa muchacha no\nse tomará la molestia de hablar contigo.”",
 {"rt2"},
 },
 },
@@ -1139,7 +1139,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, creo que me habla bastante, más bien...",
+"“Pues, creo que me habla bastante, más bien...”",
 {"rt2"},
 },
 },
@@ -1158,7 +1158,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Fuu, ¿por qué Komaki se pondrá a conversar con un tipo como tú?...",
+"“Fuu, ¿por qué Komaki se pondrá a conversar con un tipo como tú?...”",
 {"rt2"},
 },
 },
@@ -1172,7 +1172,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Qué manera tan cruel de referirte a mí, eh...",
+"“Qué manera tan cruel de referirte a mí, eh...”",
 {"rt2"},
 },
 },
@@ -1190,7 +1190,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Ustedes dos se parecen algo... Es por eso que no me agradas.",
+"“Ustedes dos se parecen algo... Es por eso que no me agradas.”",
 {"rt2"},
 },
 },
@@ -1204,7 +1204,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Yo y quién?",
+"“¿Yo y quién?”",
 {"rt2"},
 },
 },
@@ -1227,7 +1227,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Tu y Wataru. Mi hermano y tú se parecen un poco...",
+"“Tú y Wataru. Mi hermano y tú se parecen un poco...”",
 {"rt2"},
 },
 },
@@ -1241,7 +1241,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, espera, puedes decir lo que sea menos eso. ¿Qué clase de castigo es esto\ncomo para que me digas que me parezco a él?",
+"“No, espera, puedes decir lo que sea menos eso. ¿Qué clase de castigo es esto\ncomo para que me digas que me parezco a él?”",
 {"rt2"},
 },
 },
@@ -1259,7 +1259,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Ustedes dos se parecen...",
+"“Ustedes dos se parecen...”",
 {"rt2"},
 },
 },
@@ -1273,7 +1273,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Qué mala...",
+"“Qué mala...”",
 {"rt2"},
 },
 },
@@ -1291,7 +1291,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Wataru vino hoy también.",
+"“Wataru vino hoy también.”",
 {"rt2"},
 },
 },
@@ -1305,7 +1305,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, así parece.",
+"“Sí, así parece.”",
 {"rt2"},
 },
 },
@@ -1328,7 +1328,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Y aun cuando antes no venía casi nunca a la iglesia... En qué demonios estará\npensando...",
+"“Y aun cuando antes no venía casi nunca a la iglesia... En qué demonios estará\npensando...”",
 {"rt2"},
 },
 },
@@ -1342,7 +1342,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quieres decir que tú tampoco tienes idea de lo que Akashi está pensando hacer?",
+"“¿Quieres decir que tú tampoco tienes idea de lo que Akashi está pensando hacer?”",
 {"rt2"},
 },
 },
@@ -1365,7 +1365,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Obviamente. ¿Por qué debería saber lo que él piensa? Siempre se desliza por la\ntangente de la expectativa de los demás.",
+"“Obviamente. ¿Por qué debería saber lo que él piensa? Siempre se desliza por la\ntangente de la expectativa de los demás.”",
 {"rt2"},
 },
 },
@@ -1379,7 +1379,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -1406,7 +1406,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Dijiste que Akashi casi nunca venía a la iglesia antes, ¿no? ¿Más o menos\ncuándo fue que comenzó a frecuentar la iglesia?",
+"“Dijiste que Akashi casi nunca venía a la iglesia antes, ¿no? ¿Más o menos\ncuándo fue que comenzó a frecuentar la iglesia?”",
 {"rt2"},
 },
 },
@@ -1430,7 +1430,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Ni idea... no lo sé. Ah, pero escuché que antes de que nosotras entráramos a\neste colegio, cuando Wataru aún era de primer año, él solía venir\nfrecuentemente a ver esta iglesia.",
+"“Ni idea... no lo sé. Ah, pero escuché que antes de que nosotras entráramos a\neste colegio, cuando Wataru aún era de primer año, él solía venir\nfrecuentemente a ver esta iglesia.”",
 {"rt2"},
 },
 },
@@ -1444,7 +1444,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Escuchaste? ¿Quién te contó?",
+"“¿Escuchaste? ¿Quién te contó?”",
 {"rt2"},
 },
 },
@@ -1462,7 +1462,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"El padre.",
+"“El padre.”",
 {"rt2"},
 },
 },
@@ -1476,7 +1476,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh, el padre que no está por ahora.",
+"“Ahh, el padre que no está por ahora.”",
 {"rt2"},
 },
 },
@@ -1499,7 +1499,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"No es que no esté, simplemente está de reposo.",
+"“No es que no esté, simplemente está de reposo.”",
 {"rt2"},
 },
 },
@@ -1513,7 +1513,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, así parece. Según me contaron, ustedes están esforzándose bastante mientras\nesperan a que se reincorpore.",
+"“Sí, eso parece. Según me contaron, ustedes están esforzándose bastante mientras\nesperan a que se reincorpore.”",
 {"rt2"},
 },
 },
@@ -1537,7 +1537,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Por supuesto. El padre se mejorará y regresará, con toda seguridad.",
+"“Por supuesto. El padre se mejorará y regresará, con toda seguridad.”",
 {"rt2"},
 },
 },
@@ -1551,7 +1551,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -1578,7 +1578,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quieres al padre?",
+"“¿Quieres al padre?”",
 {"rt2"},
 },
 },
@@ -1596,7 +1596,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"¡Por supuesto!",
+"“¡Por supuesto!”",
 {"rt2"},
 },
 },
@@ -1610,7 +1610,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me lo imagino. De no ser así no estarían trabajando de monjas, ¿verdad? Parece\nser algo bien tedioso.",
+"“Me lo imagino. De no ser así no estarían trabajando de monjas, ¿verdad? Parece\nser algo bien tedioso.”",
 {"rt2"},
 },
 },
@@ -1628,7 +1628,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Quizás para alguien sin fe como tú sea un trabajo fastidioso, pero a pesar de\ntodo es bastante satisfactorio.",
+"“Quizás para alguien sin fe como tú sea un trabajo fastidioso, pero a pesar de\ntodo es bastante satisfactorio.”",
 {"rt2"},
 },
 },
@@ -1642,7 +1642,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Es así?...",
+"“¿Es así?...”",
 {"rt2"},
 },
 },
@@ -1660,7 +1660,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"El padre ayudó a Komaki. Aunque es algo de ya hace mucho tiempo...",
+"“El padre ayudó a Komaki. Aunque es algo de ya hace mucho tiempo...”",
 {"rt2"},
 },
 },
@@ -1674,7 +1674,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿La ayudó?",
+"“¿La ayudó?”",
 {"rt2"},
 },
 },
@@ -1693,7 +1693,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Sí, cuando éramos niñas... Aunque bueno, de pensarlo ahora quizás sea algo\ninsignificante. Tal vez al contárselo a los demás se reirían... Pero Komaki,\ny también yo, fuimos salvadas por las palabras del padre.",
+"“Sí, cuando éramos niñas... Aunque bueno, de pensarlo ahora quizás sea algo\ninsignificante. Tal vez al contárselo a los demás se reirían... Pero Komaki,\ny también yo, fuimos salvadas por las palabras del padre.”",
 {"rt2"},
 },
 },
@@ -1707,7 +1707,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -1764,7 +1764,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Aunque bueno, quizás realmente no tengo tanta fe, sino que simplemente aprecio\nal padre, quien salvó a Komaki...",
+"“Aunque bueno, quizás realmente no tengo tanta fe, sino que simplemente aprecio\nal padre, quien salvó a Komaki...”",
 {"rt2"},
 },
 },
@@ -1778,7 +1778,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cuál es el vínculo entre Akashi y el padre?",
+"“¿Cuál es el vínculo entre Akashi y el padre?”",
 {"rt2"},
 },
 },
@@ -1796,7 +1796,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Pues, diría que no lo hay, ¿tal vez? La verdad es que no lo sé...",
+"“Pues diría que no lo hay, ¿tal vez? La verdad es que no lo sé...”",
 {"rt2"},
 },
 },
@@ -1810,7 +1810,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que no tiene vínculo con el padre...",
+"“Así que no tiene vínculo con el padre...”",
 {"rt2"},
 },
 },
@@ -1827,7 +1827,7 @@ vo={
 ja={
 {
 name={"???"},
-"Parece que sí lo hubo.",
+"“Parece que sí lo hubo.”",
 {"rt2"},
 },
 },
@@ -1848,7 +1848,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Komaki.",
+"“Komaki.”",
 {"rt2"},
 },
 },
@@ -1866,7 +1866,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Escuché unas voces conversando muy entretenidamente, así que terminé viniendo\nsin pensarlo.",
+"“Escuché unas voces conversando muy entretenidamente, así que terminé viniendo\nsin pensarlo.”",
 {"rt2"},
 },
 },
@@ -1885,7 +1885,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"¡N-No estábamos hablando entretenidamente!",
+"“¡N-No estábamos hablando entretenidamente!”",
 {"rt2"},
 },
 },
@@ -1899,7 +1899,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Hay algún vínculo entre el padre y Akashi?",
+"“¿Hay algún vínculo entre el padre y Akashi?”",
 {"rt2"},
 },
 },
@@ -1923,7 +1923,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Sí, parece que antes de que nosotras entráramos a este colegio, justo cuando\nOnii-chan era un estudiante de primer año, él venía a hablar muy a menudo con\nel padre.",
+"“Sí, parece que antes de que nosotras entráramos a este colegio, justo cuando\nOnii-chan era un estudiante de primer año, él venía a hablar muy a menudo con\nel padre.”",
 {"rt2"},
 },
 },
@@ -1946,7 +1946,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"¿Eh? ¿El padre y Wataru? ¿Qué clase de cosas hablaban? No hay forma de que esos\ndos puedan entablar una conversación, ¿no?",
+"“¿Eh? ¿El padre y Wataru? ¿Qué clase de cosas hablaban? No hay forma de que esos\ndos puedan entablar una conversación, ¿no?”",
 {"rt2"},
 },
 },
@@ -1964,7 +1964,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Parece que era acerca de arquitectura. Al parecer, Onii-chan tenía\nconocimientos de arquitectura y todo lo relacionado a ella, y venía a hablar\nfrecuentemente con el padre.",
+"“Parece que era acerca de arquitectura. Al parecer, Onii-chan tenía\nconocimientos de arquitectura y todo lo relacionado a ella, y venía a hablar\nfrecuentemente con el padre.”",
 {"rt2"},
 },
 },
@@ -1978,7 +1978,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Hablar... de arquitectura...",
+"“Hablar... de arquitectura...”",
 {"rt2"},
 },
 },
@@ -1996,7 +1996,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"¿Sucede algo?",
+"“¿Sucede algo?”",
 {"rt2"},
 },
 },
@@ -2010,7 +2010,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no, no es nada, prosigue, por favor.",
+"“Ah, no, no es nada, prosigue, por favor.”",
 {"rt2"},
 },
 },
@@ -2028,7 +2028,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Parece que tenían conversaciones muy animadas respecto a lo curioso e\ninteresante que se les hacía el estilo arquitectónico de esta iglesia.",
+"“Parece que tenían conversaciones muy animadas respecto a lo curioso e\ninteresante que se les hacía el estilo arquitectónico de esta iglesia.”",
 {"rt2"},
 },
 },
@@ -2042,7 +2042,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, es un estilo arquitectónico bastante raro, eso sí...",
+"“Pues, es un estilo arquitectónico bastante raro, eso sí...”",
 {"rt2"},
 },
 },
@@ -2060,7 +2060,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Escuché que hablaron de varias cosas, de quien la diseñó en un principio, de\ncuándo se reformó el interior y de quién condujo esa reforma.",
+"“Escuché que hablaron de varias cosas, de quien la diseñó en un principio, de\ncuándo se reformó el interior y de quién condujo esa reforma.”",
 {"rt2"},
 },
 },
@@ -2078,7 +2078,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Ya veo. Así que por eso era que en su primer año venía con tanta frecuencia a\nla iglesia.",
+"“Ya veo. Así que por eso era que en su primer año venía con tanta frecuencia a\nla iglesia.”",
 {"rt2"},
 },
 },
@@ -2102,7 +2102,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Sí, también escuché que en ese momento recibió varias cosas del padre.",
+"“Sí, también escuché que en ese momento recibió varias cosas del padre.”",
 {"rt2"},
 },
 },
@@ -2116,7 +2116,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Varias cosas?",
+"“¿Varias cosas?”",
 {"rt2"},
 },
 },
@@ -2139,7 +2139,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Yo tampoco sé muy bien de que se trataba, pero... en ese momento recuerdo que\nse emocionó bastante. Es raro ver a Onii-chan contentarse de aquella forma...",
+"“Yo tampoco sé muy bien de que se trataba, pero... en ese momento recuerdo que\nse emocionó bastante. Es raro ver a onii-chan contentarse de aquella forma...”",
 {"rt2"},
 },
 },
@@ -2153,7 +2153,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues no es raro verlo contento, ¿no? Basta con darle una galleta senbei para\nque explote en alegría.",
+"“Pues no es raro verlo contento, ¿no? Basta con darle una galleta senbei para\nque explote en alegría.”",
 {"rt2"},
 },
 },
@@ -2171,7 +2171,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Pues, en realidad no tanto. Wataru no suele emocionarse tanto en casa como lo\nhace afuera.",
+"“Pues en realidad no tanto. Wataru no suele emocionarse tanto en casa como lo\nhace afuera.”",
 {"rt2"},
 },
 },
@@ -2185,7 +2185,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿De veras?...",
+"“¿De veras?...”",
 {"rt2"},
 },
 },
@@ -2203,7 +2203,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"No es que sea antipático, pero por lo general siempre pareciera estar pensando\nalgo. En especial últimamente.",
+"“No es que sea antipático, pero por lo general siempre pareciera estar pensando\nalgo. En especial últimamente.”",
 {"rt2"},
 },
 },
@@ -2226,7 +2226,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"No habría problema si sus pensamientos fueran acerca de ideas nobles y\nrefinadas, pero la gran mayoría de ellas no son nada buenas... Por Dios, ¿por\nqué aún comportándose tan seriamente actúa luego de manera tan ridícula?...",
+"“No habría problema si sus pensamientos fueran acerca de ideas nobles y\nrefinadas, pero la gran mayoría de ellas no son nada buenas... Por Dios, ¿por\nqué aún comportándose tan seriamente actúa luego de manera tan ridícula?...”",
 {"rt2"},
 },
 },
@@ -2240,7 +2240,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -2267,7 +2267,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En fin, ¿Akashi escuchó muchas historias del padre y luego recibió algo?",
+"“En fin, ¿Akashi escuchó muchas historias del padre y luego recibió algo?”",
 {"rt2"},
 },
 },
@@ -2286,7 +2286,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Sí, una especie de ilustración, o de plano de diseño... La verdad es que no\nconozco los detalles...",
+"“Sí, una especie de ilustración, o de plano de diseño... La verdad es que no\nconozco los detalles...”",
 {"rt2"},
 },
 },
@@ -2300,7 +2300,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Una ilustración? ¿Un plano?",
+"“¿Una ilustración? ¿Un plano?”",
 {"rt2"},
 },
 },
@@ -2318,7 +2318,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Sí, Onii-chan nunca llegó a mostrármelo, así que solo recuerdo cómo él lo veía\ny se emocionaba...",
+"“Sí, onii-chan nunca llegó a mostrármelo, así que solo recuerdo cómo él lo veía\ny se emocionaba...”",
 {"rt2"},
 },
 },
@@ -2332,7 +2332,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -2372,7 +2372,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por cierto, Komaki, me habías contado algo antes...",
+"“Por cierto, Komaki, me habías contado algo antes...”",
 {"rt2"},
 },
 },
@@ -2390,7 +2390,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"¿Qué cosa?",
+"“¿Qué cosa?”",
 {"rt2"},
 },
 },
@@ -2404,7 +2404,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"De que la persona que reformó el interior de la iglesia fue un profesor de este\ncolegio.",
+"“De que la persona que reformó el interior de la iglesia fue un profesor de este\ncolegio.”",
 {"rt2"},
 },
 },
@@ -2423,7 +2423,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -2439,7 +2439,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Era un profesor de tiempo parcial, ¿cierto?",
+"“Era un profesor de tiempo parcial, ¿cierto?”",
 {"rt2"},
 },
 },
@@ -2462,7 +2462,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"¿Eh? L-La verdad es que no sé, pero...",
+"“¿Eh? L-La verdad es que no sé, pero...”",
 {"rt2"},
 },
 },
@@ -2482,7 +2482,7 @@ vo={
 ja={
 {
 name={"???"},
-"¡Senpai!",
+"“¡Senpai!”",
 {"rt2"},
 },
 },
@@ -2512,7 +2512,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¿Qué estás haciendo allí?!",
+"“¡¿Qué estás haciendo allí?!”",
 {"rt2"},
 },
 },
@@ -2542,7 +2542,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡¿Qué haces perdiendo el tiempo hablando afuera con mujeres desconocidas~?!",
+"“¡¿Qué haces perdiendo el tiempo hablando afuera con mujeres desconocidas~?!”",
 {"rt2"},
 },
 },
@@ -2556,7 +2556,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vaya, pero qué escandalosas...",
+"“Vaya, pero qué escandalosas...”",
 {"rt2"},
 },
 },
@@ -2579,7 +2579,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Tus compañeros te están llamando. Vete rápido.",
+"“Tus compañeros te están llamando. Vete rápido.”",
 {"rt2"},
 },
 },
@@ -2593,7 +2593,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿A eso se le puede llamar compañeros?...",
+"“¿A eso se le puede llamar compañeros?...”",
 {"rt2"},
 },
 },
@@ -2611,7 +2611,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Por supuesto que sí. Le tengo algo de envidia a los miembros del club de arte.\nTodos parecen llevarse muy bien.",
+"“Por supuesto que sí. Le tengo algo de envidia a los miembros del club de arte.\nTodos parecen llevarse muy bien.”",
 {"rt2"},
 },
 },
@@ -2629,7 +2629,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Si tan solo no se sobrepasaran en entusiasmo y causaran tan grandes problemas,\neso sí...",
+"“Si tan solo no se sobrepasaran en entusiasmo y causaran tan grandes problemas,\neso sí...”",
 {"rt2"},
 },
 },
@@ -2647,7 +2647,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Ajajajaja... Tampoco han causado problemas tan grandes, ¿no?...",
+"“Ajajajaja... Tampoco han causado problemas tan grandes, ¿no?...”",
 {"rt2"},
 },
 },
@@ -2665,7 +2665,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"Lo han hecho.",
+"“Lo han hecho.”",
 {"rt2"},
 },
 },
@@ -2684,7 +2684,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"Vamos, vamos, no han hecho nada que amerite expulsión...",
+"“Vamos, vamos, no han hecho nada que amerite expulsión...”",
 {"rt2"},
 },
 },
@@ -2707,7 +2707,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"¡No podría contener la alegría si así lo fuera! ¡Al fin, Wataru expulsado!",
+"“¡No podría contener la alegría si así lo fuera! ¡Al fin, Wataru expulsado!”",
 {"rt2"},
 },
 },
@@ -2724,7 +2724,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡¿Es que no estás escuchando que te estamos llamando~?!",
+"“¡¿Es que no estás escuchando que te estamos llamando~?!”",
 {"rt2"},
 },
 },
@@ -2738,7 +2738,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh, pero qué ruidosas... En fin, no importa. Gracias por la valiosa\ninformación.",
+"“Ahh, pero qué ruidosas... En fin, no importa. Gracias por la valiosa\ninformación.”",
 {"rt2"},
 },
 },
@@ -2756,7 +2756,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"¿Valiosa información? ¿De qué estás hablando?",
+"“¿Valiosa información? ¿De qué estás hablando?”",
 {"rt2"},
 },
 },
@@ -2770,7 +2770,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no, solo me hablaba a mi mismo. Nos vemos…",
+"“Ah, no, solo me hablaba a mi mismo. Nos vemos...”",
 {"rt2"},
 },
 },
@@ -2796,7 +2796,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Pero qué estás haciendo?... Toqueteando con otras nuevas estudiantes bajo este\nsol tan inclemente...",
+"“¿Pero qué estás haciendo?... Toqueteando con otras nuevas estudiantes bajo este\nsol tan inclemente...”",
 {"rt2"},
 },
 },
@@ -2810,7 +2810,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cómo que toqueteando con otras nuevas estudiantes? ¿Qué clase de ojos tienes?",
+"“¿Cómo que toqueteando con otras nuevas estudiantes? ¿Qué clase de ojos tienes?”",
 {"rt2"},
 },
 },
@@ -2828,7 +2828,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Una mirada bastante filosa, como la de un lobo.",
+"“Una mirada bastante filosa, como la de un lobo.”",
 {"rt2"},
 },
 },
@@ -2842,7 +2842,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y bien, qué es lo que no sabes hacer como para que tuvieras que llamarme\ngritando?",
+"“Y bien, ¿qué es lo que no sabes hacer como para que tuvieras que llamarme\ngritando?”",
 {"rt2"},
 },
 },
@@ -2860,7 +2860,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ohhh, así que me estás ignorando...",
+"“Ohhh, así que me estás ignorando...”",
 {"rt2"},
 },
 },
@@ -2874,7 +2874,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, te ignoro. Te estoy preguntando que en qué necesitas ayuda.",
+"“Sí, te ignoro. Te estoy preguntando que en qué necesitas ayuda.”",
 {"rt2"},
 },
 },
@@ -2892,7 +2892,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No te preocupes por mí, revisa esta parte de la pintura de Rin-senpai.",
+"“No te preocupes por mí, revisa esta parte de la pintura de Rin-senpai.”",
 {"rt2"},
 },
 },
@@ -2906,7 +2906,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? ¿No querías preguntarme algo acerca de la tuya?",
+"“¿Eh? ¿No querías preguntarme algo acerca de la tuya?”",
 {"rt2"},
 },
 },
@@ -2924,7 +2924,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"L-Lo siento... Kusanagi-kun, tenías algo que hacer, ¿verdad?",
+"“L-Lo siento... Kusanagi-kun, tenías algo que hacer, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -2947,7 +2947,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿A fin de cuentas se podría decir eso? Lo único que estaba haciendo era\nconversar muy entretenidamente con dos chicas que no conozco frente a la\niglesia...",
+"“¿A fin de cuentas se podría decir eso? Lo único que estaba haciendo era\nconversar muy entretenidamente con dos chicas que no conozco frente a la\niglesia...”",
 {"rt2"},
 },
 },
@@ -2970,7 +2970,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y-Ya veo. Ahh, Kusanagi-kun, realmente eres popular con las muchachas...",
+"“Y-Ya veo. Ahh, Kusanagi-kun, realmente eres popular con las muchachas...”",
 {"rt2"},
 },
 },
@@ -2984,7 +2984,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Por qué dicen eso?!",
+"“¡¿Por qué dicen eso?!”",
 {"rt2"},
 },
 },
@@ -3007,7 +3007,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No te pudiste conformar con entablar comunicación con la nutrida cantidad de\nmujeres del club de arte y tuviste que ir a hablar con mujeres nuevas\nafuera... eres asombroso, Kusanagi-senpai.",
+"“No te pudiste conformar con entablar comunicación con la nutrida cantidad de\nmujeres del club de arte y tuviste que ir a hablar con mujeres nuevas\nafuera... eres asombroso, Kusanagi-senpai.”",
 {"rt2"},
 },
 },
@@ -3021,7 +3021,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Idiota, era la presidenta del consejo estudiantil, Komaki Akashi y la\nvicepresidenta, Kosachi Akashi. Solo estábamos charlando un poco...",
+"“Idiota, era la presidenta del consejo estudiantil, Komaki Akashi y la\nvicepresidenta, Kosachi Akashi. Solo estábamos charlando un poco...”",
 {"rt2"},
 },
 },
@@ -3044,7 +3044,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eh? Ellas son las hermanitas de Akashi-senpai, ¿cierto? Qué raro que\nestuvieras hablando con ellas…",
+"“¿Eh? Ellas son las hermanitas de Akashi-senpai, ¿cierto? Qué raro que\nestuvieras hablando con ellas...”",
 {"rt2"},
 },
 },
@@ -3058,7 +3058,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, bueno, también tenía que resolver ciertas cosas. ¿Y bien? ¿Qué es lo que no\nsabes hacer?",
+"“Sí, bueno, también tenía que resolver ciertas cosas. ¿Y bien? ¿Qué es lo que no\nsabes hacer?”",
 {"rt2"},
 },
 },
@@ -3076,7 +3076,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"E-Esto, es--",
+"“E-Esto, es--”",
 {"rt2"},
 },
 },
@@ -3101,7 +3101,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Fuu... estoy exhausto.",
+"“Fuu... estoy exhausto.”",
 {"rt2"},
 },
 },
@@ -3119,7 +3119,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Lo siento tanto por tener que obligarte todos los días a ayudarme...",
+"“Lo siento tanto por tener que obligarte todos los días a ayudarme...”",
 {"rt2"},
 },
 },
@@ -3133,7 +3133,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, enseñarte a pintar realmente no cansa tanto.",
+"“No, enseñarte a pintar realmente no cansa tanto.”",
 {"rt2"},
 },
 },
@@ -3150,7 +3150,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Es por las clases suplementarias?",
+"“¿Es por las clases suplementarias?”",
 {"rt2"},
 },
 },
@@ -3164,7 +3164,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, mañana terminan, pero, mm~ Después de eso igualmente tengo que presentar el\nexamen de reparación.",
+"“Sí, mañana terminan, pero, mm~ Después de eso igualmente tengo que presentar el\nexamen de reparación.”",
 {"rt2"},
 },
 },
@@ -3181,7 +3181,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Y después de que termines iremos todos al campamento, no lo olvides.",
+"“Y después de que termines iremos todos al campamento, no lo olvides.”",
 {"rt2"},
 },
 },
@@ -3195,7 +3195,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo no tengo nada que ver en ese meollo, ¿no?",
+"“Yo no tengo nada que ver en ese meollo, ¿no?”",
 {"rt2"},
 },
 },
@@ -3214,7 +3214,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Por qué no tienes nada que ver?",
+"“¿Por qué no tienes nada que ver?”",
 {"rt2"},
 },
 },
@@ -3228,7 +3228,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Jaa? Te recuerdo que no pertenezco al club de arte.",
+"“¿Jaa? Te recuerdo que no pertenezco al club de arte.”",
 {"rt2"},
 },
 },
@@ -3246,7 +3246,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Por qué una persona que no pertenece al club de arte está siempre en la sala\nde arte? Quizás los documentos digan otra cosa, pero a mi parecer, eres otro\nmiembro más del club de arte de Yumihari, Kusanagi-senpai.",
+"“¿Por qué una persona que no pertenece al club de arte está siempre en la sala\nde arte? Quizás los documentos digan otra cosa, pero a mi parecer, eres otro\nmiembro más del club de arte de Yumihari, Kusanagi-senpai.”",
 {"rt2"},
 },
 },
@@ -3260,7 +3260,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aun así, no te agradaría que nosotros también fuéramos, ¿no?",
+"“Aun así, no te agradaría que nosotros también fuéramos, ¿no?”",
 {"rt2"},
 },
 },
@@ -3278,7 +3278,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ciertamente...",
+"“Ciertamente...”",
 {"rt2"},
 },
 },
@@ -3292,7 +3292,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Entonces no hay problema con que no vaya, ¿no es así?",
+"“Entonces no hay problema con que no vaya, ¿no es así?”",
 {"rt2"},
 },
 },
@@ -3311,7 +3311,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"... Si no vas todos los demás se sentirán tristes.",
+"“... Si no vas todos los demás se sentirán tristes.”",
 {"rt2"},
 },
 },
@@ -3332,7 +3332,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"YEEES. Espiemos juntos el baño de las chicas desde el baño de los chicos. Si no\nrealizamos este evento tradicional japonés el verano de este año se nos\npasará encima, MASU.",
+"“YEEES. Espiemos juntos el baño de las chicas desde el baño de los chicos. Si no\nrealizamos este evento tradicional japonés el verano de este año se nos\npasará encima, MASU.”",
 {"rt2"},
 },
 },
@@ -3349,7 +3349,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡No hay ningún evento de ese tipo en Japón!",
+"“¡No hay ningún evento de ese tipo en Japón!”",
 {"rt2"},
 },
 },
@@ -3369,7 +3369,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"¡OUCH!",
+"“¡OUCH!”",
 {"rt2"},
 },
 },
@@ -3383,7 +3383,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kawachino, no conviene que reacciones a todo momento a cada una de las\ntonterías de este idiota.",
+"“Kawachino, no conviene que reacciones a todo momento a cada una de las\ntonterías de este idiota.”",
 {"rt2"},
 },
 },
@@ -3400,7 +3400,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"Aunque, es curioso. Pensé que Thomas no tenía interés en otra cosa que no\nfueran mujeres, así que no creí que te invitaría, Naoya.",
+"“Aunque, es curioso. Pensé que Thomas no tenía interés en otra cosa que no\nfueran mujeres, así que no creí que te invitaría, Naoya.”",
 {"rt2"},
 },
 },
@@ -3418,7 +3418,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"Kei, eres muy bajo de estatura, así que eres inútil como soporte para pararme y\nespiar, DESU.",
+"“Kei, eres muy bajo de estatura, así que eres inútil como soporte para pararme y\nespiar, DESU.”",
 {"rt2"},
 },
 },
@@ -3432,7 +3432,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Solo me invitaste para servirte de soporte?...",
+"“¿Solo me invitaste para servirte de soporte?...”",
 {"rt2"},
 },
 },
@@ -3450,7 +3450,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"YEEES.",
+"“YEEES.”",
 {"rt2"},
 },
 },
@@ -3511,7 +3511,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"El evento clásico de Japón de espiar en las aguas termales... OOHHH, YEEEAHH...",
+"“El evento clásico de Japón de espiar en las aguas termales... OOHHH, YEEEAHH...”",
 {"rt2"},
 },
 },
@@ -3529,7 +3529,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"OH, YEAH. OH, YEEAAH. OH, YEEAeee, u-uh... *biku*, *biku*... *bikunbikun*.",
+"“OH, YEAH. OH, YEEAAH. OH, YEEAeee, u-uh... *biku*, *biku*... *bikunbikun*.”",
 {"rt2"},
 },
 },
