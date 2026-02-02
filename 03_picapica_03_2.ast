@@ -2057,7 +2057,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Hace un tiempo... entré aquí. Solo una vez.",
+"“Hace un tiempo... entré aquí. Solo una vez.”",
 {"rt2"},
 },
 },
@@ -2150,7 +2150,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Lo siento, vámonos, ¿sí?",
+"“Lo siento, vámonos, ¿sí?”",
 {"rt2"},
 },
 },
@@ -2164,7 +2164,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Está bien.",
+"“Está bien.”",
 {"rt2"},
 },
 },
@@ -2191,7 +2191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Oye, Toritani. Siento un cosquilleo por dentro cada vez que te disculpas\nconmigo.",
+"“Oye, Toritani. Siento un cosquilleo por dentro cada vez que te disculpas\nconmigo.”",
 {"rt2"},
 },
 },
@@ -2209,7 +2209,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Un cosquilleo? ¿De qué estás hablando?",
+"“¿Un cosquilleo? ¿De qué estás hablando?”",
 {"rt2"},
 },
 },
@@ -2241,7 +2241,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Q-Qué estás diciendo?...",
+"“¿Q-Qué estás diciendo?...”",
 {"rt2"},
 },
 },
@@ -2255,7 +2255,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, estoy dándote a conocer mis más sinceros sentimientos.",
+"“Pues estoy dándote a conocer mis más sinceros sentimientos.”",
 {"rt2"},
 },
 },
@@ -2273,7 +2273,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"M-Me pones, mal... diciéndome eso.",
+"“M-Me pones, mal... diciéndome eso.”",
 {"rt2"},
 },
 },
@@ -2287,7 +2287,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Mal?",
+"“¿Mal?”",
 {"rt2"},
 },
 },
@@ -2310,7 +2310,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"... No lo sé, pero, cuando me dices eso, siento que muchas cosas comienzan a\ndar vueltas dentro de mi cabeza, y... me, pones, en una grave situación.",
+"“... No lo sé, pero, cuando me dices eso, siento que muchas cosas comienzan a\ndar vueltas dentro de mi cabeza, y... me, pones, en una grave situación.”",
 {"rt2"},
 },
 },
@@ -2343,7 +2343,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Oye, Kusanagi.",
+"“Oye, Kusanagi.”",
 {"rt2"},
 },
 },
@@ -2373,7 +2373,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Querer que otra persona sepa más de sí mismo... ¿Qué significa realmente eso?",
+"“Querer que otra persona sepa más de sí mismo... ¿Qué significa realmente eso?”",
 {"rt2"},
 },
 },
@@ -2390,7 +2390,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Querer que esa persona sepa de mí, de mis verdaderos sentimientos... de mis\nsentimientos... de mi dolor... ¿Es justamente por hablar? ¿Es por hablar y\npor creernos que conocemos bastante al otro que queremos que esa persona sepa\nmás?",
+"“Querer que esa persona sepa de mí, de mis verdaderos sentimientos... de mis\nsentimientos... de mi dolor... ¿Es justamente por hablar? ¿Es por hablar y\npor creernos que conocemos bastante al otro que queremos que esa persona sepa\nmás?”",
 {"rt2"},
 },
 },
@@ -2407,7 +2407,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Qué sentido tiene creer saber cómo es la otra persona? ¿No es eso solo una\nilusión compartida? Una ilusión cuya única garantía es el pasado...",
+"“¿Qué sentido tiene creer saber cómo es la otra persona? ¿No es eso solo una\nilusión compartida? Una ilusión cuya única garantía es el pasado...”",
 {"rt2"},
 },
 },
@@ -2421,7 +2421,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Es necesario pensarlo tan complicadamente? Para mí, compartir el pasado y\ncompartir la piel... no tiene mucha diferencia.",
+"“¿Es necesario pensarlo tan complicadamente? Para mí, compartir el pasado y\ncompartir la piel... no tiene mucha diferencia.”",
 {"rt2"},
 },
 },
@@ -2439,7 +2439,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Eh...",
+"“Eh...”",
 {"rt2"},
 },
 },
@@ -2475,7 +2475,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿D-De verdad...? ¿¿¿De verdad, es así???",
+"“¿D-De verdad...? ¿¿¿De verdad, es así???”",
 {"rt2"},
 },
 },
@@ -2502,7 +2502,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí, o no, bueno, no tengo experiencia en eso, así que no puedo dar una\nexplicación muy detallada.",
+"“S-Sí, o no, bueno, no tengo experiencia en eso, así que no puedo dar una\nexplicación muy detallada.”",
 {"rt2"},
 },
 },
@@ -2532,7 +2532,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Ah, ya veo... P-Por supuesto, no hay forma de que alguien como tú haya\nexperimentado algo así, a-ajaja...",
+"“Ah, ya veo... P-Por supuesto, no hay forma de que alguien como tú haya\nexperimentado algo así, a-ajaja...”",
 {"rt2"},
 },
 },
@@ -2560,7 +2560,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Eso me lastimó bastante! ¡Tú tampoco lo has experimentado! ¡¿O sí?!",
+"“¡Eso me lastimó bastante! ¡Tú tampoco lo has experimentado! ¡¿O sí?!”",
 {"rt2"},
 },
 },
@@ -2591,7 +2591,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¡Por supuesto que no! No he tenido a nadie con quien pudiera hacer eso, Y-Y...\naaahhhh, demonios... de nuevo con estos temas... ¡¡Dios!!",
+"“¡Por supuesto que no! No he tenido a nadie con quien pudiera hacer eso, Y-Y...\naaahhhh, demonios... de nuevo con estos temas... ¡¡Dios!!”",
 {"rt2"},
 },
 },
@@ -2605,7 +2605,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En fin, ninguno de los dos tiene experiencia en eso, así que estamos iguales.\nTampoco sabemos si realmente es verdad o no lo que dije. Así que déjalo así\nhasta que llegues a experimentar eso de verdad.",
+"“En fin, ninguno de los dos tiene experiencia en eso, así que estamos iguales.\nTampoco sabemos si realmente es verdad o no lo que dije. Así que déjalo así\nhasta que llegues a experimentar eso de verdad.”",
 {"rt2"},
 },
 },
@@ -2623,7 +2623,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"E-Está bien...",
+"“E-Está bien...”",
 {"rt2"},
 },
 },
@@ -2646,7 +2646,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"... Siento que últimamente todas nuestras charlas han venido tomando un giro\nbastante raro, por más serias que comiencen.",
+"“... Siento que últimamente todas nuestras charlas han venido tomando un giro\nbastante raro, por más serias que comiencen.”",
 {"rt2"},
 },
 },
@@ -2660,7 +2660,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vamos, déjalo así y vive con algo más de soltura. Siempre te lo tomas todo muy\nseriamente.",
+"“Vamos, déjalo así y vive con algo más de soltura. Siempre te lo tomas todo muy\nseriamente.”",
 {"rt2"},
 },
 },
@@ -2683,7 +2683,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pues, lo admito, pero... está bien, bueno... vamos.",
+"“Pues lo admito, pero... está bien, bueno... vamos.”",
 {"rt2"},
 },
 },
@@ -2697,7 +2697,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -2749,7 +2749,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Qué sucede?",
+"“¿Qué sucede?”",
 {"rt2"},
 },
 },
@@ -2763,7 +2763,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh, no, solo que recordé algo que tenía que hacer. Sigue tu y luego te\nalcanzo. No es ninguna excusa para no estudiar ni nada de eso, así que no te\npreocupes.",
+"“Ahh, no, solo que recordé algo que tenía que hacer. Sigue tu y luego te\nalcanzo. No es ninguna excusa para no estudiar ni nada de eso, así que no te\npreocupes.”",
 {"rt2"},
 },
 },
@@ -2786,7 +2786,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"No me preocupa eso, pero... bueno, está bien.",
+"“No me preocupa eso, pero... bueno, está bien.”",
 {"rt2"},
 },
 },
@@ -2955,7 +2955,7 @@ vo={
 ja={
 {
 name={"Hombre"},
-"¡¿?!",
+"“¡¿Mm?!”",
 {"rt2"},
 },
 },
@@ -2982,7 +2982,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Profesor! ¡¿Cómo está?!... Eh, ah, lo siento, me equivoqué de persona.",
+"“¡Profesor! ¡¿Cómo está?!... Eh, ah, lo siento, me equivoqué de persona.”",
 {"rt2"},
 },
 },
@@ -2999,7 +2999,7 @@ vo={
 ja={
 {
 name={"Hombre"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -3043,7 +3043,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Ah...",
+"“Ah...”",
 {"rt2"},
 },
 },
@@ -3083,7 +3083,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Lo siento, ¿te asusté?",
+"“Lo siento, ¿te asusté?”",
 {"rt2"},
 },
 },
@@ -3101,7 +3101,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"No...",
+"“No...”",
 {"rt2"},
 },
 },
@@ -3146,7 +3146,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Muchas gracias.",
+"“Muchas gracias.”",
 {"rt2"},
 },
 },
@@ -3160,7 +3160,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Mm? Ah, sí... era demasiado obvio que haría eso.",
+"“¿Mm? Ah, sí... era demasiado obvio que haría eso.”",
 {"rt2"},
 },
 },
@@ -3179,7 +3179,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Sí. Hay muchas personas que se acercan por detrás de esa forma y patean mi\nbastón. Y no solo por detrás. Hay otras que lo hacen por delante también.",
+"“Sí. Hay muchas personas que se acercan por detrás de esa forma y patean mi\nbastón. Y no solo por detrás. Hay otras que lo hacen por delante también.”",
 {"rt2"},
 },
 },
@@ -3193,7 +3193,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, llegué a escuchar historias parecidas cuando estuve en el pabellón de\nrehabilitación. Por alguna razón, hay personas que se enojan cuando no te\ntropiezas al patearte.",
+"“Sí, llegué a escuchar historias parecidas cuando estuve en el pabellón de\nrehabilitación. Por alguna razón, hay personas que se enojan cuando no te\ntropiezas al patearte.”",
 {"rt2"},
 },
 },
@@ -3211,7 +3211,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Sí. No sé por qué lo hacen, pero las hay. Y tampoco sé por qué, pero así son.",
+"“Sí. No sé por qué lo hacen, pero las hay. Y tampoco sé por qué, pero así son.”",
 {"rt2"},
 },
 },
@@ -3225,7 +3225,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Entiendo.",
+"“Entiendo.”",
 {"rt2"},
 },
 },
@@ -3261,7 +3261,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Ya estoy acostumbrada. Pero, de igual manera, muchas gracias.",
+"“Ya estoy acostumbrada. Pero, de igual manera, muchas gracias.”",
 {"rt2"},
 },
 },
@@ -3275,7 +3275,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, discúlpame a mí más bien. No logré asegurarme rápidamente de las\nintenciones de ese hombre y esperé hasta el último momento. Y en eso terminé\nasustándote.",
+"“No, discúlpame a mí más bien. No logré asegurarme rápidamente de las\nintenciones de ese hombre y esperé hasta el último momento. Y en eso terminé\nasustándote.”",
 {"rt2"},
 },
 },
@@ -3293,7 +3293,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Pero...",
+"“Pero...”",
 {"rt2"},
 },
 },
@@ -3311,7 +3311,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"No hay nada de lo que tenga que disculparse.",
+"“No hay nada de lo que tenga que disculparse.”",
 {"rt2"},
 },
 },
@@ -3325,7 +3325,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero a mí si me parece.",
+"“Pero a mí sí me parece.”",
 {"rt2"},
 },
 },
@@ -3344,7 +3344,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"... Sí.",
+"“... Sí.”",
 {"rt2"},
 },
 },
@@ -3384,7 +3384,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Hoy te toca regresar sola?",
+"“¿Hoy te toca regresar sola?”",
 {"rt2"},
 },
 },
@@ -3403,7 +3403,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Sí. mamá está ocupada, así que... le dije que regresaría por mi cuenta.",
+"“Sí. mamá está ocupada, así que... le dije que regresaría por mi cuenta.”",
 {"rt2"},
 },
 },
@@ -3417,7 +3417,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo.",
+"“Ya veo.”",
 {"rt2"},
 },
 },
@@ -3440,7 +3440,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Sí. Mamá está muy ocupada, y me da pena molestarla. Por eso quisiera que se\nolvidara un poco de mí de vez en cuando y tomara algo más de tiempo para\nella.",
+"“Sí. Mamá está muy ocupada, y me da pena molestarla. Por eso quisiera que se\nolvidara un poco de mí de vez en cuando y tomara algo más de tiempo para\nella.”",
 {"rt2"},
 },
 },
@@ -3454,7 +3454,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Has estado esforzándote bastante, eh.",
+"“Has estado esforzándote bastante, eh.”",
 {"rt2"},
 },
 },
@@ -3473,7 +3473,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Eso no es cierto. A veces la rehabilitación es tan dura que me dan ganas de\nllorar.",
+"“Eso no es cierto. A veces la rehabilitación es tan dura que me dan ganas de\nllorar.”",
 {"rt2"},
 },
 },
@@ -3487,7 +3487,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, te entiendo. Dan ganas de salir corriendo y huir.",
+"“Sí, te entiendo. Dan ganas de salir corriendo y huir.”",
 {"rt2"},
 },
 },
@@ -3511,7 +3511,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Sí... y por eso soy una mala niña. Me da pena pensar en huir, a pesar de todo\nel dinero que cuesta la rehabilitación...",
+"“Sí... y por eso soy una mala niña. Me da pena pensar en huir, a pesar de todo\nel dinero que cuesta la rehabilitación...”",
 {"rt2"},
 },
 },
@@ -3525,7 +3525,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Quizás esté de más que diga esto cuando en realidad no he visto nada de lo que\nhas vivido, pero, me parece que has estado haciendo las cosas bien. No tienes\npor qué presionarte tanto a ti misma.",
+"“Quizás esté de más que diga esto cuando en realidad no he visto nada de lo que\nhas vivido, pero, me parece que has estado haciendo las cosas bien. No tienes\npor qué presionarte tanto a ti misma.”",
 {"rt2"},
 },
 },
@@ -3543,7 +3543,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"... Sí.",
+"“... Sí.”",
 {"rt2"},
 },
 },
@@ -3575,7 +3575,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"Muchas gracias por hoy.",
+"“Muchas gracias por hoy.”",
 {"rt2"},
 },
 },
@@ -3620,7 +3620,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
