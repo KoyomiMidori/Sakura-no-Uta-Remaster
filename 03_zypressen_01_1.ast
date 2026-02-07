@@ -3441,7 +3441,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tuve una el día del campamento.",
+"“Tuve una el día del campamento.”",
 {"rt2"},
 },
 },
@@ -3458,7 +3458,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ese día tuviste que limpiar la piscina, cocinar y estudiar. Además, luego en la\nnoche fuimos a ver los fuegos artificiales. No había forma de que pudieras\nverlo con calma.",
+"“Ese día tuviste que limpiar la piscina, cocinar y estudiar. Además, luego en la\nnoche fuimos a ver los fuegos artificiales. No había forma de que pudieras\nverlo con calma.”",
 {"rt2"},
 },
 },
@@ -3473,7 +3473,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y si con eso no bastaba comenzó el alboroto con el mural al terminar las\nvacaciones.",
+"“Y si con eso no bastaba comenzó el alboroto con el mural al terminar las\nvacaciones.”",
 {"rt2"},
 },
 },
@@ -3490,7 +3490,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, parece que incluso en las horas de descanso muchos se agolpan acá para\nverlo. 'Las huellas de los cerezos'.",
+"“Sí, parece que incluso en las horas de descanso muchos se agolpan acá para\nverlo. 'Las huellas de los cerezos'.”",
 {"rt2"},
 },
 },
@@ -3507,7 +3507,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ya veo, así que te saliste de clases simplemente para contemplar esto.",
+"“Ya veo, así que te saliste de clases simplemente para contemplar esto.”",
 {"rt2"},
 },
 },
@@ -3522,7 +3522,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, a eso vine.",
+"“Sí, a eso vine.”",
 {"rt2"},
 },
 },
@@ -3537,7 +3537,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aunque, me pregunto por qué la directora habrá esperado justamente a que\ncomenzara el nuevo período para mostrar la obra. Si es por reunir a los\nmedios le hubiera convenido más hacerlo durante las vacaciones...",
+"“Aunque, me pregunto por qué la directora habrá esperado justamente a que\ncomenzara el nuevo período para mostrar la obra. Si es por reunir a los\nmedios le hubiera convenido más hacerlo durante las vacaciones...”",
 {"rt2"},
 },
 },
@@ -3554,7 +3554,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Quién sabe? Quizás quería mostrársela primero a sus propios estudiantes. De\nvenir mucha gente de los medios los alumnos no podrían verla.",
+"“¿Quién sabe? Quizás quería mostrársela primero a sus propios estudiantes. De\nvenir mucha gente de los medios los alumnos no podrían verla.”",
 {"rt2"},
 },
 },
@@ -3569,7 +3569,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No me parece que sea la clase de persona capaz de hacer eso...",
+"“No me parece que sea la clase de persona capaz de hacer eso...”",
 {"rt2"},
 },
 },
@@ -3586,7 +3586,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eso crees? La directora es muy amable.",
+"“¿Eso crees? La directora es muy amable.”",
 {"rt2"},
 },
 },
@@ -3601,7 +3601,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Conoces a la directora?",
+"“¿Conoces a la directora?”",
 {"rt2"},
 },
 },
@@ -3618,7 +3618,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No exactamente. Pero me la encuentro con frecuencia en la azotea.",
+"“No exactamente. Pero me la encuentro con frecuencia en la azotea.”",
 {"rt2"},
 },
 },
@@ -3633,7 +3633,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿En la azotea?",
+"“¿En la azotea?”",
 {"rt2"},
 },
 },
@@ -3650,7 +3650,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"He estado pintando en la azotea desde que comenzaron las vacaciones de verano,\npara preparar la obra que presentaré en la Exposición Moore.",
+"“He estado pintando en la azotea desde que comenzaron las vacaciones de verano,\npara preparar la obra que presentaré en la Exposición Moore.”",
 {"rt2"},
 },
 },
@@ -3665,7 +3665,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Has estado trabajando en ella desde verano?",
+"“¿Has estado trabajando en ella desde verano?”",
 {"rt2"},
 },
 },
@@ -3682,7 +3682,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, aunque bueno, digamos que lo de la Exposición Moore es solo una excusa.\nPinto allí simplemente porque hay algo en ese lugar que quiero pintar...",
+"“Sí, aunque bueno, digamos que lo de la Exposición Moore es solo una excusa.\nPinto allí simplemente porque hay algo en ese lugar que quiero pintar...”",
 {"rt2"},
 },
 },
@@ -3699,7 +3699,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y es por eso que he tenido varias oportunidades de encontrármela.",
+"“Y es por eso que he tenido varias oportunidades de encontrármela.”",
 {"rt2"},
 },
 },
@@ -3716,7 +3716,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"La directora suele venir a fumar a la azotea.",
+"“La directora suele venir a fumar a la azotea.”",
 {"rt2"},
 },
 },
@@ -3731,7 +3731,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Heeh, no sabía.",
+"“Je, no sabía.”",
 {"rt2"},
 },
 },
@@ -3748,7 +3748,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Tienes buenas relaciones con la directora, senpai?",
+"“¿Tienes buenas relaciones con la directora, senpai?”",
 {"rt2"},
 },
 },
@@ -3763,7 +3763,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pero qué rayos? ¿De verdad eres capaz de creer que esa señora y yo nos\nllevamos bien?",
+"“¿Pero qué rayos? ¿De verdad eres capaz de creer que esa señora y yo nos\nllevamos bien?”",
 {"rt2"},
 },
 },
@@ -3780,7 +3780,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿No? La directora parecía saber bastante de ti...",
+"“¿No? La directora parecía saber bastante de ti...”",
 {"rt2"},
 },
 },
@@ -3795,7 +3795,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cómo, es que sabe de mí?...",
+"“¿Cómo... es que sabe de mí?...”",
 {"rt2"},
 },
 },
@@ -3812,7 +3812,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ni idea, la verdad es que no sé. Pero de tanto tiempo conociéndote sé que\nsueles meterte en los asuntos de mucha gente, senpai, así que no sería nada\nraro.",
+"“Ni idea, la verdad es que no sé. Pero de tanto tiempo conociéndote sé que\nsueles meterte en los asuntos de mucha gente, senpai, así que no sería nada\nraro.”",
 {"rt2"},
 },
 },
@@ -3829,7 +3829,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Quizás la directora y tú tengan algún vínculo, de algún lugar. Nadie sabe.",
+"“Quizás la directora y tú tengan algún vínculo, de algún lugar. Nadie sabe.”",
 {"rt2"},
 },
 },
@@ -3845,7 +3845,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Para nada, a esa señora no la conozco de ningún lado.",
+"“Para nada, a esa señora no la conozco de ningún lado.”",
 {"rt2"},
 },
 },
@@ -3862,7 +3862,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿De verdad?...",
+"“¿De verdad?...”",
 {"rt2"},
 },
 },
@@ -3879,7 +3879,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ahhh, ahora que lo recuerdo, la directora mencionó algo de que haría lo posible\npara expulsar a Naoya Kusanagi antes de que terminara este período.",
+"“Ahhh, ahora que lo recuerdo, la directora mencionó algo de que haría lo posible\npara expulsar a Naoya Kusanagi antes de que terminara este período.”",
 {"rt2"},
 },
 },
@@ -3895,7 +3895,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? ¿Es en serio eso?",
+"“¿Eh? ¿Es en serio eso?”",
 {"rt2"},
 },
 },
@@ -3912,7 +3912,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Está mintiendo. La directora nunca llegó a hablarnos de sus asuntos privados.\nSolemos ir a la azotea a pintar, y a veces nos encontramos con ella, solo\neso.",
+"“Está mintiendo. La directora nunca llegó a hablarnos de sus asuntos privados.\nSolemos ir a la azotea a pintar, y a veces nos encontramos con ella, solo\neso.”",
 {"rt2"},
 },
 },
@@ -3927,7 +3927,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cómo es la directora?",
+"“¿Cómo es la directora?”",
 {"rt2"},
 },
 },
@@ -3944,7 +3944,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Es una buena persona. Y además tiene bastante estilo.",
+"“Es una buena persona. Y además tiene bastante estilo.”",
 {"rt2"},
 },
 },
@@ -3963,7 +3963,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Se ve muy bien con un cigarro en mano. Esa sonrisa cínica que muestra a veces\nme excita...",
+"“Se ve muy bien con un cigarro en mano. Esa sonrisa cínica que muestra a veces\nme excita...”",
 {"rt2"},
 },
 },
@@ -3977,7 +3977,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿'Me excita'?...",
+"“¿'Me excita'?...”",
 {"rt2"},
 },
 },
@@ -3996,7 +3996,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Es preciosa, muy de mi tipo.",
+"“Es preciosa, muy de mi tipo.”",
 {"rt2"},
 },
 },
@@ -4010,7 +4010,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kawachino, no me digas que ves con ojos lujuriosos a esa señora...",
+"“Kawachino, no me digas que ves con ojos lujuriosos a esa señora...”",
 {"rt2"},
 },
 },
@@ -4033,7 +4033,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Pues sí, supongo que el pequeñín Kusanagi no es capaz de comprender los\nencantos de esa gran mujer. Pero tranquilo, nada te impide que sigas\ncomplaciendo tus oídos con los excitados y aduladores balbuceos de tus\nfanáticas aún en pañales.",
+"“Pues sí, supongo que el pequeñín Kusanagi no es capaz de comprender los\nencantos de esa gran mujer. Pero tranquilo, nada te impide que sigas\ncomplaciendo tus oídos con los excitados y aduladores balbuceos de tus\nfanáticas aún en pañales.”",
 {"rt2"},
 },
 },
@@ -4047,7 +4047,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, lo había olvidado ya. Gracias por esa, Kawachino.",
+"“Ah, lo había olvidado ya. Gracias por esa, Kawachino.”",
 {"rt2"},
 },
 },
@@ -4071,7 +4071,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Jaa? ¿D-De qué me estás agradeciendo?",
+"“¿Jaa? ¿D-De qué me estás agradeciendo?”",
 {"rt2"},
 },
 },
@@ -4085,7 +4085,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"La verdad es que eran toda una molestia. Venían y venían sin parar, no se\nacercaban mucho pero tampoco se alejaban. Quería gritarles algo, pero así\ncomo estaban no podía.",
+"“La verdad es que eran toda una molestia. Venían y venían sin parar, no se\nacercaban mucho pero tampoco se alejaban. Quería gritarles algo, pero así\ncomo estaban no podía.”",
 {"rt2"},
 },
 },
@@ -4104,7 +4104,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Jaa! ¡Imbécil, esta es la única oportunidad que tendrás en tu vida para ser\npopular con las mujeres, deberías dejar de decir eso y simplemente\ndisfrutarlo!",
+"“¡Jaa! ¡Imbécil, esta es la única oportunidad que tendrás en tu vida para ser\npopular con las mujeres, deberías dejar de decir eso y simplemente\ndisfrutarlo!”",
 {"rt2"},
 },
 },
@@ -4119,7 +4119,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Jaa! Pues siento contradecirte. ¡Mi alta popularidad con las mujeres viene\ndesde el primer período!",
+"“¡Jaa! Pues siento contradecirte. ¡Mi alta popularidad con las mujeres viene\ndesde el primer período!”",
 {"rt2"},
 },
 },
@@ -4137,7 +4137,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Cuántas veces tendré que repetirte que eran asesinas que habían venido por ti?",
+"“¿Cuántas veces tendré que repetirte que eran asesinas que habían venido por ti?”",
 {"rt2"},
 },
 },
@@ -4152,7 +4152,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Por supuesto que no!",
+"“¡Por supuesto que no!”",
 {"rt2"},
 },
 },
@@ -4170,7 +4170,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Pues qué más da, un torpe e insensible como tú jamás entenderá el verdadero\nvalor de las chicas, así que no pierdas tu tiempo y ve y cómete a alguna\nzorra por ahí.",
+"“Pues qué más da, un torpe e insensible como tú jamás entenderá el verdadero\nvalor de las chicas, así que no pierdas tu tiempo y ve y cómete a alguna\nzorra por ahí.”",
 {"rt2"},
 },
 },
@@ -4184,7 +4184,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues sí, soy un idiota que no sabe distinguir una chica verdaderamente buena,\npero aun a pesar de eso tengo todo el derecho a elegir.",
+"“Pues sí, soy un idiota que no sabe distinguir una chica verdaderamente buena,\npero aun a pesar de eso tengo todo el derecho a elegir.”",
 {"rt2"},
 },
 },
@@ -4202,7 +4202,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Debe haber alguna chica que te guste entre toda esa manada de fieras.",
+"“Debe haber alguna chica que te guste entre toda esa manada de fieras.”",
 {"rt2"},
 },
 },
@@ -4216,7 +4216,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues déjame decirte que en primer lugar, no me gustan las mujeres que hacen ese\ntipo de cosas.",
+"“Pues déjame decirte que en primer lugar, no me gustan las mujeres que hacen ese\ntipo de cosas.”",
 {"rt2"},
 },
 },
@@ -4235,7 +4235,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡¿Aún virgen y pretendes sacar tu orgullo acá?!",
+"“¡¿Aún virgen y pretendes sacar tu orgullo acá?!”",
 {"rt2"},
 },
 },
@@ -4249,7 +4249,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Justamente por ser virgen todavía es que me aguanto con mi orgullo!",
+"“¡Justamente por ser virgen todavía es que me aguanto con mi orgullo!”",
 {"rt2"},
 },
 },
@@ -4267,7 +4267,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Y qué tanto tratas de aguantar? Deberías aprovechar de que tienes un pe*e y\nfollarte a toda mujer que se te acerque.",
+"“¿Y qué tanto tratas de aguantar? Deberías aprovechar de que tienes un pe*e y\nfollarte a toda mujer que se te acerque.”",
 {"rt2"},
 },
 },
@@ -4281,7 +4281,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Si solo por el hecho de tener un pe*e todos los hombres hicieran eso este país\nsería una nación de criminales.",
+"“Si solo por el hecho de tener un pe*e todos los hombres hicieran eso este país\nsería una nación de criminales.”",
 {"rt2"},
 },
 },
@@ -4299,7 +4299,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eso dices? No tengo pe*e, así que no entiendo muy bien cómo piensan los\nhombres, pero si tuviera uno me gustaría metérselo a alguien.",
+"“¿Eso dices? No tengo pe*e, así que no entiendo muy bien cómo piensan los\nhombres, pero si tuviera uno me gustaría metérselo a alguien.”",
 {"rt2"},
 },
 },
@@ -4313,7 +4313,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y crees que yo no? Yo también quiero meterlo, demonios.",
+"“¿Y crees que yo no? Yo también quiero meterlo, demonios.”",
 {"rt2"},
 },
 },
@@ -4332,7 +4332,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Si tanto quieres meterlo entonces podrías metérselo a alguna mujerzuela por\nahí.",
+"“Si tanto quieres meterlo entonces podrías metérselo a alguna mujerzuela por\nahí.”",
 {"rt2"},
 },
 },
@@ -4347,7 +4347,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Solo se lo meteré a la mujer que me robe el corazón! ¡Una vagina para toda la\nvida! ¡Ese es mi ideal a seguir, y también la razón por la cual sigo siendo\nun maldito virgen!",
+"“¡Solo se lo meteré a la mujer que me robe el corazón! ¡Una vagina para toda la\nvida! ¡Ese es mi ideal a seguir, y también la razón por la cual sigo siendo\nun maldito virgen!”",
 {"rt2"},
 },
 },
@@ -4365,7 +4365,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Uwah, ¿no te da pena decir eso?",
+"“Uwah, ¿no te da pena decir eso?”",
 {"rt2"},
 },
 },
@@ -4379,7 +4379,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No me importa para nada, por más vergonzoso que sea. ¡Y además, no hay ninguna\nrazón para que estés tan pendiente de mi virginidad!",
+"“No me importa para nada, por más vergonzoso que sea. ¡Y además, no hay ninguna\nrazón para que estés tan pendiente de mi virginidad!”",
 {"rt2"},
 },
 },
@@ -4396,7 +4396,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ajaja... tiene razón.",
+"“Ajaja... tiene razón.”",
 {"rt2"},
 },
 },
@@ -4412,7 +4412,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Volviendo al tema, no pensé que ustedes dos conocieran a la directora.",
+"“Volviendo al tema, no pensé que ustedes dos conocieran a la directora.”",
 {"rt2"},
 },
 },
@@ -4429,7 +4429,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tampoco es que la conocemos, simplemente nos la hemos encontrado casualmente en\nla azotea unas cuantas veces.",
+"“Tampoco es que la conocemos, simplemente nos la hemos encontrado casualmente en\nla azotea unas cuantas veces.”",
 {"rt2"},
 },
 },
@@ -4446,7 +4446,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y ahora que recuerdo, aun antes de que se culminara el mural se la pasaba\nviendo con frecuencia la iglesia.",
+"“Y ahora que recuerdo, aun antes de que se culminara el mural se la pasaba\nviendo con frecuencia la iglesia.”",
 {"rt2"},
 },
 },
@@ -4463,7 +4463,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí, siempre parecía estar viéndola.",
+"“Sí, siempre parecía estar viéndola.”",
 {"rt2"},
 },
 },
@@ -4480,7 +4480,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Será que quizás tiene algún fuerte apego con ella?",
+"“¿Será que quizás tiene algún fuerte apego con ella?”",
 {"rt2"},
 },
 },
@@ -4496,7 +4496,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ni idea. Aunque, sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...",
+"“Ni idea. Aunque, sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...”",
 {"rt2"},
 },
 },
@@ -4515,7 +4515,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Cuál es la temática de este mural?",
+"“¿Cuál es la temática de este mural?”",
 {"rt2"},
 },
 },
@@ -4529,7 +4529,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿La temática?... Probablemente los cerezos milenarios.",
+"“¿La temática?... Probablemente los cerezos milenarios.”",
 {"rt2"},
 },
 },
@@ -4546,7 +4546,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Sí?",
+"“¿Sí?”",
 {"rt2"},
 },
 },
@@ -4560,7 +4560,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, bueno, no sé realmente qué tenía Kenichiro Kusanagi en mente, pero para\nAkashi fue esa la temática.",
+"“No, bueno, no sé realmente qué tenía Kenichiro Kusanagi en mente, pero para\nAkashi fue esa la temática.”",
 {"rt2"},
 },
 },
@@ -4574,7 +4574,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aunque en su caso, más que simplemente adoptar la temática, intentó reproducir\nlos cerezos milenarios en el mural.",
+"“Aunque en su caso, más que simplemente adoptar la temática, intentó reproducir\nlos cerezos milenarios en el mural.”",
 {"rt2"},
 },
 },
@@ -4591,7 +4591,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Reproducirlos?",
+"“¿Reproducirlos?”",
 {"rt2"},
 },
 },
@@ -4610,7 +4610,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí. Supongo que habrá tenido sus razones para crear una obra que diera la\nilusión de que realmente existen.",
+"“Sí. Supongo que habrá tenido sus razones para crear una obra que diera la\nilusión de que realmente existen.”",
 {"rt2"},
 },
 },
@@ -4627,7 +4627,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Una obra que le diera vida a los cerezos milenarios?...",
+"“¿Una obra que le diera vida a los cerezos milenarios?...”",
 {"rt2"},
 },
 },
@@ -4642,7 +4642,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Eso mismo. Es eso lo que me llama un tanto la atención.",
+"“Eso mismo. Es eso lo que me llama un tanto la atención.”",
 {"rt2"},
 },
 },
@@ -4659,7 +4659,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Qué exactamente te llama la atención?",
+"“¿Qué exactamente te llama la atención?”",
 {"rt2"},
 },
 },
@@ -4674,7 +4674,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Dicen que aquellas obras creadas con fervor y corazón poseen el mismo poder que\naquello que buscan reproducir.",
+"“Dicen que aquellas obras creadas con fervor y corazón poseen el mismo poder que\naquello que buscan reproducir.”",
 {"rt2"},
 },
 },
@@ -4691,7 +4691,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Como la historia de la pintura que cobró vida cuando le dibujaron los ojos,\n¿verdad?",
+"“Como la historia de la pintura que cobró vida cuando le dibujaron los ojos,\n¿verdad?”",
 {"rt2"},
 },
 },
@@ -4706,7 +4706,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí. 'Garyou Tensei'.",
+"“Sí. 'Garyou Tensei'.”",
 {"rt2"},
 },
 },
@@ -4721,7 +4721,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Existe un mito de un pintor que vivió en el territorio de Liang durante la era\nNanbokucho, cuyo nombre era Cho So You. La historia trata de cómo el dragón\nque pintaba se escapó de su pintura al dibujarle ojos.",
+"“Existe un mito de un pintor que vivió en el territorio de Liang durante la era\nNanbokucho, cuyo nombre era Cho So You. La historia trata de cómo el dragón\nque pintaba se escapó de su pintura al dibujarle ojos.”",
 {"rt2"},
 },
 },
@@ -4736,7 +4736,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"La gente a su alrededor no paraba de insistirle en que le agregara ojos al\ndragón. Sin más opción, Cho accedió. Y en el instante en que lo hizo, el\ndragón saltó de la pintura y rompió el techo, emprendiendo vuelo hacia los\ncielos.",
+"“La gente a su alrededor no paraba de insistirle en que le agregara ojos al\ndragón. Sin más opción, Cho accedió. Y en el instante en que lo hizo, el\ndragón saltó de la pintura y rompió el techo, emprendiendo vuelo hacia los\ncielos.”",
 {"rt2"},
 },
 },
@@ -4751,7 +4751,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Percibo algo similar en estos cerezos.",
+"“Percibo algo similar en estos cerezos.”",
 {"rt2"},
 },
 },
@@ -4766,7 +4766,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y me da algo de mala espina.",
+"“Y me da algo de mala espina.”",
 {"rt2"},
 },
 },
@@ -4783,7 +4783,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Mala espina?",
+"“¿Mala espina?”",
 {"rt2"},
 },
 },
@@ -4798,7 +4798,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, aunque bueno, nada extraño puede ocurrir de esta pintura de por sí. Pero,\nsi los sentimientos puestos en ella llegaran a resonar con los cerezos\nmilenarios...",
+"“Sí, aunque bueno, nada extraño puede ocurrir de esta pintura de por sí. Pero,\nsi los sentimientos puestos en ella llegaran a resonar con los cerezos\nmilenarios...”",
 {"rt2"},
 },
 },
@@ -4815,7 +4815,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Cada vez que hablas de la leyenda de los cerezos milenarios lo haces como si de\nverdad existieran, senpai.",
+"“Cada vez que hablas de la leyenda de los cerezos milenarios lo haces como si de\nverdad existieran, senpai.”",
 {"rt2"},
 },
 },
@@ -4830,7 +4830,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Como si de verdad existieran? No me hagas reír, Hikawa. No hay cosa que yo\nodie más que esa clase de cuentos esotéricos.",
+"“¿Como si de verdad existieran? No me hagas reír, Hikawa. No hay cosa que yo\nodie más que esa clase de cuentos esotéricos.”",
 {"rt2"},
 },
 },
@@ -4847,7 +4847,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Realmente odias todo lo que tenga que ver con los cerezos milenarios.",
+"“Realmente odias todo lo que tenga que ver con los cerezos milenarios.”",
 {"rt2"},
 },
 },
@@ -4863,7 +4863,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, los odio.",
+"“Sí, los odio.”",
 {"rt2"},
 },
 },
@@ -4878,7 +4878,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En fin, ¿no deberían irse ya de vuelta a la clase? Supongo que salieron porque\nme vieron afuera, ¿cierto?",
+"“En fin, ¿no deberían irse ya de vuelta a la clase? Supongo que salieron porque\nme vieron afuera, ¿cierto?”",
 {"rt2"},
 },
 },
@@ -4893,7 +4893,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Como pueden ver, no fue por gran cosa que salí.",
+"“Como pueden ver, no fue por gran cosa que salí.”",
 {"rt2"},
 },
 },
@@ -4910,7 +4910,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así parece. Bien, ¿nos vamos de vuelta, Yuumi?",
+"“Así parece. Bien, ¿nos vamos de vuelta, Yuumi?”",
 {"rt2"},
 },
 },
@@ -4927,7 +4927,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí...",
+"“Sí...”",
 {"rt2"},
 },
 },
