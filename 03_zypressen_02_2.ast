@@ -1,0 +1,3707 @@
+astver = 2.0
+astname = "ast"
+ast = {
+block_00000={
+{"savetitle",text="Capítulo III"},
+{"bg",file="ev_txt_c10_01",time=1500,path=":ev/ev_txt_c10/",set="ev_txt_c10"},
+{"ex",time=1000,func="wait"},
+{"bg",file="ev_txt_c14_01",time=1500,path=":ev/ev_txt_c14/",set="ev_txt_c14"},
+{"bgm",file="bgm002"},
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　――Y fue así como preferí a las damiselas――",
+{"rt2"},
+},
+},
+},
+linknext="block_00001",
+},
+block_00001={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001002",ch="yum"},
+},
+ja={
+{
+"　　¿Por qué al nacer el león...",
+{"rt2"},
+"　　　　　　　　　　　　　　　　este mató y se comió a la gacela?",
+{"rt2"},
+},
+},
+},
+linkback="block_00000",
+linknext="block_00002",
+},
+block_00002={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001003",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"La intensa luz del sol da a brillar todo el verde de la sabana",
+{"rt2"},
+"　　　　　　¿Acaso no tuvo la opción de devorar las plantas y vivir de ellas?",
+{"rt2"},
+},
+},
+},
+linkback="block_00001",
+linknext="block_00003",
+},
+block_00003={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001004",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　Y aun así, el león devora gacelas,　　　",
+{"rt2"},
+"　　　　　　　　　　　　　　　　impalas,",
+{"rt2"},
+"　　　　　　e incluso a veces a su hermoso compañero felino, el chita.",
+{"rt2"},
+},
+},
+},
+linkback="block_00002",
+linknext="block_00004",
+},
+block_00004={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001005",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　Para el león, los tiernos ojos de la gacela,",
+{"rt2"},
+"　　　　　　　　　　　así como su hermoso pelaje, no son de importancia alguna.",
+{"rt2"},
+"　　　　　　Para él, es solo un saco de carne y sangre.",
+{"rt2"},
+},
+},
+},
+linkback="block_00003",
+linknext="block_00005",
+},
+block_00005={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001006",ch="yum"},
+},
+ja={
+{
+"Y por eso,",
+{"rt2"},
+"　　es que él,",
+{"rt2"},
+"　　　　rasgó su hermoso pelaje, quebró su cráneo y se devoró toda su carne.",
+{"rt2"},
+},
+},
+},
+linkback="block_00004",
+linknext="block_00006",
+},
+block_00006={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001007",ch="yum"},
+},
+ja={
+{
+"　　　　La posibilidad de comer plantas nunca existió para él.",
+{"rt2"},
+"　　　　　　　　　　　　　　Su única verdad, lógica y máxima,",
+{"rt2"},
+"　　　　era la de que debía devorar a la más débil, frágil y tierna gacela de aquella hermosa manada.",
+{"rt2"},
+},
+},
+},
+linkback="block_00005",
+linknext="block_00007",
+},
+block_00007={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001008",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　A nadie le parece raro ello.",
+{"rt2"},
+},
+},
+},
+linkback="block_00006",
+linknext="block_00008",
+},
+block_00008={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001009",ch="yum"},
+},
+ja={
+{
+"　　　　　　　Y es que así está dispuesto. Porque es lo obvio,",
+{"rt2"},
+"　　　　　　　　　　　　　y sobre todo, porque es lo natural.",
+{"rt2"},
+},
+},
+},
+linkback="block_00007",
+linknext="block_00009",
+},
+block_00009={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001010",ch="yum"},
+},
+ja={
+{
+"　　　　¿Por qué preferí a las personas de mi propio sexo?",
+{"rt2"},
+},
+},
+},
+linkback="block_00008",
+linknext="block_00010",
+},
+block_00010={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001011",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　　　　Nunca ha habido una razón para ello.",
+{"rt2"},
+},
+},
+},
+linkback="block_00009",
+linknext="block_00011",
+},
+block_00011={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001012",ch="yum"},
+},
+ja={
+{
+"　　Desear a las mujeres ha sido algo natural para mí,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　así como es para los carnívoros devorar la carne de los animales más débiles.",
+{"rt2"},
+},
+},
+},
+linkback="block_00010",
+linknext="block_00012",
+},
+block_00012={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001013",ch="yum"},
+},
+ja={
+{
+"　　　　　Para ",
+{"txruby",text="mí"},
+"el león, ",
+{"txruby"},
+"la opción de ",
+{"txruby",text="amar a un hombre"},
+"comer de las plantas ",
+{"txruby"},
+"nunca existió.",
+{"rt2"},
+"　　　　　　　　　　　　　　Lo más natural era ",
+{"txruby",text="amar"},
+"devorar ",
+{"txruby"},
+"a la más ",
+{"rt2"},
+"　　　　débil, frágil y tierna ",
+{"txruby",text="chica"},
+"gacela ",
+{"txruby"},
+"de la manada.",
+{"rt2"},
+},
+},
+},
+linkback="block_00011",
+linknext="block_00013",
+},
+block_00013={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001014",ch="yum"},
+},
+ja={
+{
+"　　Así soy,",
+{"rt2"},
+"　　　　　　　　　　　　y por eso siempre me han gustado las chicas.",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　No hay razón.",
+{"rt2"},
+},
+},
+},
+linkback="block_00012",
+linknext="block_00014",
+},
+block_00014={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001015",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　¿Cuándo es que habré comenzado a darme cuenta de eso?",
+{"rt2"},
+},
+},
+},
+linkback="block_00013",
+linknext="block_00015",
+},
+block_00015={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001016",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　Ni recuerdo el momento en el que caí en cuenta.",
+{"rt2"},
+},
+},
+},
+linkback="block_00014",
+linknext="block_00016",
+},
+block_00016={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001017",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　Simplemente ha sido así siempre.",
+{"rt2"},
+"　　　　　　　　　　　　Me enamoré de mi maestra del jardín de niños,",
+{"rt2"},
+"　　　　　y llegué a sentir mi pecho latir por las idols en la tele.",
+{"rt2"},
+},
+},
+},
+linkback="block_00015",
+linknext="block_00017",
+},
+block_00017={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001018",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　Me gustan las mujeres.",
+{"rt2"},
+},
+},
+},
+linkback="block_00016",
+linknext="block_00018",
+},
+block_00018={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001019",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Eso es todo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00017",
+linknext="block_00019",
+},
+block_00019={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001020",ch="yum"},
+},
+ja={
+{
+"Y aun así, parece que la sociedad no ve eso con buenos ojos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00018",
+linknext="block_00020",
+},
+block_00020={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001021",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　Me da igual. No me importa cómo me vean.",
+{"rt2"},
+},
+},
+},
+linkback="block_00019",
+linknext="block_00021",
+},
+block_00021={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001022",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　Me basta con que me ignoren.",
+{"rt2"},
+},
+},
+},
+linkback="block_00020",
+linknext="block_00022",
+},
+block_00022={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001023",ch="yum"},
+},
+ja={
+{
+"Pero ella no es tan tolerante como para ignorar por completo lo que se cruza\nfrente a sus ojos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00021",
+linknext="block_00023",
+},
+block_00023={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001024",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　　　　　El solo hecho de que me pidan razones se me hace incómodo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00022",
+linknext="block_00024",
+},
+block_00024={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001025",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　No tengo razón concreta para amar a las chicas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00023",
+linknext="block_00025",
+},
+block_00025={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001026",ch="yum"},
+},
+ja={
+{
+"Y aun así, me lo preguntan.",
+{"rt2"},
+},
+},
+},
+linkback="block_00024",
+linknext="block_00026",
+},
+block_00026={
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　――¿Por qué?",
+{"rt2"},
+},
+},
+},
+linkback="block_00025",
+linknext="block_00027",
+},
+block_00027={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001027",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　Idiotas, eso es lo que son ustedes.",
+{"rt2"},
+"　　　　　　Idiotas que por ser mayoría y por preferir al sexo opuesto solo pueden pensar en que eso es lo natural,",
+{"rt2"},
+"　y que así debe ser.",
+{"rt2"},
+},
+},
+},
+linkback="block_00026",
+linknext="block_00028",
+},
+block_00028={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001028",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　En sus cabezas no hay ni una pizca de creatividad o capacidad para imaginar.",
+{"rt2"},
+"　　　　Dicen ser dueños de la verdad, solo porque así son ellos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00027",
+linknext="block_00029",
+},
+block_00029={
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　――Me dan náuseas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00028",
+linknext="block_00030",
+},
+block_00030={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001029",ch="yum"},
+},
+ja={
+{
+"En particular, se me ponen los pelos de punta cuando escucho venir de los\nhombres esa dichosa pregunta.",
+{"rt2"},
+},
+},
+},
+linkback="block_00029",
+linknext="block_00031",
+},
+block_00031={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001030",ch="yum"},
+},
+ja={
+{
+"Un poco de imaginación, solo eso necesitan ellos para entenderme.",
+{"rt2"},
+},
+},
+},
+linkback="block_00030",
+linknext="block_00032",
+},
+block_00032={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001031_1",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　Ese olor que te pone la piel de gallina.",
+{"rt2"},
+},
+},
+},
+linkback="block_00031",
+linknext="block_00033",
+},
+block_00033={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001031_2",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　Esas bruscas manos, que parecieran haber sido hechas amasando barro.",
+{"rt2"},
+},
+},
+},
+linkback="block_00032",
+linknext="block_00034",
+},
+block_00034={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001032",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　Ese horrendo cuerpo de rizado pelaje parecido al vello púbico.",
+{"rt2"},
+},
+},
+},
+linkback="block_00033",
+linknext="block_00035",
+},
+block_00035={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001033",ch="yum"},
+},
+ja={
+{
+"Imagínense lo que sería ser violada por un cuerpo así.",
+{"rt2"},
+},
+},
+},
+linkback="block_00034",
+linknext="block_00036",
+},
+block_00036={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001034",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　Al menos yo no podría aguantarlo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00035",
+linknext="block_00037",
+},
+block_00037={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001035",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　Ser poseída por un hombre es para mí... eso.",
+{"rt2"},
+},
+},
+},
+linkback="block_00036",
+linknext="block_00038",
+},
+block_00038={
+{"bgm",stop=1,time=2000},
+{"bg",file="ev_txt_c10_01",time=1500,path=":ev/ev_txt_c10/",set="ev_txt_c10"},
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　――Volvamos a la historia――",
+{"rt2"},
+},
+},
+},
+linkback="block_00037",
+linknext="block_00039",
+},
+block_00039={
+{"bg",time=2000,file="black",path=":bg/"},
+{"ex",time=1000,func="wait"},
+{"msgoff"},
+{"bg",file="ev_uni_c52_01_bg",id=1,lv=1,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_02_shizuku",id=2,lv=2,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"extrans",time=3000,sync=1},
+{"se",id=5,file="kazenari"},
+{"se",id=2,file="se_saku_up"},
+{"bg",file="ev_uni_c52_04_saku",id=4,lv=4,y=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",y2=800,sync=0},
+{"extrans",time=0},
+{"se",id=1,file="se_leaf"},
+{"bg",file="ev_uni_c52_03_tree",id=3,lv=3,x=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",x2=-2000,sync=0},
+{"bg",file="ev_uni_c52_05_hana",id=5,lv=5,x=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",x2=-2000,sync=0},
+{"bg",file="ev_uni_c52_08_rina",id=8,lv=8,x=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",x2=2000,sync=0},
+{"extrans",time=0},
+{"bg",file="ev_uni_c52_10_tare",id=10,lv=10,y=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",y2=-500},
+{"bg",file="ev_uni_c52_11_maku",id=11,lv=11,y=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",y2=-1000},
+{"ex",time=3800,func="wait"},
+{"se",id=3,file="se_saku_stop"},
+{"se",stop=1,id=5,time=500},
+{"bgm",file="bgm038"},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001036",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　La primera vez que vi a Rina fue cuando ambas éramos aún niñas pequeñas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00038",
+linknext="block_00040",
+},
+block_00040={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001037",ch="yum"},
+},
+ja={
+{
+"La Rina que vi en aquel salón,",
+{"rt2"},
+"sobresalía en belleza,　　　aun entre todas las muchachas lindas,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　y era además tranquila, serena y delicada.",
+{"rt2"},
+},
+},
+},
+linkback="block_00039",
+linknext="block_00041",
+},
+block_00041={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001038",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　Rina Hikawa.",
+{"rt2"},
+},
+},
+},
+linkback="block_00040",
+linknext="block_00042",
+},
+block_00042={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001039",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　Mi instinto me dijo...",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　que me enamoraría de ella.",
+{"rt2"},
+},
+},
+},
+linkback="block_00041",
+linknext="block_00043",
+},
+block_00043={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001040",ch="yum"},
+},
+ja={
+{
+"Y por eso",
+{"rt2"},
+"　　　la odiaba y la evitaba.",
+{"rt2"},
+},
+},
+},
+linkback="block_00042",
+linknext="block_00044",
+},
+block_00044={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001041",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Vaya que es cierto lo que dicen del amor y el odio.",
+{"rt2"},
+"　　　　　　　　　　",
+{"txruby",text=""},
+"Son ",
+{"txruby"},
+"dos caras de la misma moneda.",
+{"rt2"},
+},
+},
+},
+linkback="block_00043",
+linknext="block_00045",
+},
+block_00045={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001042",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"A medida que mis sentimientos crecían,　　　　　　　mi odio por ella se intensificaba.",
+{"rt2"},
+},
+},
+},
+linkback="block_00044",
+linknext="block_00046",
+},
+block_00046={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001043",ch="yum"},
+},
+ja={
+{
+"Ella evitaba en todo momento la luz del sol.",
+{"rt2"},
+},
+},
+},
+linkback="block_00045",
+linknext="block_00047",
+},
+block_00047={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001044",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Incluso se traía la sombrilla al colegio.",
+{"rt2"},
+},
+},
+},
+linkback="block_00046",
+linknext="block_00048",
+},
+block_00048={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001045",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"En verano o en invierno, llevaba siempre ropa blanca.",
+{"rt2"},
+},
+},
+},
+linkback="block_00047",
+linknext="block_00049",
+},
+block_00049={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001046",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　La odiaba. Odiaba la chica que ella era.",
+{"rt2"},
+},
+},
+},
+linkback="block_00048",
+linknext="block_00050",
+},
+block_00050={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001047",ch="yum"},
+},
+ja={
+{
+"Esa Hikawa-san, que debajo del cielo azul de verano,",
+{"rt2"},
+"　　　　　　　estaba allí parada,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　con su sombrilla y su vestido blanco.",
+{"rt2"},
+},
+},
+},
+linkback="block_00049",
+linknext="block_00051",
+},
+block_00051={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001048",ch="yum"},
+},
+ja={
+{
+"Esa Hikawa-san,　　　　　　　　　　　　　　　　　　　　　con su abrigo blanco y su bufanda blanca con pompones",
+{"rt2"},
+"viendo al cielo mientras caía la nieve en invierno.",
+{"rt2"},
+},
+},
+},
+linkback="block_00050",
+linknext="block_00052",
+},
+block_00052={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001049",ch="yum"},
+},
+ja={
+{
+"Probablemente yo sospechaba, inconscientemente,",
+{"rt2"},
+"que su ropa blanca dejaba reflejar la luz del sol,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　dando la ilusión de que brillaba.",
+{"rt2"},
+},
+},
+},
+linkback="block_00051",
+linknext="block_00053",
+},
+block_00053={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001050",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　Y por ser algo inconsciente,　　　en todo momento me irritaba, sin entender el porqué.",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　Gracias a eso fui odiándola cada vez más.",
+{"rt2"},
+},
+},
+},
+linkback="block_00052",
+linknext="block_00054",
+},
+block_00054={
+{"msgoff"},
+{"bg",file="ev_uni_c52_06_shine",id=6,lv=6,time=10000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52"},
+{"bg",file="ev_uni_c52_07_animal",id=7,lv=7,x=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",x2=-2000},
+{"bg",file="ev_uni_c52_09_yuri",id=9,lv=9,y=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",y2=800},
+{"ex",time=5000,func="wait"},
+{"cgact",file=":cg/cg_ev_uni_c52/ev_uni_c52_07_animal",id=7,lv=7,act="いいえ",loop=-1,time=1500,size=3,x=0},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001051",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　Hikawa-san estaba siempre en el centro de todos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00053",
+linknext="block_00055",
+},
+block_00055={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001052",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　Era particularmente querida por las muchachas del salón,",
+{"rt2"},
+"　　pareciendo casi una hermosa ave entremezclada entre manadas de herbívoros.",
+{"rt2"},
+},
+},
+},
+linkback="block_00054",
+linknext="block_00056",
+},
+block_00056={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001053",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　Incontables veces escuché el canto de esa hermosa ave",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　entre los chillidos de esas criaturas herbívoras.",
+{"rt2"},
+},
+},
+},
+linkback="block_00055",
+linknext="block_00057",
+},
+block_00057={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001054",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Los humanos son seres sucios.　　　Adoran lo hermoso y desprecian lo feo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00056",
+linknext="block_00058",
+},
+block_00058={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001055",ch="yum"},
+},
+ja={
+{
+"　Esa es,",
+{"rt2"},
+"　　probablemente,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　la simple y tonta razón por la cual las muchachas adoraban a Hikawa-san.",
+{"rt2"},
+},
+},
+},
+linkback="block_00057",
+linknext="block_00059",
+},
+block_00059={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001056",ch="yum"},
+},
+ja={
+{
+"Sin embargo, después escuché",
+{"rt2"},
+"　　　　　　　que Hikawa-san era además inteligente,",
+{"rt2"},
+"　　　　amable, comprensiva,　　　　y que escuchaba atentamente a los demás.",
+{"rt2"},
+},
+},
+},
+linkback="block_00058",
+linknext="block_00060",
+},
+block_00060={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001057",ch="yum"},
+},
+ja={
+{
+"Su personalidad era también de elogiar.",
+{"rt2"},
+},
+},
+},
+linkback="block_00059",
+linknext="block_00061",
+},
+block_00061={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001058",ch="yum"},
+},
+ja={
+{
+"Sin embargo, para mí,　　　　　　　",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　en ese entonces su personalidad no era de importancia alguna.",
+{"rt2"},
+},
+},
+},
+linkback="block_00060",
+linknext="block_00062",
+},
+block_00062={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001059",ch="yum"},
+},
+ja={
+{
+"No me hubiera importado",
+{"rt2"},
+"que fuese solo un robot. Un aparato repleto de tuercas, resortes y motores adentro.",
+{"rt2"},
+},
+},
+},
+linkback="block_00061",
+linknext="block_00063",
+},
+block_00063={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001060",ch="yum"},
+},
+ja={
+{
+"No importa que",
+{"rt2"},
+"en lugar de corazón　　　　solo tenga un hueco adentro.",
+{"rt2"},
+"Con que pudiera procesar la información externa con sus tuercas y resortes me basta. Así lo veía yo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00062",
+linknext="block_00064",
+},
+block_00064={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001061",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　Hikawa-san no necesita corazón alguno.",
+{"rt2"},
+},
+},
+},
+linkback="block_00063",
+linknext="block_00065",
+},
+block_00065={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001062",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Solo necesita su hermoso exterior, y un interior vacío.",
+{"rt2"},
+},
+},
+},
+linkback="block_00064",
+linknext="block_00066",
+},
+block_00066={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001063",ch="yum"},
+},
+ja={
+{
+"El hombre es una criatura repugnante,",
+{"rt2"},
+"　　　　　　　que prefiere lo bello,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　y detesta lo feo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00065",
+linknext="block_00067",
+},
+block_00067={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001064",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　Yo también soy como todos ellos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00066",
+linknext="block_00068",
+},
+block_00068={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001065",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　Mi sensibilidad estética deseaba que en Hikawa-san no existiera nada.",
+{"rt2"},
+},
+},
+},
+linkback="block_00067",
+linknext="block_00069",
+},
+block_00069={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001066",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Y mientras pensaba eso distraída,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　nos miramos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00068",
+linknext="block_00070",
+},
+block_00070={
+{"cgdel",id=-1},
+{"bg",time=1500,file="black",path=":bg/"},
+{"ex",time=500,func="wait"},
+{"bg",file="ev_txt_c07_01",time=2000,path=":ev/ev_txt_c07/",set="ev_txt_c07"},
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　――Modulación――",
+{"rt2"},
+},
+},
+},
+linkback="block_00069",
+linknext="block_00071",
+},
+block_00071={
+{"bg",file="ev_txt_c12_01",time=2000,path=":ev/ev_txt_c12/",set="ev_txt_c12"},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001067",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　Un cierto día.",
+{"rt2"},
+},
+},
+},
+linkback="block_00070",
+linknext="block_00072",
+},
+block_00072={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001068",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　Un cierto día, tan normal como los otros...",
+{"rt2"},
+"　　　　　　（A pesar de la descripción, aún\nrecuerdo la fecha y la hora de cuando sucedió）",
+{"rt2"},
+},
+},
+},
+linkback="block_00071",
+linknext="block_00073",
+},
+block_00073={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001069",ch="yum"},
+},
+ja={
+{
+"　　　　Ella me sonrió.",
+{"rt2"},
+"　　　　　　　　　　　　　　A mí, la más lejana en el salón.",
+{"rt2"},
+},
+},
+},
+linkback="block_00072",
+linknext="block_00074",
+},
+block_00074={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001070",ch="yum"},
+},
+ja={
+{
+"Por un momento no supe qué estaba pasando,　",
+{"rt2"},
+"　　　　　　　　　　　　　　pero al darme cuenta, tenía en mi boca una boba sonrisa.",
+{"rt2"},
+},
+},
+},
+linkback="block_00073",
+linknext="block_00075",
+},
+block_00075={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001071",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　　　Sonreí de una manera horripilante.",
+{"rt2"},
+},
+},
+},
+linkback="block_00074",
+linknext="block_00076",
+},
+block_00076={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001072",ch="yum"},
+},
+ja={
+{
+"Fue tanta la vergüenza en ese instante",
+{"rt2"},
+"　　　　　que no aguanté más,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　y pateé con todas mis fuerzas mi escritorio.",
+{"rt2"},
+},
+},
+},
+linkback="block_00075",
+linknext="block_00077",
+},
+block_00077={
+{"se",file="se_attack07",id=1},
+{"quake",mode="mw"},
+{"ex",time=1000,func="wait"},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001073",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　Se llevó consigo la silla de enfrente, y chocó con el escritorio de la persona delante.",
+{"rt2"},
+},
+},
+},
+linkback="block_00076",
+linknext="block_00078",
+},
+block_00078={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001074",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　El ruido hizo que el bullicioso salón se silenciara.",
+{"rt2"},
+},
+},
+},
+linkback="block_00077",
+linknext="block_00079",
+},
+block_00079={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001075_2",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　-Eh, pero qué miedo- dijeron los chicos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00078",
+linknext="block_00080",
+},
+block_00080={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001076",ch="yum"},
+},
+ja={
+{
+"Miedo me da la torpeza de ustedes, pensé.",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　Pero al decir eso, los del salón sumergieron en sus carcajadas el lugar.",
+{"rt2"},
+},
+},
+},
+linkback="block_00079",
+linknext="block_00081",
+},
+block_00081={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001077",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　Enfurecida, me paré e intenté salir del salón.",
+{"rt2"},
+},
+},
+},
+linkback="block_00080",
+linknext="block_00082",
+},
+block_00082={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001078",ch="yum"},
+},
+ja={
+{
+"-¿Vas al baño?　Yo también voy,　te acompaño.",
+{"rt2"},
+"　　　-Ah, cierto, casi lo olvidaba. Kawachino, ¿tú no usas el mismo baño que nosotros, verdad?",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　Así dijo uno de ellos, y le di un puñetazo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00081",
+linknext="block_00083",
+},
+block_00083={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001079",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　El muchacho cayó de manera aun más estrepitosa que la propia mesa,",
+{"rt2"},
+"　　　　　　　　　pero aun así los chicos seguían riéndose a carcajadas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00082",
+linknext="block_00084",
+},
+block_00084={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001080",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　Las chicas se me quedaron viendo, como si fuera una especie de monstruo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00083",
+linknext="block_00085",
+},
+block_00085={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001081",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　No pude ver a Hikawa-san a la cara.",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　Salí corriendo del salón, huyendo de ella.",
+{"rt2"},
+},
+},
+},
+linkback="block_00084",
+linknext="block_00086",
+},
+block_00086={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001082",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　Después de clases ese día,",
+{"rt2"},
+"　　　　　　　mientras inflaba un chicle en el patio trasero,",
+{"rt2"},
+"　　　　　　　　　　los muchachos del salón se reunieron a mi alrededor.",
+{"rt2"},
+},
+},
+},
+linkback="block_00085",
+linknext="block_00087",
+},
+block_00087={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001083",ch="yum"},
+},
+ja={
+{
+"Y al acordonarme,",
+{"rt2"},
+"　　　　　　　　　　uno de ellos dijo, sin más preámbulo,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　'¿Por qué no desnudamos a Hikawa?'.",
+{"rt2"},
+},
+},
+},
+linkback="block_00086",
+linknext="block_00088",
+},
+block_00088={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001084",ch="yum"},
+},
+ja={
+{
+"Al responderle con una feroz mirada, este contestó, acobardado:",
+{"rt2"},
+"　　　　'S-Solo lo digo porque no pareciera caerte muy bien.",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　La vez pasada pasó algo así, ¿no?'.",
+{"rt2"},
+},
+},
+},
+linkback="block_00087",
+linknext="block_00089",
+},
+block_00089={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001085",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　Sí, ciertamente sucedió algo similar hace un tiempo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00088",
+linknext="block_00090",
+},
+block_00090={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001086",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　Pero aquella vez simplemente le quitamos la ropa, frente a todos, a una muchacha de último año que no paraba de hacer lo que le daba la gana.",
+{"rt2"},
+},
+},
+},
+linkback="block_00089",
+linknext="block_00091",
+},
+block_00091={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001087",ch="yum"},
+},
+ja={
+{
+"Los de último año me molieron a golpes,",
+{"rt2"},
+"　　　　　　　　　　　　y el que tengo enfrente, Tsuyoshi, tiene costillas fracturadas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00090",
+linknext="block_00092",
+},
+block_00092={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001088",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　Si fuera otro caso, semejante revuelta hubiera terminado causando una gran conmoción en el colegio.",
+{"rt2"},
+},
+},
+},
+linkback="block_00091",
+linknext="block_00093",
+},
+block_00093={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001089",ch="yum"},
+},
+ja={
+{
+"Sin embargo, nunca llegamos a dejar escapar una sola palabra respecto al asunto--",
+{"rt2"},
+"(Acordamos en decir que lo de Tsuyoshi fue por haberse caído en una alcantarilla)　　",
+{"rt2"},
+"　　　　　　　　　　Por otro lado, fue tanta la humillación que recibieron los de último año que sencillamente no pudieron decir nada.",
+{"rt2"},
+},
+},
+},
+linkback="block_00092",
+linknext="block_00094",
+},
+block_00094={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001090",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　Estando en guerra con los de último año, el castigo que les dimos fue justo y adecuado.",
+{"rt2"},
+},
+},
+},
+linkback="block_00093",
+linknext="block_00095",
+},
+block_00095={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001091",ch="yum"},
+},
+ja={
+{
+"Fue nuestra justa venganza contra ellos,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　en represalia por tantos años de injusta opresión contra sus inferiores.",
+{"rt2"},
+},
+},
+},
+linkback="block_00094",
+linknext="block_00096",
+},
+block_00096={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001092",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　Estaba convencida de eso.",
+{"rt2"},
+},
+},
+},
+linkback="block_00095",
+linknext="block_00097",
+},
+block_00097={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001093",ch="yum"},
+},
+ja={
+{
+"Sin embargo, basta con indagar bien para darse cuenta...",
+{"rt2"},
+"　　　De que tal vez solo lo hicimos para saciar nuestra lujuria.",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　De la misma manera que el país ganador de una guerra solicita su recompensa al perdedor.",
+{"rt2"},
+},
+},
+},
+linkback="block_00096",
+linknext="block_00098",
+},
+block_00098={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001094",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　El frenesí del combate.",
+{"rt2"},
+"　　　　　Fue quizás esa anormal circunstancia",
+{"txruby",text=""},
+"los que nos sumió",
+{"txruby"},
+"en ese placer.",
+{"rt2"},
+},
+},
+},
+linkback="block_00097",
+linknext="block_00099",
+},
+block_00099={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001095",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　Recuerdo bien el momento en que los hombres, tras yo dar la orden, le arrancaron la ropa a esa chica.",
+{"rt2"},
+},
+},
+},
+linkback="block_00098",
+linknext="block_00100",
+},
+block_00100={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001096",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Y cómo sus pantalones se hinchaban mientras lo hacían.",
+{"rt2"},
+},
+},
+},
+linkback="block_00099",
+linknext="block_00101",
+},
+block_00101={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001097",ch="yum"},
+},
+ja={
+{
+"'Todos los hombres son unas sabandijas', pensé.",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　　No, traté de convencerme a mí misma de eso.",
+{"rt2"},
+},
+},
+},
+linkback="block_00100",
+linknext="block_00102",
+},
+block_00102={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001098",ch="yum"},
+},
+ja={
+{
+"Y es que en si en ese momento",
+{"rt2"},
+"　　　　　　　yo hubiese tenido",
+{"txruby",text=""},
+"un miembro,",
+{"txruby"},
+"probablemente estaría",
+{"rt2"},
+"　　　　　　　　　　erecto con fuerza por debajo de mi falda.",
+{"rt2"},
+},
+},
+},
+linkback="block_00101",
+linknext="block_00103",
+},
+block_00103={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001099",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　Y seguramente más grande, caliente y duro que cualquiera de los otros allí.",
+{"rt2"},
+},
+},
+},
+linkback="block_00102",
+linknext="block_00104",
+},
+block_00104={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001100",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　Quizás hubiera eyaculado viendo a aquella muchacha de último año,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　golpeada, desesperanzada, aterrorizada y despojada de toda ropa.",
+{"rt2"},
+},
+},
+},
+linkback="block_00103",
+linknext="block_00105",
+},
+block_00105={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001101",ch="yum"},
+},
+ja={
+{
+"Considerando el estado de mi ropa interior después de desnudarla,",
+{"rt2"},
+"　　　　　　　　　　　no hay que negar que es una teoría muy convincente.",
+{"rt2"},
+},
+},
+},
+linkback="block_00104",
+linknext="block_00106",
+},
+block_00106={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001102",ch="yum"},
+},
+ja={
+{
+"Esos sexuales, masculinos, violentos y explotadores impulsos,",
+{"rt2"},
+"　　　　　　　que yacen dentro de mí.",
+{"rt2"},
+"　　　　　　　　　　　Fue todo eso lo que me llevo, tal vez, a cometer tal desmán.",
+{"rt2"},
+},
+},
+},
+linkback="block_00105",
+linknext="block_00107",
+},
+block_00107={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001103",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　Fue entonces que conocimos el sabor de ese placer.",
+{"rt2"},
+},
+},
+},
+linkback="block_00106",
+linknext="block_00108",
+},
+block_00108={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001104",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Ese placer que nos hacía inflar desmesuradamente nuestros deseos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00107",
+linknext="block_00109",
+},
+block_00109={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001105",ch="yum"},
+},
+ja={
+{
+"Quizás, si todo hubiese ocurrido unos años después,",
+{"rt2"},
+"en medio de ese choque inevitable con nuestros impulsos sexuales conocido como pubertad,",
+{"rt2"},
+"tal vez las cosas se hubieran calmado mucho más fácilmente de lo esperado.",
+{"rt2"},
+},
+},
+},
+linkback="block_00108",
+linknext="block_00110",
+},
+block_00110={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001106",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　Dicen que los penes, al frotarlos y estrujarlos por unos minutos, eyaculan,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　haciendo posible acabar de manera sencilla con esos impulsos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00109",
+linknext="block_00111",
+},
+block_00111={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001107",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Sin embargo, eramos aún muy jóvenes,",
+{"rt2"},
+"　　　　　y terminamos cargando, aún en plena infancia, esos peculiares impulsos previos a la pubertad.",
+{"rt2"},
+},
+},
+},
+linkback="block_00110",
+linknext="block_00112",
+},
+block_00112={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001108",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　Es por eso, seguramente, que están tratando ahora de recrear esa misma situación y saborear de nuevo ese placer.",
+{"rt2"},
+},
+},
+},
+linkback="block_00111",
+linknext="block_00113",
+},
+block_00113={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001109",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　Para ellos, ya no es necesaria ninguna causa justa por la cual luchar.",
+{"rt2"},
+},
+},
+},
+linkback="block_00112",
+linknext="block_00114",
+},
+block_00114={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001110",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　Lo único que los mueve ahora es ese deseo,",
+{"rt2"},
+"　　　　　　　　　　ese impulso libidinoso de querer desnudar a esa hermosa chica y profanar todo lo que su ropa oculta.",
+{"rt2"},
+},
+},
+},
+linkback="block_00113",
+linknext="block_00115",
+},
+block_00115={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001111",ch="yum"},
+},
+ja={
+{
+"Me cabrean.",
+{"rt2"},
+},
+},
+},
+linkback="block_00114",
+linknext="block_00116",
+},
+block_00116={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001112",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Me dan náuseas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00115",
+linknext="block_00117",
+},
+block_00117={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001113",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Escupo el chicle a un lado.",
+{"rt2"},
+},
+},
+},
+linkback="block_00116",
+linknext="block_00118",
+},
+block_00118={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001114",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　-No es que odie a Hikawa-san...",
+{"rt2"},
+},
+},
+},
+linkback="block_00117",
+linknext="block_00119",
+},
+block_00119={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001115",ch="yum"},
+},
+ja={
+{
+"　　Por un instante, los rostros de todos se congelaron.",
+{"rt2"},
+},
+},
+},
+linkback="block_00118",
+linknext="block_00120",
+},
+block_00120={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001116",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　　　Y sus ojos brillaron tras escuchar lo que dije.",
+{"rt2"},
+},
+},
+},
+linkback="block_00119",
+linknext="block_00121",
+},
+block_00121={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001117",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　-Pero, me parece una insolente...",
+{"rt2"},
+},
+},
+},
+linkback="block_00120",
+linknext="block_00122",
+},
+block_00122={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001118",ch="yum"},
+},
+ja={
+{
+"'¿A que no? Las mujeres sufrieron por largo tiempo del acoso de los de último año, ¿lo recuerdan?",
+{"rt2"},
+"¿Acaso no fuimos nosotros los que terminaron con eso?",
+{"rt2"},
+"¿Por qué no nos felicitaron?'",
+{"rt2"},
+},
+},
+},
+linkback="block_00121",
+linknext="block_00123",
+},
+block_00123={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001119",ch="yum"},
+},
+ja={
+{
+"Felicitarnos sería lo último que pensarían en hacer.",
+{"rt2"},
+"Quizás le tenían rencor a los de último año, pero nosotros fuimos más allá y desnudamos a una de ellas frente a todos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00122",
+linknext="block_00124",
+},
+block_00124={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001120",ch="yum"},
+},
+ja={
+{
+"Y por si fuera poco, amenacé a esa mujer con un cuchillo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00123",
+linknext="block_00125",
+},
+block_00125={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001121",ch="yum"},
+},
+ja={
+{
+"Al recordar eso,",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　el pequeño cuchillo en mi bolsillo se me hizo pesado.",
+{"rt2"},
+},
+},
+},
+linkback="block_00124",
+linknext="block_00126",
+},
+block_00126={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001122",ch="yum"},
+},
+ja={
+{
+"No hay ni una sola compañera de clases que considere bueno lo que hicimos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00125",
+linknext="block_00127",
+},
+block_00127={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001123",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　　　　　　　　　　　Muy al contrario, seguramente muy en el fondo sintieron pena por la chica de último año,",
+{"rt2"},
+"y desprecio y terror por nosotros.",
+{"rt2"},
+},
+},
+},
+linkback="block_00126",
+linknext="block_00128",
+},
+block_00128={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001124",ch="yum"},
+},
+ja={
+{
+"Es algo triste.",
+{"rt2"},
+"　　　　　　　　　Ese particular instinto de mujer que aún quedaba dentro de mí percibía, muy claramente,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　el desprecio que nos tenían ellas.",
+{"rt2"},
+},
+},
+},
+linkback="block_00127",
+linknext="block_00129",
+},
+block_00129={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001125",ch="yum"},
+},
+ja={
+{
+"¿Será por eso?",
+{"rt2"},
+},
+},
+},
+linkback="block_00128",
+linknext="block_00130",
+},
+block_00130={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001126",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"No cabe duda alguna...",
+{"rt2"},
+},
+},
+},
+linkback="block_00129",
+linknext="block_00131",
+},
+block_00131={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001127",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Hikawa-san me gusta.",
+{"rt2"},
+},
+},
+},
+linkback="block_00130",
+linknext="block_00132",
+},
+block_00132={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001128",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　Jamás me permitiría desnudarla frente a todos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00131",
+linknext="block_00133",
+},
+block_00133={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001129",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　Quiero evitarlo a toda costa, aun si eso implica matar a todos los presentes.",
+{"rt2"},
+},
+},
+},
+linkback="block_00132",
+linknext="block_00134",
+},
+block_00134={
+{"bg",file="ev_txt_c02_01",time=2000,path=":ev/ev_txt_c02/",set="ev_txt_c02"},
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　――≠――",
+{"rt2"},
+},
+},
+},
+linkback="block_00133",
+linknext="block_00135",
+},
+block_00135={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001130",ch="yum"},
+},
+ja={
+{
+"Y a pesar de lo que siento...",
+{"rt2"},
+},
+},
+},
+linkback="block_00134",
+linknext="block_00136",
+},
+block_00136={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001131",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　Si de igual manera no puede ser mía...",
+{"rt2"},
+},
+},
+},
+linkback="block_00135",
+linknext="block_00137",
+},
+block_00137={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001132",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　Si de igual manera me odia y me repudia...",
+{"rt2"},
+},
+},
+},
+linkback="block_00136",
+linknext="block_00138",
+},
+block_00138={
+{"bg",time=1500,file="black",path=":bg/"},
+{"ex",time=500,func="wait"},
+{"msgoff"},
+{"bg",file="ev_uni_c52_01_bg",id=1,lv=1,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_02_shizuku",id=2,lv=2,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_03_tree",id=3,lv=3,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_04_saku",id=4,lv=4,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_05_hana",id=5,lv=5,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_08_rina",id=8,lv=8,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_10_tare",id=10,lv=10,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"bg",file="ev_uni_c52_11_maku",id=11,lv=11,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",sync=0},
+{"extrans",time=2000},
+{"ex",time=1000,func="wait"},
+{"msgoff"},
+{"bg",file="ev_uni_c52_06_shine",id=6,lv=6,time=10000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52"},
+{"bg",file="ev_uni_c52_07_animal",id=7,lv=7,x=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",x2=-2000},
+{"bg",file="ev_uni_c52_09_yuri",id=9,lv=9,y=0,speed=5000,path=":cg/cg_ev_uni_c52/",set="cg_ev_uni_c52",y2=800},
+{"ex",time=5000,func="wait"},
+{"cgact",file=":cg/cg_ev_uni_c52/ev_uni_c52_07_animal",id=7,lv=7,act="いいえ",loop=-1,time=1500,size=3,x=0},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001133",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　Si realmente es parte de esa manada,　　　　　inalcanzable para mí...",
+{"rt2"},
+},
+},
+},
+linkback="block_00137",
+linknext="block_00139",
+},
+block_00139={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001134",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　Si es así, entonces prefiero destruirla.",
+{"rt2"},
+},
+},
+},
+linkback="block_00138",
+linknext="block_00140",
+},
+block_00140={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001135",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　Y cuando los impulsos destructivos plagaron mi cabeza,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　recordé su sonrisa.",
+{"rt2"},
+},
+},
+},
+linkback="block_00139",
+linknext="block_00141",
+},
+block_00141={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001136",ch="yum"},
+},
+ja={
+{
+"Esa cálida sonrisa que vi hoy,",
+{"rt2"},
+"es solo un gesto de mera apariencia,",
+{"rt2"},
+"　fabricada por una especie de sistema　　　　similar al de un autómata.",
+{"rt2"},
+},
+},
+},
+linkback="block_00140",
+linknext="block_00142",
+},
+block_00142={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001137",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　En esa muchacha no hay corazón alguno,　　　　y no cabe duda de que esa sonrisa fue solo producto de un simple proceso mecánico.",
+{"rt2"},
+},
+},
+},
+linkback="block_00141",
+linknext="block_00143",
+},
+block_00143={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001138",ch="yum"},
+},
+ja={
+{
+"Esa delirante idea se apoderó de mi cabeza,　　　　　　　　y comenzó a susurrarme,",
+{"rt2"},
+"　　　　　-'Destrúyela'-",
+{"rt2"},
+"　　　　　　　　　　　-'Destrúyela'-　　　　　　　　　　　incitándome.",
+{"rt2"},
+},
+},
+},
+linkback="block_00142",
+linknext="block_00144",
+},
+block_00144={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001139b",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　Solo con colgar desnuda a una muchacha de último año, por la cual no tenía ni la más mínima muestra de interés,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　　experimenté esa gran ola de placer.",
+{"rt2"},
+},
+},
+},
+linkback="block_00143",
+linknext="block_00145",
+},
+block_00145={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001140",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　¿Qué tanto placer podría recibir,",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　　si llegara a hacerle lo mismo a mi amada Hikawa-san?",
+{"rt2"},
+},
+},
+},
+linkback="block_00144",
+linknext="block_00146",
+},
+block_00146={
+{"cgdel",id=-1},
+{"bg",file="black",path=":bg/"},
+{"ex",time=500,func="wait"},
+{"bg",file="ev_txt_c02_01",time=2000,path=":ev/ev_txt_c02/",set="ev_txt_c02"},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001141",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　La castigaré frente a todos...",
+{"rt2"},
+},
+},
+},
+linkback="block_00145",
+linknext="block_00147",
+},
+block_00147={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001142",ch="yum"},
+},
+ja={
+{
+"　　¿Por qué al nacer el león...",
+{"rt2"},
+"　　　　　　　　　　　　　　　　este mató y se comió a la gacela?",
+{"rt2"},
+},
+},
+},
+linkback="block_00146",
+linknext="block_00148",
+},
+block_00148={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001143",ch="yum"},
+},
+ja={
+{
+"La intensa luz del sol da a brillar todo el verde de la sabana.",
+{"rt2"},
+"　　　　　　¿Es que acaso no tuvo la alternativa de alimentarse de todas esas plantas que en ella crecen?",
+{"rt2"},
+},
+},
+},
+linkback="block_00147",
+linknext="block_00149",
+},
+block_00149={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001144",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　Aun así, el león devoró a aquella hermosa gacela.",
+{"rt2"},
+},
+},
+},
+linkback="block_00148",
+linknext="block_00150",
+},
+block_00150={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001145",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　Para el león, los tiernos ojos de la gacela,",
+{"rt2"},
+"　　　　　　　　　　así como su hermoso pelaje, no son de importancia alguna.",
+{"rt2"},
+"　　Para él, ella es solo carne para mascar y tragar, para obtener el placer de\nsaborear la delicia.",
+{"rt2"},
+},
+},
+},
+linkback="block_00149",
+linknext="block_00151",
+},
+block_00151={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001146",ch="yum"},
+},
+ja={
+{
+"だから、",
+{"rt2"},
+"　　　　　　　　　　　　　　　El león solo quiere rasgar el hermoso pelaje de la gacela, quebrar su cráneo,",
+{"rt2"},
+"　　　y saborearla hasta saciarse.",
+{"rt2"},
+},
+},
+},
+linkback="block_00150",
+linknext="block_00152",
+},
+block_00152={
+{"bg",file="ev_txt_c01_01",time=2000,path=":ev/ev_txt_c01/",set="ev_txt_c01"},
+{"text"},
+text={
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　――ZYPRESSEN――",
+{"rt2"},
+},
+},
+},
+linkback="block_00151",
+linknext="block_00153",
+},
+block_00153={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001147",ch="yum"},
+},
+ja={
+{
+"Estaba ahora en el parque, de noche.",
+{"rt2"},
+},
+},
+},
+linkback="block_00152",
+linknext="block_00154",
+},
+block_00154={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001148",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"No tenía razón en particular. Solo no quería ver a nadie.",
+{"rt2"},
+},
+},
+},
+linkback="block_00153",
+linknext="block_00155",
+},
+block_00155={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001149",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Estaba de cuclillas bajo un oscurecido poste de luz, mascando chicle.",
+{"rt2"},
+},
+},
+},
+linkback="block_00154",
+linknext="block_00156",
+},
+block_00156={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001150",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　En mi bolsillo tenía ese cuchillo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00155",
+linknext="block_00157",
+},
+block_00157={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001151",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　Aquel cuchillo que hizo retorcer de terror a aquella muchacha de último año.",
+{"rt2"},
+},
+},
+},
+linkback="block_00156",
+linknext="block_00158",
+},
+block_00158={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001152",ch="yum"},
+},
+ja={
+{
+"No tenía pensado usarlo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00157",
+linknext="block_00159",
+},
+block_00159={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001153",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Aunque de igual forma me daba miedo estar en el parque de noche.",
+{"rt2"},
+},
+},
+},
+linkback="block_00158",
+linknext="block_00160",
+},
+block_00160={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001154",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Empuñé suavemente el cuchillo dentro de mi bolsillo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00159",
+linknext="block_00161",
+},
+block_00161={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001155",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　Y mientras contemplaba absorta la vista nocturna del lugar--",
+{"rt2"},
+},
+},
+},
+linkback="block_00160",
+linknext="block_00162",
+},
+block_00162={
+{"bg",time=2000,file="black",path=":bg/"},
+{"ex",time=1000,func="wait"},
+{"se",id=3,file="kazenari"},
+{"msgoff"},
+{"bg",file="ev_uni_c53_01_bg",id=1,lv=1,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",sync=0},
+{"bg",file="ev_uni_c53_05_michi",id=5,lv=5,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",sync=0},
+{"extrans",time=3000,sync=1},
+{"se",file="se9028",id=1,loop=1},
+{"bg",file="ev_uni_c53_02_yugu",id=2,lv=2,y=0,speed=3000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",y2=1100,sync=0},
+{"bg",file="ev_uni_c53_07_yuri",id=7,lv=7,y=0,speed=3000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",y2=1100,sync=0},
+{"bg",file="ev_uni_c53_03_moon",id=3,lv=3,y=0,speed=3000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",y2=-600,sync=0},
+{"bg",file="ev_uni_c53_04_star",id=4,lv=4,y=0,speed=3000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",y2=-600,sync=0},
+{"extrans",time=3000,sync=1},
+{"ex",time=2000,func="wait"},
+{"bg",file="ev_uni_c53_06_rina",id=6,lv=6,x=0,y=0,speed=10000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",x2=1000,y2=600,sync=0},
+{"bg",file="ev_uni_c53_08_maku",id=8,lv=8,y=0,speed=10000,path=":cg/cg_ev_uni_c53/",set="cg_ev_uni_c53",y2=-1100,sync=0},
+{"extrans",time=0},
+{"ex",time=10000,func="wait"},
+{"se",stop=1,id=1,time=500},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001156",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　Por un instante,",
+{"rt2"},
+"　　　　　　　　　　　Mis ojos captaron algo blanco desaparecer en el bosque de cipreses.",
+{"rt2"},
+},
+},
+},
+linkback="block_00161",
+linknext="block_00163",
+},
+block_00163={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001157",ch="yum"},
+},
+ja={
+{
+"Mi corazón dio un fuerte sobresalto.",
+{"rt2"},
+},
+},
+},
+linkback="block_00162",
+linknext="block_00164",
+},
+block_00164={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001158",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Sentí algo de calor en la mano con la que empuñaba mi cuchillo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00163",
+linknext="block_00165",
+},
+block_00165={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001159",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　¿Un fantasma?",
+{"rt2"},
+},
+},
+},
+linkback="block_00164",
+linknext="block_00166",
+},
+block_00166={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001160",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　Fue lo primero que mi intuición me llevó a pensar.",
+{"rt2"},
+},
+},
+},
+linkback="block_00165",
+linknext="block_00167",
+},
+block_00167={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001161",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　Y es que vi algo que, de no ser un fantasma, sería imposible de explicar.",
+{"rt2"},
+},
+},
+},
+linkback="block_00166",
+linknext="block_00168",
+},
+block_00168={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001162",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　　Mi cara se palideció, y mis piernas se paralizaron.",
+{"rt2"},
+},
+},
+},
+linkback="block_00167",
+linknext="block_00169",
+},
+block_00169={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001163",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　Comencé a sudar frío, y mi boca a temblar, haciendo sonar mis dientes.",
+{"rt2"},
+},
+},
+},
+linkback="block_00168",
+linknext="block_00170",
+},
+block_00170={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001164",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　Pero al instante comprendí lo que pasaba, y lo ridículo de mi idea me enfadó.",
+{"rt2"},
+},
+},
+},
+linkback="block_00169",
+linknext="block_00171",
+},
+block_00171={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001165",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　Los fantasmas no existen... Es absurdo pensar eso.",
+{"rt2"},
+},
+},
+},
+linkback="block_00170",
+linknext="block_00172",
+},
+block_00172={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001166",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　Volví a empuñar de nuevo el cuchillo, con mi mano enfriándose ahora.",
+{"rt2"},
+},
+},
+},
+linkback="block_00171",
+linknext="block_00173",
+},
+block_00173={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001167",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　'¿Los fantasmas se podrán matar?'",
+{"rt2"},
+},
+},
+},
+linkback="block_00172",
+linknext="block_00174",
+},
+block_00174={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001168",ch="yum"},
+},
+ja={
+{
+"　　Pensando en esas ideas vagas",
+{"rt2"},
+"　　　　　　　　　　　　　　　entré al tenebroso bosque de cipreses.",
+{"rt2"},
+},
+},
+},
+linkback="block_00173",
+linknext="block_00175",
+},
+block_00175={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001169",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Doblados y encorvados, los cipreses parecían llamas negras ascendiendo al cielo.",
+{"rt2"},
+"Por un momento pensé que el bosque no tendría fin alguno, pero la travesía terminó bastante rápido, logré atravesarlo en menos de un minuto.",
+{"rt2"},
+},
+},
+},
+linkback="block_00174",
+linknext="block_00176",
+},
+block_00176={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001170",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　Al salir, me encontré con juegos de parque destartalados.",
+{"rt2"},
+},
+},
+},
+linkback="block_00175",
+linknext="block_00177",
+},
+block_00177={
+{"cgdel",id=-1},
+{"bg",file="black",path=":bg/"},
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001171",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　No sabía que existía este lugar dentro del parque...",
+{"rt2"},
+},
+},
+},
+linkback="block_00176",
+linknext="block_00178",
+},
+block_00178={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001172",ch="yum"},
+},
+ja={
+{
+"Al tocar uno de los instrumentos de juego, este soltó un chirrido.",
+{"rt2"},
+},
+},
+},
+linkback="block_00177",
+linknext="block_00179",
+},
+block_00179={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001173",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Por encima de los juegos titilaban unas cuantas lámparas, tan débilmente que podrían apagarse en cualquier momento.",
+{"rt2"},
+},
+},
+},
+linkback="block_00178",
+linknext="block_00180",
+},
+block_00180={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001174",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Era justamente la clase de lugar tétrico donde solo podría venir un vagabundo, un criminal o un fantasma.",
+{"rt2"},
+},
+},
+},
+linkback="block_00179",
+linknext="block_00181",
+},
+block_00181={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001175",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　Estuve a punto de irme de allí...",
+{"rt2"},
+},
+},
+},
+linkback="block_00180",
+linknext="block_00182",
+},
+block_00182={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001176",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　Pero...",
+{"rt2"},
+},
+},
+},
+linkback="block_00181",
+linknext="block_00183",
+},
+block_00183={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001177",ch="yum"},
+},
+ja={
+{
+name={"Yuumi"},
+"“¿Un fantasma?”",
+{"rt2"},
+},
+},
+},
+linkback="block_00182",
+linknext="block_00184",
+},
+block_00184={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001178",ch="yum"},
+},
+ja={
+{
+"Pude ver algo blanco moverse",
+{"txruby",text=""},
+"dentro de",
+{"txruby"},
+"una espeluznante semiesfera negra cubierta de huecos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00183",
+linknext="block_00185",
+},
+block_00185={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001179",ch="yum"},
+},
+ja={
+{
+name={"Yuumi"},
+"“Eso es...”",
+{"rt2"},
+},
+},
+},
+linkback="block_00184",
+linknext="block_00186",
+},
+block_00186={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001180",ch="yum"},
+},
+ja={
+{
+"La tétrica semiesfera negra era en realidad un viejo y descolorado domo perteneciente al parque.",
+{"rt2"},
+},
+},
+},
+linkback="block_00185",
+linknext="block_00187",
+},
+block_00187={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001181",ch="yum"},
+},
+ja={
+{
+"Y además, al verlo de cerca me di cuenta de que lo negro era en realidad rojo, solo que la oscuridad lo había hecho parecer negro oscuro.",
+{"rt2"},
+},
+},
+},
+linkback="block_00186",
+linknext="block_00188",
+},
+block_00188={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001182",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　　　Y en lo que llegué a esa conclusión, la cosa blanca volvió a estremecerse.",
+{"rt2"},
+},
+},
+},
+linkback="block_00187",
+linknext="block_00189",
+},
+block_00189={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001183",ch="yum"},
+},
+ja={
+{
+name={"Yuumi"},
+"“No es un fantasma...”",
+{"rt2"},
+},
+},
+},
+linkback="block_00188",
+linknext="block_00190",
+},
+block_00190={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001184",ch="yum"},
+},
+ja={
+{
+"Empuñé fuertemente el cuchillo en mi bolsillo y me acerqué al domo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00189",
+linknext="block_00191",
+},
+block_00191={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001185",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"Me acerco silenciando mis pasos.",
+{"rt2"},
+},
+},
+},
+linkback="block_00190",
+linknext="block_00192",
+},
+block_00192={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001186",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+" ",
+{"rt2"},
+"Y entonces, una figura blanca salió de repente del domo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00191",
+linknext="block_00193",
+},
+block_00193={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001187",ch="yum"},
+},
+ja={
+{
+"　　　　　　　　　La silueta blanca tenía algo en la mano.",
+{"rt2"},
+"　　　　　　　　　　Ese algo parecía soltar un brillo blanco. El brillo de una hoja filosa.",
+{"rt2"},
+},
+},
+},
+linkback="block_00192",
+linknext="block_00194",
+},
+block_00194={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001188",ch="yum"},
+},
+ja={
+{
+"Sentí un escalofrío correr por mi cuerpo.",
+{"rt2"},
+" ",
+{"rt2"},
+"　　　　　　　　　　　　　　　　　　　Traté de sacar mi cuchillo, pero el sudor hizo que se resbalara.",
+{"rt2"},
+},
+},
+},
+linkback="block_00193",
+linknext="block_00195",
+},
+block_00195={
+{"text"},
+text={
+vo={
+{"vo",file="fem_yum_001189",ch="yum"},
+},
+ja={
+{
+" ",
+{"rt2"},
+"　　　　　　　　　Fue entonces que la persona que llevaba esa terrorífica cosa en la mano dijo algo.",
+{"rt2"},
+},
+},
+},
+linkback="block_00194",
+linknext="block_00196",
+},
+block_00196={
+{"excall",file="03_zypressen_02_3"},
+{"text"},
+linkback="block_00195",
+},
+label = {
+top={block="block_00000",label=1},
+},
+}
