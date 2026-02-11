@@ -49,7 +49,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"Ah, Hikawa-san, ¿estás libre hoy después de clases? Acompáñanos un rato de vez\nen cuando.",
+"“Ah, Hikawa-san, ¿estás libre hoy después de clases? Acompáñanos un rato de vez\nen cuando.”",
 {"rt2"},
 },
 },
@@ -68,7 +68,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, debería. Pero hoy no puedo, lo siento.",
+"“Sí, debería. Pero hoy no puedo, lo siento.”",
 {"rt2"},
 },
 },
@@ -85,7 +85,7 @@ vo={
 ja={
 {
 name={"Colegiala B"},
-"¡Vamos, Hikawa-san, siempre es lo mismo! Sal con nosotras un poco, así sea un\npoquito, ¿sí?",
+"“¡Vamos, Hikawa-san, siempre es lo mismo! Sal con nosotras un poco, así sea un\npoquito, ¿sí?”",
 {"rt2"},
 },
 },
@@ -103,7 +103,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ajaja, no lo niego. Pero tengo club hoy también, perdónenme.",
+"“Ajaja, no lo niego. Pero tengo club hoy también, perdónenme.”",
 {"rt2"},
 },
 },
@@ -120,7 +120,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"Ah, club de arte, ¿no? No podrás entonces, supongo. He escuchado que en el club\nde arte solo entran los mejores de los mejores.",
+"“Ah, club de arte, ¿no? No podrás entonces, supongo. He escuchado que en el club\nde arte solo entran los mejores de los mejores.”",
 {"rt2"},
 },
 },
@@ -137,7 +137,7 @@ vo={
 ja={
 {
 name={"Colegiala B"},
-"Sí, sí, yo también escuché lo mismo. Parece que más de treinta personas\naplicaron y solo admitieron a unas pocas.",
+"“Sí, sí, yo también escuché lo mismo. Parece que más de treinta personas\naplicaron y solo admitieron a unas pocas.”",
 {"rt2"},
 },
 },
@@ -156,7 +156,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Creo que no fue exactamente eso...",
+"“Creo que no fue exactamente eso...”",
 {"rt2"},
 },
 },
@@ -173,7 +173,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"Pero, ahí es donde está ese Senpai, ¿no? Naoya Kusanagi.",
+"“Pero ahí es donde está ese senpai, ¿no? Naoya Kusanagi.”",
 {"rt2"},
 },
 },
@@ -192,7 +192,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -209,7 +209,7 @@ vo={
 ja={
 {
 name={"Colegiala B"},
-"Sí, lo vi, lo vi. Pero, Hikawa-san, desde que entraste al colegio has hablado\nvarias veces de manera muy amistosa con él, ¿no?",
+"“Sí, lo vi, lo vi. Pero, Hikawa-san, desde que entraste al colegio has hablado\nvarias veces de manera muy amistosa con él, ¿no?”",
 {"rt2"},
 },
 },
@@ -227,7 +227,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah, nos habíamos conocido ya antes.",
+"“Ah, nos habíamos conocido ya antes.”",
 {"rt2"},
 },
 },
@@ -244,7 +244,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"Ya veo. Pero con lo linda que eres seguramente harían buena pareja.",
+"“Ya veo. Pero con lo linda que eres seguramente harían buena pareja.”",
 {"rt2"},
 },
 },
@@ -263,7 +263,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No, no, para nada.",
+"“No, no, para nada.”",
 {"rt2"},
 },
 },
@@ -280,7 +280,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"Por supuesto que sí. Eres la única chica con quien podría imaginármelo juntas.",
+"“Por supuesto que sí. Eres la única chica con quien podría imaginármelo juntas.”",
 {"rt2"},
 },
 },
@@ -297,7 +297,7 @@ vo={
 ja={
 {
 name={"Colegiala B"},
-"Oigan, pero hace poco entró una chica nueva al tercer año, ¿no recuerdan? Dicen\nque es la amiga de la infancia de Kusanagi-senpai.",
+"“Oigan, pero hace poco entró una chica nueva al tercer año, ¿no recuerdan? Dicen\nque es la amiga de la infancia de Kusanagi-senpai.”",
 {"rt2"},
 },
 },
@@ -314,7 +314,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"¡¿Hablas en serio?! ¡Hikawa-san, no puedes dejar que te lo quiten!",
+"“¡¿Hablas en serio?! ¡Hikawa-san, no puedes dejar que te lo quiten!”",
 {"rt2"},
 },
 },
@@ -332,7 +332,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Esperen, Senpai y yo realmente no tenemos ese tipo de relación, simplemente\nsomos viejos conocidos.",
+"“Esperen, senpai y yo realmente no tenemos ese tipo de relación, simplemente\nsomos viejos conocidos.”",
 {"rt2"},
 },
 },
@@ -349,7 +349,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"¿Viejos conocidos? ¿Llevan tiempo de conocerse?",
+"“¿Viejos conocidos? ¿Llevan tiempo de conocerse?”",
 {"rt2"},
 },
 },
@@ -367,7 +367,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Más o menos seis años, creo.",
+"“Más o menos seis años, creo.”",
 {"rt2"},
 },
 },
@@ -384,7 +384,7 @@ vo={
 ja={
 {
 name={"Colegiala A"},
-"¡Entonces tú lo conoces más que ella!",
+"“¡Entonces tú lo conoces más que ella!”",
 {"rt2"},
 },
 },
@@ -402,7 +402,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eso creen? No lo sé, la verdad.",
+"“¿Eso creen? No lo sé, la verdad.”",
 {"rt2"},
 },
 },
@@ -664,7 +664,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ahora que lo recuerdo, la primera vez que me encontré a Naoya Kusanagi en el\ncolegio no supe por un momento quién era...",
+"“Ahora que lo recuerdo, la primera vez que me encontré a Naoya Kusanagi en el\ncolegio no supe por un momento quién era...”",
 {"rt2"},
 },
 },
@@ -707,7 +707,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ese idiota... Aun si no fuera el hijo de Kenichiro Kusanagi seguiría siendo\npopular con las mujeres...",
+"“Ese idiota... Aun si no fuera el hijo de Kenichiro Kusanagi seguiría siendo\npopular con las mujeres...”",
 {"rt2"},
 },
 },
@@ -763,7 +763,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Fuh... Incluso yo admito que lo es...",
+"“Fuh... Incluso yo admito que lo es...”",
 {"rt2"},
 },
 },
@@ -862,7 +862,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Prefiero creer que es un milagro...",
+"“Prefiero creer que es un milagro...”",
 {"rt2"},
 },
 },
@@ -889,7 +889,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Yuumi, disculpa la tardanza! Bien, ¿nos vamos a pintar?",
+"“¡Yuumi, disculpa la tardanza! Bien, ¿nos vamos a pintar?”",
 {"rt2"},
 },
 },
@@ -906,7 +906,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? Ah, sí...",
+"“¿Eh? Ah, sí...”",
 {"rt2"},
 },
 },
@@ -925,7 +925,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Uhm? ¿Pasa algo?",
+"“¿Uhm? ¿Pasa algo?”",
 {"rt2"},
 },
 },
@@ -942,7 +942,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No pasa nada, solo que me quedé pensando en algo...",
+"“No pasa nada, solo que me quedé pensando en algo...”",
 {"rt2"},
 },
 },
@@ -960,7 +960,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"De verdad, ¿qué pasa? Has estado todo el día en las nubes.",
+"“De verdad, ¿qué pasa? Has estado todo el día en las nubes.”",
 {"rt2"},
 },
 },
@@ -977,7 +977,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No es nada grave. Solo estaba pensando en ti.",
+"“No es nada grave. Solo estaba pensando en ti.”",
 {"rt2"},
 },
 },
@@ -995,7 +995,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Otra vez con eso?...",
+"“¿Otra vez con eso?...”",
 {"rt2"},
 },
 },
@@ -1012,7 +1012,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No creas que miento cuando digo que me gustas...",
+"“No creas que miento cuando digo que me gustas...”",
 {"rt2"},
 },
 },
@@ -1030,7 +1030,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -1062,7 +1062,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -1330,7 +1330,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rina～.",
+"“Rina～”",
 {"rt2"},
 },
 },
@@ -1349,7 +1349,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Qué pasa? ¿Y por qué estás acostándote sobre mis piernas?",
+"“¿Qué pasa? ¿Y por qué estás acostándote sobre mis piernas?”",
 {"rt2"},
 },
 },
@@ -1366,7 +1366,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Somos dos chicas, no hay ningún problema.",
+"“Somos dos chicas, no hay ningún problema.”",
 {"rt2"},
 },
 },
@@ -1384,7 +1384,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ugh～. Eso solo funciona cuando la otra chica no oculta ninguna intención\nlasciva...",
+"“Ugh～ Eso solo funciona cuando la otra chica no oculta ninguna intención\nlasciva...”",
 {"rt2"},
 },
 },
@@ -1401,7 +1401,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Vamos, y cuál es el problema? Si ya sabes que tengo esa intención entonces no\nhay nada que ocultar. Mis intenciones siempre han sido claras contigo.",
+"“Vamos, ¿y cuál es el problema? Si ya sabes que tengo esa intención entonces no\nhay nada que ocultar. Mis intenciones siempre han sido claras contigo.”",
 {"rt2"},
 },
 },
@@ -1418,7 +1418,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Por supuesto que no...",
+"“Por supuesto que no...”",
 {"rt2"},
 },
 },
@@ -1435,7 +1435,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? ¿Es que no he demostrado aún lo suficientemente bien lo mucho que me\ngustas?",
+"“¿Eh? ¿Es que no he demostrado aún lo suficientemente bien lo mucho que me\ngustas?”",
 {"rt2"},
 },
 },
@@ -1452,7 +1452,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No, ya eso lo sé muy bien.",
+"“No, ya eso lo sé muy bien.”",
 {"rt2"},
 },
 },
@@ -1469,7 +1469,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Qué es lo que no logras saber entonces?",
+"“¿Qué es lo que no logras saber entonces?”",
 {"rt2"},
 },
 },
@@ -1486,7 +1486,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah, qué importa...",
+"“Ah, qué importa...”",
 {"rt2"},
 },
 },
@@ -1519,7 +1519,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Waah, hace tanto tiempo que no acariciabas mi cabeza de esta forma.",
+"“Waah, hace tanto tiempo que no acariciabas mi cabeza de esta forma.”",
 {"rt2"},
 },
 },
@@ -1536,7 +1536,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Supongo...",
+"“Supongo...”",
 {"rt2"},
 },
 },
@@ -1553,7 +1553,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rina, soy una lesbiana muy tranquila, no te haré nada malo. Para mí lo más\nimportante es tu felicidad.",
+"“Rina, soy una lesbiana muy tranquila, no te haré nada malo. Para mí lo más\nimportante es tu felicidad.”",
 {"rt2"},
 },
 },
@@ -1570,7 +1570,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No digas esas cosas...",
+"“No digas esas cosas...”",
 {"rt2"},
 },
 },
@@ -1588,7 +1588,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Por qué?",
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -1605,7 +1605,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -1622,7 +1622,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Yuumi, ¿acaso crees que soy una especie de autómata sin corazón?",
+"“Yuumi, ¿acaso crees que soy una especie de autómata sin corazón?”",
 {"rt2"},
 },
 },
@@ -1639,7 +1639,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No. Aunque hace tiempo sí lo pensaba...",
+"“No. Aunque hace tiempo sí lo pensaba...”",
 {"rt2"},
 },
 },
@@ -1657,7 +1657,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Señor lobo, señor lobo, Caperucita también tiene un corazón.",
+"“Señor lobo, señor lobo, Caperucita también tiene un corazón.”",
 {"rt2"},
 },
 },
@@ -1674,7 +1674,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así que no crea que Caperucita se dejó comer sin pensárselo bien antes.",
+"“Así que no crea que Caperucita se dejó comer sin pensárselo bien antes.”",
 {"rt2"},
 },
 },
@@ -1692,7 +1692,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Qué significa eso?",
+"“¿Qué significa eso?”",
 {"rt2"},
 },
 },
@@ -1710,7 +1710,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Quién sabe? No soy Caperucita roja, no puedo saber qué está pensando...",
+"“¿Quién sabe? No soy Caperucita roja, no puedo saber qué está pensando...”",
 {"rt2"},
 },
 },
@@ -1727,7 +1727,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y es que, mi sombrilla es blanca...",
+"“Y es que, mi sombrilla es blanca...”",
 {"rt2"},
 },
 },
@@ -1744,7 +1744,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -1762,7 +1762,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Se te han seguido confesando muchos hombres, Rina?",
+"“¿Se te han seguido confesando muchos hombres, Rina?”",
 {"rt2"},
 },
 },
@@ -1779,7 +1779,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Qué cambio tan súbito de tema...",
+"“Qué cambio tan súbito de tema...”",
 {"rt2"},
 },
 },
@@ -1796,7 +1796,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Es que siempre hablas de cosas muy complicadas, desde que te conozco. La verdad\nes que la vez que hablamos de noche en el parque cuando éramos niñas no\nentendí ni la mitad de lo que me dijiste.",
+"“Es que siempre hablas de cosas muy complicadas, desde que te conozco. La verdad\nes que la vez que hablamos de noche en el parque cuando éramos niñas no\nentendí ni la mitad de lo que me dijiste.”",
 {"rt2"},
 },
 },
@@ -1813,7 +1813,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Bueno, debo admitir que mis conversaciones suelen tornarse muy abstractas, y\nsin preámbulo alguno...",
+"“Bueno, debo admitir que mis conversaciones suelen tornarse muy abstractas, y\nsin preámbulo alguno...”",
 {"rt2"},
 },
 },
@@ -1830,7 +1830,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pero ¿podrías explicarme que tiene que ver el hecho de que no entiendas mis\ntemas de conversación con el hecho de que vengas a preguntarme ahora y de\nrepente si se me han confesado muchas personas?",
+"“Pero ¿podrías explicarme que tiene que ver el hecho de que no entiendas mis\ntemas de conversación con el hecho de que vengas a preguntarme ahora y de\nrepente si se me han confesado muchas personas?”",
 {"rt2"},
 },
 },
@@ -1847,7 +1847,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No es mentira. Yo lo sé. Solo desde que ingresaste a Yumihari se te han\nconfesado 16 veces, ¿o no?",
+"“No es mentira. Yo lo sé. Solo desde que ingresaste a Yumihari se te han\nconfesado 16 veces, ¿o no?”",
 {"rt2"},
 },
 },
@@ -1864,7 +1864,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No llevo la cuenta...",
+"“No llevo la cuenta...”",
 {"rt2"},
 },
 },
@@ -1881,7 +1881,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Aun después de entrar a Yumihari no han dejado de venir hombres tras de ti,\n¿verdad?",
+"“Aun después de entrar a Yumihari no han dejado de venir hombres tras de ti,\n¿verdad?”",
 {"rt2"},
 },
 },
@@ -1898,7 +1898,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Por qué me preguntas eso?",
+"“¿Por qué me preguntas eso?”",
 {"rt2"},
 },
 },
@@ -1915,7 +1915,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Te quiero mucho, Rina. Te quiero demasiado, y quisiera saber qué tanto los\ndemás quieren a la chica que tanto me gusta.",
+"“Te quiero mucho, Rina. Te quiero demasiado, y quisiera saber qué tanto los\ndemás quieren a la chica que tanto me gusta.”",
 {"rt2"},
 },
 },
@@ -1932,7 +1932,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Qué excusa tan rara.",
+"“Qué excusa tan rara.”",
 {"rt2"},
 },
 },
@@ -1949,7 +1949,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Todos te aman, pero no eres de nadie.",
+"“Todos te aman, pero no eres de nadie.”",
 {"rt2"},
 },
 },
@@ -1966,7 +1966,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No le perteneces a nadie por ahora, y por eso me alegra que día a día aumente\nmás la cantidad de hombres que has rechazado.",
+"“No le perteneces a nadie por ahora, y por eso me alegra que día a día aumente\nmás la cantidad de hombres que has rechazado.”",
 {"rt2"},
 },
 },
@@ -1984,7 +1984,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No voy a hablar de eso con alguien capaz de decir esas cosas. Y además, la\nmanera en que lo dices es irrespetuosa con ellos.",
+"“No voy a hablar de eso con alguien capaz de decir esas cosas. Y además, la\nmanera en que lo dices es irrespetuosa con ellos.”",
 {"rt2"},
 },
 },
@@ -2001,7 +2001,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Entonces sí se te han confesado.",
+"“Entonces sí se te han confesado.”",
 {"rt2"},
 },
 },
@@ -2018,7 +2018,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"En el hipotético caso de que existieran, quise decir.",
+"“En el hipotético caso de que existieran, quise decir.”",
 {"rt2"},
 },
 },
@@ -2036,7 +2036,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rompecorazones～.",
+"“Rompecorazones～”",
 {"rt2"},
 },
 },
@@ -2054,7 +2054,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tonta, tonta.",
+"“Tonta, tonta.”",
 {"rt2"},
 },
 },
@@ -2084,7 +2084,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿No pintarás hoy?",
+"“¿No pintarás hoy?”",
 {"rt2"},
 },
 },
@@ -2101,7 +2101,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Pintar...",
+"“Pintar...”",
 {"rt2"},
 },
 },
@@ -2118,7 +2118,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rina, ¿quieres terminar tu pintura?",
+"“Rina, ¿quieres terminar tu pintura?”",
 {"rt2"},
 },
 },
@@ -2135,7 +2135,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Claro.",
+"“Claro.”",
 {"rt2"},
 },
 },
@@ -2152,7 +2152,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Va a ser de cipreses y cerezos?",
+"“¿Va a ser de cipreses y cerezos?”",
 {"rt2"},
 },
 },
@@ -2169,7 +2169,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así es.",
+"“Así es.”",
 {"rt2"},
 },
 },
@@ -2186,7 +2186,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Te gusta Kusanagi-senpai, Rina?",
+"“¿Te gusta Kusanagi-senpai, Rina?”",
 {"rt2"},
 },
 },
@@ -2203,7 +2203,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí. Me gusta.",
+"“Sí. Me gusta.”",
 {"rt2"},
 },
 },
@@ -2220,7 +2220,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No entiendo por qué no se lo dices entonces.",
+"“No entiendo por qué no se lo dices entonces.”",
 {"rt2"},
 },
 },
@@ -2237,7 +2237,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No lo haré.",
+"“No lo haré.”",
 {"rt2"},
 },
 },
@@ -2254,7 +2254,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Por qué? No creo que te rechace.",
+"“¿Por qué? No creo que te rechace.”",
 {"rt2"},
 },
 },
@@ -2271,7 +2271,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Los asuntos entre hombres y mujeres no son tan sencillos como para reducirlos a\nsimplemente enamorarse, confesarse y ya.",
+"“Los asuntos entre hombres y mujeres no son tan sencillos como para reducirlos a\nsimplemente enamorarse, confesarse y ya.”",
 {"rt2"},
 },
 },
@@ -2288,7 +2288,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Pero te gusta, ¿no?",
+"“Pero te gusta, ¿no?”",
 {"rt2"},
 },
 },
@@ -2305,7 +2305,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -2322,7 +2322,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Es acaso porque vino Rin-senpai?",
+"“¿Es acaso porque vino Rin-senpai?”",
 {"rt2"},
 },
 },
@@ -2339,7 +2339,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"De ninguna manera. Rin-senpai no tiene nada que ver.",
+"“De ninguna manera. Rin-senpai no tiene nada que ver.”",
 {"rt2"},
 },
 },
@@ -2356,7 +2356,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Entonces...",
+"“Entonces...”",
 {"rt2"},
 },
 },
@@ -2399,7 +2399,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Sabes algo, Yuumi?",
+"“¿Sabes algo, Yuumi?”",
 {"rt2"},
 },
 },
@@ -2416,7 +2416,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Dime.",
+"“Dime.”",
 {"rt2"},
 },
 },
@@ -2433,7 +2433,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Siempre me ha gustado acariciar tu cabeza, desde pequeñas.",
+"“Siempre me ha gustado acariciar tu cabeza, desde pequeñas.”",
 {"rt2"},
 },
 },
@@ -2450,7 +2450,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? ¿En serio? No sabía. ¿No te gustaría entonces probar a acariciar otras\npartes?",
+"“¿Eh? ¿En serio? No sabía. ¿No te gustaría entonces probar a acariciar otras\npartes?”",
 {"rt2"},
 },
 },
@@ -2467,7 +2467,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No, no me hace falta.",
+"“No, no me hace falta.”",
 {"rt2"},
 },
 },
@@ -2484,7 +2484,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Vamos, no seas mala... Podrías acariciar mis pechos también.",
+"“Vamos, no seas mala... Podrías acariciar mis pechos también.”",
 {"rt2"},
 },
 },
@@ -2502,7 +2502,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No soy fanática de los pechos planos.",
+"“No soy fanática de los pechos planos.”",
 {"rt2"},
 },
 },
@@ -2519,7 +2519,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Gaaah. No puedo creer que me hayas dicho algo tan cruel.",
+"“Gaaah. No puedo creer que me hayas dicho algo tan cruel.”",
 {"rt2"},
 },
 },
@@ -2537,7 +2537,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Solo bromeaba. Pero igual, me conformo con acariciar tu cabeza.",
+"“Solo bromeaba. Pero igual, me conformo con acariciar tu cabeza.”",
 {"rt2"},
 },
 },
@@ -2554,7 +2554,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Puedo entonces acariciar los tuyos? ¿Sí, sí?",
+"“¿Puedo entonces acariciar los tuyos? ¿Sí, sí?”",
 {"rt2"},
 },
 },
@@ -2572,7 +2572,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Por qué, se supone, que debería dejar que hagas eso?",
+"“¿Por qué... se supone... que debería dejar que hagas eso?”",
 {"rt2"},
 },
 },
@@ -2591,7 +2591,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿C-Cómo, es que llegamos a esto?...",
+"“¿C-Cómo, es que llegamos a esto?...”",
 {"rt2"},
 },
 },
@@ -2609,7 +2609,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No está mal, ¿no? Tú acaricias mi cabeza y yo hundo mi cara en tus pechos~",
+"“No está mal, ¿no? Tú acaricias mi cabeza y yo hundo mi cara en tus pechos~”",
 {"rt2"},
 },
 },
@@ -2626,7 +2626,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No le veo lo bueno a esto.",
+"“No le veo lo bueno a esto.”",
 {"rt2"},
 },
 },
@@ -2643,7 +2643,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Es un buen trato, un gana-gana.",
+"“Es un buen trato, un gana-gana.”",
 {"rt2"},
 },
 },
@@ -2660,7 +2660,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A mí no me parece...",
+"“A mí no me parece...”",
 {"rt2"},
 },
 },
@@ -2677,7 +2677,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Si realmente no te gusta entonces no lo haré...",
+"“Si realmente no te gusta entonces no lo haré...”",
 {"rt2"},
 },
 },
@@ -2695,7 +2695,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -2739,7 +2739,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Están tan grandes y suavecitos.",
+"“Están tan grandes y suavecitos.”",
 {"rt2"},
 },
 },
@@ -2756,7 +2756,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pues sí, crecieron más de lo necesario...",
+"“Pues sí, crecieron más de lo necesario...”",
 {"rt2"},
 },
 },
@@ -2773,7 +2773,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Así están bien. Y además, justo hace un rato criticaste mis pechos pequeños.",
+"“Así están bien. Y además, justo hace un rato criticaste mis pechos pequeños.”",
 {"rt2"},
 },
 },
@@ -2790,7 +2790,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Eso solo fue una broma. No me interesan los pechos de las chicas.",
+"“Eso solo fue una broma. No me interesan los pechos de las chicas.”",
 {"rt2"},
 },
 },
@@ -2807,7 +2807,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Lo sé. Pero ¿no te han dado ganas alguna vez de manosearle los pechos a\nRin-senpai?",
+"“Lo sé. Pero ¿no te han dado ganas alguna vez de manosearle los pechos a\nRin-senpai?”",
 {"rt2"},
 },
 },
@@ -2824,7 +2824,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A-Ah, pues, en ese caso, creo que sí.",
+"“A-Ah, pues, en ese caso, creo que sí.”",
 {"rt2"},
 },
 },
@@ -2841,7 +2841,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Entonces sí tienes problemas con los pechos planos!",
+"“¡Entonces sí tienes problemas con los pechos planos!”",
 {"rt2"},
 },
 },
@@ -2858,7 +2858,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah, no es por eso. Solo que, con lo grande que los tiene Rin-senpai pensé que,\naun si los tocara seguiría pasando por una broma...",
+"“Ah, no es por eso. Solo que, con lo grande que los tiene Rin-senpai pensé que,\naun si los tocara seguiría pasando por una broma...”",
 {"rt2"},
 },
 },
@@ -2875,7 +2875,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡¿Tratas de decir que en mi caso se sienten tan reales que no te atreverías a\ntocarlos?!",
+"“¡¿Tratas de decir que en mi caso se sienten tan reales que no te atreverías a\ntocarlos?!”",
 {"rt2"},
 },
 },
@@ -2892,7 +2892,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pueees, no es exactamente eso... ¿O tal vez sí?",
+"“Pueees, no es exactamente eso... ¿O tal vez sí?”",
 {"rt2"},
 },
 },
@@ -2909,7 +2909,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Has herido mis sentimientos. Y muy profundamente. ¿Puedo lamer tus pezones?",
+"“Has herido mis sentimientos. Y muy profundamente. ¿Puedo lamer tus pezones?”",
 {"rt2"},
 },
 },
@@ -2926,7 +2926,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No.",
+"“No.”",
 {"rt2"},
 },
 },
@@ -2944,7 +2944,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Pero, pero, me has herido de gravedad!",
+"“¡Pero, pero, me has herido de gravedad!”",
 {"rt2"},
 },
 },
@@ -2961,7 +2961,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Qué pretendes con lamer mis pezones?",
+"“¿Qué pretendes con lamer mis pezones?”",
 {"rt2"},
 },
 },
@@ -2979,7 +2979,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Excitarme!",
+"“¡Excitarme!”",
 {"rt2"},
 },
 },
@@ -2997,7 +2997,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Escucha, eso ya no suena para nada a una simple broma.",
+"“Escucha, eso ya no suena para nada a una simple broma.”",
 {"rt2"},
 },
 },
@@ -3014,7 +3014,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Te parece? ¿Acaso no es algo normal que las mejores amigas se chupen los\npezones?",
+"“¿Te parece? ¿Acaso no es algo normal que las mejores amigas se chupen los\npezones?”",
 {"rt2"},
 },
 },
@@ -3031,7 +3031,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jamás en mi vida he escuchado algo parecido.",
+"“Jamás en mi vida he escuchado algo parecido.”",
 {"rt2"},
 },
 },
@@ -3048,7 +3048,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿De verdadー? ¿De verdad verdadー?",
+"“¿De verdadー? ¿De verdad verdadー?”",
 {"rt2"},
 },
 },
@@ -3067,7 +3067,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Espera! ¡No desabroches mi sostén por encima de mi ropa!",
+"“¡Espera! ¡No desabroches mi sostén por encima de mi ropa!”",
 {"rt2"},
 },
 },
@@ -3084,7 +3084,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Jejejen, un virgencito no sería capaz de hacer esto.",
+"“Jejejen, un virgencito no sería capaz de hacer esto.”",
 {"rt2"},
 },
 },
@@ -3102,7 +3102,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No me agradaría para nada un hombre capaz de desabrochar un sostén con tanta\nhabilidad, fuera virgen o no...",
+"“No me agradaría para nada un hombre capaz de desabrochar un sostén con tanta\nhabilidad, fuera virgen o no...”",
 {"rt2"},
 },
 },
@@ -3120,7 +3120,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Tus pechos son más grandes que los de Rin-senpai, Rina.",
+"“Tus pechos son más grandes que los de Rin-senpai, Rina.”",
 {"rt2"},
 },
 },
@@ -3137,7 +3137,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ni idea, no conozco sus medidas de busto...",
+"“Ni idea, no conozco sus medidas de busto...”",
 {"rt2"},
 },
 },
@@ -3154,7 +3154,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Según mis estimaciones, Rin-senpai es 88, copa F, Toritani-senpai es 90, copa\nG. ¡Y tú, Rina, eres 92, copa G!",
+"“Según mis estimaciones, Rin-senpai es 88, copa F, Toritani-senpai es 90, copa\nG. ¡Y tú, Rina, eres 92, copa G!”",
 {"rt2"},
 },
 },
@@ -3172,7 +3172,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uwah, no conozco las medidas de las demás, pero las mías están muy acertadas.",
+"“Uwah, no conozco las medidas de las demás, pero las mías están muy acertadas.”",
 {"rt2"},
 },
 },
@@ -3189,7 +3189,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No en vano soy una lesbiana pervertida que le encanta tomar fotos a escondidas.",
+"“No en vano soy una lesbiana pervertida que le encanta tomar fotos a escondidas.”",
 {"rt2"},
 },
 },
@@ -3207,7 +3207,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No entiendo de qué estás tan orgullosa...",
+"“No entiendo de qué estás tan orgullosa...”",
 {"rt2"},
 },
 },
@@ -3224,7 +3224,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Puedo hundir mi cara en tus pechos sin el sujetador? ¿Sí, sí?",
+"“¿Puedo hundir mi cara en tus pechos sin el sujetador? ¿Sí, sí?”",
 {"rt2"},
 },
 },
@@ -3242,7 +3242,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Por supuesto que no.",
+"“Por supuesto que no.”",
 {"rt2"},
 },
 },
@@ -3259,7 +3259,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Lo haré por encima de tu ropa, no te preocupes. Solo que teniendo tu sujetador\nde por medio no puedo sentirlos bien.",
+"“Lo haré por encima de tu ropa, no te preocupes. Solo que teniendo tu sujetador\nde por medio no puedo sentirlos bien.”",
 {"rt2"},
 },
 },
@@ -3277,7 +3277,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tendría que pasarlo por los brazos para quitármelo, no puedo.",
+"“Tendría que pasarlo por los brazos para quitármelo, no puedo.”",
 {"rt2"},
 },
 },
@@ -3294,7 +3294,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Y si lo deslizo un poquito?",
+"“¿Y si lo deslizo un poquito?”",
 {"rt2"},
 },
 },
@@ -3311,7 +3311,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Deslizarlo un poco? Uhm, no sé.",
+"“¿Deslizarlo un poco? Uhm, no sé.”",
 {"rt2"},
 },
 },
@@ -3328,7 +3328,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Desde que entré a este colegio me he comportado mucho mejor a como lo hacía\nantes, ¿verdad, verdad?",
+"“Desde que entré a este colegio me he comportado mucho mejor a como lo hacía\nantes, ¿verdad, verdad?”",
 {"rt2"},
 },
 },
@@ -3345,7 +3345,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Considerando lo que sucedió ayer, no estaría muy confiada de eso.",
+"“Considerando lo que sucedió ayer, no estaría muy confiada de eso.”",
 {"rt2"},
 },
 },
@@ -3362,7 +3362,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Kusanagi es mi enemigo, lo que le haya hecho no cuenta.",
+"“Kusanagi es mi enemigo, lo que le haya hecho no cuenta.”",
 {"rt2"},
 },
 },
@@ -3379,7 +3379,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"He sido una buena niña, ¿no crees que me merezco una recompensa?",
+"“He sido una buena niña, ¿no crees que me merezco una recompensa?”",
 {"rt2"},
 },
 },
@@ -3396,7 +3396,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Vaya recompensa que pides...",
+"“Vaya recompensa que pides...”",
 {"rt2"},
 },
 },
@@ -3413,7 +3413,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Me das un segundo?...",
+"“¿Me das un segundo?...”",
 {"rt2"},
 },
 },
@@ -3445,7 +3445,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Listo, me quité el sujetador.",
+"“Listo, me quité el sujetador.”",
 {"rt2"},
 },
 },
@@ -3462,7 +3462,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? ¿De veras?",
+"“¿Eh? ¿De veras?”",
 {"rt2"},
 },
 },
@@ -3479,7 +3479,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Puedes hundir tu cara en mis pechos si quieres, pero prométeme que no volverás\na hacer algo parecido a lo de ayer. Y también prométeme contarme cuando\ntengas algún problema.",
+"“Puedes hundir tu cara en mis pechos si quieres, pero prométeme que no volverás\na hacer algo parecido a lo de ayer. Y también prométeme contarme cuando\ntengas algún problema.”",
 {"rt2"},
 },
 },
@@ -3496,7 +3496,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Está bien.",
+"“Está bien.”",
 {"rt2"},
 },
 },
@@ -3527,7 +3527,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Waaai, están acolchaditos. Mucho más que hace un rato.",
+"“Waaai, están acolchaditos. Mucho más que hace un rato.”",
 {"rt2"},
 },
 },
@@ -3544,7 +3544,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Me alegro por eso.",
+"“Me alegro por eso.”",
 {"rt2"},
 },
 },
@@ -3562,7 +3562,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No puedo. Esto es irresistible.",
+"“No puedo. Esto es irresistible.”",
 {"rt2"},
 },
 },
@@ -3579,7 +3579,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Qué cosa?",
+"“¿Qué cosa?”",
 {"rt2"},
 },
 },
@@ -3596,7 +3596,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Es como un sofá que convierte a la gente en zombies perezosos...",
+"“Es como un sofá que convierte a la gente en zombies perezosos...”",
 {"rt2"},
 },
 },
@@ -3614,7 +3614,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Agradecería que no hables de mí como si fuera una silla humana...",
+"“Agradecería que no hables de mí como si fuera una silla humana...”",
 {"rt2"},
 },
 },
@@ -3631,7 +3631,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ahー, esto es increíbleー. Qué delicia, qué felicidadー.",
+"“Ahー, esto es increíbleー. Qué delicia, qué felicidadー.”",
 {"rt2"},
 },
 },
@@ -3648,7 +3648,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Tan feliz te hace esto?",
+"“¿Tan feliz te hace esto?”",
 {"rt2"},
 },
 },
@@ -3665,7 +3665,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí. En este momento soy la persona más feliz en este planeta.",
+"“Sí. En este momento soy la persona más feliz en este planeta.”",
 {"rt2"},
 },
 },
@@ -3682,7 +3682,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Sí? Qué bueno, supongo...",
+"“¿Sí? Qué bueno, supongo...”",
 {"rt2"},
 },
 },
@@ -3829,7 +3829,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Es mi imaginación o estás tratando de buscar mis pezones?",
+"“¿Es mi imaginación o estás tratando de buscar mis pezones?”",
 {"rt2"},
 },
 },
@@ -3846,7 +3846,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No, claro que no. No estoy usando mis dedos, ¿ves?",
+"“No, claro que no. No estoy usando mis dedos, ¿ves?”",
 {"rt2"},
 },
 },
@@ -3863,7 +3863,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Con los labios.",
+"“Con los labios.”",
 {"rt2"},
 },
 },
@@ -3880,7 +3880,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Vamos, ¿qué problema hay con que chupe tus pezones por encima de la ropa?",
+"“Vamos, ¿qué problema hay con que chupe tus pezones por encima de la ropa?”",
 {"rt2"},
 },
 },
@@ -3898,7 +3898,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Por supuesto que lo hay, vas a dejarme la chaqueta cubierta de saliva!",
+"“¡Por supuesto que lo hay, vas a dejarme la chaqueta cubierta de saliva!”",
 {"rt2"},
 },
 },
@@ -3915,7 +3915,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No pasa nada. Por mi parte, tengo los calzones como un trapo mojado en este\nmomento.",
+"“No pasa nada. Por mi parte, tengo los calzones como un trapo mojado en este\nmomento.”",
 {"rt2"},
 },
 },
@@ -3932,7 +3932,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Por supuesto que sí pasa, bastante. ¡Y si eso es verdad ve a los lavabos y\nlímpiate!",
+"“Por supuesto que sí pasa, bastante. ¡Y si eso es verdad ve a los lavabos y\nlímpiate!”",
 {"rt2"},
 },
 },
@@ -3949,7 +3949,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ehー, solo era una pequeña bromitaー. Déjame disfrutar un poco más de esto,\n¿síー, síー?",
+"“Ehー, solo era una pequeña bromitaー. Déjame disfrutar un poco más de esto,\n¿síー, síー?”",
 {"rt2"},
 },
 },
@@ -3967,7 +3967,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Nunca logro saber qué tanto hay de broma y qué tanto de verdad en lo que dices.",
+"“Nunca logro saber qué tanto hay de broma y qué tanto de verdad en lo que dices.”",
 {"rt2"},
 },
 },
@@ -3984,7 +3984,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Uhhm. Pues, ¿podrías mantenerlo en secreto?...",
+"“Uhhm. Pues, ¿podrías mantenerlo en secreto?...”",
 {"rt2"},
 },
 },
@@ -4001,7 +4001,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí quieres mantenerlo en secreto entonces no lo menciones tanto.",
+"“Sí quieres mantenerlo en secreto entonces no lo menciones tanto.”",
 {"rt2"},
 },
 },
@@ -4018,7 +4018,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Solo es una broma.",
+"“Solo es una broma.”",
 {"rt2"},
 },
 },
@@ -4035,7 +4035,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Pero podría ser cierto, no?",
+"“Pero podría ser cierto, ¿no?”",
 {"rt2"},
 },
 },
@@ -4052,7 +4052,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -4069,7 +4069,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Qué tanta verdad crees que haya en lo que digo?",
+"“¿Qué tanta verdad crees que haya en lo que digo?”",
 {"rt2"},
 },
 },
@@ -4086,7 +4086,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ni idea, nunca me he puesto a pensar mucho en el asunto... Aunque, no hay que\nolvidar que te gusta también tomar fotografías de los demás sin permiso.",
+"“Ni idea, nunca me he puesto a pensar mucho en el asunto... Aunque, no hay que\nolvidar que te gusta también tomar fotografías de los demás sin permiso.”",
 {"rt2"},
 },
 },
@@ -4103,7 +4103,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí. Y hablando de eso, hice una dakimakura con tu foto, Rina.",
+"“Sí. Y hablando de eso, hice una dakimakura con tu foto, Rina.”",
 {"rt2"},
 },
 },
@@ -4120,7 +4120,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Es que acaso era verdad eso?...",
+"“¿Es que acaso era verdad eso?...”",
 {"rt2"},
 },
 },
@@ -4137,7 +4137,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí, la hice. Usé varias de tus fotos.",
+"“Sí, la hice. Usé varias de tus fotos.”",
 {"rt2"},
 },
 },
@@ -4154,7 +4154,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Sabes qué hago con ella? La pongo en la cama conmigo, y me le quedo viendo.",
+"“¿Sabes qué hago con ella? La pongo en la cama conmigo, y me le quedo viendo.”",
 {"rt2"},
 },
 },
@@ -4171,7 +4171,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Me quedo viéndole fijamente, sin pestañear. Y entonces, cuando llega el\nmomento, cierro mis ojos.",
+"“Me quedo viéndole fijamente, sin pestañear. Y entonces, cuando llega el\nmomento, cierro mis ojos.”",
 {"rt2"},
 },
 },
@@ -4188,7 +4188,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Pero es difícil. Cuesta hacer que vengas.",
+"“Pero es difícil. Cuesta hacer que vengas.”",
 {"rt2"},
 },
 },
@@ -4205,7 +4205,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Que venga yo? ¿Qué quieres decir?",
+"“¿Que venga yo? ¿Qué quieres decir?”",
 {"rt2"},
 },
 },
@@ -4222,7 +4222,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí. Lo hago varias veces.",
+"“Sí. Lo hago varias veces.”",
 {"rt2"},
 },
 },
@@ -4239,7 +4239,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Y entre tantos intentos, me llega ese presentimiento... Y pienso, '¿Quizás\nahora sí?'.",
+"“Y entre tantos intentos, me llega ese presentimiento... Y pienso, '¿Quizás\nahora sí?'.”",
 {"rt2"},
 },
 },
@@ -4256,7 +4256,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¿La dakimakura se convierte en mí?!",
+"“¡¿La dakimakura se convierte en mí?!”",
 {"rt2"},
 },
 },
@@ -4273,7 +4273,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí. Es una hazaña que solo un amor como el mío podría lograr... Por lo general,\ndespués de que pasan tres horas es que finalmente llegas a mí.",
+"“Sí. Es una hazaña que solo un amor como el mío podría lograr... Por lo general,\ndespués de que pasan tres horas es que finalmente llegas a mí.”",
 {"rt2"},
 },
 },
@@ -4291,7 +4291,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"T-Tres horas...",
+"“T-Tres horas...”",
 {"rt2"},
 },
 },
@@ -4308,7 +4308,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Y entonces, comienzo a conversar contigo.",
+"“Y entonces, comienzo a conversar contigo.”",
 {"rt2"},
 },
 },
@@ -4325,7 +4325,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Y al culminar, la habitación termina hecha un desastre con mis jugos.",
+"“Y al culminar, la habitación termina hecha un desastre con mis jugos.”",
 {"rt2"},
 },
 },
@@ -4342,7 +4342,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pues... vaya que tuvo un final bastante intenso esa conversación...",
+"“Pues... vaya que tuvo un final bastante intenso esa conversación...”",
 {"rt2"},
 },
 },
@@ -4360,7 +4360,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Crees que esto es una broma?",
+"“¿Crees que esto es una broma?”",
 {"rt2"},
 },
 },
@@ -4377,7 +4377,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No lo sé, la verdad. Me da igual.",
+"“No lo sé, la verdad. Me da igual.”",
 {"rt2"},
 },
 },
@@ -4394,7 +4394,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Me imaginé que dirías eso.",
+"“Me imaginé que dirías eso.”",
 {"rt2"},
 },
 },
@@ -4411,7 +4411,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rina, ¿puedo chupar tus pezones?",
+"“Rina, ¿puedo chupar tus pezones?”",
 {"rt2"},
 },
 },
@@ -4428,7 +4428,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No.",
+"“No.”",
 {"rt2"},
 },
 },
@@ -4445,7 +4445,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Bien, entiendo! ¿Puedo quitarte la ropa entonces?",
+"“¡Bien, entiendo! ¿Puedo quitarte la ropa entonces?”",
 {"rt2"},
 },
 },
@@ -4463,7 +4463,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Por qué se supone que debería someterme a esa clase de juegos sexuales\ncontigo? Estamos en la azotea, por si lo olvidas.",
+"“¿Por qué se supone que debería someterme a esa clase de juegos sexuales\ncontigo? Estamos en la azotea, por si lo olvidas.”",
 {"rt2"},
 },
 },
@@ -4480,7 +4480,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Quiero sentirlas directamente...",
+"“Quiero sentirlas directamente...”",
 {"rt2"},
 },
 },
@@ -4498,7 +4498,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Bien, se acabó esto ya.",
+"“Bien, se acabó esto ya.”",
 {"rt2"},
 },
 },
@@ -4515,7 +4515,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Perdóname, solo déjame disfrutarlos un poco más.",
+"“Perdóname, solo déjame disfrutarlos un poco más.”",
 {"rt2"},
 },
 },
@@ -4532,7 +4532,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Esto es de lo mejor... ¿Por qué será que las chicas son así de suaves?",
+"“Esto es de lo mejor... ¿Por qué será que las chicas son así de suaves?”",
 {"rt2"},
 },
 },
@@ -4549,7 +4549,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Lo somos. Tú también lo eres, Yuumi.",
+"“Lo somos. Tú también lo eres, Yuumi.”",
 {"rt2"},
 },
 },
@@ -4566,7 +4566,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Dices eso aun después de haberme llamado pecho plano?",
+"“¿Dices eso aun después de haberme llamado pecho plano?”",
 {"rt2"},
 },
 },
@@ -4583,7 +4583,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Los senos no son la única parte suave de las mujeres.",
+"“Los senos no son la única parte suave de las mujeres.”",
 {"rt2"},
 },
 },
@@ -4600,7 +4600,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? ¿N-No serán los rollos de mi panza, o sí?",
+"“¿Eh? N-No serán los rollos de mi panza, ¿o sí?”",
 {"rt2"},
 },
 },
@@ -4617,7 +4617,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No, no. Me refiero a tu aroma, y lo demás.",
+"“No, no. Me refiero a tu aroma, y lo demás.”",
 {"rt2"},
 },
 },
@@ -4634,7 +4634,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Mi aroma? Pero si no uso ningún perfume.",
+"“¿Mi aroma? Pero si no uso ningún perfume.”",
 {"rt2"},
 },
 },
@@ -4651,7 +4651,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tus coletas son tan largas que se siente con fuerza el aroma del enjuague. Creo\nque incluso más que yo, que tengo trenzas.",
+"“Tus coletas son tan largas que se siente con fuerza el aroma del enjuague. Creo\nque incluso más que yo, que tengo trenzas.”",
 {"rt2"},
 },
 },
@@ -4668,7 +4668,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿De verdad?",
+"“¿De verdad?”",
 {"rt2"},
 },
 },
@@ -4685,7 +4685,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así es. ¿No te habías dado cuenta?",
+"“Así es. ¿No te habías dado cuenta?”",
 {"rt2"},
 },
 },
@@ -4702,7 +4702,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"No, en ningún momento.",
+"“No, en ningún momento.”",
 {"rt2"},
 },
 },
@@ -4719,7 +4719,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y además, tu cabello es muy hermoso. Creo que no he visto a nadie con un\ncabello así de precioso...",
+"“Y además, tu cabello es muy hermoso. Creo que no he visto a nadie con un\ncabello así de precioso...”",
 {"rt2"},
 },
 },
@@ -4736,7 +4736,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Te parece? La verdad es que no lo toco mucho...",
+"“¿Te parece? La verdad es que no lo toco mucho...”",
 {"rt2"},
 },
 },
@@ -4753,7 +4753,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿No será por eso? Cuando usas tintes y esa clase de sustancias el cabello se\ndeteriora.",
+"“¿No será por eso? Cuando usas tintes y esa clase de sustancias el cabello se\ndeteriora.”",
 {"rt2"},
 },
 },
@@ -4770,7 +4770,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Ya veo... No me había dado cuenta de eso.",
+"“Ya veo... No me había dado cuenta de eso.”",
 {"rt2"},
 },
 },
@@ -4787,7 +4787,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y es por eso que estos ratos son de felicidad para mí también.",
+"“Y es por eso que estos ratos son de felicidad para mí también.”",
 {"rt2"},
 },
 },
@@ -4804,7 +4804,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí...",
+"“Sí...”",
 {"rt2"},
 },
 },
@@ -4889,7 +4889,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Esto ocurrió la noche anterior a aquella de los ZYPRESSEN.",
+"“Esto ocurrió la noche anterior a aquella de los ZYPRESSEN.”",
 {"rt2"},
 },
 },
@@ -4906,7 +4906,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Antes de que se convirtieran en cerezos.",
+"“Antes de que se convirtieran en cerezos.”",
 {"rt2"},
 },
 },
@@ -4923,7 +4923,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"La niña de la sombrilla blanca germinó y creció allí para ser devorada por el\nlobo.",
+"“La niña de la sombrilla blanca germinó y creció allí para ser devorada por el\nlobo.”",
 {"rt2"},
 },
 },
@@ -4940,7 +4940,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así que el lobo fue, probablemente, víctima de la tetrodotoxina.",
+"“Así que el lobo fue, probablemente, víctima de la tetrodotoxina.”",
 {"rt2"},
 },
 },
@@ -4957,7 +4957,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"El lobo sucumbió al veneno.",
+"“El lobo sucumbió al veneno.”",
 {"rt2"},
 },
 },
@@ -4974,7 +4974,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"La niña que el lobo devoró tenía una dieta a base de 'UFT Sunfural S'. Al\nalimentarse de veneno, naturalmente este se acumulaba en su cuerpo.",
+"“La niña que el lobo devoró tenía una dieta a base de 'UFT Sunfural S'. Al\nalimentarse de veneno, naturalmente este se acumulaba en su cuerpo.”",
 {"rt2"},
 },
 },
@@ -4991,7 +4991,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ella era una seta venenosa, del género de las Amanita, con tallo y sombrilla\nblanca. La niña Amanita atrae a los demás con una sonrisa.",
+"“Ella era una seta venenosa, del género de las Amanita, con tallo y sombrilla\nblanca. La niña Amanita atrae a los demás con una sonrisa.”",
 {"rt2"},
 },
 },
@@ -5008,7 +5008,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"La niña Amanita está siempre sonriendo entre todos.",
+"“La niña Amanita está siempre sonriendo entre todos.”",
 {"rt2"},
 },
 },
@@ -5025,7 +5025,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Una seta venenosa, sola, oculta en el bosque de ZYPRESSEN. Ni siquiera el lobo\npodría resistirse a poner sus garras sobre ella.",
+"“Una seta venenosa, sola, oculta en el bosque de ZYPRESSEN. Ni siquiera el lobo\npodría resistirse a poner sus garras sobre ella.”",
 {"rt2"},
 },
 },
@@ -5042,7 +5042,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y por eso, ella es la víctima.",
+"“Y por eso, ella es la víctima.”",
 {"rt2"},
 },
 },
@@ -5063,7 +5063,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿O, oeh? ¿M-Me quedé dormida?",
+"“¿O, oeh? ¿M-Me quedé dormida?”",
 {"rt2"},
 },
 },
@@ -5080,7 +5080,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí. Estabas durmiendo muy placidamente.",
+"“Sí. Estabas durmiendo muy placidamente.”",
 {"rt2"},
 },
 },
@@ -5098,7 +5098,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Y-Ya veo... Gununh... ¡N-No puedo creer que desperdiciara nuestro valioso\ntiempo juntas de esta manera!",
+"“Y-Ya veo... Gununh... ¡N-No puedo creer que desperdiciara nuestro valioso\ntiempo juntas de esta manera!”",
 {"rt2"},
 },
 },
@@ -5115,7 +5115,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pues ese valioso tiempo te sirvió para relajarte, ¿no te parece bien así?",
+"“Pues ese valioso tiempo te sirvió para relajarte, ¿no te parece bien así?”",
 {"rt2"},
 },
 },
@@ -5132,7 +5132,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡T-Tal vez, pero más que relajarme, yo quería más, algo más!",
+"“¡T-Tal vez, pero más que relajarme, yo quería más, algo más!”",
 {"rt2"},
 },
 },
@@ -5149,7 +5149,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, está bien, está bien. Pero no miento, realmente estabas durmiendo muy\nplacidamente, Yuumi.",
+"“Sí, está bien, está bien. Pero no miento, realmente estabas durmiendo muy\nplacidamente, Yuumi.”",
 {"rt2"},
 },
 },
@@ -5167,7 +5167,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Muhー, no me causa mucha alegría que vieras mi cara mientras dormía...",
+"“Muhー, no me causa mucha alegría que vieras mi cara mientras dormía...”",
 {"rt2"},
 },
 },
@@ -5184,7 +5184,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Quizás. Pero a los que tenemos la oportunidad de ver esas caras si nos alegra.",
+"“Quizás. Pero a los que tenemos la oportunidad de ver esas caras si nos alegra.”",
 {"rt2"},
 },
 },
@@ -5201,7 +5201,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Supongo que valió la pena quitarme el sostén. ¿Dormiste bien, verdad?",
+"“Supongo que valió la pena quitarme el sostén. Dormiste bien, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -5219,7 +5219,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -5236,7 +5236,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Bien, creo que ya deberíamos irnos.",
+"“Bien, creo que ya deberíamos irnos.”",
 {"rt2"},
 },
 },
@@ -5253,7 +5253,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡Espera, solo un poco más!",
+"“¡Espera, solo un poco más!”",
 {"rt2"},
 },
 },
@@ -5270,7 +5270,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ya está, se acabo. ¡Nos vamos!",
+"“Ya está, se acabó. ¡Nos vamos!”",
 {"rt2"},
 },
 },
@@ -5294,7 +5294,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uhhhn.",
+"“Uhhhn.”",
 {"rt2"},
 },
 },
@@ -5324,7 +5324,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Estás cansada?",
+"“¿Estás cansada?”",
 {"rt2"},
 },
 },
@@ -5342,7 +5342,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No tanto, en realidad. ¿Pudiste dormir bien?",
+"“No tanto, en realidad. ¿Pudiste dormir bien?”",
 {"rt2"},
 },
 },
@@ -5359,7 +5359,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Sí. Llevaba rato sin dormir sin ningún sueño.",
+"“Sí. Llevaba rato sin dormir sin ningún sueño.”",
 {"rt2"},
 },
 },
@@ -5378,7 +5378,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ya veo. Pues, me alegro que pudieras descansar.",
+"“Ya veo. Pues, me alegro que pudieras descansar.”",
 {"rt2"},
 },
 },
@@ -5395,7 +5395,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rina.",
+"“Rina.”",
 {"rt2"},
 },
 },
@@ -5413,7 +5413,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Mm? ¿Qué pasa?",
+"“¿Mm? ¿Qué pasa?”",
 {"rt2"},
 },
 },
@@ -5430,7 +5430,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Gracias.",
+"“Gracias.”",
 {"rt2"},
 },
 },
@@ -5448,7 +5448,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No hay de qué.",
+"“No hay de qué.”",
 {"rt2"},
 },
 },
@@ -5488,7 +5488,7 @@ block_00333={
 text={
 ja={
 {
-"Pero, eso es imposible.",
+"Pero... eso es imposible.",
 {"rt2"},
 },
 },
