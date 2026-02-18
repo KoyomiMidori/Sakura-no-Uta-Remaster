@@ -1153,7 +1153,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Y de acá, a un trío, ¿quizás?",
+"“Y de acá, a un trío, ¿quizás?",
 {"rt2"},
 },
 },
@@ -1172,7 +1172,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*Suspiro*, bien, ¿un trío entonces?",
+"“*Suspiro*, bien, ¿un trío entonces?”",
 {"rt2"},
 },
 },
@@ -1191,7 +1191,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¿Eh? ¿Hablas en serio?",
+"“¿Eh? ¿Hablas en serio?”",
 {"rt2"},
 },
 },
@@ -1205,7 +1205,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿R-Rina?",
+"“¿R-Rina?”",
 {"rt2"},
 },
 },
@@ -1223,7 +1223,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Si eso es lo que quieres...",
+"“Si eso es lo que quieres...”",
 {"rt2"},
 },
 },
@@ -1241,7 +1241,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -1259,7 +1259,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Rayos, eres toda una pequeña maliciosa, Rinaaa.",
+"“Rayos, eres toda una pequeña maliciosa, Rinaaa.”",
 {"rt2"},
 },
 },
@@ -1277,7 +1277,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Si lo soy ahora es por todas las tonterías que has dicho.",
+"“Si lo soy ahora es por todas las tonterías que has dicho.”",
 {"rt2"},
 },
 },
@@ -1300,7 +1300,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Jaa, confío en tus manos a Rina, Kusanagi.",
+"“Jaa, confío en tus manos a Rina, Kusanagi.”",
 {"rt2"},
 },
 },
@@ -1314,7 +1314,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Jaa?",
+"“¿Jaa?”",
 {"rt2"},
 },
 },
@@ -1332,7 +1332,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Me preocupé un poco ayer por los dos, pero ya parecen estar bien. Solo quería\nconfirmarlo.",
+"“Me preocupé un poco ayer por los dos, pero ya parecen estar bien. Solo quería\nconfirmarlo.”",
 {"rt2"},
 },
 },
@@ -1351,7 +1351,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"Bueno, me voy ya.",
+"“Bueno, me voy ya.”",
 {"rt2"},
 },
 },
@@ -1385,7 +1385,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué fue todo esto?",
+"“¿Qué fue todo esto?”",
 {"rt2"},
 },
 },
@@ -1404,7 +1404,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Yuumi jamás desearía un trío... Si fuera la clase de chica capaz de hacer eso\nella misma hubiera elegido el destino que deseaba.",
+"“Yuumi jamás desearía un trío... Si fuera la clase de chica capaz de hacer eso\nella misma hubiera elegido el destino que deseaba.”",
 {"rt2"},
 },
 },
@@ -1422,7 +1422,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Simplemente vino porque se preocupó... Así es Yuumi...",
+"“Simplemente vino porque se preocupó... Así es Yuumi...”",
 {"rt2"},
 },
 },
@@ -1436,7 +1436,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo, ya veo. Hmmm, aunque por la manera en que se comportó, no pareciera.",
+"“Ya veo, ya veo. Hmmm, aunque por la manera en que se comportó, no pareciera.”",
 {"rt2"},
 },
 },
@@ -1454,7 +1454,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Esa es la peculiar forma que tiene de expresarse cuando tiene pena.",
+"“Esa es la peculiar forma que tiene de expresarse cuando tiene pena.”",
 {"rt2"},
 },
 },
@@ -1468,7 +1468,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Eso significaría que todo el tiempo se muere de la pena.",
+"“Eso significaría que todo el tiempo se muere de la pena.”",
 {"rt2"},
 },
 },
@@ -1486,7 +1486,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sonará extraño, pero quizás sea acertado eso.",
+"“Sonará extraño, pero quizás sea acertado eso.”",
 {"rt2"},
 },
 },
@@ -1500,7 +1500,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Jaa?",
+"“¿Jaa?”",
 {"rt2"},
 },
 },
@@ -1518,7 +1518,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Solo bromeaba. Hay cosas que simplemente deben dejarse como broma...",
+"“Solo bromeaba. Hay cosas que simplemente deben dejarse como broma...”",
 {"rt2"},
 },
 },
@@ -1532,7 +1532,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Qué profundo eso, eh...",
+"“Qué profundo eso, eh...”",
 {"rt2"},
 },
 },
@@ -1550,7 +1550,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Qué más da? Dejando eso a un lado, deberías olvidarte de la chica que se fue y\npensar más en la que tienes enfrente.",
+"“¿Qué más da? Dejando eso a un lado, deberías olvidarte de la chica que se fue y\npensar más en la que tienes enfrente.”",
 {"rt2"},
 },
 },
@@ -1564,7 +1564,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí, aunque no tienes de qué preocuparte. Siempre estoy pensando en ti.",
+"“S-Sí, aunque no tienes de qué preocuparte. Siempre estoy pensando en ti.”",
 {"rt2"},
 },
 },
@@ -1583,7 +1583,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ohhh, me gusta escuchar eso. ¿Podrías decirme en qué exactamente piensas, sobre\ntodo?",
+"“Ohhh, me gusta escuchar eso. ¿Podrías decirme en qué exactamente piensas, sobre\ntodo?”",
 {"rt2"},
 },
 },
@@ -1598,7 +1598,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡En lo enormes que tienes los pechos!",
+"“¡En lo enormes que tienes los pechos!”",
 {"rt2"},
 },
 },
@@ -1616,7 +1616,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Esa clase de pensamientos idiotas están a la par con los de Thomas...",
+"“Esa clase de pensamientos idiotas están a la par con los de Thomas...”",
 {"rt2"},
 },
 },
@@ -1630,7 +1630,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Era solo una broma... o eso quisiera decir, pero... Bastante disfruté de la\nenormidad de ellos ayer, y la imagen no se despega totalmente de la cabeza\naún.",
+"“Era solo una broma... o eso quisiera decir, pero... Bastante disfruté de la\nenormidad de ellos ayer, y la imagen no se despega totalmente de la cabeza\naún.”",
 {"rt2"},
 },
 },
@@ -1648,7 +1648,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ya veo. Bueno, me conformo con poder satisfacerte. A pesar de que solo pueda\nhacerlo con estos.",
+"“Ya veo. Bueno, me conformo con poder satisfacerte. A pesar de que solo pueda\nhacerlo con estos.”",
 {"rt2"},
 },
 },
@@ -1663,7 +1663,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Eso no es cierto! ¡Tu encanto no está solo en tus pechos, Rina!",
+"“¡Eso no es cierto! ¡Tu encanto no está solo en tus pechos, Rina!”",
 {"rt2"},
 },
 },
@@ -1681,7 +1681,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pero, estuviste toda la noche pasada pensando en ellos, ¿o no?",
+"“Pero estuviste toda la noche pasada pensando en ellos, ¿o no?”",
 {"rt2"},
 },
 },
@@ -1695,7 +1695,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"N-No puedo negarlo...",
+"“N-No puedo negarlo...”",
 {"rt2"},
 },
 },
@@ -1713,7 +1713,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"En fin, ya me he dado cuenta que eres un maniático de los pechos.",
+"“En fin, ya me he dado cuenta que eres un maniático de los pechos.”",
 {"rt2"},
 },
 },
@@ -1728,7 +1728,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Nunca en la historia ha habido hombre alguno que odie los pechos!",
+"“¡Nunca en la historia ha habido hombre alguno que odie los pechos!”",
 {"rt2"},
 },
 },
@@ -1747,7 +1747,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Le estás negando las posibilidades a todas las lolis del planeta.",
+"“Le estás negando las posibilidades a todas las lolis del planeta.”",
 {"rt2"},
 },
 },
@@ -1761,7 +1761,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Las lolis no están mal en lo que a su categoría se refiere, ¡pero nada como\nunos buenos pechos! ¡Tetas, y más tetas! ¡No life, no tetas!",
+"“Las lolis no están mal en lo que a su categoría se refiere, ¡pero nada como\nunos buenos pechos! ¡Tetas, y más tetas! ¡No life, no tetas!”",
 {"rt2"},
 },
 },
@@ -1779,7 +1779,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Siento que estoy escuchando a Thomas hablar. Aunque, bueno, debo admitir que\ntambién me gustas así, sí.",
+"“Siento que estoy escuchando a Thomas hablar. Aunque, bueno, debo admitir que\ntambién me gustas así, sí.”",
 {"rt2"},
 },
 },
@@ -1797,7 +1797,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No en vano, pocas veces he visto este lado tuyo, que nada oculta ni se reprime\nde decir lo que piensa. Ese privilegio me corresponde ahora solo a mí...",
+"“No en vano, pocas veces he visto este lado tuyo, que nada oculta ni se reprime\nde decir lo que piensa. Ese privilegio me corresponde ahora solo a mí...”",
 {"rt2"},
 },
 },
@@ -1815,7 +1815,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hmph.",
+"“Hmph.”",
 {"rt2"},
 },
 },
@@ -1829,7 +1829,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Mm?",
+"“¿Mm?”",
 {"rt2"},
 },
 },
@@ -1872,7 +1872,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Pequeño maniático de los pechos, ¿te gustaría que te masajée con ellos?",
+"“Pequeño maniático de los pechos, ¿te gustaría que te masajée con ellos?”",
 {"rt2"},
 },
 },
@@ -1887,7 +1887,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Quiero!",
+"“¡Quiero!”",
 {"rt2"},
 },
 },
@@ -1906,7 +1906,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Está bien. A ver.",
+"“Está bien. A ver.”",
 {"rt2"},
 },
 },
@@ -1922,7 +1922,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Hmgh hmgh! ¡Hmgh hmgh!",
+"“¡Hmgh hmgh! ¡Hmgh hmgh!”",
 {"rt2"},
 },
 },
@@ -1940,7 +1940,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Me agrada ese entusiasmo...",
+"“Me agrada ese entusiasmo...”",
 {"rt2"},
 },
 },
@@ -1954,7 +1954,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Pues cómo no?! ¡Es imposible no entusiasmarme con estos dos tiernos y suaves\npechos apretujándome!",
+"“¡¿Pues cómo no?! ¡Es imposible no entusiasmarme con estos dos tiernos y suaves\npechos apretujándome!”",
 {"rt2"},
 },
 },
@@ -1970,7 +1970,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Hmph hmph!",
+"“¡Hmph hmph!”",
 {"rt2"},
 },
 },
@@ -1988,7 +1988,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Eres algo curioso, Senpai... Tienes muchos lados que generalmente no revelas.",
+"“Eres algo curioso, senpai... Tienes muchos lados que generalmente no revelas.”",
 {"rt2"},
 },
 },
@@ -2002,7 +2002,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Te parece? Tu también, diría yo.",
+"“¿Te parece? Tú también, diría yo.”",
 {"rt2"},
 },
 },
@@ -2020,7 +2020,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿De verdad?",
+"“¿De verdad?”",
 {"rt2"},
 },
 },
@@ -2034,7 +2034,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Siempre te sueltas el cabello cuando no llevas el uniforme, por ejemplo.",
+"“Siempre te sueltas el cabello cuando no llevas el uniforme, por ejemplo.”",
 {"rt2"},
 },
 },
@@ -2053,7 +2053,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así es, aunque no es que lo haga intencionalmente. Es simplemente cosa del\nmomento.",
+"“Así es, aunque no es que lo haga intencionalmente. Es simplemente cosa del\nmomento.”",
 {"rt2"},
 },
 },
@@ -2067,7 +2067,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me emociono cada vez que te veo con el cabello suelto, me recuerda al día que\nte conocí.",
+"“Me emociono cada vez que te veo con el cabello suelto, me recuerda al día que\nte conocí.”",
 {"rt2"},
 },
 },
@@ -2085,7 +2085,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Aquella vez también lo tenía suelto, ahora que lo mencionas.",
+"“Aquella vez también lo tenía suelto, ahora que lo mencionas.”",
 {"rt2"},
 },
 },
@@ -2099,7 +2099,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí. Aquel día pensé en lo mucho que te parecías al mismo brillo de la luna.",
+"“Sí. Aquel día pensé en lo mucho que te parecías al mismo brillo de la luna.”",
 {"rt2"},
 },
 },
@@ -2117,7 +2117,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Algo así habías dicho antes.",
+"“Algo así habías dicho antes.”",
 {"rt2"},
 },
 },
@@ -2131,7 +2131,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aunque ahora eres como el sol.",
+"“Aunque ahora eres como el sol.”",
 {"rt2"},
 },
 },
@@ -2149,7 +2149,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿De qué manera?... Aun no tolero bien el sol.",
+"“¿De qué manera?... Aun no tolero bien el sol.”",
 {"rt2"},
 },
 },
@@ -2163,7 +2163,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Cabello algo ondulado y pechos enormes, ¿no te parece una combinación simple,\nclásica pero invencible? Así como el sol.",
+"“Cabello algo ondulado y pechos enormes, ¿no te parece una combinación simple,\nclásica pero invencible? Así como el sol.”",
 {"rt2"},
 },
 },
@@ -2182,7 +2182,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿E-Eso crees?... No tengo idea, la verdad, pero si te gusta, entonces no me\nmolesta...",
+"“¿E-Eso crees?... No tengo idea, la verdad, pero si te gusta, entonces no me\nmolesta...”",
 {"rt2"},
 },
 },
@@ -2196,7 +2196,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Que me gusta? Me encanta. Me encantas tú, Rina.",
+"“¿Que me gusta? Me encanta. Me encantas tú, Rina.”",
 {"rt2"},
 },
 },
@@ -2214,7 +2214,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -2233,7 +2233,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ejeje, cómo me gusta escuchar eso. Solo con escuchar esas palabras me siento\nfeliz.",
+"“Ejeje, cómo me gusta escuchar eso. Solo con escuchar esas palabras me siento\nfeliz.”",
 {"rt2"},
 },
 },
@@ -2264,7 +2264,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Naoya-san, me siento en deuda por tan lindas palabras que me acabas de\nconceder. ¿Qué te gustaría que te haga?",
+"“Naoya-san, me siento en deuda por tan lindas palabras que me acabas de\nconceder. ¿Qué te gustaría que te haga?”",
 {"rt2"},
 },
 },
@@ -2278,7 +2278,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Hmm, pues sí... quisiera ver esos pechos sin nada encima.",
+"“Hmm, pues sí... quisiera ver esos pechos sin nada encima.”",
 {"rt2"},
 },
 },
@@ -2297,7 +2297,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ajaja, aun en eso no sales de los pechos.",
+"“Ajaja, aun en eso no sales de los pechos.”",
 {"rt2"},
 },
 },
@@ -2311,7 +2311,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No lo niego.",
+"“No lo niego.”",
 {"rt2"},
 },
 },
@@ -2344,7 +2344,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngh, mm...",
+"“Ngh, mm...”",
 {"rt2"},
 },
 },
@@ -2387,7 +2387,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Oh... ohhh...",
+"“Oh... ohhh...”",
 {"rt2"},
 },
 },
@@ -2404,7 +2404,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Te gustan?",
+"“¿Te gustan?”",
 {"rt2"},
 },
 },
@@ -2418,7 +2418,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿P-Puedo chuparlos?",
+"“¿P-Puedo chuparlos?”",
 {"rt2"},
 },
 },
@@ -2435,7 +2435,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eh? Claro. Puedes hacer todo lo que quieras con ellos. Son tuyos, Naoya- san.",
+"“¿Eh? Claro. Puedes hacer todo lo que quieras con ellos. Son tuyos, Naoya-san.”",
 {"rt2"},
 },
 },
@@ -2468,7 +2468,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ahn, nm, N-Naoya-san, la forma en que chupas es muy sucia.",
+"“Ahn, nm, N-Naoya-san, la forma en que chupas es muy sucia.”",
 {"rt2"},
 },
 },
@@ -2482,7 +2482,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, lo es... *chup*, *chu*, *chuchu*...",
+"“Sí, lo es... *chup*, *chu*, *chuchu*...”",
 {"rt2"},
 },
 },
@@ -2500,7 +2500,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Auh, hyan, nmm, la forma en que me chupas... me gusta, es tan... pervertida.\nN-No puedo creer, que se sienta, tan bien... que me chupen, mis pechos.",
+"“Auh, hyan, nmm, la forma en que me chupas... me gusta, es tan... pervertida.\nN-No puedo creer, que se sienta, tan bien... que me chupen, mis pechos.”",
 {"rt2"},
 },
 },
@@ -2515,7 +2515,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Se pararon tus pezones.",
+"“Se pararon tus pezones.”",
 {"rt2"},
 },
 },
@@ -2532,7 +2532,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿C-Cómo no se pararían, contigo chupándome así? Kuuun, hauh, uhhn... nmmm,\nhauh, hauuh, ah, ahhh...",
+"“¿C-Cómo no se pararían, contigo chupándome así? Kuuun, hauh, uhhn... nmmm,\nhauh, hauuh, ah, ahhh...”",
 {"rt2"},
 },
 },
@@ -2546,7 +2546,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Puedo hacer más que chupar... así, por ejemplo. Ahm...",
+"“Puedo hacer más que chupar... así, por ejemplo. Ahm...”",
 {"rt2"},
 },
 },
@@ -2565,7 +2565,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kuuhh...... n-nghh～～, s-sentí tus dientes, Naoya-san. Kaaah, m-me mordiste.",
+"“Kuuhh...... n-nghh～～, s-sentí tus dientes, Naoya-san. Kaaah, m-me mordiste.”",
 {"rt2"},
 },
 },
@@ -2579,7 +2579,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te daré más, muchos más mordiscos... *ahm*",
+"“Te daré más, muchos más mordiscos... *ahm*”",
 {"rt2"},
 },
 },
@@ -2597,7 +2597,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A-Ahhhh, s-si, sigues haciendo eso, acabaré muy rápido.",
+"“A-Ahhhh, s-si, sigues haciendo eso, acabaré muy rápido.”",
 {"rt2"},
 },
 },
@@ -2611,7 +2611,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿No quieres que lo haga?",
+"“¿No quieres que lo haga?”",
 {"rt2"},
 },
 },
@@ -2628,7 +2628,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hauuh... n-no es eso. Solo que, mmm, se siente tan bien, hauuh... que, podría\nacabar en cualquier momento..",
+"“Hauuh... n-no es eso. Solo que, mmm, se siente tan bien, hauuh... que, podría\nacabar en cualquier momento...”",
 {"rt2"},
 },
 },
@@ -2642,7 +2642,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vaya que te gusta cuando juego con tus pechos, eh.... *ahm*",
+"“Vaya que te gusta cuando juego con tus pechos, eh.... *ahm*”",
 {"rt2"},
 },
 },
@@ -2659,7 +2659,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"P-Parte de la culpa la tienes tú por gustarte tanto ellos, Naoya-san, ngh...\ns-si sigues, chupándolos, como un bebe, yo...",
+"“P-Parte de la culpa la tienes tú por gustarte tanto ellos, Naoya-san, ngh...\ns-si sigues, chupándolos, como un bebe, yo...”",
 {"rt2"},
 },
 },
@@ -2673,7 +2673,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No puedo evitarlo, es irresistible la sensación de tus pezones llenando mi\nboca...",
+"“No puedo evitarlo, es irresistible la sensación de tus pezones llenando mi\nboca...”",
 {"rt2"},
 },
 },
@@ -2691,7 +2691,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ahhn, nmmm, te, prohíbo, que hables con mis pezones en tu boca. ¿No te dije,\nayer, que la vibración cuando hablas, se siente muy bien? Ah, kuuhn, ahn.",
+"“Ahhn, nmmm, te, prohíbo, que hables con mis pezones en tu boca. ¿No te dije,\nayer, que la vibración cuando hablas, se siente muy bien? Ah, kuuhn, ahn.”",
 {"rt2"},
 },
 },
@@ -2705,7 +2705,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Vas a venirte de nuevo por los pechos?",
+"“¿Vas a venirte de nuevo por los pechos?”",
 {"rt2"},
 },
 },
@@ -2722,7 +2722,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿V-Venirme de nuevo por los pechos? Claro que no, aún puedo aguantar... Ahhn,\np-pero, se siente tan bien, que, Jaa, jaa, ngh, siento, que voy a perder la\ncordura.",
+"“¿V-Venirme de nuevo por los pechos? Claro que no, aún puedo aguantar... Ahhn,\np-pero, se siente tan bien, que, Jaa, jaa, ngh, siento, que voy a perder la\ncordura.”",
 {"rt2"},
 },
 },
@@ -2736,7 +2736,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vamos, no tienes por qué aguantar.",
+"“Vamos, no tienes por qué aguantar.”",
 {"rt2"},
 },
 },
@@ -2753,7 +2753,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Q-Quiero hacerlo. Kuuhn, ay, kuhn, tengo, tengo que... evitar, correrme...",
+"“Q-Quiero hacerlo. Kuuhn, ay, kuhn, tengo, tengo que... evitar, correrme...”",
 {"rt2"},
 },
 },
@@ -2770,7 +2770,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"P-Pero, pero, tu lengua se siente tan bien... n-no puedo resistirlo...",
+"“P-Pero, pero, tu lengua se siente tan bien... n-no puedo resistirlo...”",
 {"rt2"},
 },
 },
@@ -2784,7 +2784,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Son realmente sensibles tus pechos, eh.",
+"“Son realmente sensibles tus pechos, eh.”",
 {"rt2"},
 },
 },
@@ -2801,7 +2801,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Auhh, p-por eso mismo, es que tengo, tengo que aguantaaar...",
+"“Auhh, p-por eso mismo, es que tengo, tengo que aguantaaar...”",
 {"rt2"},
 },
 },
@@ -2818,7 +2818,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A-Ahh, el interior de tu boca, es tan cálido, y se siente tan bien, siento que\nmis pezones podrían derretirse pronto.",
+"“A-Ahh, el interior de tu boca, es tan cálido, y se siente tan bien, siento que\nmis pezones podrían derretirse pronto.”",
 {"rt2"},
 },
 },
@@ -2832,7 +2832,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Para qué aguantar si se siente tan bien?...",
+"“¿Para qué aguantar si se siente tan bien?...”",
 {"rt2"},
 },
 },
@@ -2850,7 +2850,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngah, p-pero, quiero aguantar. A-Aún nos falta, muchas cosas pervertidas por\nhaceeer, ahn, nghhh, pero, se siente tan bien, tu lengua.",
+"“Ngah, p-pero, quiero aguantar. A-Aún nos falta, muchas cosas pervertidas por\nhaceeer, ahn, nghhh, pero, se siente tan bien, tu lengua.”",
 {"rt2"},
 },
 },
@@ -2868,7 +2868,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Haauh, no lo quiero, pero mis pezones se sienten increíblemente bieeen, kuuhn,\na-ah, no, no puedo... me, me voy a, me voy a volver locaaa.",
+"“Haauh, no lo quiero, pero mis pezones se sienten increíblemente bieeen, kuuhn,\na-ah, no, no puedo... me, me voy a, me voy a volver locaaa.”",
 {"rt2"},
 },
 },
@@ -2885,7 +2885,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ayyh, auh, se siente bien cuando chupas. Se siente tan bien cuando me chupas.",
+"“Ayyh, auh, se siente bien cuando chupas. Se siente tan bien cuando me chupas.”",
 {"rt2"},
 },
 },
@@ -2903,7 +2903,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ayy, auh, a-ahh, no, chupes. M-Me vengo, d-de verdad, me, vengooo.",
+"“Ayy, auh, a-ahh, no, chupes. M-Me vengo, d-de verdad, me, vengooo.”",
 {"rt2"},
 },
 },
@@ -2917,7 +2917,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Puedes hacerlo.",
+"“Puedes hacerlo.”",
 {"rt2"},
 },
 },
@@ -2934,7 +2934,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No quiero, no quiero correrme por mis pezones, pero, n-no puedo aguantarlo,\nperdóname. N-Naoya-san, ¿puedo correrme? ¿Puedo venirme yo solita?",
+"“No quiero, no quiero correrme por mis pezones, pero, n-no puedo aguantarlo,\nperdóname. N-Naoya-san, ¿puedo correrme? ¿Puedo venirme yo solita?”",
 {"rt2"},
 },
 },
@@ -2948,7 +2948,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, córrete tanto como quieras.",
+"“Sí, córrete tanto como quieras.”",
 {"rt2"},
 },
 },
@@ -2965,7 +2965,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A-Ahh, perdóname. De seguir así me correré sola. Hauuun, auhh, ah, kufuu.",
+"“A-Ahh, perdóname. De seguir así me correré sola. Hauuun, auhh, ah, kufuu.”",
 {"rt2"},
 },
 },
@@ -2982,7 +2982,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Naoya-san, el interior de tu boca se siente genial. Me encanta, cuando, me\nlames, y me das esos cariñosos mordiscos.",
+"“Naoya-san, el interior de tu boca se siente genial. Me encanta, cuando, me\nlames, y me das esos cariñosos mordiscos.”",
 {"rt2"},
 },
 },
@@ -3000,7 +3000,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Auh, no puedo más. Ya no puedo más. Me vengo. ¿Puedo? No lo aguanto más.",
+"“Auh, no puedo más. Ya no puedo más. Me vengo. ¿Puedo? No lo aguanto más.”",
 {"rt2"},
 },
 },
@@ -3017,7 +3017,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah, auuh, kuhaa, me, me vengo, ngh, ah, ah, no, hii.",
+"“Ah, auuh, kuhaa, me, me vengo, ngh, ah, ah, no, hii.”",
 {"rt2"},
 },
 },
@@ -3034,7 +3034,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"A-Ahhh, no puedo, ya, no aguanto. A-Ahhh, m-me vengo, ya, me vengo, ngah, no,\nme corro, hauuun, ahhh, nghhhh.",
+"“A-Ahhh, no puedo, ya, no aguanto. A-Ahhh, m-me vengo, ya, me vengo, ngah, no,\nme corro, hauuun, ahhh, nghhhh.”",
 {"rt2"},
 },
 },
@@ -3113,7 +3113,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa, jaa... kuuhn...",
+"“Jaa, jaa, jaa... kuuhn...”",
 {"rt2"},
 },
 },
@@ -3127,7 +3127,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Te gustó?",
+"“¿Te gustó?”",
 {"rt2"},
 },
 },
@@ -3144,7 +3144,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"S-Síii... m-me gustó, bastante... Jaa, jaa... una vez más... hiciste que me\nviniera, solo con mis pechos...",
+"“S-Síii... m-me gustó, bastante... Jaa, jaa... una vez más... hiciste que me\nviniera, solo con mis pechos...”",
 {"rt2"},
 },
 },
@@ -3158,7 +3158,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo también me excité viendo lo pervertida que eres.",
+"“Yo también me excité viendo lo pervertida que eres.”",
 {"rt2"},
 },
 },
@@ -3176,7 +3176,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa, no me hables así, por favor. Me da mucha vergüenza... E-Esta vez\nquería aguantar y no correrme con mis pechos...",
+"“Jaa, jaa, no me hables así, por favor. Me da mucha vergüenza... E-Esta vez\nquería aguantar y no correrme con mis pechos...”",
 {"rt2"},
 },
 },
@@ -3190,7 +3190,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No hace falta que fuerces tanto las cosas...",
+"“No hace falta que fuerces tanto las cosas...”",
 {"rt2"},
 },
 },
@@ -3207,7 +3207,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Siempre soy yo la que se viene primero, cómo te gusta jugar conmigo! ¡Te\npagaré igual!",
+"“¡Siempre soy yo la que se viene primero, cómo te gusta jugar conmigo! ¡Te\npagaré igual!”",
 {"rt2"},
 },
 },
@@ -3236,7 +3236,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh...",
+"“Kuh...”",
 {"rt2"},
 },
 },
@@ -3253,7 +3253,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Oh? Vaya, vaya, Naoya-san, tanto que hablas de mí, y solo mira. Hay incluso\nuna pequeña mancha en tu pantalón.",
+"“¿Oh? Vaya, vaya, Naoya-san, tanto que hablas de mí, y solo mira. Hay incluso\nuna pequeña mancha en tu pantalón.”",
 {"rt2"},
 },
 },
@@ -3267,7 +3267,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajaja, s-sí, es que me calenté...",
+"“Ajaja, s-sí, es que me calenté...”",
 {"rt2"},
 },
 },
@@ -3284,7 +3284,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"E-Es mi turno entonces para hacerte muchas cositas. Con estos pechos que tanto\nte encantan...",
+"“E-Es mi turno entonces para hacerte muchas cositas. Con estos pechos que tanto\nte encantan...”",
 {"rt2"},
 },
 },
@@ -3329,7 +3329,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"U-Uwaah... T-Tengo que decir... que es increíble. Naoya-san, tu pe*e, está\nbastante, esto, parado...",
+"“U-Uwaah... T-Tengo que decir... que es increíble. Naoya-san, tu pe*e, está\nbastante, esto, parado...”",
 {"rt2"},
 },
 },
@@ -3343,7 +3343,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero si ayer lo viste también.",
+"“Pero si ayer lo viste también.”",
 {"rt2"},
 },
 },
@@ -3360,7 +3360,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"L-Lo sé, pero... lo veo, y no puedo evitar... pensar, en lo grande que es...",
+"“L-Lo sé, pero... lo veo, y no puedo evitar... pensar, en lo grande que es...”",
 {"rt2"},
 },
 },
@@ -3377,7 +3377,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y está bastante húmedo. Como si fueras una chica.",
+"“Y está bastante húmedo. Como si fueras una chica.”",
 {"rt2"},
 },
 },
@@ -3391,7 +3391,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Eso es por verte... disfrutando tanto, cuando jugué con tus pechos...",
+"“E-Eso es por verte... disfrutando tanto, cuando jugué con tus pechos...”",
 {"rt2"},
 },
 },
@@ -3408,7 +3408,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Claro, claro~, Rina es una depravada que se excita cuando juegan con sus\npechos.",
+"“Claro, claro~, Rina es una depravada que se excita cuando juegan con sus\npechos.”",
 {"rt2"},
 },
 },
@@ -3422,7 +3422,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"N-No quise decir eso, sino que--",
+"“N-No quise decir eso, sino que--”",
 {"rt2"},
 },
 },
@@ -3439,7 +3439,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No importa. Bien, ahora te apretujaré con estos obscenos y enormes, sensibles\npechos que tanto te gustan.",
+"“No importa. Bien, ahora te apretujaré con estos obscenos y enormes, sensibles\npechos que tanto te gustan.”",
 {"rt2"},
 },
 },
@@ -3453,7 +3453,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"B-Bueno...",
+"“B-Bueno...”",
 {"rt2"},
 },
 },
@@ -3495,7 +3495,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh...",
+"“Kuh...”",
 {"rt2"},
 },
 },
@@ -3512,7 +3512,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Se siente bien? Pareces estar disfrutando tener tu pe*e apretujado por los\nultra sensibles pechos de Rina, Naoya-san.",
+"“¿Se siente bien? Pareces estar disfrutando tener tu pe*e apretujado por los\nultra sensibles pechos de Rina, Naoya-san.”",
 {"rt2"},
 },
 },
@@ -3544,7 +3544,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*risas*, qué caliente está tu pe*e, Naoya-san. Y está dando pequeños saltitos\nademás. Parece que cada vez que salta un poco sale algo de líquido. ¿Vas a\nexplicarme esto?",
+"“Jaja, qué caliente está tu pene, Naoya-san. Y está dando pequeños saltitos\nademás. Parece que cada vez que salta un poco sale algo de líquido. ¿Vas a\nexplicarme esto?”",
 {"rt2"},
 },
 },
@@ -3588,7 +3588,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Increíble... Está moviéndose descontroladamente entre mis pechos. Pero no\npueden salirse.",
+"“Increíble... Está moviéndose descontroladamente entre mis pechos. Pero no\npueden salirse.”",
 {"rt2"},
 },
 },
@@ -3618,7 +3618,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Comienzo a moverme? Ya mis pechos están mojados y resbalosos con tus jugos,\nquizás lo puedas disfrutar más así... ngh... fuh... ¿Te gusta, que te...\nfrote, así, con ellos?",
+"“¿Comienzo a moverme? Ya mis pechos están mojados y resbalosos con tus jugos,\nquizás lo puedas disfrutar más así... ngh... fuh... ¿Te gusta, que te...\nfrote, así, con ellos?”",
 {"rt2"},
 },
 },
@@ -3646,7 +3646,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ngh... kuh, e-es extraordinario...",
+"“Ngh... kuh, e-es extraordinario...”",
 {"rt2"},
 },
 },
@@ -3663,7 +3663,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kufuh... n-ngh... Naoya-san, tu pe*e... es tan duro. Cuando trato, de apiñarlo\ncon... mis pechos... me empujan de vuelta... ngh... huh... mmm... está tan\ncaliente...",
+"“Kufuh... n-ngh... Naoya-san, tu pe*e... es tan duro. Cuando trato, de apiñarlo\ncon... mis pechos... me empujan de vuelta... ngh... huh... mmm... está tan\ncaliente...”",
 {"rt2"},
 },
 },
@@ -3690,7 +3690,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh, kuh... Rina, tus pechos se sienten fenomenalmente bien... La suave y\ncaliente sensación, cuando me apretujan... a-ah... se siente genial.",
+"“Kuh, kuh... Rina, tus pechos se sienten fenomenalmente bien... La suave y\ncaliente sensación, cuando me apretujan... a-ah... se siente genial.”",
 {"rt2"},
 },
 },
@@ -3707,7 +3707,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufu... ya veo. Realmente te gustan los pechos grandes, ¿no, Naoya- san?...\nNgh... fuh... mmm... está moviéndose tanto entre mis pechos.",
+"“Fufu... ya veo. Realmente te gustan los pechos grandes, ¿no, Naoya- san?...\nNgh... fuh... mmm... está moviéndose tanto entre mis pechos.”",
 {"rt2"},
 },
 },
@@ -3721,7 +3721,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí... se siente genial... como me lo haces con tus pechos...",
+"“S-Sí... se siente genial... como me lo haces con tus pechos...”",
 {"rt2"},
 },
 },
@@ -3738,7 +3738,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kufuh... ngh... mmm... fuh... ngh... fufu... Se mueve tanto, y cada vez que se\nmueve, suelta algo de líquido... ngh... fuh... mmm... Estoy comenzando a\nexcitarme yo también.",
+"“Kufuh... ngh... mmm... fuh... ngh... fufu... Se mueve tanto, y cada vez que se\nmueve, suelta algo de líquido... ngh... fuh... mmm... Estoy comenzando a\nexcitarme yo también.”",
 {"rt2"},
 },
 },
@@ -3755,7 +3755,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Naoya-san... ¿Puedo lamer tu pe*e?",
+"“Naoya-san... ¿Puedo lamer tu pene?”",
 {"rt2"},
 },
 },
@@ -3769,7 +3769,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -3786,7 +3786,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Después de ver el jugo que sale de la punta de tu pe*e... siento que no puedo\naguantarlo más... Quiero chuparlo.",
+"“Después de ver el jugo que sale de la punta de tu pe*e... siento que no puedo\naguantarlo más... Quiero chuparlo.”",
 {"rt2"},
 },
 },
@@ -3800,7 +3800,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"C-Claro... más bien soy yo quien debería pedírtelo.",
+"“C-Claro... más bien soy yo quien debería pedírtelo.”",
 {"rt2"},
 },
 },
@@ -3818,7 +3818,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hoy chuparé cada rincón de tu pe*e, Naoya-san. Quiero que lo disfrutes\nbastante.",
+"“Hoy chuparé cada rincón de tu pe*e, Naoya-san. Quiero que lo disfrutes\nbastante.”",
 {"rt2"},
 },
 },
@@ -3848,7 +3848,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uwaah.",
+"“Uwaah.”",
 {"rt2"},
 },
 },
@@ -3875,7 +3875,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uh, kuhh...",
+"“Uh, kuhh...”",
 {"rt2"},
 },
 },
@@ -3906,7 +3906,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Haaan... ngh, kuh...",
+"“Haaan... ngh, kuh...”",
 {"rt2"},
 },
 },
@@ -3923,7 +3923,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*rerorero*... Tu pe*e... ¿Lo edtá', difutando?",
+"“*rerorero*... Tu pe*e... ¿Lo edtá', difutando?”",
 {"rt2"},
 },
 },
@@ -3937,7 +3937,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Auh... se siente, genial... Se siente fenomenal... que chupes mi pe*e, con tus\npechos entre él...",
+"“Auh... se siente, genial... Se siente fenomenal... que chupes mi pe*e, con tus\npechos entre él...”",
 {"rt2"},
 },
 },
@@ -3954,7 +3954,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufu, ¿dí? Cómo me adegra... *rero*... *rerorero*... *chupaa*, *chupaa*... Te\ngusta que te roce con mi lengua por debajo, ¿verdad?",
+"“Fufu, ¿dí? Cómo me adegra... *rero*... *rerorero*... *chupaa*, *chupaa*... Te\ngusta que te roce con mi lengua por debajo, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -3968,7 +3968,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí, ahí... se siente muy bien...",
+"“S-Sí, ahí... se siente muy bien...”",
 {"rt2"},
 },
 },
@@ -4026,7 +4026,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ngaah.",
+"“Ngaah.”",
 {"rt2"},
 },
 },
@@ -4043,7 +4043,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ahn... Deja de hacer eso, Naoya/san... Si te mueves mucho mis dientes tocarán\ntu pe*e.",
+"“Ahn... Deja de hacer eso, Naoya/san... Si te mueves mucho mis dientes tocarán\ntu pene.”",
 {"rt2"},
 },
 },
@@ -4057,7 +4057,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"L-Lo sé, pero... se siente, tan bien, que... Kuhh.",
+"“L-Lo sé, pero... se siente, tan bien, que... Kuhh.”",
 {"rt2"},
 },
 },
@@ -4074,7 +4074,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufufu... ¿En serio? Me gusta escuchar eso. Mm... fuh... *rerorero*... ngh...\nfuh... *rero*... *rerorero*... ngh...",
+"“Fufufu... ¿En serio? Me gusta escuchar eso. Mm... fuh... *rerorero*... ngh...\nfuh... *rero*... *rerorero*... ngh...”",
 {"rt2"},
 },
 },
@@ -4102,7 +4102,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ngah, kuh, uh.",
+"“Ngah, kuh, uh.”",
 {"rt2"},
 },
 },
@@ -4119,7 +4119,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Está saliendo tanto jugo de la punta. No para. Déjame sorberlo todo, ¿sí?",
+"“Está saliendo tanto jugo de la punta. No para. Déjame sorberlo todo, ¿sí?”",
 {"rt2"},
 },
 },
@@ -4149,7 +4149,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufu, parece que los papeles se invirtieron por completo. Estás disfrutando\ntodo lo que le hago a tu cuerpo. *rero*... *rero*... ¿Se siente bien?...\nNmm... fuh... *rero*... Ya me conozco todos tus puntos débiles.",
+"“Fufu, parece que los papeles se invirtieron por completo. Estás disfrutando\ntodo lo que le hago a tu cuerpo. *rero*... *rero*... ¿Se siente bien?...\nNmm... fuh... *rero*... Ya me conozco todos tus puntos débiles.”",
 {"rt2"},
 },
 },
@@ -4176,7 +4176,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"R-Rina... No sé si me imagino cosas, pero lo estás haciendo mucho mejor que\nayer...",
+"“R-Rina... No sé si me imagino cosas, pero lo estás haciendo mucho mejor que\nayer...”",
 {"rt2"},
 },
 },
@@ -4193,7 +4193,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*risas*. Pues sí, investigué bastante, para saber cómo complacerte... *rero*,\n*rerorero*... Estuve, toda la noche... investigando, las partes más sensibles\nde los hombres... *rerorero*... ngh... fuh...",
+"“Jaja. Pues sí, investigué bastante, para saber cómo complacerte... *rero*,\n*rerorero*... Estuve, toda la noche... investigando, las partes más sensibles\nde los hombres... *rerorero*... ngh... fuh...”",
 {"rt2"},
 },
 },
@@ -4210,7 +4210,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufu... *rero*, *rerorero*... Así que... Naoya-san, espero que... ngh... te\nguste... *rerorero*... y do, disfutes musho... *rero*... *rerorero*... ¿dí?",
+"“Fufu... *rero*, *rerorero*... Así que... Naoya-san, espero que... ngh... te\nguste... *rerorero*... y do, disfutes musho... *rero*... *rerorero*... ¿dí?”",
 {"rt2"},
 },
 },
@@ -4224,7 +4224,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ngaaah... ahh... se siente increíble... ¿P-Por qué se siente tan bien?... Kuuh.",
+"“Ngaaah... ahh... se siente increíble... ¿P-Por qué se siente tan bien?... Kuuh.”",
 {"rt2"},
 },
 },
@@ -4241,7 +4241,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Me esforcé bastante, para que pudieras, disfrutarlo... ngh... fuh... mmm...\n*rerorero*... ngh... fuh... *rerorero*...",
+"“Me esforcé bastante, para que pudieras, disfrutarlo... ngh... fuh... mmm...\n*rerorero*... ngh... fuh... *rerorero*...”",
 {"rt2"},
 },
 },
@@ -4271,7 +4271,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿?!",
+"“¡¿Mm?!”",
 {"rt2"},
 },
 },
@@ -4311,7 +4311,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuuh, hauuh.",
+"“Kuuh, hauuh.”",
 {"rt2"},
 },
 },
@@ -4341,7 +4341,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*chuu*, *chup*, *chup*, ngh... ¿Naoya-san, se siente bien... ngh... esto? Así,\ncubriendo toda la puntita con mi boca, y lamiéndolo todo así...",
+"“*chuu*, *chup*, *chup*, ngh... ¿Naoya-san, se siente bien... ngh... esto? Así,\ncubriendo toda la puntita con mi boca, y lamiéndolo todo así...”",
 {"rt2"},
 },
 },
@@ -4355,7 +4355,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uwaaaah... kuuh, uh.",
+"“Uwaaaah... kuuh, uh.”",
 {"rt2"},
 },
 },
@@ -4398,7 +4398,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*kyup*, *chup*, *chup*, *chuu*, *chu*... Naoya-san... increíble... ¿Te gusta,\nverdad?... *rero*... *rerorero*... Te ves bastante inquieto... No sabes lo\nfeliz que soy viéndote así.",
+"“*kyup*, *chup*, *chup*, *chuu*, *chu*... Naoya-san... increíble... ¿Te gusta,\nverdad?... *rero*... *rerorero*... Te ves bastante inquieto... No sabes lo\nfeliz que soy viéndote así.”",
 {"rt2"},
 },
 },
@@ -4451,7 +4451,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Se siente, genial... a-ah, no puedo... kuh, se siente, muy bien...",
+"“S-Se siente, genial... a-ah, no puedo... kuh, se siente, muy bien...”",
 {"rt2"},
 },
 },
@@ -4468,7 +4468,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*kyup*, *chup*, *kyup*, cada vez que lo saco, y lo meto... ngh, sale, más, y\nmás jugo de tu pe*e... ngh... y tu cara, luce tan inquieta... Qué feliz soy\nahora...",
+"“*kyup*, *chup*, *kyup*, cada vez que lo saco, y lo meto... ngh, sale, más, y\nmás jugo de tu pe*e... ngh... y tu cara, luce tan inquieta... Qué feliz soy\nahora...”",
 {"rt2"},
 },
 },
@@ -4495,7 +4495,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué, puedo hacer?... S-Se siente, tan bien... Kuhaa.",
+"“¿Qué, puedo hacer?... S-Se siente, tan bien... Kuhaa.”",
 {"rt2"},
 },
 },
@@ -4509,7 +4509,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Jaa... Jaa... Rina... tus pechos... estás moviéndolos muy rápido... Mis\npiernas, yo... ah...",
+"“Jaa... Jaa... Rina... tus pechos... estás moviéndolos muy rápido... Mis\npiernas, yo... ah...”",
 {"rt2"},
 },
 },
@@ -4539,7 +4539,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Lo hago más lento?",
+"“¿Lo hago más lento?”",
 {"rt2"},
 },
 },
@@ -4553,7 +4553,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no, sigue así... se siente, fenomenal... kuh, mis piernas, no paran de\ntemblar, y...",
+"“Ah, no, sigue así... se siente, fenomenal... kuh, mis piernas, no paran de\ntemblar, y...”",
 {"rt2"},
 },
 },
@@ -4570,7 +4570,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Sí? Sigue disfrutando de mis pechos, entonces. *kuchuu*... *kyup*, *chup*,\n*chup*, *kyup*... ¿Te gusta, cuando succiono?",
+"“¿Sí? Sigue disfrutando de mis pechos, entonces. *kuchuu*... *kyup*, *chup*,\n*chup*, *kyup*... ¿Te gusta, cuando succiono?”",
 {"rt2"},
 },
 },
@@ -4584,7 +4584,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, la manera en que succionas... se siente, genial...",
+"“Sí, la manera en que succionas... se siente, genial...”",
 {"rt2"},
 },
 },
@@ -4601,7 +4601,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ajaja, qué bueno saber eso. Investigué bastante, para poder... hacerte,\ndisfrutar. Bien, succionaré un poco más ahora, ¿sí?... *kyup*, *chup*,\n*chup*, *kyup*, *chup*, *kyuuup*...",
+"“Ajaja, qué bueno saber eso. Investigué bastante, para poder... hacerte,\ndisfrutar. Bien, succionaré un poco más ahora, ¿sí?... *kyup*, *chup*,\n*chup*, *kyup*, *chup*, *kyuuup*...”",
 {"rt2"},
 },
 },
@@ -4644,7 +4644,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fufu... qué felicidad... Mis pechos, están... haciendo, disfrutar, a Naoya-\nsan... ngh, fuh... nmm, fuh... ngh, fuh... ngh, fuh... *rero*, *rerorero*...\n*rero*... *rerorerorero*...",
+"“Fufu... qué felicidad... Mis pechos, están... haciendo, disfrutar, a Naoya-\nsan... ngh, fuh... nmm, fuh... ngh, fuh... ngh, fuh... *rero*, *rerorero*...\n*rero*... *rerorerorero*...”",
 {"rt2"},
 },
 },
@@ -4658,7 +4658,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A-Ah, esto, no, es, irresistible. A-Ah, kuaagh, ngah.",
+"“A-Ah, esto, no, es, irresistible. A-Ah, kuaagh, ngah.”",
 {"rt2"},
 },
 },
@@ -4675,7 +4675,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa... está, saltando bastante... Tu pe*e, salta, desprendiendo tu jugo.\nNaoya-san... ngh, fuh... te ves, tan lindo, así...",
+"“Jaa... está, saltando bastante... Tu pe*e, salta, desprendiendo tu jugo.\nNaoya-san... ngh, fuh... te ves, tan lindo, así...”",
 {"rt2"},
 },
 },
@@ -4689,7 +4689,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh, no, no puedo más. Ya no puedo, no puedo aguantar esto... Ngaah... Jaa...\nR-Rina... creo, que ya, no puedo, más... kuhhn.",
+"“Ahh, no, no puedo más. Ya no puedo, no puedo aguantar esto... Ngaah... Jaa...\nR-Rina... creo, que ya, no puedo, más... kuhhn.”",
 {"rt2"},
 },
 },
@@ -4706,7 +4706,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Estás en mi lugar ahora. No hace falta que aguantes más. Eyacula, eyacula\nbastante. Yo me encargaré de tomarlo todo...",
+"“Estás en mi lugar ahora. No hace falta que aguantes más. Eyacula, eyacula\nbastante. Yo me encargaré de tomarlo todo...”",
 {"rt2"},
 },
 },
@@ -4723,7 +4723,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Rápido, quiero tener tu jugo, en mi boca...",
+"“Rápido, quiero tener tu jugo, en mi boca...”",
 {"rt2"},
 },
 },
@@ -4738,7 +4738,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A-Ah, ahhhh, kaaah... auh...",
+"“A-Ah, ahhhh, kaaah... auh...”",
 {"rt2"},
 },
 },
@@ -4778,7 +4778,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no puedo más. Kuh, no, no... no aguanto. No puedo aguantar. Yo, ya... ah,\nno...",
+"“Ah, no puedo más. Kuh, no, no... no aguanto. No puedo aguantar. Yo, ya... ah,\nno...”",
 {"rt2"},
 },
 },
@@ -4808,7 +4808,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*kyup*, *kyup*, *chup*, *chup*, ngh... Cuando quieras, *kyup*, *kyup*...\n*rerorero*... deja, ir, tu pe*e... No aguantes, dámelo todo...",
+"“*kyup*, *kyup*, *chup*, *chup*, ngh... Cuando quieras, *kyup*, *kyup*...\n*rerorero*... deja, ir, tu pe*e... No aguantes, dámelo todo...”",
 {"rt2"},
 },
 },
@@ -4822,7 +4822,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A-Ah, ahh... me corro... ah, no, no puedo...",
+"“A-Ah, ahh... me corro... ah, no, no puedo...”",
 {"rt2"},
 },
 },
@@ -4839,7 +4839,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*kyup*, *kyup*, *chup*, *kyuuuup*, sí... eyacula... Quiero ver, ya, cómo\neyaculas, y cómo, te vienes, con mi boca, y mis pechos... Jaa... Jaa... ngh,\nfuh... ngh, fuh... ngh, fuh... rápido, quiero ver.",
+"“*kyup*, *kyup*, *chup*, *kyuuuup*, sí... eyacula... Quiero ver, ya, cómo\neyaculas, y cómo, te vienes, con mi boca, y mis pechos... Jaa... Jaa... ngh,\nfuh... ngh, fuh... ngh, fuh... rápido, quiero ver.”",
 {"rt2"},
 },
 },
@@ -4853,7 +4853,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, ahh... Creo, que... va a salir... bastante... Jaa... Gah, con lo bien que\nse siente, es casi seguro...",
+"“Ah, ahh... Creo, que... va a salir... bastante... Jaa... Gah, con lo bien que\nse siente, es casi seguro...”",
 {"rt2"},
 },
 },
@@ -4870,7 +4870,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Está bien, Naoya-san. *kyup*, *kyup*, *chup*. Ngh, fuh... Eyacula, bastante...\nngh, fuh... ngh, fuh... *rerorero*... echa, todo, todo tu semen... sobre,\nmí...",
+"“Está bien, Naoya-san. *kyup*, *kyup*, *chup*. Ngh, fuh... Eyacula, bastante...\nngh, fuh... ngh, fuh... *rerorero*... echa, todo, todo tu semen... sobre,\nmí...”",
 {"rt2"},
 },
 },
@@ -4887,7 +4887,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"En, mi... boca, y mi cara... ngh, fuh, en mi cabello, y en mi ropa... ngh,\nfuh... dame, tu semen... ngh, fuh... ngh, fuh... ngh, fuh... ngh, fuh,ngh,\nfuh, mm, fuh.",
+"“En, mi... boca, y mi cara... ngh, fuh, en mi cabello, y en mi ropa... ngh,\nfuh... dame, tu semen... ngh, fuh... ngh, fuh... ngh, fuh... ngh, fuh,ngh,\nfuh, mm, fuh.”",
 {"rt2"},
 },
 },
@@ -4901,7 +4901,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, e-espera--, ahh, no puedo, aguantar... tus pechos, me estrujan...\ndemasiado, rápidooo... y-ya, no... ah, ahh.",
+"“Ah, e-espera--, ahh, no puedo, aguantar... tus pechos, me estrujan...\ndemasiado, rápidooo... y-ya, no... ah, ahh.”",
 {"rt2"},
 },
 },
@@ -4918,7 +4918,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngh, mm, ngh, mm, ngh, mm, no aguantes, Naoya-san, ngh, mm, ngh, mm, ngh, mm,\neyacula, eyacula sobre mí, dame tu, semen.",
+"“Ngh, mm, ngh, mm, ngh, mm, no aguantes, Naoya-san, ngh, mm, ngh, mm, ngh, mm,\neyacula, eyacula sobre mí, dame tu, semen.”",
 {"rt2"},
 },
 },
@@ -4935,7 +4935,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngh, mm, ngh, mm, ngh, mm, Naoya-san, embarra mi cara, con tu semen... *chup*,\n*kyup*...",
+"“Ngh, mm, ngh, mm, ngh, mm, Naoya-san, embarra mi cara, con tu semen... *chup*,\n*kyup*...”",
 {"rt2"},
 },
 },
@@ -4995,7 +4995,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Kuh, Jaa, ah! ¡AAAaaaaahhhh!",
+"“¡Kuh, Jaa, ah! ¡AAAaaaaahhhh!”",
 {"rt2"},
 },
 },
@@ -5026,7 +5026,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngh, phaaaah.",
+"“Ngh, phaaaah.”",
 {"rt2"},
 },
 },
@@ -5074,7 +5074,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hyaaan, ahn, está, ahh, tan, caliente.",
+"“Hyaaan, ahn, está, ahh, tan, caliente.”",
 {"rt2"},
 },
 },
@@ -5101,7 +5101,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahhh... ¡Ah! Kuh... Jaaa... Jaa... Jaa... a-aún, no para...",
+"“Ahhh... ¡Ah! Kuh... Jaaa... Jaa... Jaa... a-aún, no para...”",
 {"rt2"},
 },
 },
@@ -5144,7 +5144,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tu cosita... aun no para...",
+"“Tu cosita... aun no para...”",
 {"rt2"},
 },
 },
@@ -5171,7 +5171,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"R-Rinaaa...",
+"“R-Rinaaa...”",
 {"rt2"},
 },
 },
@@ -5188,7 +5188,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Salió bastante. Y tu olor... huele, tanto a ti... Siento que mi cabeza se va a\nderretir... auhhn.",
+"“Salió bastante. Y tu olor... huele, tanto a ti... Siento que mi cabeza se va a\nderretir... auhhn.”",
 {"rt2"},
 },
 },
@@ -5205,7 +5205,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ahh, tu semen, es delicioso. Está tan caliente, y huele tanto a ti, es\nirresistible. El semen me derrite...",
+"“Ahh, tu semen, es delicioso. Está tan caliente, y huele tanto a ti, es\nirresistible. El semen me derrite...”",
 {"rt2"},
 },
 },
@@ -5236,7 +5236,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"*uuhh uuhh*... Jaaaaa... El olor de tu semen... me enloquece... haaah... No me\nresisto. Naoya-san, Naoya-san...",
+"“*uuhh uuhh*... Jaaaaa... El olor de tu semen... me enloquece... haaah... No me\nresisto. Naoya-san, Naoya-san...”",
 {"rt2"},
 },
 },
@@ -5250,7 +5250,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No te pongas a oler también el semen de tu ropa, vamos...",
+"“No te pongas a oler también el semen de tu ropa, vamos...”",
 {"rt2"},
 },
 },
@@ -5267,7 +5267,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Naoya-san...",
+"“Naoya-san...”",
 {"rt2"},
 },
 },
@@ -5294,7 +5294,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -5326,7 +5326,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Te he tumbado...",
+"“Te he tumbado...”",
 {"rt2"},
 },
 },
@@ -5340,7 +5340,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"C-Ciertamente...",
+"“C-Ciertamente...”",
 {"rt2"},
 },
 },
@@ -5357,7 +5357,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Tu olor hizo, que acá abajo, yo--",
+"“Tu olor hizo, que acá abajo, yo--”",
 {"rt2"},
 },
 },
@@ -5400,7 +5400,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Perdóname... Debe ser desagradable tener como novia a una muchacha que tumba y\nse monta sola... Pero... ya no puedo aguantar más.",
+"“Perdóname... Debe ser desagradable tener como novia a una muchacha que tumba y\nse monta sola... Pero... ya no puedo aguantar más.”",
 {"rt2"},
 },
 },
@@ -5414,7 +5414,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por supuesto que n---",
+"“Por supuesto que n---”",
 {"rt2"},
 },
 },
@@ -5432,7 +5432,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¡¡Nnnnnnnnngghhhh!!!",
+"“¡¡¡Nnnnnnnnngghhhh!!!”",
 {"rt2"},
 },
 },
@@ -5498,7 +5498,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah--",
+"“Ah--”",
 {"rt2"},
 },
 },
@@ -5542,7 +5542,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngghhhhh, fuuuh... ¡¡Ah, e-entró, Naoya-san, t-tu, pe*e, entró...!!",
+"“Ngghhhhh, fuuuh... ¡¡Ah, e-entró, Naoya-san, t-tu, pene, entró!!”",
 {"rt2"},
 },
 },
@@ -5556,7 +5556,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A-Ah, increíble, R-Rina... se siente, fenomenal, adentro...",
+"“A-Ah, increíble, R-Rina... se siente, fenomenal, adentro...”",
 {"rt2"},
 },
 },
@@ -5573,7 +5573,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"S-Sí, pero, quiero que me perdones... Qué cruel esto, ¿no? Meterlo, así, de\nrepente... ¡Es como, si estuviera intentando violarte...!",
+"“S-Sí, pero, quiero que me perdones... Qué cruel esto, ¿no? Meterlo, así, de\nrepente... ¡Es como, si estuviera intentando violarte!”",
 {"rt2"},
 },
 },
@@ -5587,7 +5587,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"P-Por supuesto que no... ¿No te duele? Me preocupa eso.",
+"“P-Por supuesto que no... ¿No te duele? Me preocupa eso.”",
 {"rt2"},
 },
 },
@@ -5604,7 +5604,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Por supuesto que no. Lo metí porque lo quería dentro de mí... Quería, más\nplacer, y... tomé tu pe*e, para... kuuhn.",
+"“Por supuesto que no. Lo metí porque lo quería dentro de mí... Quería, más\nplacer, y... tomé tu pe*e, para... kuuhn.”",
 {"rt2"},
 },
 },
@@ -5621,7 +5621,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa... haaah... meterlo... adentro. Por supuesto que no duele. Lo único\nque siento es placer... ¿Lo sabes, verdad?... Puedes sentir, lo mojada que\nestoy...",
+"“Jaa, jaa... haaah... meterlo... adentro. Por supuesto que no duele. Lo único\nque siento es placer... ¿Lo sabes, verdad?... Puedes sentir, lo mojada que\nestoy...”",
 {"rt2"},
 },
 },
@@ -5635,7 +5635,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí... Está caliente adentro, y este víscoso líquido... se siente,\nincreíble...",
+"“S-Sí... Está caliente adentro, y este víscoso líquido... se siente,\nincreíble...”",
 {"rt2"},
 },
 },
@@ -5652,7 +5652,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"S-Sí... Pero, tu cosa, también está increíblemente caliente, Naoya-san. A pesar\nde que te acabas de venir... está caliente, y bastante duro, y salta\nbastante... Dentro, de mí...",
+"“S-Sí... Pero, tu cosa, también está increíblemente caliente, Naoya-san. A pesar\nde que te acabas de venir... está caliente, y bastante duro, y salta\nbastante... Dentro, de mí...”",
 {"rt2"},
 },
 },
@@ -5666,7 +5666,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí... Se siente... maravilloso, estar dentro de ti... No puedo evitar, que se\nponga duro, aun habiéndome corrido... ¡Kuh, ah!",
+"“S-Sí... Se siente... maravilloso, estar dentro de ti... No puedo evitar, que se\nponga duro, aun habiéndome corrido... ¡Kuh, ah!”",
 {"rt2"},
 },
 },
@@ -5697,7 +5697,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hauhn, hauuuh... a-ahh... N-Naoya-san... ¿P-Puedo, moverme? Hiii.",
+"“Hauhn, hauuuh... a-ahh... N-Naoya-san... ¿P-Puedo, moverme? Hiii.”",
 {"rt2"},
 },
 },
@@ -5712,7 +5712,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"T-Tonta... si, ya estás moviéndote...",
+"“T-Tonta... si, ya estás moviéndote...”",
 {"rt2"},
 },
 },
@@ -5729,7 +5729,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eh? No puede ser, ¿m-me estoy moviendo? Ah, sí, creo que sí... Auh, ni me di\ncuenta... Mis caderas, están, moviéndose solas... N-Ngah... Ah, ah, ahhh...",
+"“¿Eh? No puede ser, ¿m-me estoy moviendo? Ah, sí, creo que sí... Auh, ni me di\ncuenta... Mis caderas, están, moviéndose solas... N-Ngah... Ah, ah, ahhh...”",
 {"rt2"},
 },
 },
@@ -5762,7 +5762,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kuuhn, haauun, se siente genial... Jaa, haaa, ngah, ngah, ah, ahh...",
+"“Kuuhn, haauun, se siente genial... Jaa, haaa, ngah, ngah, ah, ahh...”",
 {"rt2"},
 },
 },
@@ -5793,7 +5793,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kaahn, ah, ah, ah.... N-Naoya-san... ngaah... es, tan grande... Ah, ah, ah...\nngaah... se siente, muy bieeen.",
+"“Kaahn, ah, ah, ah.... N-Naoya-san... ngaah... es, tan grande... Ah, ah, ah...\nngaah... se siente, muy bieeen.”",
 {"rt2"},
 },
 },
@@ -5807,7 +5807,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh, mi pe*e, también siente la fricción... y se siente, genial. R-Rina,\n¿puedes sentirlo tú también?",
+"“Kuh, mi pe*e, también siente la fricción... y se siente, genial. R-Rina,\n¿puedes sentirlo tú también?”",
 {"rt2"},
 },
 },
@@ -5824,7 +5824,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Auh, auh... s-sí, sí puedo... tu pe*e... tu pe*e, pe*e... Ahhaahh, ¡AAaahhhh!",
+"“Auh, auh... s-sí, sí puedo... tu pe*e... tu pe*e, pe*e... Ahhaahh, ¡AAaahhhh!”",
 {"rt2"},
 },
 },
@@ -5838,7 +5838,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Estás gimiendo bastante... ¿Lo estás disfrutando? Ayer parecías estar en\ndolor...",
+"“E-Estás gimiendo bastante... ¿Lo estás disfrutando? Ayer parecías estar en\ndolor...”",
 {"rt2"},
 },
 },
@@ -5855,7 +5855,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí... se siente, muy bien. Pero es, por culpa de tu pe*e...",
+"“Sí... se siente, muy bien. Pero es, por culpa de tu pene...”",
 {"rt2"},
 },
 },
@@ -5869,7 +5869,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por mi culpa?",
+"“¿Por mi culpa?”",
 {"rt2"},
 },
 },
@@ -5886,7 +5886,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"S-Sí... ayer, después de que lo hicimos... recordé lo sucio, y erótico que fue,\ny... no pude evitar, masturbarme...",
+"“S-Sí... ayer, después de que lo hicimos... recordé lo sucio, y erótico que fue,\ny... no pude evitar, masturbarme...”",
 {"rt2"},
 },
 },
@@ -5903,7 +5903,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y... por primera vez... me corrí, adentro...",
+"“Y... por primera vez... me corrí, adentro...”",
 {"rt2"},
 },
 },
@@ -5917,7 +5917,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Adentro?",
+"“¿Adentro?”",
 {"rt2"},
 },
 },
@@ -5934,7 +5934,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, ayer, no pude, pero.... hoy sí. Ya, sé... dónde me gusta, que me lo\nhagaaas... kufuuh.",
+"“Sí, ayer, no pude, pero.... hoy sí. Ya, sé... dónde me gusta, que me lo\nhagaaas... kufuuh.”",
 {"rt2"},
 },
 },
@@ -5978,7 +5978,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Es, increíble. Tal, como, lo imaginé... Naoya-san, tu pe*e, si lo hago así, se\nsiente muy bieeen... Justo, como lo pensaba... ahhhn.",
+"“Es, increíble. Tal, como, lo imaginé... Naoya-san, tu pe*e, si lo hago así, se\nsiente muy bieeen... Justo, como lo pensaba... ahhhn.”",
 {"rt2"},
 },
 },
@@ -5996,7 +5996,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¡¡E-Este bulto, está, rozándome al fondoooo!!! Ahh, es, es irresistible,\nNaoya-san, tu pe*e... tu pe*e, se siente tan bieeen....",
+"“¡¡¡E-Este bulto, está, rozándome al fondoooo!!! Ahh, es, es irresistible,\nNaoya-san, tu pe*e... tu pe*e, se siente tan bieeen....”",
 {"rt2"},
 },
 },
@@ -6010,7 +6010,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh, yo también, lo siento genial...",
+"“Kuh, yo también, lo siento genial...”",
 {"rt2"},
 },
 },
@@ -6029,7 +6029,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngaaah... Aahh... Aunque, siento que ya me vengo... ¿Qué hago? ¡¿Qué debería\nhacer, Naoya-san?!",
+"“Ngaaah... Aahh... Aunque, siento que ya me vengo... ¿Qué hago? ¡¿Qué debería\nhacer, Naoya-san?!”",
 {"rt2"},
 },
 },
@@ -6043,7 +6043,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Rina, no solo los pechos... ¿También adentro?",
+"“Rina, no solo los pechos... ¿También adentro?”",
 {"rt2"},
 },
 },
@@ -6060,7 +6060,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí, síi... Mientras, te lo hacía con mis pechos... s-solo, viendo lo mucho que\nlo disfrutabas, sentía que me iba a correr...",
+"“Sí, síi... Mientras, te lo hacía con mis pechos... s-solo, viendo lo mucho que\nlo disfrutabas, sentía que me iba a correr...”",
 {"rt2"},
 },
 },
@@ -6077,7 +6077,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Después de ver, tu carita, mientras lo hacía... yo, yo... Haii, lo siento. Se\nsiente tan bien, que...",
+"“Después de ver, tu carita, mientras lo hacía... yo, yo... Haii, lo siento. Se\nsiente tan bien, que...”",
 {"rt2"},
 },
 },
@@ -6091,7 +6091,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tranquila, más bien me alegra saber eso. Puedes correrte tanto como quieras...",
+"“Tranquila, más bien me alegra saber eso. Puedes correrte tanto como quieras...”",
 {"rt2"},
 },
 },
@@ -6109,7 +6109,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ngh, nmmmmmmmmmm......?",
+"“Ngh, nmmmmmmmmmm...”",
 {"rt2"},
 },
 },
@@ -6139,7 +6139,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No, quiero...venirme, kuh, t-todavía... Por fin, puedo tenerte completamente\ndentro de mí... No, quiero... hiin... terminar, tan rápido...",
+"“No, quiero...venirme, kuh, t-todavía... Por fin, puedo tenerte completamente\ndentro de mí... No, quiero... hiin... terminar, tan rápido...”",
 {"rt2"},
 },
 },
@@ -6153,7 +6153,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero... yo, sí no puedo... detenerme. Así...",
+"“Pero... yo, sí no puedo... detenerme. Así...”",
 {"rt2"},
 },
 },
@@ -6187,7 +6187,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¡Ayyy, ngaaahhhhhhhhhhhhh!!",
+"“¡¡Ayyy, ngaaahhhhhhhhhhhhh!!”",
 {"rt2"},
 },
 },
@@ -6273,7 +6273,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¿Kyaah?!... ¡Kuuh! Hii... ¡¡¡Kuuuuuuhhhh!!! No, esto no, se siente demasiado\nal fondo. No, al fondo noooo...",
+"“¡¿Kyaah?!... ¡Kuuh! Hii... ¡¡¡Kuuuuuuhhhh!!! No, esto no, se siente demasiado\nal fondo. No, al fondo noooo...”",
 {"rt2"},
 },
 },
@@ -6303,7 +6303,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"T-Tan adentro, no, no. Siento, como si estuvieras, batiendo mi útero... Ah, ah,\nhaaa, n-no, me voy a venir pronto, me vengo, a-ah, perdóname, me voy... Ayyy.",
+"“T-Tan adentro, no, no. Siento, como si estuvieras, batiendo mi útero... Ah, ah,\nhaaa, n-no, me voy a venir pronto, me vengo, a-ah, perdóname, me vengo... Ayyy.”",
 {"rt2"},
 },
 },
@@ -6320,7 +6320,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Hyaaah? Ahyyy, hyaah, auh, auh, perdóname, perdóname. Ya, no aguanto, más.\nA-Ah, no, no puedo, me vengo, ya... ¡Me vengo, muy rápidooo...!",
+"“¿Hyaaah? Ahyyy, hyaah, auh, auh, perdóname, perdóname. Ya, no aguanto, más.\nA-Ah, no, no puedo, me vengo, ya... ¡Me vengo, muy rápidooo!”",
 {"rt2"},
 },
 },
@@ -6340,7 +6340,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hii...... ¡¡Kuuuuuhhh!!",
+"“Hii... ¡¡Kuuuuuhhh!!”",
 {"rt2"},
 },
 },
@@ -6383,7 +6383,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hyah... hyaah... hyaii, ¡¿Hauhh?!",
+"“Hyah... hyaah... hyaii, ¡¿Hauhh?!”",
 {"rt2"},
 },
 },
@@ -6397,7 +6397,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vaya, forma de venirte...",
+"“Vaya, forma de venirte...”",
 {"rt2"},
 },
 },
@@ -6414,7 +6414,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Kyaah! ¡Hiin! Qué, malo eres... Quería, aguantar un poco más... y aun así, te\nmoviste de repente, y yo... ¡Ah, ah, nooo!",
+"“¡Kyaah! ¡Hiin! Qué, malo eres... Quería, aguantar un poco más... y aun así, te\nmoviste de repente, y yo... ¡Ah, ah, nooo!”",
 {"rt2"},
 },
 },
@@ -6428,7 +6428,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te dije que no podía detenerme...",
+"“Te dije que no podía detenerme...”",
 {"rt2"},
 },
 },
@@ -6448,7 +6448,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eh? Hyah, ayy, n-no, no. A-Ah, no, no lo hagas, me vengo de nuevo... ¡Me corro\nde nuevooo...!",
+"“¿Eh? Hyah, ayy, n-no, no. A-Ah, no, no lo hagas, me vengo de nuevo... ¡Me corro\nde nuevooo!”",
 {"rt2"},
 },
 },
@@ -6462,7 +6462,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vente tanto como te plazca.",
+"“Vente tanto como te plazca.”",
 {"rt2"},
 },
 },
@@ -6479,7 +6479,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"No seas, tan cruel conmigo. Ah, no, el placer, no para. Ayyh, ayyy... Viene,\nviene, me vengoooo... Hiiii, no, no, me vengo de nuevoooo...",
+"“No seas, tan cruel conmigo. Ah, no, el placer, no para. Ayyh, ayyy... Viene,\nviene, me vengoooo... Hiiii, no, no, me vengo de nuevoooo...”",
 {"rt2"},
 },
 },
@@ -6522,7 +6522,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Me vengo. Me vengo. Ah, no, no, me vengo yaaaaa...",
+"“Me vengo. Me vengo. Ah, no, no, me vengo yaaaaa...”",
 {"rt2"},
 },
 },
@@ -6544,7 +6544,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hiii... ¡¡Kuuuuuuuuhhhhh!!",
+"“Hiii... ¡¡Kuuuuuuuuhhhhh!!”",
 {"rt2"},
 },
 },
@@ -6575,7 +6575,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hyah... ngh... ¡Ahh! A-Ah, todavía, tu pe*e, está moviéndose... hauh, no, no,\nse siente muy bien adentro... al fondooo.",
+"“Hyah... ngh... ¡Ahh! A-Ah, todavía, tu pe*e, está moviéndose... hauh, no, no,\nse siente muy bien adentro... al fondooo.”",
 {"rt2"},
 },
 },
@@ -6593,7 +6593,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ayyy... ahh... no, no, si sigues así me vendré de nuevooo...!!",
+"“Ayyy... ahh... no, no, si sigues así me vendré de nuevooo!!”",
 {"rt2"},
 },
 },
@@ -6610,7 +6610,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uaahh... No, otra vez... ¡Si sigues me vendré de nuevo! Vas a hacer que me\nvenga de nuevo.",
+"“Uaahh... No, otra vez... ¡Si sigues me vendré de nuevo! Vas a hacer que me\nvenga de nuevo.”",
 {"rt2"},
 },
 },
@@ -6627,7 +6627,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"El placer, no se detiene... a-ahh...",
+"“El placer, no se detiene... a-ahh...”",
 {"rt2"},
 },
 },
@@ -6657,7 +6657,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uaaahh... Perdóname, la culpa la tengo yo por montarme. Si sigo, corriéndome...\nvoy, a... volverme, loca, higiih, auh, no, de nuevo, vengo, me vengo...!",
+"“Uaaahh... Perdóname, la culpa la tengo yo por montarme. Si sigo, corriéndome...\nvoy, a... volverme, loca, higiih, auh, no, de nuevo, vengo, me vengo!”",
 {"rt2"},
 },
 },
@@ -6679,7 +6679,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¡Iihh.......!! ¡¡Kuuuuhhhhh!!",
+"“¡¡Iihh!! ¡¡Kuuuuhhhhh!!”",
 {"rt2"},
 },
 },
@@ -6697,7 +6697,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Hauh? O-Otra, vez... me estoy viniendo, y aun así... me veng-- ¡¡Nghhhhh!!",
+"“¿Hauh? O-Otra, vez... me estoy viniendo, y aun así... me veng-- ¡¡Nghhhhh!!”",
 {"rt2"},
 },
 },
@@ -6714,7 +6714,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa... No, no más, por favor, Naoya-san, perdóname, perdónameee... Ah, ah,\nah, otra vez, otra vez me vengo, ¡¡me vengooooo!!",
+"“Jaa, jaa... No, no más, por favor, Naoya-san, perdóname, perdónameee... Ah, ah,\nah, otra vez, otra vez me vengo, ¡¡me vengooooo!!”",
 {"rt2"},
 },
 },
@@ -6736,7 +6736,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Viene... Ngh... ¡¡Guhhhhhhhh!!",
+"“Viene... Ngh... ¡¡Guhhhhhhhh!!”",
 {"rt2"},
 },
 },
@@ -6753,7 +6753,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah... Jaa, jaa... haaa... mm...",
+"“Ah... Jaa, jaa... haaa... mm...”",
 {"rt2"},
 },
 },
@@ -6767,7 +6767,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Jaa, jaa...",
+"“Jaa, jaa...”",
 {"rt2"},
 },
 },
@@ -6784,7 +6784,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uahh... Jaa, haaa... tu pe*e... todavía, está duro... Jaa, haaa...",
+"“Uahh... Jaa, haaa... tu pe*e... todavía, está duro... Jaa, jaaa...”",
 {"rt2"},
 },
 },
@@ -6798,7 +6798,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Perdón, ¿me excedí?",
+"“Perdón, ¿me excedí?”",
 {"rt2"},
 },
 },
@@ -6816,7 +6816,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eh? Ah, un poco... Ah, pero... se siente bien, así que no hay problema... Jaa,\njaa... Además, fui yo quien te tumbó y lo metió... ah, aunque, me siento, un\npoco mareada... Jaa, haaa...",
+"“¿Eh? Ah, un poco... Ah, pero... se siente bien, así que no hay problema... Jaa,\njaa... Además, fui yo quien te tumbó y lo metió... ah, aunque, me siento, un\npoco mareada... Jaa, haaa...”",
 {"rt2"},
 },
 },
@@ -6830,7 +6830,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo. Por cierto, Rina...",
+"“Ya veo. Por cierto, Rina...”",
 {"rt2"},
 },
 },
@@ -6847,7 +6847,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y-Ya lo sé... A-Aún, no te vienes. Es eso, ¿verdad?",
+"“Y-Ya lo sé... A-Aún, no te vienes. Es eso, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -6861,7 +6861,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, todavía.",
+"“Sí, todavía.”",
 {"rt2"},
 },
 },
@@ -6878,7 +6878,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fuun, en cambio yo sí me he venido tantas veces. Realmente, soy un caso\nterrible... fuh.",
+"“Fuun, en cambio yo sí me he venido tantas veces. Realmente, soy un caso\nterrible... fuh.”",
 {"rt2"},
 },
 },
@@ -6892,7 +6892,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, aunque bueno, apenas me vine hace un rato... Pero, con lo que acabamos de\nhacer, ya me falta poco...",
+"“Sí, aunque bueno, apenas me vine hace un rato... Pero, con lo que acabamos de\nhacer, ya me falta poco...”",
 {"rt2"},
 },
 },
@@ -6909,7 +6909,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Sí? Bien, me esforzaré ahora para que te vengas. Y, por otro lado, Naoya-\nsan... Veo que diste con mis zonas más sensibles, eh.",
+"“¿Sí? Bien, me esforzaré ahora para que te vengas. Y, por otro lado, Naoya-\nsan... Veo que diste con mis zonas más sensibles, eh.”",
 {"rt2"},
 },
 },
@@ -6924,7 +6924,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ugh...",
+"“Ugh...”",
 {"rt2"},
 },
 },
@@ -6942,7 +6942,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Te enfocaste tanto ahí que terminé viniéndome varias veces seguidas... Aunque,\nsi lo hago así... Nm, ngh... hauh...",
+"“Te enfocaste tanto ahí que terminé viniéndome varias veces seguidas... Aunque,\nsi lo hago así... Nm, ngh... hauh...”",
 {"rt2"},
 },
 },
@@ -6960,7 +6960,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Así... si lo meto y saco rápido... ah, pero, con esto también... me vendré\nrápido...",
+"“Así... si lo meto y saco rápido... ah, pero, con esto también... me vendré\nrápido...”",
 {"rt2"},
 },
 },
@@ -6974,7 +6974,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah... creo que así... me podría venir rápidamente yo también...",
+"“Ah... creo que así... me podría venir rápidamente yo también...”",
 {"rt2"},
 },
 },
@@ -6992,7 +6992,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Y-Ya veo... B-Bueno... lo haré lo mejor que pueda... Hauuh, apretaré mi vag*na,\ny... haré, que... te sientas, muy bien... Ngh, mmmm.... !",
+"“Y-Ya veo... B-Bueno... lo haré lo mejor que pueda... Hauuh, apretaré mi vag*na,\ny... haré, que... te sientas, muy bien... Ngh, mmmm!”",
 {"rt2"},
 },
 },
@@ -7007,7 +7007,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah... increíble... ¡¡Cómo, aprietas...!!",
+"“Ah... increíble... ¡¡Cómo, aprietas!!”",
 {"rt2"},
 },
 },
@@ -7024,7 +7024,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah, ah... ¿En serio? Bien, haré que lo disfrutes mucho más, así que,\nNaoya-san... aguanta, hasta el final...",
+"“Ah, ah... ¿En serio? Bien, haré que lo disfrutes mucho más, así que,\nNaoya-san... aguanta, hasta el final...”",
 {"rt2"},
 },
 },
@@ -7038,7 +7038,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh... se siente, bien... así... kuh.",
+"“Ahh... se siente, bien... así... kuh.”",
 {"rt2"},
 },
 },
@@ -7055,7 +7055,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Sí... sí, así... ah, ah, ah... ngah, ah... vente, dentro de mí... por, favor...\n¡Kuh, N-Naoya-san!",
+"“Sí... sí, así... ah, ah, ah... ngah, ah... vente, dentro de mí... por, favor...\n¡Kuh, N-Naoya-san!”",
 {"rt2"},
 },
 },
@@ -7069,7 +7069,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, Rina... ¡Aquí vengo!",
+"“Sí, Rina... ¡Aquí vengo!”",
 {"rt2"},
 },
 },
@@ -7115,7 +7115,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uah, ¡ah, ah, ahh! Naoya-san, Naoya-san... ¡Naoya-san! Kuh, m-me esforzaré, lo\nmás que pueda... hasta, que te vengas... yo--",
+"“Uah, ¡ah, ah, ahh! Naoya-san, Naoya-san... ¡Naoya-san! Kuh, m-me esforzaré, lo\nmás que pueda... hasta, que te vengas... yo--”",
 {"rt2"},
 },
 },
@@ -7132,7 +7132,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa, fenomenal, mi vag*na, se siente fenomenal... mi vag*na... ah, ah,\nsiento el roce en ella... Ah, ah, no, no, me, me vengo, me vengo de nuevo...!",
+"“Jaa, jaa, fenomenal, mi vag*na, se siente fenomenal... mi vag*na... ah, ah,\nsiento el roce en ella... Ah, ah, no, no, me, me vengo, me vengo de nuevo!”",
 {"rt2"},
 },
 },
@@ -7164,7 +7164,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Me veng--- ¡Ah, ah, ahhh! Ah, qué, qué bueno esto, p-pero... me esforzaré, me\nesforzaré, así que... así que, Naoya-san... ¡Vente, dentro, de mí!",
+"“Me veng--- ¡Ah, ah, ahhh! Ah, qué, qué bueno esto, p-pero... me esforzaré, me\nesforzaré, así que... así que, Naoya-san... ¡Vente, dentro, de mí!”",
 {"rt2"},
 },
 },
@@ -7179,7 +7179,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uh... ¡Kuh!",
+"“Uh... ¡Kuh!”",
 {"rt2"},
 },
 },
@@ -7209,7 +7209,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡NGaaAAaaaaAhhhh! ¡¡Ahh, ahhhhh!!",
+"“¡NGaaAAaaaaAhhhh! ¡¡Ahh, ahhhhh!!”",
 {"rt2"},
 },
 },
@@ -7223,7 +7223,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, ah, ahh, no puedo más. Me vengo, me vengo...!",
+"“Ah, ah, ahh, no puedo más. Me vengo, me vengo!”",
 {"rt2"},
 },
 },
@@ -7240,7 +7240,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"NNggaaaaAahh... Dámelo, damedo, damedo too'... ¡¿Hiiih?! Me, vengo... ngh, ngh,\nngh... ¡¡Ah, me vengoooooooooo!!",
+"“NNggaaaaAahh... Dámelo, damedo, damedo too'... ¡¿Hiiih?! Me, vengo... ngh, ngh,\nngh... ¡¡Ah, me vengoooooooooo!!”",
 {"rt2"},
 },
 },
@@ -7264,7 +7264,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Kuhaa, uhh... Ahhnn, ¡¡KuhaaAaaaa!!",
+"“Kuhaa, uhh... Ahhnn, ¡¡KuhaaAaaaa!!”",
 {"rt2"},
 },
 },
@@ -7295,7 +7295,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Hii... uh... ngh... ¡nmm!",
+"“Hii... uh... ngh... ¡nmm!”",
 {"rt2"},
 },
 },
@@ -7309,7 +7309,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, ah... Jaa... haaa... E-Está saliendo... R-Rina...",
+"“Ah, ah... Jaa... haaa... E-Está saliendo... R-Rina...”",
 {"rt2"},
 },
 },
@@ -7339,7 +7339,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Ah... ahn, uaahh... ah, no, yo también, está, saliendo...... Uh, uhhhhhh...\nuhh.",
+"“Ah... ahn, uaahh... ah, no, yo también, está, saliendo...... Uh, uhhhhhh...\nuhh.”",
 {"rt2"},
 },
 },
@@ -7353,7 +7353,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Jaa, jaa... Increíble... Estás... ¿estás eyaculando?",
+"“Jaa, jaa... Increíble... Estás... ¿estás eyaculando?”",
 {"rt2"},
 },
 },
@@ -7371,7 +7371,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Uhhhhhhh... Jaa, jaa, haaa... no, no, para... ah... viene, otra vez... ah, ah,\nah, AaAaahhhh... ahh.",
+"“Uhhhhhhh... Jaa, jaa, haaa... no, no, para... ah... viene, otra vez... ah, ah,\nah, AaAaahhhh... ahh.”",
 {"rt2"},
 },
 },
@@ -7385,7 +7385,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ngh... Jaa, jaa... me, vine...",
+"“Ngh... Jaa, jaa... me, vine...”",
 {"rt2"},
 },
 },
@@ -7408,7 +7408,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa, jaa... E-Estoy, exhausta. P-Pero, qué bueno, que pudiste venirte...\nJaa, haaa...",
+"“Jaa, jaa, jaa... E-Estoy, exhausta. P-Pero, qué bueno, que pudiste venirte...\nJaa, jaaa...”",
 {"rt2"},
 },
 },
@@ -7422,7 +7422,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sí. Con lo frágil que eres, ¿no habrá sido un poco fuerte para ti?",
+"“S-Sí. Con lo frágil que eres, ¿no habrá sido un poco fuerte para ti?”",
 {"rt2"},
 },
 },
@@ -7441,7 +7441,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Jaa, jaa, jajaja... Jaa, jaa, haaa... sí, ciertamente, fue muy fuerte... pero,\nse sintió bien... Jaa, haaa...",
+"“Jaa, jaa, jajaja... Jaa, jaa, jaaa... sí, ciertamente, fue muy fuerte... pero,\nse sintió bien... Jaa, jaaa...”",
 {"rt2"},
 },
 },
@@ -7455,7 +7455,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... Jaa, haaa... Jaa... qué bueno, saberlo...",
+"“Ya veo... Jaa, haaa... Jaa... qué bueno, saberlo...”",
 {"rt2"},
 },
 },
@@ -7473,7 +7473,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Fuh... no por nada, fui yo quien no pudo aguantar, y se montó encima...\njajaja... fuh...",
+"“Fuh... no por nada, fui yo quien no pudo aguantar, y se montó encima...\njajaja... fuh...”",
 {"rt2"},
 },
 },
@@ -7487,7 +7487,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues vaya qué fácil todo, montándote y corriéndote sin parar.",
+"“Pues vaya qué fácil todo, montándote y corriéndote sin parar.”",
 {"rt2"},
 },
 },
@@ -7505,7 +7505,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"C-Claro que no... e-eso es, porque eres muy bueno haciéndolo...",
+"“C-Claro que no... e-eso es, porque eres muy bueno haciéndolo...”",
 {"rt2"},
 },
 },
@@ -7519,7 +7519,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No creo. Más bien me parece que se te hace fácil correrte.",
+"“No creo. Más bien me parece que se te hace fácil correrte.”",
 {"rt2"},
 },
 },
@@ -7538,7 +7538,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Vamos, quería que todo se quedara en que simplemente eres bueno en la cama. Si\nme dices eso me haces ver como una depravada...",
+"“Vamos, quería que todo se quedara en que simplemente eres bueno en la cama. Si\nme dices eso me haces ver como una depravada...”",
 {"rt2"},
 },
 },
@@ -7552,7 +7552,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Es muy distinto, ser sensible... a ser una depravada...",
+"“Es muy distinto, ser sensible... a ser una depravada...”",
 {"rt2"},
 },
 },
@@ -7570,7 +7570,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Eso crees?...",
+"“¿Eso crees?...”",
 {"rt2"},
 },
 },
@@ -7596,7 +7596,7 @@ block_00476={
 text={
 ja={
 {
-"Pero, justo entonces.",
+"Pero... justo entonces.",
 {"rt2"},
 },
 },
@@ -7616,7 +7616,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡Ah! ¡Esa es la mochila de Yuumi!",
+"“¡Ah! ¡Esa es la mochila de Yuumi!”",
 {"rt2"},
 },
 },
@@ -7630,7 +7630,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Mochila? ¿Olvidó su mochila acá?",
+"“¿Mochila? ¿Olvidó su mochila acá?”",
 {"rt2"},
 },
 },
@@ -7648,7 +7648,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -7683,7 +7683,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Q-Qué... demonios, es eso?",
+"“¿Q-Qué... demonios, es eso?”",
 {"rt2"},
 },
 },
@@ -7701,7 +7701,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Una cámara de video... Intentó grabarnos en secreto.",
+"“Una cámara de video... Intentó grabarnos en secreto.”",
 {"rt2"},
 },
 },
@@ -7715,7 +7715,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajajaja, recordando lo que mencionó del netorare, tiene sentido.",
+"“Ajajaja, recordando lo que mencionó del netorare, tiene sentido.”",
 {"rt2"},
 },
 },
@@ -7734,7 +7734,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"Borrar, borrar, borrar.",
+"“Borrar, borrar, borrar.”",
 {"rt2"},
 },
 },
@@ -7748,7 +7748,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah...",
+"“Ah...”",
 {"rt2"},
 },
 },
@@ -7767,7 +7767,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¡¿Espera, Naoya-san, por qué ese gemido triste?",
+"“¡Espera, Naoya-san, ¿por qué ese gemido triste?”",
 {"rt2"},
 },
 },
@@ -7781,7 +7781,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no... solo, que ese material es valioso...",
+"“Ah, no... solo, que ese material es valioso...”",
 {"rt2"},
 },
 },
@@ -7800,7 +7800,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"¿Ahhh?",
+"“¿Ahhh?”",
 {"rt2"},
 },
 },
@@ -7814,7 +7814,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Nada, yo no dije nada...",
+"“Nada, yo no dije nada...”",
 {"rt2"},
 },
 },
