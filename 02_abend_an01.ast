@@ -2367,7 +2367,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No es eso.",
+"“No es eso.”",
 {"rt2"},
 },
 },
@@ -2385,7 +2385,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin, yo--",
+"“Rin, yo--”",
 {"rt2"},
 },
 },
@@ -2404,7 +2404,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Eh? ¿S-Sabes, cómo me llamo?",
+"“¿Eh? ¿S-Sabes... cómo me llamo?”",
 {"rt2"},
 },
 },
@@ -2427,7 +2427,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ah, esto... Nii-san me habló de ti. Y Naoya-san, también...",
+"“Ah, esto... Nii-san me habló de ti. Y Naoya-san, también...”",
 {"rt2"},
 },
 },
@@ -2445,7 +2445,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y-Ya veo...",
+"“Y-Ya veo...”",
 {"rt2"},
 },
 },
@@ -2499,7 +2499,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"E-Esto, Shizuku-san.",
+"“E-Esto, Shizuku-san.”",
 {"rt2"},
 },
 },
@@ -2517,7 +2517,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Dime, Rin.",
+"“Dime, Rin.”",
 {"rt2"},
 },
 },
@@ -2541,7 +2541,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Esto... ¿Te molestaría, si me presento de nuevo?",
+"“Esto... ¿Te molestaría... si me presento de nuevo?”",
 {"rt2"},
 },
 },
@@ -2560,7 +2560,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Claro que no.",
+"“Claro que no.”",
 {"rt2"},
 },
 },
@@ -2578,7 +2578,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Mi nombre es Rin Misakura. Viví hace mucho tiempo en esta ciudad.",
+"“Mi nombre es Rin Misakura. Viví hace mucho tiempo en esta ciudad.”",
 {"rt2"},
 },
 },
@@ -2596,7 +2596,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí... lo sé...",
+"“Sí... lo sé...”",
 {"rt2"},
 },
 },
@@ -2614,7 +2614,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Eh? ¿Lo sabías?",
+"“¿Eh? ¿Lo sabías?”",
 {"rt2"},
 },
 },
@@ -2632,7 +2632,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ah, Naoya me lo dijo...",
+"“Ah, Naoya me lo dijo...”",
 {"rt2"},
 },
 },
@@ -2650,7 +2650,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y-Ya veo...",
+"“Y-Ya veo...”",
 {"rt2"},
 },
 },
@@ -2681,7 +2681,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -2700,7 +2700,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Yo soy Shizuku Natsume. La hija menor de la familia Natsume.",
+"“Yo soy Shizuku Natsume. La hija menor de la familia Natsume.”",
 {"rt2"},
 },
 },
@@ -2717,7 +2717,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí, ya me habían contado.",
+"“Sí, ya me habían contado.”",
 {"rt2"},
 },
 },
@@ -2735,7 +2735,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Espero que podamos llevarnos bien...",
+"“Espero que podamos llevarnos bien...”",
 {"rt2"},
 },
 },
@@ -2754,7 +2754,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Yo también.",
+"“Yo también.”",
 {"rt2"},
 },
 },
@@ -2785,7 +2785,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin...",
+"“Rin...”",
 {"rt2"},
 },
 },
@@ -2803,7 +2803,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Quizás, sea muy atrevido pedirle esto a una celebridad... pero...",
+"“Quizás... sea muy atrevido pedirle esto a una celebridad... pero...”",
 {"rt2"},
 },
 },
@@ -2822,7 +2822,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Shizuku-san, quisieras ser mi amiga?",
+"“Shizuku-san, ¿quisieras ser mi amiga?”",
 {"rt2"},
 },
 },
@@ -2840,7 +2840,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ah...",
+"“Ah...”",
 {"rt2"},
 },
 },
@@ -2864,7 +2864,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"A-Aunque bueno, entiendo que tal vez no puedas.",
+"“A-Aunque bueno, entiendo que tal vez no puedas.”",
 {"rt2"},
 },
 },
@@ -2883,7 +2883,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡Por supuesto que sí!",
+"“¡Por supuesto que sí!”",
 {"rt2"},
 },
 },
@@ -2901,7 +2901,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -2932,7 +2932,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"S-Si no te molesta, quisiera ser tu amiga...",
+"“S-Si no te molesta, quisiera ser tu amiga...”",
 {"rt2"},
 },
 },
@@ -2956,7 +2956,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¡Si eso dices, me encantaría!",
+"“¡Si eso dices, me encantaría!”",
 {"rt2"},
 },
 },
@@ -2974,7 +2974,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin...",
+"“Rin...”",
 {"rt2"},
 },
 },
@@ -2992,7 +2992,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí, así me llamo...",
+"“Sí, así me llamo...”",
 {"rt2"},
 },
 },
@@ -3011,7 +3011,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Es un gusto conocerte... Rin.",
+"“Es un gusto conocerte... Rin.”",
 {"rt2"},
 },
 },
@@ -3030,7 +3030,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"El gusto es mío, Shizuku-san.",
+"“El gusto es mío, Shizuku-san.”",
 {"rt2"},
 },
 },
@@ -3048,7 +3048,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Así que decidiste volver...",
+"“Así que decidiste volver...”",
 {"rt2"},
 },
 },
@@ -3066,7 +3066,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -3085,7 +3085,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ya veo... sí.",
+"“Ya veo... sí.”",
 {"rt2"},
 },
 },
@@ -3135,7 +3135,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Bienvenida otra vez... Rin.",
+"“Bienvenida otra vez... Rin.”",
 {"rt2"},
 },
 },
@@ -3152,7 +3152,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Aquí estoy de nuevo... Shizuku-san.",
+"“Aquí estoy de nuevo... Shizuku-san.”",
 {"rt2"},
 },
 },
@@ -3203,7 +3203,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Eres realmente hermosa, Shizuku-san.",
+"“Eres realmente hermosa, Shizuku-san.”",
 {"rt2"},
 },
 },
@@ -3220,7 +3220,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin, no tienes que usar honoríficos conmigo.",
+"“Rin, no tienes que usar honoríficos conmigo.”",
 {"rt2"},
 },
 },
@@ -3244,7 +3244,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Me cuesta un poco llamarte solo por tu nombre. ¿Puedo llamarte Shizuku- chan?",
+"“Me cuesta un poco llamarte solo por tu nombre. ¿Puedo llamarte Shizuku-chan?”",
 {"rt2"},
 },
 },
@@ -3263,7 +3263,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, está bien así. Me gusta que me llames así.",
+"“Sí, está bien así. Me gusta que me llames así.”",
 {"rt2"},
 },
 },
@@ -3280,7 +3280,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ya veo.",
+"“Ya veo.”",
 {"rt2"},
 },
 },
@@ -3311,7 +3311,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -3343,7 +3343,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¡Hyaah!",
+"“¡Hyaah!”",
 {"rt2"},
 },
 },
@@ -3360,7 +3360,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Muhhh, Rin, qué grandes se te han vuelto...",
+"“Muhhh, Rin, qué grandes se te han vuelto...”",
 {"rt2"},
 },
 },
@@ -3379,7 +3379,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Wa, wawah, estás tocando mis pechos.",
+"“Wa, wawah, estás tocando mis pechos.”",
 {"rt2"},
 },
 },
@@ -3396,7 +3396,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Umuh, estoy tocándolos.",
+"“Umuh, estoy tocándolos.”",
 {"rt2"},
 },
 },
@@ -3419,7 +3419,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Si haces eso yo también contraatacaré, Shizuku-chan.",
+"“Si haces eso yo también contraatacaré, Shizuku-chan.”",
 {"rt2"},
 },
 },
@@ -3437,7 +3437,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡Hyaah!",
+"“¡Hyaah!”",
 {"rt2"},
 },
 },
@@ -3455,7 +3455,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Uwah, qué esbelta estás... Y estas caderas...",
+"“Uwah, qué esbelta estás... Y estas caderas...”",
 {"rt2"},
 },
 },
@@ -3499,7 +3499,7 @@ vo={
 ja={
 {
 name={"Señor A"},
-"Ohhh, ¿pero qué hay aquí?",
+"“Ohhh, ¿pero qué hay aquí?”",
 {"rt2"},
 },
 },
@@ -3542,7 +3542,7 @@ vo={
 ja={
 {
 name={"Señor B"},
-"Venga, venga, este no es lugar para hacer esas cosas, pequeñas.",
+"“Venga, venga, este no es lugar para hacer esas cosas, pequeñas.”",
 {"rt2"},
 },
 },
@@ -3556,7 +3556,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no es eso, solo que hubo una escena algo emocional entre las dos, y\nbueno... ¡Eh, Rin, Shizuku!",
+"“Ah, no es eso, solo que hubo una escena algo emocional entre las dos, y\nbueno... ¡Eh, Rin, Shizuku!”",
 {"rt2"},
 },
 },
@@ -3576,7 +3576,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿S-Sí?",
+"“¿S-Sí?”",
 {"rt2"},
 },
 },
@@ -3590,7 +3590,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Nos vamos ya! ¡Se acabó la presentación!",
+"“¡Nos vamos ya! ¡Se acabó la presentación!”",
 {"rt2"},
 },
 },
@@ -3610,7 +3610,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin～.",
+"“Rin～”",
 {"rt2"},
 },
 },
@@ -3625,7 +3625,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Venga, ya está, vámonos, vámonos!",
+"“¡Venga, ya está, vámonos, vámonos!”",
 {"rt2"},
 },
 },
@@ -3661,7 +3661,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Fuh... Hombre...",
+"“Fuh... Hombre...”",
 {"rt2"},
 },
 },
@@ -3675,7 +3675,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Qué penoso fue eso.",
+"“Qué penoso fue eso.”",
 {"rt2"},
 },
 },
@@ -3695,7 +3695,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"No tengo excusa alguna, lo siento mucho.",
+"“No tengo excusa alguna, lo siento mucho.”",
 {"rt2"},
 },
 },
@@ -3714,7 +3714,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Umuh, yo también me dejé llevar un poco.",
+"“Umuh, yo también me dejé llevar un poco.”",
 {"rt2"},
 },
 },
@@ -3728,7 +3728,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En fin, tengo que decirlo, no pensé que vendrías, Rin.",
+"“En fin, tengo que decirlo, no pensé que vendrías, Rin.”",
 {"rt2"},
 },
 },
@@ -3746,7 +3746,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ah, es que cuando hablamos, me di cuenta de inmediato dónde estabas...",
+"“Ah, es que cuando hablamos, me di cuenta de inmediato dónde estabas...”",
 {"rt2"},
 },
 },
@@ -3790,7 +3790,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Qué tienes ahí, Rin?",
+"“¿Qué tienes ahí, Rin?”",
 {"rt2"},
 },
 },
@@ -3813,7 +3813,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Ah, esto? Ah, creo que es lo mismo que trajiste tú.",
+"“¿Ah, esto? Ah, creo que es lo mismo que trajiste tú.”",
 {"rt2"},
 },
 },
@@ -3830,7 +3830,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero tienes compresas frías...",
+"“Pero tienes compresas frías...”",
 {"rt2"},
 },
 },
@@ -3848,7 +3848,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ah, las traje pensando que quizás servirían de algo, y bueno... ¿Les sirve?",
+"“Ah, las traje pensando que quizás servirían de algo, y bueno... ¿Les sirve?”",
 {"rt2"},
 },
 },
@@ -3862,7 +3862,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, a mí si, y bastante. Caminé un buen rato llevando carne cruda.",
+"“Ah, a mí si, y bastante. Caminé un buen rato llevando carne cruda.”",
 {"rt2"},
 },
 },
@@ -3886,7 +3886,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Sí? Qué bueno. Aunque en un principio había pensado en dártelo enrollado en\nuna toalla para que lo usaras tú.",
+"“¿Sí? Qué bueno. Aunque en un principio había pensado en dártelo enrollado en\nuna toalla para que lo usaras tú.”",
 {"rt2"},
 },
 },
@@ -3917,7 +3917,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Todavía tienes más cosas.",
+"“Todavía tienes más cosas.”",
 {"rt2"},
 },
 },
@@ -3935,7 +3935,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ah, sí, té de cebada también.",
+"“Ah, sí, té de cebada también.”",
 {"rt2"},
 },
 },
@@ -3949,7 +3949,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿No te pesó bastante?",
+"“¿No te pesó bastante?”",
 {"rt2"},
 },
 },
@@ -3967,7 +3967,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Para eso traje la bicicleta. Gracias a ella pude traerlo todo.",
+"“Para eso traje la bicicleta. Gracias a ella pude traerlo todo.”",
 {"rt2"},
 },
 },
@@ -3985,7 +3985,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Deberías aprovechar que Rin trajo té y tomar algo, Naoya. Podrías estar\ndeshidratado.",
+"“Deberías aprovechar que Rin trajo té y tomar algo, Naoya. Podrías estar\ndeshidratado.”",
 {"rt2"},
 },
 },
@@ -4009,7 +4009,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí, es buena idea. Nao-kun, ¿no te gusta el té de cebada?",
+"“Sí, es buena idea. Nao-kun, ¿no te gusta el té de cebada?”",
 {"rt2"},
 },
 },
@@ -4023,7 +4023,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cómo crees?",
+"“¿Cómo crees?”",
 {"rt2"},
 },
 },
@@ -4041,7 +4041,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Menos mal.",
+"“Menos mal.”",
 {"rt2"},
 },
 },
@@ -4071,7 +4071,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Gracias.",
+"“Gracias.”",
 {"rt2"},
 },
 },
@@ -4099,7 +4099,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pwaaah... He vuelto a la vida.",
+"“Pwaaah... He vuelto a la vida.”",
 {"rt2"},
 },
 },
@@ -4117,7 +4117,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Qué bueno.",
+"“Qué bueno.”",
 {"rt2"},
 },
 },
@@ -4134,7 +4134,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Bien, vayamos entonces.",
+"“Bien, vayamos entonces.”",
 {"rt2"},
 },
 },
@@ -4152,7 +4152,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ah, sí. Bien, yo me voy ya...",
+"“Ah, sí. Bien, yo me voy ya...”",
 {"rt2"},
 },
 },
@@ -4171,7 +4171,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin, tú también...",
+"“Rin, tú también...”",
 {"rt2"},
 },
 },
@@ -4204,7 +4204,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"De igual forma planeabas acompañarlo, ¿no?",
+"“De igual forma planeabas acompañarlo, ¿no?”",
 {"rt2"},
 },
 },
@@ -4222,7 +4222,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ah, sí... pero ya viniste tú, así que...",
+"“Ah, sí... pero ya viniste tú, así que...”",
 {"rt2"},
 },
 },
@@ -4240,7 +4240,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, pero... Rin.",
+"“Sí, pero... Rin.”",
 {"rt2"},
 },
 },
@@ -4259,7 +4259,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¡Sí, creo que mejor me voy! Bueno, con esto me retiro.",
+"“¡Sí, creo que mejor me voy! Bueno, con esto me retiro.”",
 {"rt2"},
 },
 },
@@ -4278,7 +4278,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero, Rin--",
+"“Pero, Rin--”",
 {"rt2"},
 },
 },
@@ -4296,7 +4296,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Shizuku-chan, debes cumplir con el propósito para el cual viniste y llevar a\nNao-kun de vuelta a casa. Yo vine acá porque quise, así que no importa.",
+"“Shizuku-chan, debes cumplir con el propósito para el cual viniste y llevar a\nNao-kun de vuelta a casa. Yo vine acá porque quise, así que no importa.”",
 {"rt2"},
 },
 },
@@ -4314,7 +4314,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Si es por eso, yo también...",
+"“Si es por eso, yo también...”",
 {"rt2"},
 },
 },
@@ -4331,7 +4331,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Eso no es cierto.",
+"“Eso no es cierto.”",
 {"rt2"},
 },
 },
@@ -4367,7 +4367,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"R-Rin...",
+"“R-Rin...”",
 {"rt2"},
 },
 },
@@ -4384,7 +4384,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"No sé por qué, pero... siento algo de nostalgia cuando te veo, Shizuku-chan.",
+"“No sé por qué, pero... siento algo de nostalgia cuando te veo, Shizuku-chan.”",
 {"rt2"},
 },
 },
@@ -4402,7 +4402,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin...",
+"“Rin...”",
 {"rt2"},
 },
 },
@@ -4419,7 +4419,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y por eso... Olvídalo. No es nada. Bueno, me voy ya, ¿está bien?",
+"“Y por eso... Olvídalo. No es nada. Bueno, me voy ya, ¿está bien?”",
 {"rt2"},
 },
 },
@@ -4437,7 +4437,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin, quiero estar un ratito más contigo...",
+"“Rin, quiero estar un ratito más contigo...”",
 {"rt2"},
 },
 },
@@ -4466,7 +4466,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ajajaja, cómo me alegra escuchar eso. Pero ya terminé lo que vine a hacer.\nAdiós para ti también, Nao-kun. ¡Nos vemos mañana!",
+"“Ajajaja, cómo me alegra escuchar eso. Pero ya terminé lo que vine a hacer.\nAdiós para ti también, Nao-kun. ¡Nos vemos mañana!”",
 {"rt2"},
 },
 },
@@ -4480,7 +4480,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"V-Vale...",
+"“V-Vale...”",
 {"rt2"},
 },
 },
@@ -4509,7 +4509,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -4527,7 +4527,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin...",
+"“Rin...”",
 {"rt2"},
 },
 },
@@ -4541,7 +4541,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué rayos le pasa?... Pudo haber venido con nosotros...",
+"“¿Qué rayos le pasa?... Pudo haber venido con nosotros...”",
 {"rt2"},
 },
 },
@@ -4559,7 +4559,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No es eso. Rin es, muy buena... y tal vez consideró que era lo mejor para los\ndos. Creo...",
+"“No es eso. Rin es, muy buena... y tal vez consideró que era lo mejor para los\ndos. Creo...”",
 {"rt2"},
 },
 },
@@ -4573,7 +4573,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Muy buena?",
+"“¿Muy buena?”",
 {"rt2"},
 },
 },
@@ -4596,7 +4596,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"En fin, es mejor que aceptemos la buena voluntad de Rin y regresemos ya.",
+"“En fin, es mejor que aceptemos la buena voluntad de Rin y regresemos ya.”",
 {"rt2"},
 },
 },
@@ -4610,7 +4610,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Está bien...",
+"“E-Está bien...”",
 {"rt2"},
 },
 },
@@ -4640,7 +4640,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por cierto, Shizuku. ¿Cómo es que conoces este lugar después de tanto tiempo\nestando fuera?",
+"“Por cierto, Shizuku. ¿Cómo es que conoces este lugar después de tanto tiempo\nestando fuera?”",
 {"rt2"},
 },
 },
@@ -4657,7 +4657,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Porque a Kenichiro Kusanagi le encantaba venir acá...",
+"“Porque a Kenichiro Kusanagi le encantaba venir acá...”",
 {"rt2"},
 },
 },
@@ -4671,7 +4671,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Kenichiro?",
+"“¿Kenichiro?”",
 {"rt2"},
 },
 },
@@ -4688,7 +4688,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Más sorprendida estoy yo de que no lo supieras.",
+"“Más sorprendida estoy yo de que no lo supieras.”",
 {"rt2"},
 },
 },
@@ -4702,7 +4702,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te puedo jurar que nunca supe mucho de su vida privada.",
+"“Te puedo jurar que nunca supe mucho de su vida privada.”",
 {"rt2"},
 },
 },
@@ -4719,7 +4719,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Aun con lo mucho que se parecen...",
+"“Aun con lo mucho que se parecen...”",
 {"rt2"},
 },
 },
@@ -4733,7 +4733,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Tanto así?",
+"“¿Tanto así?”",
 {"rt2"},
 },
 },
@@ -4750,7 +4750,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. Son idénticos...",
+"“Sí. Son idénticos...”",
 {"rt2"},
 },
 },
@@ -4767,7 +4767,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Me enteré que Kenichiro-san venía con frecuencia a este local, por lo barato\nque es.",
+"“Me enteré que Kenichiro-san venía con frecuencia a este local, por lo barato\nque es.”",
 {"rt2"},
 },
 },
@@ -4781,7 +4781,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Je, aquí...",
+"“Je, aquí...”",
 {"rt2"},
 },
 },
@@ -4804,7 +4804,7 @@ vo={
 ja={
 {
 name={"???"},
-"Bienvenidooos.",
+"“Bienvenidooos.”",
 {"rt2"},
 },
 },
@@ -4831,7 +4831,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no, no somos clientes.",
+"“Ah, no, no somos clientes.”",
 {"rt2"},
 },
 },
@@ -4849,7 +4849,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿No? Aunque sí, definitivamente no conozco sus caras.",
+"“¿No? Aunque sí, definitivamente no conozco sus caras.”",
 {"rt2"},
 },
 },
@@ -4863,7 +4863,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Estás ayudando a tu madre o a alguien de la familia con el trabajo, pequeña?",
+"“¿Estás ayudando a tu madre o a alguien de la familia con el trabajo, pequeña?”",
 {"rt2"},
 },
 },
@@ -4882,7 +4882,7 @@ vo={
 ja={
 {
 name={"???"},
-"Nono, Nonomi trabaja acá.",
+"“Nono, Nonomi trabaja acá.”",
 {"rt2"},
 },
 },
@@ -4896,7 +4896,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Trabajas acá? ¿Con lo joven que eres?",
+"“¿Trabajas acá? ¿Con lo joven que eres?”",
 {"rt2"},
 },
 },
@@ -4915,7 +4915,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Tengo bastante experiencia en esta industria.",
+"“Tengo bastante experiencia en esta industria.”",
 {"rt2"},
 },
 },
@@ -4942,7 +4942,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... Bueno, vendré de nuevo cuando tenga edad para beber alcohol.",
+"“Ya veo... Bueno, vendré de nuevo cuando tenga edad para beber alcohol.”",
 {"rt2"},
 },
 },
@@ -4965,7 +4965,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Ya veo, así que aún no tienen edad para tomar. Bueno, esperamos que vuelvan a\nvisitarnos～",
+"“Ya veo, así que aún no tienen edad para tomar. Bueno, esperamos que vuelvan a\nvisitarnos～”",
 {"rt2"},
 },
 },
@@ -4995,7 +4995,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Se acercó a hablarme.",
+"“Se acercó a hablarme.”",
 {"rt2"},
 },
 },
@@ -5019,7 +5019,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, la gente de esta zona suele ser muy amable... y qué linda la niña que te\natendió.",
+"“Sí, la gente de esta zona suele ser muy amable... y qué linda la niña que te\natendió.”",
 {"rt2"},
 },
 },
@@ -5033,7 +5033,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ciertamente.",
+"“Ciertamente.”",
 {"rt2"},
 },
 },
@@ -5087,7 +5087,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahh, conque aquí nos lleva esa calle.",
+"“Ahh, conque aquí nos lleva esa calle.”",
 {"rt2"},
 },
 },
@@ -5104,7 +5104,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. Ahora que sabes, podrás venir a tomar a Namidagawa sin problema alguno\ncuando te vuelvas adulto.",
+"“Sí. Ahora que sabes, podrás venir a tomar a Namidagawa sin problema alguno\ncuando te vuelvas adulto.”",
 {"rt2"},
 },
 },
@@ -5118,7 +5118,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"La idea de decidir desde ya la taberna donde beberé de adulto no me agrada\ntanto...",
+"“La idea de decidir desde ya la taberna donde beberé de adulto no me agrada\ntanto...”",
 {"rt2"},
 },
 },
