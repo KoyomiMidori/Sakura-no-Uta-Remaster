@@ -3028,7 +3028,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quedaste decepcionado?",
+"“¿Quedaste decepcionado?”",
 {"rt2"},
 },
 },
@@ -3047,7 +3047,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"¡No seas imbécil! ¡¿Por qué dejaste de pintar?! No cualquiera puede crear\ncuadros así. Los cuadros de Toritani y de Kei no le llegan ni a los pies a\nesto.",
+"“¡No seas imbécil! ¡¿Por qué dejaste de pintar?! No cualquiera puede crear\ncuadros así. Los cuadros de Toritani y de Kei no le llegan ni a los pies a\nesto.”",
 {"rt2"},
 },
 },
@@ -3061,7 +3061,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te equivocas. Esto es una falsificación. De no tener una obra tan grande como\n'Cerezos recostados' de base no hubiese podido obtener el impacto que tiene.",
+"“Te equivocas. Esto es una falsificación. De no tener una obra tan grande como\n'Cerezos recostados' de base no hubiese podido obtener el impacto que tiene.”",
 {"rt2"},
 },
 },
@@ -3075,7 +3075,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Más bien soy yo quien no le llega a los pies a esos dos. Puedo crear todas las\nfalsificaciones que quieras, pero algo original no. Así son las cosas.",
+"“Más bien soy yo quien no le llega a los pies a esos dos. Puedo crear todas las\nfalsificaciones que quieras, pero algo original no. Así son las cosas.”",
 {"rt2"},
 },
 },
@@ -3098,7 +3098,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"Por supuesto que no, es increíble la forma en que personificaste a los cerezos\ny muestras el interior como hechos de carne y órganos... cuando a simple\nvista lo único que se ve es un árbol botando savia por un hueco en su\ntronco...",
+"“Por supuesto que no, es increíble la forma en que personificaste a los cerezos\ny muestras el interior como hechos de carne y órganos... cuando a simple\nvista lo único que se ve es un árbol botando savia por un hueco en su\ntronco...”",
 {"rt2"},
 },
 },
@@ -3116,7 +3116,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"Comparado a la imagen del cuadro original, ciertamente es algo tétrico. Pero\ntiene toda la esencia del arte moderno.",
+"“Comparado a la imagen del cuadro original, ciertamente es algo tétrico. Pero\ntiene toda la esencia del arte moderno.”",
 {"rt2"},
 },
 },
@@ -3130,7 +3130,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Definitivamente. Aunque en ese sentido, quizás se vea algo corriente.",
+"“Definitivamente. Aunque en ese sentido, quizás se vea algo corriente.”",
 {"rt2"},
 },
 },
@@ -3149,7 +3149,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"Sería más fácil hacer pasar esto por falsificación si eso fuese verdad...",
+"“Sería más fácil hacer pasar esto por falsificación si eso fuese verdad...”",
 {"rt2"},
 },
 },
@@ -3163,7 +3163,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿De qué hablas?",
+"“¿De qué hablas?”",
 {"rt2"},
 },
 },
@@ -3181,7 +3181,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"No es nada. Bien, ¿qué hay de las demás?",
+"“No es nada. Bien, ¿qué hay de las demás?”",
 {"rt2"},
 },
 },
@@ -3195,7 +3195,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Decidí no insertar 'Shouosou' ni 'Kotsusou', así que pintaré con las cinco\nfases que quedan. El problema es el tiempo.",
+"“Decidí no insertar 'Shouosou' ni 'Kotsusou', así que pintaré con las cinco\nfases que quedan. El problema es el tiempo.”",
 {"rt2"},
 },
 },
@@ -3214,7 +3214,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"Sí, ya usaste una semana. El reloj no para de contar.",
+"“Sí, ya usaste una semana. El reloj no para de contar.”",
 {"rt2"},
 },
 },
@@ -3228,7 +3228,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Trabajaré de noche también.",
+"“Trabajaré de noche también.”",
 {"rt2"},
 },
 },
@@ -3246,7 +3246,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"¿No bajará la calidad si trabajas de noche?",
+"“¿No bajará la calidad si trabajas de noche?”",
 {"rt2"},
 },
 },
@@ -3260,7 +3260,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Podría ser, pero he estado todo este tiempo sin pintar. Creo que si uso todas\nesas ganas en estas dos semanas podré lograrlo.",
+"“Podría ser, pero he estado todo este tiempo sin pintar. Creo que si uso todas\nesas ganas en estas dos semanas podré lograrlo.”",
 {"rt2"},
 },
 },
@@ -3279,7 +3279,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"*fuh*, realmente no entiendo por qué dejaste de pintar.",
+"“*fuh*, realmente no entiendo por qué dejaste de pintar.”",
 {"rt2"},
 },
 },
@@ -3293,7 +3293,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué no entiendes?",
+"“¿Qué no entiendes?”",
 {"rt2"},
 },
 },
@@ -3316,7 +3316,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"Tal cual dije. Solo ahora te dignas a volver a pintar, para ayudar a alguien...\nY vaya que a pesar de eso creaste algo bastante atrevido.",
+"“Tal cual dije. Solo ahora te dignas a volver a pintar, para ayudar a alguien...\nY vaya que a pesar de eso creaste algo bastante atrevido.”",
 {"rt2"},
 },
 },
@@ -3334,7 +3334,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"Este cuadro muestra sin revestimiento alguno el espíritu combativo de su autor.",
+"“Este cuadro muestra sin revestimiento alguno el espíritu combativo de su autor.”",
 {"rt2"},
 },
 },
@@ -3348,7 +3348,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues me alegra escuchar eso. Una pintura sin pasión no puede cautivar los\ncorazones de otros.",
+"“Pues me alegra escuchar eso. Una pintura sin pasión no puede cautivar los\ncorazones de otros.”",
 {"rt2"},
 },
 },
@@ -3366,7 +3366,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"*fuh*, de verdad que se parecen los dos. No sé cómo es que siempre andan con\nesa modesta actitud...",
+"“*fuh*, de verdad que se parecen los dos. No sé cómo es que siempre andan con\nesa modesta actitud...”",
 {"rt2"},
 },
 },
@@ -3380,7 +3380,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Bueno, bueno, eso no importa. Quedan dos semanas para las negociaciones con los\nNakamura. Pondré toda mi sangre y sudor en esto.",
+"“Bueno, bueno, eso no importa. Quedan dos semanas para las negociaciones con los\nNakamura. Pondré toda mi sangre y sudor en esto.”",
 {"rt2"},
 },
 },
@@ -3394,7 +3394,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que los encargo a ustedes con eso, eh.",
+"“Así que los encargo a ustedes con eso.”",
 {"rt2"},
 },
 },
@@ -3413,7 +3413,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"No te preocupes.",
+"“No te preocupes.”",
 {"rt2"},
 },
 },
@@ -3432,7 +3432,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"¡Yo también haré todo lo que pueda, sí señor!",
+"“¡Yo también haré todo lo que pueda, sí señor!”",
 {"rt2"},
 },
 },
@@ -3540,7 +3540,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por qué será?...",
+"“¿Por qué será?...”",
 {"rt2"},
 },
 },
@@ -3697,7 +3697,7 @@ block_00232={
 text={
 ja={
 {
-"Es teniendo enfrente a la obra de ese monstruo llamado Kenichiro Kusanagi que\nentro en cuenta de eso.",
+"Es teniendo enfrente a la obra de ese monstruo llamado Kenichiro Kusanagi que\ncaigo en cuenta.",
 {"rt2"},
 },
 },
