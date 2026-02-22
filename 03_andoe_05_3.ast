@@ -113,7 +113,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y bien, qué ha pasado con los cerezos milenarios que Rin revivió?",
+"“Y bien, ¿qué ha pasado con los cerezos milenarios que Rin revivió?”",
 {"rt2"},
 },
 },
@@ -151,7 +151,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Me estás insinuando que hay la posibilidad de que sí produzcan uno?",
+"“¿Me estás insinuando que hay la posibilidad de que sí produzcan uno?”",
 {"rt2"},
 },
 },
@@ -174,7 +174,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, o al menos hasta que 'Las huellas de los cerezos' deje de ser algo novedoso\ny se convierta en una obra cualquiera... aunque, siempre hay la posibilidad\nde que resuene con los sentimientos de alguien.",
+"“Sí, o al menos hasta que 'Las huellas de los cerezos' deje de ser algo novedoso\ny se convierta en una obra cualquiera... aunque, siempre hay la posibilidad\nde que resuene con los sentimientos de alguien.”",
 {"rt2"},
 },
 },
@@ -188,7 +188,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quieres decir que 'Las huellas de los cerezos' sí tiene el poder para hacer\neso?",
+"“¿Quieres decir que 'Las huellas de los cerezos' sí tiene el poder para hacer\neso?”",
 {"rt2"},
 },
 },
@@ -207,7 +207,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Me baso meramente en el precedente de Rin y los cerezos milenarios que pintó\nella...",
+"“Me baso meramente en el precedente de Rin y los cerezos milenarios que pintó\nella...”",
 {"rt2"},
 },
 },
@@ -221,7 +221,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues si Rin pudo dibujar los cerezos milenarios, eso quiere decir que hay una\nbuena posibilidad de que estos florezcan, ¿no?",
+"“Pues si Rin pudo dibujar los cerezos milenarios, eso quiere decir que hay una\nbuena posibilidad de que estos florezcan, ¿no?”",
 {"rt2"},
 },
 },
@@ -240,7 +240,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Creo que no. Es muy baja la posibilidad.",
+"“Creo que no. Es muy baja la posibilidad.”",
 {"rt2"},
 },
 },
@@ -254,7 +254,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Se supone que florecen al resonar con los sentimientos de alguien, ¿no? Si son\ncapaces de afectar a la ciudad entera, pues... no sé qué tanta fuerza habría\nen ese acumulado, pero eso aumentaría la posibilidad de que ocurriera, ¿o no?",
+"“Se supone que florecen al resonar con los sentimientos de alguien, ¿no? Si son\ncapaces de afectar a la ciudad entera, pues... no sé qué tanta fuerza habría\nen ese acumulado, pero eso aumentaría la posibilidad de que ocurriera, ¿o no?”",
 {"rt2"},
 },
 },
@@ -277,7 +277,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Por más fuertes que sean los sentimientos de cada uno de los habitantes de la\nciudad, no hay manera de que haya resonancia. Los milagros no ocurren así de\nsimple...",
+"“Por más fuertes que sean los sentimientos de cada uno de los habitantes de la\nciudad, no hay manera de que haya resonancia. Los milagros no ocurren así de\nsimple...”",
 {"rt2"},
 },
 },
@@ -295,7 +295,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero, si esos fuertes sentimientos vinieran de alguien involucrado con la\nobra...",
+"“Pero si esos fuertes sentimientos vinieran de alguien involucrado con la\nobra...”",
 {"rt2"},
 },
 },
@@ -309,7 +309,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Alguien involucrado con 'Las huellas de los cerezos'?",
+"“¿Alguien involucrado con 'Las huellas de los cerezos'?”",
 {"rt2"},
 },
 },
@@ -328,7 +328,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Muchos sentimientos complicados se cruzaron entre sí en la creación de esa\nobra.",
+"“Muchos sentimientos complicados se cruzaron entre sí en la creación de esa\nobra.”",
 {"rt2"},
 },
 },
@@ -342,7 +342,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Sentimientos complicados? ¿Eh, es en serio?",
+"“¿Sentimientos complicados? Eh, ¿es en serio?”",
 {"rt2"},
 },
 },
@@ -365,7 +365,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. Probablemente ese día, todos los que participaron en la creación de esa\nobra sentían, cada uno, algo distinto... Esa obra no nació solo por mero\nespíritu creativo.",
+"“Sí. Probablemente ese día, todos los que participaron en la creación de esa\nobra sentían, cada uno, algo distinto... Esa obra no nació solo por mero\nespíritu creativo.”",
 {"rt2"},
 },
 },
@@ -383,7 +383,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Y debo decir que muchos de esos sentimientos entrecruzados, van dirigidos a\nti...",
+"“Y debo decir que muchos de esos sentimientos entrecruzados, van dirigidos a\nti...”",
 {"rt2"},
 },
 },
@@ -397,7 +397,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿A-A mí? No puede ser, esa obra le pertenece a Akashi, ¿no?",
+"“¿A-A mí? No puede ser, esa obra le pertenece a Akashi, ¿no?”",
 {"rt2"},
 },
 },
@@ -421,7 +421,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, la obra efectivamente es de él... Pero es tu presencia lo que llevó a\nproducir esos complicados sentimientos.",
+"“Sí, la obra efectivamente es de él... Pero es tu presencia lo que llevó a\nproducir esos complicados sentimientos.”",
 {"rt2"},
 },
 },
@@ -435,7 +435,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿P-Por qué yo?...",
+"“¿P-Por qué yo?...”",
 {"rt2"},
 },
 },
@@ -454,7 +454,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Naoya, ¿es que acaso no te has dado cuenta?",
+"“Naoya, ¿es que acaso no te has dado cuenta?”",
 {"rt2"},
 },
 },
@@ -468,7 +468,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿D-De qué?...",
+"“¿D-De qué?...”",
 {"rt2"},
 },
 },
@@ -486,7 +486,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"De lo que sienten todas esas chicas por ti...",
+"“De lo que sienten todas esas chicas por ti...”",
 {"rt2"},
 },
 },
@@ -500,7 +500,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"P-Pues, mucho ha ocurrido en el pasado... Supongo que cada quien tendrá algo\ndistinto en el corazón...",
+"“P-Pues, mucho ha ocurrido en el pasado... Supongo que cada quien tendrá algo\ndistinto en el corazón...”",
 {"rt2"},
 },
 },
@@ -518,7 +518,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Tal cual.",
+"“Tal cual.”",
 {"rt2"},
 },
 },
@@ -541,7 +541,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero todos esos sentimientos cruzándose en la obra convergen, al final, al\nsentimiento de 'diversión'... Es por eso que la obra en sí es bella, y tiene\nun toque de diversión.",
+"“Pero todos esos sentimientos cruzándose en la obra convergen, al final, al\nsentimiento de 'diversión'... Es por eso que la obra en sí es bella, y tiene\nun toque de diversión.”",
 {"rt2"},
 },
 },
@@ -564,7 +564,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Habiendo sido creada con todos esos alegres sentimientos, dudo mucho que la\nobra sea capaz de crear milagros a partir de malos sentimientos... pero, si\nen los sentimientos de las personas involucradas en la obra hubiese algo de\nmala naturaleza...",
+"“Habiendo sido creada con todos esos alegres sentimientos, dudo mucho que la\nobra sea capaz de crear milagros a partir de malos sentimientos... pero, si\nen los sentimientos de las personas involucradas en la obra hubiese algo de\nmala naturaleza...”",
 {"rt2"},
 },
 },
@@ -578,7 +578,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Los cerezos milenarios podrían volver a florecer...",
+"“Los cerezos milenarios podrían volver a florecer...”",
 {"rt2"},
 },
 },
@@ -596,7 +596,7 @@ vo={
 ja={
 {
 name={"???"},
-"Así es.",
+"“Así es.”",
 {"rt2"},
 },
 },
@@ -610,7 +610,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Esa voz--!",
+"“¡Esa voz--!”",
 {"rt2"},
 },
 },
@@ -628,7 +628,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Es Sui.",
+"“Es Sui.”",
 {"rt2"},
 },
 },
@@ -649,7 +649,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Buenas noches para ti, Shizuku.",
+"“Buenas noches para ti, Shizuku.”",
 {"rt2"},
 },
 },
@@ -667,7 +667,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Hola.",
+"“Hola.”",
 {"rt2"},
 },
 },
@@ -681,7 +681,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya está bien con los saludos, ¿es cierto lo que acabas de decir? ¿En verdad hay\nla posibilidad de que florezcan los cerezos milenarios?",
+"“Ya está bien con los saludos, ¿es cierto lo que acabas de decir? ¿En verdad hay\nla posibilidad de que florezcan los cerezos milenarios?”",
 {"rt2"},
 },
 },
@@ -700,7 +700,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"De que la hay la hay, sí...",
+"“De que la hay la hay, sí...”",
 {"rt2"},
 },
 },
@@ -718,7 +718,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero no hay nada de qué preocuparse.",
+"“Pero no hay nada de qué preocuparse.”",
 {"rt2"},
 },
 },
@@ -732,7 +732,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por qué?",
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -751,7 +751,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No hay indicio alguno de que eso esté por suceder.",
+"“No hay indicio alguno de que eso esté por suceder.”",
 {"rt2"},
 },
 },
@@ -770,7 +770,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Así es. Yo puedo ver los colores en los lazos de causalidad. Si algo indicara\nque están por florecer, me daría cuenta de inmediato.",
+"“Así es. Yo puedo ver los colores en los lazos de causalidad. Si algo indicara\nque están por florecer, me daría cuenta de inmediato.”",
 {"rt2"},
 },
 },
@@ -789,7 +789,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y, además... hay otro detalle que te debería aliviar aún más.",
+"“Y, además... hay otro detalle que te debería aliviar aún más.”",
 {"rt2"},
 },
 },
@@ -803,7 +803,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Otro detalle que me debería aliviar?",
+"“¿Otro detalle que me debería aliviar?”",
 {"rt2"},
 },
 },
@@ -823,7 +823,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. Es posible que, si en algún momento llegaran a florecer los cerezos, sería\nsin duda alguna, por algo concerniente a ti.",
+"“Sí. Es posible que, si en algún momento llegaran a florecer los cerezos, sería\nsin duda alguna, por algo concerniente a ti.”",
 {"rt2"},
 },
 },
@@ -838,7 +838,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? ¡¿Concerniente a mí?!",
+"“¿Eh? ¡¿Concerniente a mí?!”",
 {"rt2"},
 },
 },
@@ -856,7 +856,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, así que no debes preocuparte.",
+"“Sí, así que no debes preocuparte.”",
 {"rt2"},
 },
 },
@@ -870,7 +870,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Espera un momento, ¿me dices que sería algo concerniente a mí y me pides que\nno me preocupe? Eso significa que si hago algo mal podrían florecer, ¿sabes?",
+"“E-Espera un momento, ¿me dices que sería algo concerniente a mí y me pides que\nno me preocupe? Eso significa que si hago algo mal podrían florecer, ¿sabes?”",
 {"rt2"},
 },
 },
@@ -894,7 +894,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Por eso mismo lo digo. Sé que aun si ocurriera un mal milagro, tú serías capaz\nde guiarlo por el buen camino...",
+"“Por eso mismo lo digo. Sé que aun si ocurriera un mal milagro, tú serías capaz\nde guiarlo por el buen camino...”",
 {"rt2"},
 },
 },
@@ -908,7 +908,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y-Yo? ¿Por el buen camino? No, no, ¿cómo esperas que pueda hacer algo frente a\nesa cosa sobrenatural?",
+"“¿Y-Yo? ¿Por el buen camino? No, no, ¿cómo esperas que pueda hacer algo frente a\nesa cosa sobrenatural?”",
 {"rt2"},
 },
 },
@@ -926,7 +926,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Los cerezos milenarios son, ciertamente, algo similar a un fenómeno\nsobrenatural. Pero son los corazones de las personas los que le dan forma.",
+"“Los cerezos milenarios son, ciertamente, algo similar a un fenómeno\nsobrenatural. Pero son los corazones de las personas los que le dan forma.”",
 {"rt2"},
 },
 },
@@ -944,7 +944,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Si guías ese milagro por el buen camino no ocurrirá error alguno, Kusanagi-san.",
+"“Si guías ese milagro por el buen camino no ocurrirá error alguno, Kusanagi-san.”",
 {"rt2"},
 },
 },
@@ -958,7 +958,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿P-Pero, cómo podría yo hacer eso?",
+"“P-Pero ¿cómo podría yo hacer eso?”",
 {"rt2"},
 },
 },
@@ -983,7 +983,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Puedes hacerlo. Siempre lo has hecho. Desde hace un buen tiempo has venido\nsalvando a los corazones de muchos, llevándolos por el buen camino.",
+"“Puedes hacerlo. Siempre lo has hecho. Desde hace un buen tiempo has venido\nsalvando a los corazones de muchos, llevándolos por el buen camino.”",
 {"rt2"},
 },
 },
@@ -1001,7 +1001,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Una vez pude verte usando el poder de Rin. Solo un instante.",
+"“Una vez pude verte usando el poder de Rin. Solo un instante.”",
 {"rt2"},
 },
 },
@@ -1019,7 +1019,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"En ese momento, entendí por fin por qué Rin te llamaba 'El artista de los\ncerezos'.",
+"“En ese momento, entendí por fin por qué Rin te llamaba 'El artista de los\ncerezos'.”",
 {"rt2"},
 },
 },
@@ -1037,7 +1037,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Siempre has atraído muchas personas a ti. Como si de alguna forma pudieras\nenlazar los sentimientos de todos ellos. Tienes un color similar al de la luz\nde la causalidad enlazada.",
+"“Siempre has atraído muchas personas a ti. Como si de alguna forma pudieras\nenlazar los sentimientos de todos ellos. Tienes un color similar al de la luz\nde la causalidad enlazada.”",
 {"rt2"},
 },
 },
@@ -1055,7 +1055,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Similar al brillo de las estrellas, y también similar a los cerezos que\nrecubren el cielo con sus pétalos.",
+"“Similar al brillo de las estrellas, y también similar a los cerezos que\nrecubren el cielo con sus pétalos.”",
 {"rt2"},
 },
 },
@@ -1079,7 +1079,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Así es Kusanagi-san, sí. Aunque todavía le falta mucho que aprender en lo que a\npintura se refiere.",
+"“Así es Kusanagi-san, sí. Aunque todavía le falta mucho que aprender en lo que a\npintura se refiere.”",
 {"rt2"},
 },
 },
@@ -1093,7 +1093,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Déjame en paz.",
+"“Déjame en paz.”",
 {"rt2"},
 },
 },
@@ -1116,7 +1116,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Aunque, pintar no es solo cuestión de técnica. Ni tampoco únicamente de\ntalento. Y creo que el encanto que tienes como persona te da, efectivamente,\nvalor como artista.",
+"“Aunque pintar no es solo cuestión de técnica. Ni tampoco únicamente de\ntalento. Y creo que el encanto que tienes como persona te da, efectivamente,\nvalor como artista.”",
 {"rt2"},
 },
 },
@@ -1134,7 +1134,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Solo donde el genio es fino, puede verse el talento. Genio es lo que nos hace\nolvidar el talento.",
+"“Solo donde el genio es fino, puede verse el talento. Genio es lo que nos hace\nolvidar el talento.”",
 {"rt2"},
 },
 },
@@ -1152,7 +1152,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Eso es lo que Kei nii-san dice siempre, elogiándote...",
+"“Eso es lo que Kei nii-san dice siempre, elogiándote...”",
 {"rt2"},
 },
 },
@@ -1166,7 +1166,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Jaa, me estás poniendo muy por encima de lo que realmente soy...",
+"“Jaa, me estás poniendo muy por encima de lo que realmente soy...”",
 {"rt2"},
 },
 },
@@ -1185,7 +1185,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Eso crees?",
+"“¿Eso crees?”",
 {"rt2"},
 },
 },
@@ -1204,7 +1204,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Yo no diría eso.",
+"“Yo no diría eso.”",
 {"rt2"},
 },
 },
@@ -1231,7 +1231,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Cambiando de tema, Shizuku, ¿no deberíamos pedirle permiso ahora que está?",
+"“Cambiando de tema, Shizuku, ¿no deberíamos pedirle permiso ahora que está?”",
 {"rt2"},
 },
 },
@@ -1250,7 +1250,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ah, cierto... Sui, hay algo que debo preguntarte.",
+"“Ah, cierto... Sui, hay algo que debo preguntarte.”",
 {"rt2"},
 },
 },
@@ -1268,7 +1268,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿A Sui?",
+"“¿A Sui?”",
 {"rt2"},
 },
 },
@@ -1287,7 +1287,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. ¿Puedo contarle a Naoya de nuestro pasado?",
+"“Sí. ¿Puedo contarle a Naoya de nuestro pasado?”",
 {"rt2"},
 },
 },
@@ -1311,7 +1311,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Hacía falta que me lo preguntaras? Nunca he pretendido hacerlo un secreto...",
+"“¿Hacía falta que me lo preguntaras? Nunca he pretendido hacerlo un secreto...”",
 {"rt2"},
 },
 },
@@ -1329,7 +1329,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sui, también te falla la memoria de lo que ocurrió en el pasado, ¿verdad?",
+"“Sui, también te falla la memoria de lo que ocurrió en el pasado, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1352,7 +1352,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pues sí. Aunque, gracias a los pétalos de cerezos milenarios guardados en el\nálbum de Rin que fueron esparcidos en ese terreno, pude aparecer de nuevo.",
+"“Pues sí. Aunque, gracias a los pétalos de cerezos milenarios guardados en el\nálbum de Rin que fueron esparcidos en ese terreno, pude aparecer de nuevo.”",
 {"rt2"},
 },
 },
@@ -1366,7 +1366,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? Espera, ¿fueron los pétalos que esparcí allá lo que te hicieron regresar?",
+"“¿Eh? Espera, ¿fueron los pétalos que esparcí allá lo que te hicieron regresar?”",
 {"rt2"},
 },
 },
@@ -1385,7 +1385,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Algo así.",
+"“Algo así.”",
 {"rt2"},
 },
 },
@@ -1403,7 +1403,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Caminamos un poco mientras les cuento? Les hablaré de eso también.",
+"“¿Caminamos un poco mientras les cuento? Les hablaré de eso también.”",
 {"rt2"},
 },
 },
@@ -1422,7 +1422,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí. De nuestra historia...",
+"“Sí. De nuestra historia...”",
 {"rt2"},
 },
 },
@@ -1436,7 +1436,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Caminar a dónde?",
+"“¿Caminar a dónde?”",
 {"rt2"},
 },
 },
@@ -1455,7 +1455,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"A la otra fuente de los cerezos milenarios, por supuesto.",
+"“A la otra fuente de los cerezos milenarios, por supuesto.”",
 {"rt2"},
 },
 },
@@ -1637,7 +1637,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Mmm.",
+"“Mmm.”",
 {"rt2"},
 },
 },
@@ -1654,7 +1654,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Mm, mmm?",
+"“¿Mm, mmm?”",
 {"rt2"},
 },
 },
@@ -1671,7 +1671,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Qué pasa?",
+"“¿Qué pasa?”",
 {"rt2"},
 },
 },
@@ -1688,7 +1688,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ah, no, es que me pareció haber escuchado una voz justo ahora...",
+"“Ah, no, es que me pareció haber escuchado una voz justo ahora...”",
 {"rt2"},
 },
 },
@@ -1705,7 +1705,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No hay nadie aparte de mí...",
+"“No hay nadie aparte de mí...”",
 {"rt2"},
 },
 },
@@ -1722,7 +1722,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Lo sé, pero...",
+"“Lo sé, pero...”",
 {"rt2"},
 },
 },
@@ -1752,7 +1752,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Hay alguien ahí?",
+"“¿Hay alguien ahí?”",
 {"rt2"},
 },
 },
@@ -1769,7 +1769,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Solo lo que ves...",
+"“Solo lo que ves...”",
 {"rt2"},
 },
 },
@@ -1786,7 +1786,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Solo lo que veo, eh...",
+"“Solo lo que veo, eh...”",
 {"rt2"},
 },
 },
@@ -1803,7 +1803,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Ves algo?",
+"“¿Ves algo?”",
 {"rt2"},
 },
 },
@@ -1820,7 +1820,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No, nada de nada.",
+"“No, nada de nada.”",
 {"rt2"},
 },
 },
@@ -1837,7 +1837,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pues, ya tienes tu respuesta...",
+"“Pues ya tienes tu respuesta...”",
 {"rt2"},
 },
 },
@@ -1873,7 +1873,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Qué le pasa? ¿Por qué se me ha quedado viendo fijamente?...",
+"“¿Qué le pasa? ¿Por qué se me ha quedado viendo fijamente?...”",
 {"rt2"},
 },
 },
@@ -1890,7 +1890,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Tranquila... por más fijamente que parezca verte, en realidad no puede ver\nnada...",
+"“Tranquila... por más fijamente que parezca verte, en realidad no puede ver\nnada...”",
 {"rt2"},
 },
 },
@@ -1907,7 +1907,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Sí?... Qué mal ojo tiene Kenichiro-san. No puedo creer que sus ojos no sean\ncapaz de captar la exuberante belleza de Sui.",
+"“¿Sí?... Qué mal ojo tiene Kenichiro-san. No puedo creer que sus ojos no sean\ncapaz de captar la exuberante belleza de Sui.”",
 {"rt2"},
 },
 },
@@ -1924,7 +1924,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No creo que sea precisamente por mala vista...",
+"“No creo que sea precisamente por mala vista...”",
 {"rt2"},
 },
 },
@@ -1982,7 +1982,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Con quién hablas?",
+"“¿Con quién hablas?”",
 {"rt2"},
 },
 },
@@ -1999,7 +1999,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Con nadie. Hablaba sola...",
+"“Con nadie. Hablaba sola...”",
 {"rt2"},
 },
 },
@@ -2016,7 +2016,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"... Hmph.",
+"“... Hmph.”",
 {"rt2"},
 },
 },
@@ -2048,7 +2048,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Hay alguien ahí, ¿verdad?",
+"“Hay alguien ahí, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -2065,7 +2065,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Quién?",
+"“¿Quién?”",
 {"rt2"},
 },
 },
@@ -2082,7 +2082,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No lo sé. Pero se siente como... sí, se parece a Rin.",
+"“No lo sé. Pero se siente como... sí, se parece a Rin.”",
 {"rt2"},
 },
 },
@@ -2099,7 +2099,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin está en Japón.",
+"“Rin está en Japón.”",
 {"rt2"},
 },
 },
@@ -2116,7 +2116,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, así que probablemente no sea ella.",
+"“Sí, así que probablemente no sea ella.”",
 {"rt2"},
 },
 },
@@ -2133,7 +2133,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pues entonces no puede haber nadie...",
+"“Pues entonces no puede haber nadie...”",
 {"rt2"},
 },
 },
@@ -2150,7 +2150,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Quién sabe. Me parece que últimamente se te ha ido quitando el carácter de\nHakuki que tenías.",
+"“Quién sabe. Me parece que últimamente se te ha ido quitando el carácter de\nHakuki que tenías.”",
 {"rt2"},
 },
 },
@@ -2167,7 +2167,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿El carácter de Hakuki?",
+"“¿El carácter de Hakuki?”",
 {"rt2"},
 },
 },
@@ -2184,7 +2184,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí. Aun no te has abierto conmigo, pero pareces estar algo alegre últimamente.",
+"“Sí. Aun no te has abierto conmigo, pero pareces estar algo alegre últimamente.”",
 {"rt2"},
 },
 },
@@ -2201,7 +2201,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Alegre?",
+"“¿Alegre?”",
 {"rt2"},
 },
 },
@@ -2218,7 +2218,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Lo inexpresiva no se te quita, eso sí...",
+"“Así es. Lo inexpresiva no se te quita, eso sí...”",
 {"rt2"},
 },
 },
@@ -2235,7 +2235,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Inexpresiva... pero aun así alegre...",
+"“Inexpresiva... pero aun así alegre...”",
 {"rt2"},
 },
 },
@@ -2252,7 +2252,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Me pregunto qué pasará con eso.",
+"“Me pregunto qué pasará con eso.”",
 {"rt2"},
 },
 },
@@ -2269,7 +2269,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Con qué?",
+"“¿Con qué?”",
 {"rt2"},
 },
 },
@@ -2286,7 +2286,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Con lo que te tragaste.",
+"“Con lo que te tragaste.”",
 {"rt2"},
 },
 },
@@ -2303,7 +2303,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Yo?",
+"“¿Yo?”",
 {"rt2"},
 },
 },
@@ -2320,7 +2320,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Te tragaste algo de una magnitud inconmensurable. Algo capaz de crear cosas de\nla nada.",
+"“Te tragaste algo de una magnitud inconmensurable. Algo capaz de crear cosas de\nla nada.”",
 {"rt2"},
 },
 },
@@ -2337,7 +2337,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Todo ese poder materializador... ¿Qué tanto tiempo podrá permanecer dentro de\nti?",
+"“Todo ese poder materializador... ¿Qué tanto tiempo podrá permanecer dentro de\nti?”",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Kenichiro-san...",
+"“Kenichiro-san...”",
 {"rt2"},
 },
 },
@@ -2371,7 +2371,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Cómo se llama?",
+"“¿Cómo se llama?”",
 {"rt2"},
 },
 },
@@ -2388,7 +2388,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Su nombre? No lo sé... Ah, dice que se llama Sui.",
+"“¿Su nombre? No lo sé... Ah, dice que se llama Sui.”",
 {"rt2"},
 },
 },
@@ -2405,7 +2405,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sui... ya veo. Igual que ella...",
+"“Sui... ya veo. Igual que ella...”",
 {"rt2"},
 },
 },
@@ -2422,7 +2422,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Que quién?",
+"“¿Que quién?”",
 {"rt2"},
 },
 },
@@ -2439,7 +2439,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ah, nada. Cosas mías.",
+"“Ah, nada. Cosas mías.”",
 {"rt2"},
 },
 },
@@ -2456,7 +2456,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿No te sientes sola hablando solo con Shizuku, Sui? Puedes hablar conmigo\ncuando quieras, eh.",
+"“¿No te sientes sola hablando solo con Shizuku, Sui? Puedes hablar conmigo\ncuando quieras.”",
 {"rt2"},
 },
 },
@@ -2473,7 +2473,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Kenichiro-san, también la puedes ver?",
+"“Kenichiro-san, ¿también la puedes ver?”",
 {"rt2"},
 },
 },
@@ -2490,7 +2490,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Para nada. Ni la puedo ver, ni la puedo escuchar.",
+"“Para nada. Ni la puedo ver, ni la puedo escuchar.”",
 {"rt2"},
 },
 },
@@ -2507,7 +2507,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Solo que pensé que quizás ambas se sentirían solas. Por mi parte tengo\nbastantes compinches por acá, pero ustedes dos no tienen casi amigos.",
+"“Solo que pensé que quizás ambas se sentirían solas. Por mi parte tengo\nbastantes compinches por acá, pero ustedes dos no tienen casi amigos.”",
 {"rt2"},
 },
 },
@@ -2524,7 +2524,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así que, ¿por qué no me incluyen a mí también en el grupo?",
+"“Así que, ¿por qué no me incluyen a mí también en el grupo?”",
 {"rt2"},
 },
 },
@@ -2541,7 +2541,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Qué dices, Sui?",
+"“¿Qué dices, Sui?”",
 {"rt2"},
 },
 },
@@ -2559,7 +2559,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡Pues si así lo quieres!",
+"“¡Pues si así lo quieres!”",
 {"rt2"},
 },
 },
@@ -2656,7 +2656,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Puedes ver a Sui?",
+"“¿Puedes ver a Sui?”",
 {"rt2"},
 },
 },
@@ -2673,7 +2673,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No, no puedo.",
+"“No, no puedo.”",
 {"rt2"},
 },
 },
@@ -2690,7 +2690,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero las conversaciones entre los dos siempre se dan bien.",
+"“Pero las conversaciones entre los dos siempre se dan bien.”",
 {"rt2"},
 },
 },
@@ -2707,7 +2707,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Pues, no sé realmente, la verdad. Quizás sí, en lo que a pinturas se refiere.",
+"“Pues no sé realmente, la verdad. Quizás sí, en lo que a pinturas se refiere.”",
 {"rt2"},
 },
 },
@@ -2724,7 +2724,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿En pinturas?",
+"“¿En pinturas?”",
 {"rt2"},
 },
 },
@@ -2741,7 +2741,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"De alguna forma me doy cuenta dónde ella podría quejarse conmigo, y dónde\npodría elogiarme. ¿A que no, Sui?",
+"“De alguna forma me doy cuenta dónde ella podría quejarse conmigo, y dónde\npodría elogiarme. ¿A que no, Sui?”",
 {"rt2"},
 },
 },
@@ -2759,7 +2759,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pues sí. No voy a negar que hay muchos problemas en tus cuadros, pero sí. En lo\nque a pinturas concierne nos llevamos muy bien.",
+"“Pues sí. No voy a negar que hay muchos problemas en tus cuadros, pero sí. En lo\nque a pinturas concierne nos llevamos muy bien.”",
 {"rt2"},
 },
 },
@@ -2776,7 +2776,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Te acabas de quejar de mis cuadros, ¿verdad?",
+"“Te acabas de quejar de mis cuadros, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -2793,7 +2793,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Qué podría hacer? Para una genio como Sui, tus cuadros todavía dejan mucho que\ndesear.",
+"“¿Qué podría hacer? Para una genio como Sui, tus cuadros todavía dejan mucho que\ndesear.”",
 {"rt2"},
 },
 },
@@ -2810,7 +2810,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Y que hay de ti? Mucho que dices, pero capaz y si llegas a pintar te sacas\nalgo horrible. Criticar es mucho más fácil que hacer, eh.",
+"“¿Y que hay de ti? Mucho que dices, pero capaz y si llegas a pintar te sacas\nalgo horrible. Criticar es mucho más fácil que hacer.”",
 {"rt2"},
 },
 },
@@ -2827,7 +2827,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Hmph, qué acusación tan ridícula. Pero qué más da, te haré entrar en cuenta de\nla diferencia de talento entre los dos cuando recupere mi cuerpo original.",
+"“Hmph, qué acusación tan ridícula. Pero qué más da, te haré entrar en cuenta de\nla diferencia de talento entre los dos cuando recupere mi cuerpo original.”",
 {"rt2"},
 },
 },
@@ -2844,7 +2844,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Jamás llegará ese día.",
+"“Jamás llegará ese día.”",
 {"rt2"},
 },
 },
@@ -2861,7 +2861,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Aunque debo admitir que 'Cerezos recostados' no es mala obra. Es la clase de\ncuadro que podría quizás ganarle a uno de mis cuadros en un día malo. Pero un\ncuadro de esos que salen bien a pesar de ser un día malo.",
+"“Aunque debo admitir que 'Cerezos recostados' no es mala obra. Es la clase de\ncuadro que podría quizás ganarle a uno de mis cuadros en un día malo. Pero un\ncuadro de esos que salen bien a pesar de ser un día malo.”",
 {"rt2"},
 },
 },
@@ -2878,7 +2878,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No entiendo qué demonios quieres decir...",
+"“No entiendo qué demonios quieres decir...”",
 {"rt2"},
 },
 },
@@ -2895,7 +2895,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"E-Están... conversando, con normalidad...",
+"“E-Están... conversando, con normalidad...”",
 {"rt2"},
 },
 },
@@ -2912,7 +2912,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ya te dije que no la puedo escuchar. Solo lo que me parece escuchar.",
+"“Ya te dije que no la puedo escuchar. Solo lo que me parece escuchar.”",
 {"rt2"},
 },
 },
@@ -2929,7 +2929,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Kenichiro-san tiene una excelente intuición artística, seguramente es capaz de\npercibir de alguna manera lo que digo.",
+"“Kenichiro-san tiene una excelente intuición artística, seguramente es capaz de\npercibir de alguna manera lo que digo.”",
 {"rt2"},
 },
 },
@@ -3021,7 +3021,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... Así que Sui es el propio talento de Rin...",
+"“Ya veo... Así que Sui es el propio talento de Rin...”",
 {"rt2"},
 },
 },
@@ -3038,7 +3038,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No creo que sea exactamente eso. Si fuera simplemente el talento de Rin, no\ncreo que hubiese tomado esta forma.",
+"“No creo que sea exactamente eso. Si fuera simplemente el talento de Rin, no\ncreo que hubiese tomado esta forma.”",
 {"rt2"},
 },
 },
@@ -3055,7 +3055,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Creo que en gran parte de mí llevo los sentimientos de Rin.",
+"“Creo que en gran parte de mí llevo los sentimientos de Rin.”",
 {"rt2"},
 },
 },
@@ -3072,7 +3072,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No en vano el regreso de Rin a la ciudad llevó a que mi existencia se\nreiniciara.",
+"“No en vano el regreso de Rin a la ciudad llevó a que mi existencia se\nreiniciara.”",
 {"rt2"},
 },
 },
@@ -3086,7 +3086,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿A que tu existencia se reiniciara?",
+"“¿A que tu existencia se reiniciara?”",
 {"rt2"},
 },
 },
@@ -3103,7 +3103,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Es probable que la existencia de Sui se mantenga en base al balance entre Rin y\nyo.",
+"“Es probable que la existencia de Sui se mantenga en base al balance entre Rin y\nyo.”",
 {"rt2"},
 },
 },
@@ -3120,7 +3120,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Estando en Nueva York, Rin se encontraba muy lejos, lo cual hacía más fuerte mi\ninfluencia. Pero desde que Rin vino a la ciudad, ese balance de fuerza ha\ncambiado.",
+"“Estando en Nueva York, Rin se encontraba muy lejos, lo cual hacía más fuerte mi\ninfluencia. Pero desde que Rin vino a la ciudad, ese balance de fuerza ha\ncambiado.”",
 {"rt2"},
 },
 },
@@ -3137,7 +3137,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Creo que la propia existencia de Sui ha sufrido del hecho que Rin haya perdido\nla memoria.",
+"“Creo que la propia existencia de Sui ha sufrido del hecho que Rin haya perdido\nla memoria.”",
 {"rt2"},
 },
 },
@@ -3154,7 +3154,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Y por eso es que al aparecer de nuevo en esta zona, Sui no tenía ningún\nrecuerdo de hasta entonces.",
+"“Y por eso es que al aparecer de nuevo en esta zona, Sui no tenía ningún\nrecuerdo de hasta entonces.”",
 {"rt2"},
 },
 },
@@ -3171,7 +3171,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Así es. Aún conservaba la sensación de amistad que tenía con Shizuku, pero...\nno quedaba ni un solo recuerdo al respecto.",
+"“Así es. Aún conservaba la sensación de amistad que tenía con Shizuku, pero...\nno quedaba ni un solo recuerdo al respecto.”",
 {"rt2"},
 },
 },
@@ -3188,7 +3188,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Así que, si la frecuencia con la que Rin y Sui se encuentran hubiese aumentado,\nquizás ambas hubiesen comenzado a buscar, ambas, sus recuerdos perdidos...",
+"“Así que, si la frecuencia con la que Rin y Sui se encuentran hubiese aumentado,\nquizás ambas hubiesen comenzado a buscar, ambas, sus recuerdos perdidos...”",
 {"rt2"},
 },
 },
@@ -3202,7 +3202,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No sabía eso... Pues qué buena suerte que no se han visto tanto.",
+"“No sabía eso... Pues qué buena suerte que no se han visto tanto.”",
 {"rt2"},
 },
 },
@@ -3219,7 +3219,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Eso piensas?",
+"“¿Eso piensas?”",
 {"rt2"},
 },
 },
@@ -3233,7 +3233,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esas son memorias que deben permanecer ocultas para Rin. O al menos así lo veo\nyo...",
+"“Esas son memorias que deben permanecer ocultas para Rin. O al menos así lo veo\nyo...”",
 {"rt2"},
 },
 },
@@ -3250,7 +3250,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Bueno...",
+"“Bueno...”",
 {"rt2"},
 },
 },
@@ -3277,7 +3277,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vamos, ¿qué pasa, Shizuku? ¿Es que acaso crees que sería mejor que Rin recobre\nsu memoria?",
+"“Vamos, ¿qué pasa, Shizuku? ¿Es que acaso crees que sería mejor que Rin recobre\nsu memoria?”",
 {"rt2"},
 },
 },
@@ -3294,7 +3294,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No. No lo sé... no lo sé, pero...",
+"“No. No lo sé... no lo sé, pero...”",
 {"rt2"},
 },
 },
@@ -3308,7 +3308,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pero?",
+"“¿Pero?”",
 {"rt2"},
 },
 },
@@ -3325,7 +3325,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero creo que si eso hubiese pasado, probablemente hubieses seguido tu camino\njunto a ella...",
+"“Pero creo que si eso hubiese pasado, probablemente hubieses seguido tu camino\njunto a ella...”",
 {"rt2"},
 },
 },
@@ -3339,7 +3339,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Junto a Rin?",
+"“¿Junto a Rin?”",
 {"rt2"},
 },
 },
@@ -3356,7 +3356,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No estarías a mi lado, es lo que quise decir.",
+"“No estarías a mi lado, es lo que quise decir.”",
 {"rt2"},
 },
 },
@@ -3370,7 +3370,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pero qué estás diciendo? Yo te amo es a ti, Shizuku.",
+"“¿Pero qué estás diciendo? Yo te amo a ti, Shizuku.”",
 {"rt2"},
 },
 },
@@ -3387,7 +3387,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí, lo sé.",
+"“Sí, lo sé.”",
 {"rt2"},
 },
 },
@@ -3404,7 +3404,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Y por lo mismo, creo que estuvo de más decir eso...",
+"“Y por lo mismo, creo que estuvo de más decir eso...”",
 {"rt2"},
 },
 },
@@ -3445,7 +3445,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"No sabía que se podía llegar de esta manera...",
+"“No sabía que se podía llegar de esta manera...”",
 {"rt2"},
 },
 },
@@ -3459,7 +3459,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yumihari tiene muchos caminos ocultos. Pasando por el bosque puedes entrar al\nterreno del colegio. Aunque, nos tardamos un poco más de lo normal, eso sí...",
+"“Yumihari tiene muchos caminos ocultos. Pasando por el bosque puedes entrar al\nterreno del colegio. Aunque, nos tardamos un poco más de lo normal, eso sí...”",
 {"rt2"},
 },
 },
@@ -3477,7 +3477,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"En fin, todo lo que estaba oculto respecto a mí lo reveló Shizuku en lo que te\ncontó.",
+"“En fin, todo lo que estaba oculto respecto a mí lo reveló Shizuku en lo que te\ncontó.”",
 {"rt2"},
 },
 },
@@ -3495,7 +3495,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Por otra parte, al parecer esta pintura ha creado conexiones entre mí y una\ngran cantidad de personas...",
+"“Por otra parte, al parecer esta pintura ha creado conexiones entre mí y una\ngran cantidad de personas...”",
 {"rt2"},
 },
 },
@@ -3509,7 +3509,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"'Las huellas de los cerezos'...",
+"“'Las huellas de los cerezos'...”",
 {"rt2"},
 },
 },
@@ -3532,7 +3532,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Haya sido por televisión, o en persona... Todas las personas que han visto\nestos cerezos milenarios se volvieron capaces de percibir a Sui...",
+"“Haya sido por televisión, o en persona... Todas las personas que han visto\nestos cerezos milenarios se volvieron capaces de percibir a Sui...”",
 {"rt2"},
 },
 },
@@ -3546,7 +3546,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por eso es que aquella vez... Cuando fuimos al local de trajes de baño, la\nempleada no lograba verte...",
+"“Por eso es que aquella vez... Cuando fuimos al local de trajes de baño, la\nempleada no lograba verte...”",
 {"rt2"},
 },
 },
@@ -3570,7 +3570,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Así es. Probablemente no había visto aún la obra, ni siquiera en televisión.",
+"“Así es. Probablemente no había visto aún la obra, ni siquiera en televisión.”",
 {"rt2"},
 },
 },
@@ -3589,7 +3589,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero, a final de cuentas, estos cerezos milenarios... no están al nivel de lo\nque Rin pintó...",
+"“Pero a final de cuentas, estos cerezos milenarios... no están al nivel de lo\nque Rin pintó...”",
 {"rt2"},
 },
 },
@@ -3607,7 +3607,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Algún día la gente se acostumbrará a verla, y perderán interés en ella. Y\ncuando llegue ese momento, ya nadie podrá volver a percibir a Sui jamás...",
+"“Algún día la gente se acostumbrará a verla, y perderán interés en ella. Y\ncuando llegue ese momento, ya nadie podrá volver a percibir a Sui jamás...”",
 {"rt2"},
 },
 },
@@ -3621,7 +3621,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Nadie? ¿Por qué? Yo podía verte aun antes de que esta obra se completara.",
+"“¿Nadie? ¿Por qué? Yo podía verte aun antes de que esta obra se completara.”",
 {"rt2"},
 },
 },
@@ -3645,7 +3645,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Porque tocaste el pétalo de los cerezos milenarios... Y su efecto no durará por\nsiempre...",
+"“Porque tocaste el pétalo de los cerezos milenarios... Y su efecto no durará por\nsiempre...”",
 {"rt2"},
 },
 },
@@ -3659,7 +3659,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues aun así Shizuku debería verte, ¿no? Después de todo fue ella quien te\ncreó.",
+"“Pues aun así Shizuku debería verte, ¿no? Después de todo fue ella quien te\ncreó.”",
 {"rt2"},
 },
 },
@@ -3677,7 +3677,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -3691,7 +3691,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué pasa? ¿Por qué no dices nada, Shizuku?",
+"“¿Qué pasa? ¿Por qué no dices nada, Shizuku?”",
 {"rt2"},
 },
 },
@@ -3714,7 +3714,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Conoces la razón por la cual Hakuki hizo florecer los cerezos milenarios?",
+"“¿Conoces la razón por la cual Hakuki hizo florecer los cerezos milenarios?”",
 {"rt2"},
 },
 },
@@ -3728,7 +3728,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Dejando caer lluvia, no fue?",
+"“¿Dejando caer lluvia, no fue?”",
 {"rt2"},
 },
 },
@@ -3748,7 +3748,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Esa no es la razón, fue la consecuencia. ¿Sabes por qué ella creó los cerezos\nmilenarios? Porque se enamoró.",
+"“Esa no es la razón, fue la consecuencia. ¿Sabes por qué ella creó los cerezos\nmilenarios? Porque se enamoró.”",
 {"rt2"},
 },
 },
@@ -3765,7 +3765,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Hakuki era en principio un ser sin corazón, algo así como un recipiente. Es por\neso que podía tomar en sí los corazones de los demás.",
+"“Hakuki era en principio un ser sin corazón, algo así como un recipiente. Es por\neso que podía tomar en sí los corazones de los demás.”",
 {"rt2"},
 },
 },
@@ -3782,7 +3782,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y si bien Shizuku no era Hakuki por completo, sí tenía su poder. Digamos que\nestaba flotando en la frontera entre humano y Hakuki.",
+"“Y si bien Shizuku no era Hakuki por completo, sí tenía su poder. Digamos que\nestaba flotando en la frontera entre humano y Hakuki.”",
 {"rt2"},
 },
 },
@@ -3810,7 +3810,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero ahora, ella conoció lo que es enamorarse. Y conoció el amor.",
+"“Pero ahora, ella conoció lo que es enamorarse. Y conoció el amor.”",
 {"rt2"},
 },
 },
@@ -3824,7 +3824,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Conoció el amor?",
+"“¿Conoció el amor?”",
 {"rt2"},
 },
 },
@@ -3847,7 +3847,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Siendo una de las personas más cercanas a ella debes saber de lo que hablo,\nKusanagi-san. Poco a poco Shizuku ha comenzado a actuar más como una muchacha\nnormal. Riendo, enojándose... avergonzándose...",
+"“Siendo una de las personas más cercanas a ella debes saber de lo que hablo,\nKusanagi-san. Poco a poco Shizuku ha comenzado a actuar más como una muchacha\nnormal. Riendo, enojándose... avergonzándose...”",
 {"rt2"},
 },
 },
@@ -3866,7 +3866,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Debo admitir que los vi hoy mientras se hacían cariño.",
+"“Debo admitir que los vi hoy mientras se hacían cariño.”",
 {"rt2"},
 },
 },
@@ -3881,7 +3881,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Estabas viendo?!",
+"“¡¿Estabas viendo?!”",
 {"rt2"},
 },
 },
@@ -3900,7 +3900,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡----!",
+"“¡----!”",
 {"rt2"},
 },
 },
@@ -3919,7 +3919,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"N-Nos estabas viendo...",
+"“N-Nos estabas viendo...”",
 {"rt2"},
 },
 },
@@ -3937,7 +3937,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y muy de cerca, aunque... en ningún momento Shizuku se dio cuenta de mi\npresencia...",
+"“Y muy de cerca, aunque... en ningún momento Shizuku se dio cuenta de mi\npresencia...”",
 {"rt2"},
 },
 },
@@ -3955,7 +3955,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Hasta ahora, Shizuku ha podido percibirme, incluso en esos momentos en los que\nme oculto...",
+"“Hasta ahora, Shizuku ha podido percibirme, incluso en esos momentos en los que\nme oculto...”",
 {"rt2"},
 },
 },
@@ -3974,7 +3974,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y sin embargo, hoy no me percibió en ningún momento.",
+"“Y sin embargo, hoy no me percibió en ningún momento.”",
 {"rt2"},
 },
 },
@@ -3992,7 +3992,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Esa es prueba de que su balanza está inclinándose hacia su parte humana...",
+"“Esa es prueba de que su balanza está inclinándose hacia su parte humana...”",
 {"rt2"},
 },
 },
@@ -4006,7 +4006,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿S-Será que... por haberla llevado, a hacer esos juegos sexuales, Shizuku ha\nperdido el poder de Hakuki?...",
+"“¿S-Será que... por haberla llevado, a hacer esos juegos sexuales, Shizuku ha\nperdido el poder de Hakuki?...”",
 {"rt2"},
 },
 },
@@ -4030,7 +4030,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡No! Definitivamente no es culpa alguna de los juegos sexuales. Aunque, sí debo\nadmitir que la Shizuku que he visto hoy es la más expresiva que he visto\njamás...",
+"“¡No! Definitivamente no es culpa alguna de los juegos sexuales. Aunque, sí debo\nadmitir que la Shizuku que he visto hoy es la más expresiva que he visto\njamás...”",
 {"rt2"},
 },
 },
@@ -4049,7 +4049,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Wah~, wah~, wah~",
+"“Wah~, wah~, wah~”",
 {"rt2"},
 },
 },
@@ -4087,7 +4087,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Viéndolos hoy, llegué a una conclusión... Ahora que los dos están finalmente\njuntos, probablemente ya no podrán percibirme más.",
+"“Viéndolos hoy, llegué a una conclusión... Ahora que los dos están finalmente\njuntos, probablemente ya no podrán percibirme más.”",
 {"rt2"},
 },
 },
@@ -4106,7 +4106,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Es muy posible que esta noche... sea la última que nos veamos...",
+"“Es muy posible que esta noche... sea la última que nos veamos...”",
 {"rt2"},
 },
 },
@@ -4120,7 +4120,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sui...",
+"“S-Sui...”",
 {"rt2"},
 },
 },
@@ -4143,7 +4143,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No te preocupes, Kusanagi-san. Será difícil no poder ver más a esta hermosura,\npero no dejaré que te sientas triste.",
+"“No te preocupes, Kusanagi-san. Será difícil no poder ver más a esta hermosura,\npero no dejaré que te sientas triste.”",
 {"rt2"},
 },
 },
@@ -4157,7 +4157,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, la verdad es que aunque no seas bella ni hermosa, me sentiré muy triste\nsi no puedo verte más.",
+"“Pues la verdad es que, aunque no seas bella ni hermosa, me sentiré muy triste\nsi no puedo verte más.”",
 {"rt2"},
 },
 },
@@ -4176,7 +4176,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡Pues, debo decir que soy una bella y hermosa mujer!",
+"“¡Debo decir que soy una bella y hermosa mujer!”",
 {"rt2"},
 },
 },
@@ -4207,7 +4207,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No te preocupes, Kusanagi-san. No permitiré que te sientas triste...",
+"“No te preocupes, Kusanagi-san. No permitiré que te sientas triste...”",
 {"rt2"},
 },
 },
@@ -4225,7 +4225,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Me aseguraré de borrar todos los recuerdos respecto a mí tan pronto\ndesaparezca...",
+"“Me aseguraré de borrar todos los recuerdos respecto a mí tan pronto\ndesaparezca...”",
 {"rt2"},
 },
 },
@@ -4239,7 +4239,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Borrar todos los recuerdos de ti?",
+"“¿Borrar todos los recuerdos de ti?”",
 {"rt2"},
 },
 },
@@ -4263,7 +4263,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Es lo mejor. Si aparte de mí misma, también mis recuerdos desaparecen... nadie\nse entristecerá.",
+"“Es lo mejor. Si aparte de mí misma, también mis recuerdos desaparecen... nadie\nse entristecerá.”",
 {"rt2"},
 },
 },
@@ -4277,7 +4277,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Eso es imposible.",
+"“E-Eso es imposible.”",
 {"rt2"},
 },
 },
@@ -4295,7 +4295,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Solo para recordarte, yo nací del mismo poder de los cerezos milenarios. No me\ncostaría mucho desaparecer mis propios trazos...",
+"“Solo para recordarte, yo nací del mismo poder de los cerezos milenarios. No me\ncostaría mucho desaparecer mis propios trazos...”",
 {"rt2"},
 },
 },
@@ -4313,7 +4313,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Soy muy buena pintando, pero también soy muy buena borrando...",
+"“Soy muy buena pintando, pero también soy muy buena borrando...”",
 {"rt2"},
 },
 },
@@ -4328,7 +4328,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡De igual forma es absurdo! ¡¿Cómo crees que nadie va a lamentarse que te\nvayas?!",
+"“¡De igual forma es absurdo! ¡¿Cómo crees que nadie va a lamentarse que te\nvayas?!”",
 {"rt2"},
 },
 },
@@ -4352,7 +4352,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Esa forma en la que te molestas conmigo, lo dice todo. Tengo que borrar tu\nmemoria de alguna u otra forma... No quiero hacerte sufrir...",
+"“Esa forma en la que te molestas conmigo, lo dice todo. Tengo que borrar tu\nmemoria de alguna u otra forma... No quiero hacerte sufrir...”",
 {"rt2"},
 },
 },
@@ -4366,7 +4366,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"S-Sui, e-escucha...",
+"“S-Sui, e-escucha...”",
 {"rt2"},
 },
 },
@@ -4386,7 +4386,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"N-No voy a dejar que hables así de mí...",
+"“N-No voy a dejar que hables así de mí...”",
 {"rt2"},
 },
 },
@@ -4404,7 +4404,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Solo porque tenga un corazón humano ahora no significa que dejaré de verte.",
+"“Solo porque tenga un corazón humano ahora no significa que dejaré de verte.”",
 {"rt2"},
 },
 },
@@ -4422,7 +4422,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Nací como Hakuki, y ahora vivo también como humana. Jamás llegaré a perder\nninguna de esas dos esencias.",
+"“Nací como Hakuki, y ahora vivo también como humana. Jamás llegaré a perder\nninguna de esas dos esencias.”",
 {"rt2"},
 },
 },
@@ -4440,7 +4440,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -4477,7 +4477,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Vaya que has cambiado, Shizuku... Es la primera vez que te veo con esa cara...",
+"“Vaya que has cambiado, Shizuku... Es la primera vez que te veo con esa cara...”",
 {"rt2"},
 },
 },
@@ -4496,7 +4496,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Sí, lo sé... y me alegra que me lo digas, pero...",
+"“Sí, lo sé... y me alegra que me lo digas, pero...”",
 {"rt2"},
 },
 },
@@ -4515,7 +4515,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No puedo... Tengo que borrarlo todo, lo sabes...",
+"“No puedo... Tengo que borrarlo todo, lo sabes...”",
 {"rt2"},
 },
 },
@@ -4533,7 +4533,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"De lo contrario... quedaremos las dos solas, de nuevo...",
+"“De lo contrario... quedaremos las dos solas, de nuevo...”",
 {"rt2"},
 },
 },
@@ -4552,7 +4552,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡¿Es que acaso prefieres estar sola?!",
+"“¡¿Es que acaso prefieres estar sola?!”",
 {"rt2"},
 },
 },
@@ -4572,7 +4572,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Sí. Así fue como nací, en primera instancia...",
+"“Sí. Así fue como nací, en primera instancia...”",
 {"rt2"},
 },
 },
@@ -4595,7 +4595,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Haré que todos me olviden... y desapareceré.",
+"“Haré que todos me olviden... y desapareceré.”",
 {"rt2"},
 },
 },
@@ -4663,7 +4663,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡To, n, ta!",
+"“¡To, n, ta!”",
 {"rt2"},
 },
 },
@@ -4714,7 +4714,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡¿Nyo?! ¡¿Nyowaah, p-pero qué haces?! ¡¿Por qué, alborotas de nuevo, mi\ncabello?!",
+"“¡¿Nyo?! ¡¿Nyowaah, p-pero qué haces?! ¡¿Por qué, alborotas de nuevo, mi\ncabello?!”",
 {"rt2"},
 },
 },
@@ -4729,7 +4729,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me estás viendo la cara de tonto a mí también, ¿verdad?",
+"“Me estás viendo la cara de tonto a mí también, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -4748,7 +4748,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡¿P-Por qué lo dices?!",
+"“¡¿P-Por qué lo dices?!”",
 {"rt2"},
 },
 },
@@ -4762,7 +4762,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, eres casi como la propia definición de una pintura. Así de enorme y\ndescabellado es tu talento...",
+"“Sí, eres casi como la propia definición de una pintura. Así de enorme y\ndescabellado es tu talento...”",
 {"rt2"},
 },
 },
@@ -4776,7 +4776,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Pero déjame decirte algo! ¡El talento de este hombre aquí le hizo ganar el\ntítulo de 'artista de los cerezos'!",
+"“¡Pero déjame decirte algo! ¡El talento de este hombre aquí le hizo ganar el\ntítulo de 'artista de los cerezos'!”",
 {"rt2"},
 },
 },
@@ -4795,7 +4795,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¿Y-Y qué pasa con eso?",
+"“¿Y-Y qué pasa con eso?”",
 {"rt2"},
 },
 },
@@ -4809,7 +4809,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Si es por cerezos milenarios, crearé tantos como lo necesites!",
+"“¡Si es por cerezos milenarios, crearé tantos como lo necesites!”",
 {"rt2"},
 },
 },
@@ -4827,7 +4827,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -4844,7 +4844,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -4858,7 +4858,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡No voy a permitir que nos hagas olvidarnos de ti, jamás!",
+"“¡No voy a permitir que nos hagas olvidarnos de ti, jamás!”",
 {"rt2"},
 },
 },
@@ -4895,7 +4895,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡¡*Pwwwwh*!!, ¿pero qué estás diciendo? ¿Es un chiste o algo así?",
+"“¡¡*Pwwwwh*!!, ¿pero qué estás diciendo? ¿Es un chiste o algo así?”",
 {"rt2"},
 },
 },
@@ -4914,7 +4914,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Kusanagi-san, en ese estado ya no puedes ni siquiera pintar bien.",
+"“Kusanagi-san, en ese estado ya no puedes ni siquiera pintar bien.”",
 {"rt2"},
 },
 },
@@ -4928,7 +4928,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, lo sé... mi mano derecha ya no da para pintar nada medianamente bueno.",
+"“Sí, lo sé... mi mano derecha ya no da para pintar nada medianamente bueno.”",
 {"rt2"},
 },
 },
@@ -4946,7 +4946,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pues entonces...",
+"“Pues entonces...”",
 {"rt2"},
 },
 },
@@ -4960,7 +4960,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y aun así, fui capaz de convertir la obra de mi padre en una serie completa...",
+"“Y aun así, fui capaz de convertir la obra de mi padre en una serie completa...”",
 {"rt2"},
 },
 },
@@ -4978,7 +4978,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -4992,7 +4992,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El viejo dijo que eran sus epitafios.",
+"“El viejo dijo que eran sus epitafios.”",
 {"rt2"},
 },
 },
@@ -5006,7 +5006,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Las seis partes de 'Sakura Nanasouzu' fueron una de mis mejores obras, o al\nmenos eso pienso yo. ¿Nada buenas para ti?",
+"“Las seis partes de 'Sakura Nanasouzu' fueron una de mis mejores obras, o al\nmenos eso pienso yo. ¿Nada buenas para ti?”",
 {"rt2"},
 },
 },
@@ -5025,7 +5025,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Sakura Nanasouzu...",
+"“Sakura Nanasouzu...”",
 {"rt2"},
 },
 },
@@ -5043,7 +5043,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Una serie de pinturas... inspiradas en las etapas de la muerte...",
+"“Una serie de pinturas... inspiradas en las etapas de la muerte...”",
 {"rt2"},
 },
 },
@@ -5057,7 +5057,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Si no son lo suficiente para ti, me esforzaré más. Crearé obras aún más\ngeniales.",
+"“Si no son lo suficiente para ti, me esforzaré más. Crearé obras aún más\ngeniales.”",
 {"rt2"},
 },
 },
@@ -5071,7 +5071,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Crearé unos cerezos milenarios que dejarán un impacto tal en el mundo, que tu\nexistencia permanecerá por toda la eternidad!",
+"“¡Crearé unos cerezos milenarios que dejarán un impacto tal en el mundo, que tu\nexistencia permanecerá por toda la eternidad!”",
 {"rt2"},
 },
 },
@@ -5085,7 +5085,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Creéme que lo haré!",
+"“¡Creéme que lo haré!”",
 {"rt2"},
 },
 },
@@ -5103,7 +5103,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -5122,7 +5122,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"*risas*... Tan falto de talento pero no de alardeo, ¿no, Kusanagi-san?...",
+"“Jaja... Tan falto de talento pero no de alardeo, ¿no, Kusanagi-san?...”",
 {"rt2"},
 },
 },
@@ -5136,7 +5136,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por supuesto. Incluso el mismo Kei lo ha dicho. Un verdadero genio es capaz de\nhacer olvidar cualquier talento.",
+"“Por supuesto. Incluso el mismo Kei lo ha dicho. Un verdadero genio es capaz de\nhacer olvidar cualquier talento.”",
 {"rt2"},
 },
 },
@@ -5150,7 +5150,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Quizás no tenga talento, pero soy un genio tan grande como tú. Y no tengo nada\nque envidiarle a Kenichiro Kusanagi tampoco.",
+"“Quizás no tenga talento, pero soy un genio tan grande como tú. Y no tengo nada\nque envidiarle a Kenichiro Kusanagi tampoco.”",
 {"rt2"},
 },
 },
@@ -5164,7 +5164,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Así que créeme cuando digo que no permitiré que nadie te olvide!",
+"“¡Así que créeme cuando digo que no permitiré que nadie te olvide!”",
 {"rt2"},
 },
 },
@@ -5183,7 +5183,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"--",
+"“--”",
 {"rt2"},
 },
 },
@@ -5203,7 +5203,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sui...",
+"“Sui...”",
 {"rt2"},
 },
 },
@@ -5246,7 +5246,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Ya veo... hmph, no me extraña ahora que hayas podido robar el corazón de Rin...",
+"“Ya veo... hmph, no me extraña ahora que hayas podido robar el corazón de Rin...”",
 {"rt2"},
 },
 },
@@ -5263,7 +5263,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Sí, ciertamente tu valor como artista no se puede medir en talento.",
+"“Sí, ciertamente tu valor como artista no se puede medir en talento.”",
 {"rt2"},
 },
 },
@@ -5280,7 +5280,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Jamás llegaste a tomar de nuevo el pincel frente a los demás. Y sin embargo,\ncuando se trata de ayudar a alguien no dudas en crear obras, aun sabiendo que\ntu nombre no quedará impreso en ellas.",
+"“Jamás llegaste a tomar de nuevo el pincel frente a los demás. Y sin embargo,\ncuando se trata de ayudar a alguien no dudas en crear obras, aun sabiendo que\ntu nombre no quedará impreso en ellas.”",
 {"rt2"},
 },
 },
@@ -5294,7 +5294,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y crees que no lo sé? Para mí pintar se trata de eso. He tenido un pincel en\nla mano desde que tengo uso de razón.",
+"“¿Y crees que no lo sé? Para mí pintar se trata de eso. He tenido un pincel en\nla mano desde que tengo uso de razón.”",
 {"rt2"},
 },
 },
@@ -5308,7 +5308,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, quizás ya no tenga esa mano. Pero aun así sé que cuando el deseo de pintar\nllegue a mí, el espíritu de la pintura estará conmigo.",
+"“Sí, quizás ya no tenga esa mano. Pero aun así sé que cuando el deseo de pintar\nllegue a mí, el espíritu de la pintura estará conmigo.”",
 {"rt2"},
 },
 },
@@ -5322,7 +5322,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y bueno, a fin de cuentas pintar se trata de eso, ¿no?",
+"“Y bueno, a fin de cuentas pintar se trata de eso, ¿no?”",
 {"rt2"},
 },
 },
@@ -5339,7 +5339,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -5369,7 +5369,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Te lo agradezco... E-Está bien, veamos qué puedes hacer entonces...",
+"“Te lo agradezco... E-Está bien, veamos qué puedes hacer entonces...”",
 {"rt2"},
 },
 },
@@ -5383,7 +5383,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Puedes esperar con ansias.",
+"“Puedes esperar con ansias.”",
 {"rt2"},
 },
 },
@@ -5400,7 +5400,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Kusanagi-san, si es verdad lo que dices, entonces mañana podremos vernos de\nnuevo, supongo...",
+"“Kusanagi-san, si es verdad lo que dices, entonces mañana podremos vernos de\nnuevo, supongo...”",
 {"rt2"},
 },
 },
@@ -5414,7 +5414,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, por supuesto...",
+"“Sí, por supuesto...”",
 {"rt2"},
 },
 },
@@ -5432,7 +5432,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"--",
+"“--”",
 {"rt2"},
 },
 },
@@ -5449,7 +5449,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"... Fuh, debo admitir que me siento alegre...",
+"“... Fuh, debo admitir que me siento alegre...”",
 {"rt2"},
 },
 },
@@ -5466,7 +5466,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Sui, se...",
+"“Sui, se...”",
 {"rt2"},
 },
 },
@@ -5509,7 +5509,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Yo...",
+"“Yo...”",
 {"rt2"},
 },
 },
@@ -5540,7 +5540,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Shizukuu... me siento, tan feliz...",
+"“Shizukuu... me siento, tan feliz...”",
 {"rt2"},
 },
 },
@@ -5557,7 +5557,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Sí...",
+"“Sí...”",
 {"rt2"},
 },
 },
@@ -5575,7 +5575,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Yo... Sui, creyó... que la, olvidarían...",
+"“Yo... Sui, creyó... que la, olvidarían...”",
 {"rt2"},
 },
 },
@@ -5592,7 +5592,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y por eso me preparé, para poder aceptarlo...",
+"“Y por eso me preparé, para poder aceptarlo...”",
 {"rt2"},
 },
 },
@@ -5609,7 +5609,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Ese es mi destino, pensé... No importa lo sola que me sintiera...",
+"“Ese es mi destino, pensé... No importa lo sola que me sintiera...”",
 {"rt2"},
 },
 },
@@ -5626,7 +5626,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Así que Sui pensó que debía desaparecer... y para eso me preparé...",
+"“Así que Sui pensó que debía desaparecer... y para eso me preparé...”",
 {"rt2"},
 },
 },
@@ -5643,7 +5643,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero la verdad es que, no quería desaparecer de la vida de los demás...",
+"“Pero la verdad es que, no quería desaparecer de la vida de los demás...”",
 {"rt2"},
 },
 },
@@ -5660,7 +5660,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Jamás, quise que me olvidaran... ni Shizuku, ni Kusanagi-san tampoco...",
+"“Jamás, quise que me olvidaran... ni Shizuku, ni Kusanagi-san tampoco...”",
 {"rt2"},
 },
 },
@@ -5677,7 +5677,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero, pensé que de no desaparecer... solo le dejaría tristeza, a los dos...",
+"“Pero pensé que de no desaparecer... solo le dejaría tristeza, a los dos...”",
 {"rt2"},
 },
 },
@@ -5694,7 +5694,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"No podía tolerar la idea, de... dejarles solos, tristeza...",
+"“No podía tolerar la idea, de... dejarles solos, tristeza...”",
 {"rt2"},
 },
 },
@@ -5711,7 +5711,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y por eso, pensé en borrar los recuerdos de los dos...",
+"“Y por eso, pensé en borrar los recuerdos de los dos...”",
 {"rt2"},
 },
 },
@@ -5728,7 +5728,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Pero... perooo...",
+"“Pero... perooo...”",
 {"rt2"},
 },
 },
@@ -5745,7 +5745,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Lo sabemos, Sui... todo estará bien. Pase lo que pase, jamás te olvidaremos...",
+"“Lo sabemos, Sui... todo estará bien. Pase lo que pase, jamás te olvidaremos...”",
 {"rt2"},
 },
 },
@@ -5762,7 +5762,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Verdad, Naoya?",
+"“¿Verdad, Naoya?”",
 {"rt2"},
 },
 },
@@ -5776,7 +5776,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así es. Y por eso no hay razón alguna para llorar. Dios santo, paren ya con\nesas caras de velorio...",
+"“Así es. Y por eso no hay razón alguna para llorar. Dios santo, paren ya con\nesas caras de velorio...”",
 {"rt2"},
 },
 },
@@ -5793,7 +5793,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pero tú también estás llorando...",
+"“Pero tú también estás llorando...”",
 {"rt2"},
 },
 },
@@ -5807,7 +5807,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Llorando, yo?... No me jodas, demonios...",
+"“¿Llorando, yo?... No me jodas, demonios...”",
 {"rt2"},
 },
 },
@@ -5824,7 +5824,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿De verdad?",
+"“¿De verdad?”",
 {"rt2"},
 },
 },
@@ -5838,7 +5838,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por supuesto que no...",
+"“Por supuesto que no...”",
 {"rt2"},
 },
 },
@@ -5855,7 +5855,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Entiendo... gracias a los dos.",
+"“Entiendo... gracias a los dos.”",
 {"rt2"},
 },
 },
@@ -5872,7 +5872,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Mañana los podré ver de nuevo, ¿verdad?",
+"“Mañana los podré ver de nuevo, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -5889,7 +5889,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Mañana, y pasado mañana, y el día que viene después. Siempre, siempre nos\npodremos volver a ver, Sui.",
+"“Mañana, y pasado mañana, y el día que viene después. Siempre, siempre nos\npodremos volver a ver, Sui.”",
 {"rt2"},
 },
 },
@@ -5906,7 +5906,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Bueno...",
+"“Bueno...”",
 {"rt2"},
 },
 },
@@ -5923,7 +5923,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Estoy segura de que si Naoya y yo combinamos nuestros poderes, no\ndesaparecerás...",
+"“Estoy segura de que si Naoya y yo combinamos nuestros poderes, no\ndesaparecerás...”",
 {"rt2"},
 },
 },
@@ -5940,7 +5940,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡Está bien!",
+"“¡Está bien!”",
 {"rt2"},
 },
 },
@@ -5957,7 +5957,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Así que no tienes nada de qué preocuparte...",
+"“Así que no tienes nada de qué preocuparte...”",
 {"rt2"},
 },
 },
@@ -5996,7 +5996,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Shizuku... Kusanagi-san... quiero darles las gracias a los dos...",
+"“Shizuku... Kusanagi-san... quiero darles las gracias a los dos...”",
 {"rt2"},
 },
 },
@@ -6015,7 +6015,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Y si ese es el caso, les prometo esto.",
+"“Y si ese es el caso, les prometo esto.”",
 {"rt2"},
 },
 },
@@ -6034,7 +6034,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"Nos veremos de nuevo mañana, ¿está bien?",
+"“Nos veremos de nuevo mañana, ¿está bien?”",
 {"rt2"},
 },
 },
@@ -6048,7 +6048,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por supuesto.",
+"“Por supuesto.”",
 {"rt2"},
 },
 },
@@ -6068,7 +6068,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Nos vemos mañana.",
+"“Nos vemos mañana.”",
 {"rt2"},
 },
 },
@@ -6086,7 +6086,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"¡Pues hasta mañana entonces!",
+"“¡Pues hasta mañana entonces!”",
 {"rt2"},
 },
 },
@@ -6149,7 +6149,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Naoya...",
+"“Naoya...”",
 {"rt2"},
 },
 },
@@ -6178,7 +6178,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué pasa?",
+"“¿Qué pasa?”",
 {"rt2"},
 },
 },
@@ -6197,7 +6197,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Gracias...",
+"“Gracias...”",
 {"rt2"},
 },
 },
@@ -6211,7 +6211,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por qué me estás dando las gracias?",
+"“¿Por qué me estás dando las gracias?”",
 {"rt2"},
 },
 },
@@ -6229,7 +6229,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Pues, es que...",
+"“Pues es que...”",
 {"rt2"},
 },
 },
@@ -6243,7 +6243,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No seas tonta. Si estoy haciendo esto es porque así lo quiero. Todo...",
+"“No seas tonta. Si estoy haciendo esto es porque así lo quiero. Todo...”",
 {"rt2"},
 },
 },
@@ -6257,7 +6257,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo solo me dispongo a hacer lo que realmente quiero hacer, ¿sabías?",
+"“Yo solo me dispongo a hacer lo que realmente quiero hacer, ¿sabías?”",
 {"rt2"},
 },
 },
@@ -6271,7 +6271,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que no importa lo difícil que sea, lo lograré pase lo que pase...",
+"“Así que no importa lo difícil que sea, lo lograré pase lo que pase...”",
 {"rt2"},
 },
 },
@@ -6285,7 +6285,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No por algo pensé en hacerlo en un principio.",
+"“No por algo pensé en hacerlo en un principio.”",
 {"rt2"},
 },
 },
@@ -6299,7 +6299,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Debo hacerlo hasta el final, por más obstáculos que se interpongan en el\ncamino...",
+"“Debo hacerlo hasta el final, por más obstáculos que se interpongan en el\ncamino...”",
 {"rt2"},
 },
 },
@@ -6318,7 +6318,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Está bien...",
+"“Está bien...”",
 {"rt2"},
 },
 },
@@ -6376,7 +6376,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡Pero sí! ¡Definitivamente eres capaz de cualquier cosa!",
+"“¡Pero sí! ¡Definitivamente eres capaz de cualquier cosa!”",
 {"rt2"},
 },
 },
@@ -6390,7 +6390,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿De qué? Soy todo un inútil, por Dios.",
+"“¿De qué? Soy todo un inútil, por Dios.”",
 {"rt2"},
 },
 },
@@ -6408,7 +6408,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡Por supuesto que no!",
+"“¡Por supuesto que no!”",
 {"rt2"},
 },
 },
@@ -6427,7 +6427,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -6445,7 +6445,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Jamás me imaginé que dirías en ese momento que pintarías los cerezos\nmilenarios.",
+"“Jamás me imaginé que dirías en ese momento que pintarías los cerezos\nmilenarios.”",
 {"rt2"},
 },
 },
@@ -6459,7 +6459,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por supuesto que lo haré...",
+"“Por supuesto que lo haré...”",
 {"rt2"},
 },
 },
@@ -6473,7 +6473,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Es para eso que he estado conservando mi habilidad para pintar...",
+"“Es para eso que he estado conservando mi habilidad para pintar...”",
 {"rt2"},
 },
 },
@@ -6491,7 +6491,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Conservando tu habilidad para pintar?",
+"“¿Conservando tu habilidad para pintar?”",
 {"rt2"},
 },
 },
@@ -6505,7 +6505,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así es. No creas que ya no puedo pintar. He estado preparándome y conservándome\npara poder pintar cuando llegue el momento que desee hacerlo...",
+"“Así es. No creas que ya no puedo pintar. He estado preparándome y conservándome\npara poder pintar cuando llegue el momento que desee hacerlo...”",
 {"rt2"},
 },
 },
@@ -6519,7 +6519,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No es solo mi mano derecha la que pinta...",
+"“No es solo mi mano derecha la que pinta...”",
 {"rt2"},
 },
 },
@@ -6533,7 +6533,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Mis pinturas no salen solo de un brazo derecho.",
+"“Mis pinturas no salen solo de un brazo derecho.”",
 {"rt2"},
 },
 },
@@ -6547,7 +6547,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Mis pinturas no nacen solo de talento.",
+"“Mis pinturas no nacen solo de talento.”",
 {"rt2"},
 },
 },
@@ -6561,7 +6561,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Es el deseo de pintar lo que produce todas mis pinturas.",
+"“Es el deseo de pintar lo que produce todas mis pinturas.”",
 {"rt2"},
 },
 },
@@ -6575,7 +6575,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por eso es que siempre puedo volver a pintar, cuando así lo desee.",
+"“Por eso es que siempre puedo volver a pintar, cuando así lo desee.”",
 {"rt2"},
 },
 },
@@ -6589,7 +6589,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y no por alguien... sino por mí, y nada más que mí.",
+"“Y no por alguien... sino por mí, y nada más que mí.”",
 {"rt2"},
 },
 },
@@ -6607,7 +6607,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Naoya...",
+"“Naoya...”",
 {"rt2"},
 },
 },
@@ -6647,7 +6647,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajaja, sí, bueno, déjalo así...",
+"“Ajaja, sí, bueno, déjalo así...”",
 {"rt2"},
 },
 },
@@ -6662,7 +6662,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues bieeen, ya es hora, ¿sabes? ¡Es hora!",
+"“Pues bieeen, ya es hora, ¿sabes? ¡Es hora!”",
 {"rt2"},
 },
 },
@@ -6680,7 +6680,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¿Es hora?",
+"“¿Es hora?”",
 {"rt2"},
 },
 },
@@ -6694,7 +6694,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Tenemos que regresar ya! ¡Los Natsume deben estar enojados de que la cena\ntodavía no está sobre la mesa!",
+"“¡Tenemos que regresar ya! ¡Los Natsume deben estar enojados de que la cena\ntodavía no está sobre la mesa!”",
 {"rt2"},
 },
 },
@@ -6713,7 +6713,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ah, supongo...",
+"“Ah, supongo...”",
 {"rt2"},
 },
 },
@@ -6727,7 +6727,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que...",
+"“Así que...”",
 {"rt2"},
 },
 },
@@ -6741,7 +6741,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vayamos de vuelta a casa, ¿sí?",
+"“Vayamos de vuelta a casa, ¿sí?”",
 {"rt2"},
 },
 },
@@ -6760,7 +6760,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"¡Sí!",
+"“¡Sí!”",
 {"rt2"},
 },
 },
@@ -6828,7 +6828,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Las luces de causalidad enlazada, eh...",
+"“Las luces de causalidad enlazada...”",
 {"rt2"},
 },
 },
@@ -6924,7 +6924,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Las estrellas están brillantes, resplandecientes...",
+"“Las estrellas están brillantes, resplandecientes...”",
 {"rt2"},
 },
 },
@@ -6938,7 +6938,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, así es...",
+"“Sí, así es...”",
 {"rt2"},
 },
 },
@@ -6955,7 +6955,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Caminar juntos bajo el cielo estrellado...",
+"“Caminar juntos bajo el cielo estrellado...”",
 {"rt2"},
 },
 },
@@ -6972,7 +6972,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Un milagro así no cae nada mal...",
+"“Un milagro así no cae nada mal...”",
 {"rt2"},
 },
 },
@@ -6986,7 +6986,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Milagro? Esto no es milagro... esto es destino.",
+"“¿Milagro? Esto no es milagro... esto es destino.”",
 {"rt2"},
 },
 },
@@ -7003,7 +7003,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Brillan, resplandecientes...",
+"“Brillan, resplandecientes...”",
 {"rt2"},
 },
 },
