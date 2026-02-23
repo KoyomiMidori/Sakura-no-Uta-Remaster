@@ -56,7 +56,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Naoya. ¿Cómo está Naoya?",
+"“Naoya. ¿Cómo está Naoya?”",
 {"rt2"},
 },
 },
@@ -73,7 +73,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Ah, ¿Naoya?... Parecía estar muy pensativo.",
+"“Ah, ¿Naoya?... Parecía estar muy pensativo.”",
 {"rt2"},
 },
 },
@@ -91,7 +91,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Me lo imagino...",
+"“Me lo imagino...”",
 {"rt2"},
 },
 },
@@ -108,7 +108,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Por qué le dio toda la fortuna a él?",
+"“¿Por qué le dio toda la fortuna a él?”",
 {"rt2"},
 },
 },
@@ -126,7 +126,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Por varias razones, mi amigo. Por varias razones.",
+"“Por varias razones, mi amigo. Por varias razones.”",
 {"rt2"},
 },
 },
@@ -143,7 +143,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Varias razones...",
+"“Varias razones...”",
 {"rt2"},
 },
 },
@@ -160,7 +160,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Por cierto, Kusanagi-san, ¿cómo se llama la muchacha que se trajo con usted?",
+"“Por cierto, Kusanagi-san, ¿cómo se llama la muchacha que se trajo con usted?”",
 {"rt2"},
 },
 },
@@ -178,7 +178,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Mm~, qué te puedo decir~",
+"“Mm~, qué te puedo decir~”",
 {"rt2"},
 },
 },
@@ -195,7 +195,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"No estoy en posición alguna de decir mucho al respecto. Pero ¿no le parece algo\ncruel meter a Naoya en los problemas de la familia Natsume con la edad que él\ntiene?",
+"“No estoy en posición alguna de decir mucho al respecto. Pero ¿no le parece algo\ncruel meter a Naoya en los problemas de la familia Natsume con la edad que él\ntiene?”",
 {"rt2"},
 },
 },
@@ -213,7 +213,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No había forma de evitarlo. Naoya es un Kusanagi. Es nuestro destino meternos\nde fondo en grandes problemas.",
+"“No había forma de evitarlo. Naoya es un Kusanagi. Es nuestro destino meternos\nde fondo en grandes problemas.”",
 {"rt2"},
 },
 },
@@ -230,7 +230,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Qué clase de familia es esa...",
+"“Qué clase de familia es esa...”",
 {"rt2"},
 },
 },
@@ -248,7 +248,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Qué clase de familia? Vamos, ¿me vas a decir que no sabes?",
+"“¿Qué clase de familia? Vamos, ¿me vas a decir que no sabes?”",
 {"rt2"},
 },
 },
@@ -265,7 +265,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Es muy poco lo que en realidad sé. Usted era un héroe para nosotros en el\ncolegio, Kusanagi-san. Sobre todo por la fuga amorosa que tuvo con\nMizuna-san.",
+"“Es muy poco lo que en realidad sé. Usted era un héroe para nosotros en el\ncolegio, Kusanagi-san. Sobre todo por la fuga amorosa que tuvo con\nMizuna-san.”",
 {"rt2"},
 },
 },
@@ -282,7 +282,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Fuga amorosa, eh... Supongo que a los ojos de los demás se vio así...",
+"“Fuga amorosa, eh... Supongo que a los ojos de los demás se vio así...”",
 {"rt2"},
 },
 },
@@ -299,7 +299,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Sea a los ojos de quien sea eso fue una fuga amorosa, ¿o no?",
+"“Sea a los ojos de quien sea eso fue una fuga amorosa, ¿o no?”",
 {"rt2"},
 },
 },
@@ -317,7 +317,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿De verdad lo crees?...",
+"“¿De verdad lo crees?...”",
 {"rt2"},
 },
 },
@@ -334,7 +334,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Fue después que me enteré un poco de lo que pasó. Después de que Ai- chan\nentrara a trabajar a Yumihari.",
+"“Fue después que me enteré un poco de lo que pasó. Después de que Ai- chan\nentrara a trabajar a Yumihari.”",
 {"rt2"},
 },
 },
@@ -352,7 +352,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ya veo. Ahora que lo mencionas, Ai está ahora trabajando de profesora, eh... En\nYumihari...",
+"“Ya veo. Ahora que lo mencionas, Ai está ahora trabajando de profesora, eh... En\nYumihari...”",
 {"rt2"},
 },
 },
@@ -370,7 +370,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Vaya que me estoy poniendo viejo yo también... Esa diminuta muchacha, ahora de\nprofesora... Lo pequeñita no se le ha quitado mucho, eso sí.",
+"“Vaya que me estoy poniendo viejo yo también... Esa diminuta muchacha, ahora de\nprofesora... Lo pequeñita no se le ha quitado mucho, eso sí.”",
 {"rt2"},
 },
 },
@@ -387,7 +387,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Si llega a decirle eso a la profesora Ai lo matará. Es muy sensible a todo lo\nque tiene que ver con su altura.",
+"“Si llega a decirle eso a la profesora Ai lo matará. Es muy sensible a todo lo\nque tiene que ver con su altura.”",
 {"rt2"},
 },
 },
@@ -405,7 +405,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Con lo absurdo que es preocuparse por eso, eh. Ai nació con una cara muy\nbonita. Lo pequeñita le da ventaja con hombres de 'esas' inclinaciones.",
+"“Con lo absurdo que es preocuparse por eso, eh. Ai nació con una cara muy\nbonita. Lo pequeñita le da ventaja con hombres de 'esas' inclinaciones.”",
 {"rt2"},
 },
 },
@@ -422,7 +422,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Eso sería mucho peor que lo que yo dije.",
+"“Eso sería mucho peor que lo que yo dije.”",
 {"rt2"},
 },
 },
@@ -440,7 +440,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Sí? Bueh, qué voy a hacer. Siempre estoy haciéndola enfadar...",
+"“¿Sí? Bueh, qué voy a hacer. Siempre estoy haciéndola enfadar...”",
 {"rt2"},
 },
 },
@@ -457,7 +457,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿De verdad? Aunque supongo que ya no tanto, ¿o sí?",
+"“¿De verdad? Aunque supongo que ya no tanto, ¿o sí?”",
 {"rt2"},
 },
 },
@@ -475,7 +475,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Para nada, para nada. Hace muy poco se enojo terriblemente conmigo.",
+"“Para nada, para nada. Hace muy poco se enojo terriblemente conmigo.”",
 {"rt2"},
 },
 },
@@ -492,7 +492,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿En serio? ¿Qué hizo?",
+"“¿En serio? ¿Qué hizo?”",
 {"rt2"},
 },
 },
@@ -510,7 +510,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Al contrario. Se enfadó porque no hice nada.",
+"“Al contrario. Se enfadó porque no hice nada.”",
 {"rt2"},
 },
 },
@@ -527,7 +527,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Porque no hizo nada?",
+"“¿Porque no hizo nada?”",
 {"rt2"},
 },
 },
@@ -545,7 +545,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Me armó todo un escándalo. Que por qué no regresé sino hasta ahora que empeoró\ntanto mi enfermedad, y eso.",
+"“Me armó todo un escándalo. Que por qué no regresé sino hasta ahora que empeoró\ntanto mi enfermedad, y eso.”",
 {"rt2"},
 },
 },
@@ -562,7 +562,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Pues, sí... Sinceramente, yo también pensé lo mismo.",
+"“Pues, sí... Sinceramente, yo también pensé lo mismo.”",
 {"rt2"},
 },
 },
@@ -580,7 +580,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Pero tú no te enfadaste conmigo, ¿a que no?",
+"“Pero tú no te enfadaste conmigo, ¿a que no?”",
 {"rt2"},
 },
 },
@@ -597,7 +597,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Por supuesto que no. Usted es un adulto hecho y derecho, Kusanagi-san.",
+"“Por supuesto que no. Usted es un adulto hecho y derecho, Kusanagi-san.”",
 {"rt2"},
 },
 },
@@ -615,7 +615,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Eso mismo me dijo ella. ¡¿Cómo es que un adulto hecho y derecho está haciendo\nesas cosas?!...",
+"“Eso mismo me dijo ella. ¡¿Cómo es que un adulto hecho y derecho está haciendo\nesas cosas?!...”",
 {"rt2"},
 },
 },
@@ -633,7 +633,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Siempre ha sido una muchacha muy peleona. Me dolió un poco verla llorando de\nesa forma por mi culpa.",
+"“Siempre ha sido una muchacha muy peleona. Me dolió un poco verla llorando de\nesa forma por mi culpa.”",
 {"rt2"},
 },
 },
@@ -650,7 +650,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Y por qué entonces no fue al hospital? Ya llevaba un buen rato sintiéndose mal\nde salud, ¿no?",
+"“¿Y por qué entonces no fue al hospital? Ya llevaba un buen rato sintiéndose mal\nde salud, ¿no?”",
 {"rt2"},
 },
 },
@@ -668,7 +668,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Aun siendo así quería decidir, por lo menos, la duración de mi propia vida.",
+"“Aun siendo así quería decidir, por lo menos, la duración de mi propia vida.”",
 {"rt2"},
 },
 },
@@ -685,7 +685,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Y? ¿Logró alcanzar su precisamente calculada vida?",
+"“¿Y? ¿Logró alcanzar su precisamente calculada vida?”",
 {"rt2"},
 },
 },
@@ -703,7 +703,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Pues, la verdad... diría que, a duras penas, tal vez. Es algo extraño.",
+"“Pues la verdad... diría que, a duras penas, tal vez. Es algo extraño.”",
 {"rt2"},
 },
 },
@@ -720,7 +720,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿A duras penas?",
+"“¿A duras penas?”",
 {"rt2"},
 },
 },
@@ -738,7 +738,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Vaya que hubiera sido toda una historia para contar si todo hubiese terminado\nahí.",
+"“Vaya que hubiera sido toda una historia para contar si todo hubiese terminado\nahí.”",
 {"rt2"},
 },
 },
@@ -755,7 +755,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No en vano, alguien grabó ya mis epitafios estando yo todavía con vida...",
+"“No en vano, alguien grabó ya mis epitafios estando yo todavía con vida...”",
 {"rt2"},
 },
 },
@@ -772,7 +772,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -789,7 +789,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Fiuu... Dios mío, es usted un hombre terrible, Kusanagi-san.",
+"“Fiuu... Dios mío, es usted un hombre terrible, Kusanagi-san.”",
 {"rt2"},
 },
 },
@@ -807,7 +807,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Por qué?",
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -824,7 +824,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"La vez pasada le pregunté lo mismo y me dijo 'El cálculo me falló un poco'.",
+"“La vez pasada le pregunté lo mismo y me dijo 'El cálculo me falló un poco'.”",
 {"rt2"},
 },
 },
@@ -841,7 +841,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Dije eso?",
+"“¿Dije eso?”",
 {"rt2"},
 },
 },
@@ -858,7 +858,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Ya veo. Pues entonces Naoya logró resolverlo todo, supongo.",
+"“Ya veo. Pues entonces Naoya logró resolverlo todo, supongo.”",
 {"rt2"},
 },
 },
@@ -876,7 +876,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Yo que sé. Además, tampoco sé qué hará en última instancia con la herencia.",
+"“Yo qué sé. Además, tampoco sé qué hará en última instancia con la herencia.”",
 {"rt2"},
 },
 },
@@ -893,7 +893,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Ya veo. Bueno, no sé muy bien qué pasó en realidad, pero lo que sí es cierto es\nque usted está de buen humor.",
+"“Ya veo. Bueno, no sé muy bien qué pasó en realidad, pero lo que sí es cierto es\nque usted está de buen humor.”",
 {"rt2"},
 },
 },
@@ -911,7 +911,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Bastante, tal vez.",
+"“Así es. Bastante, tal vez.”",
 {"rt2"},
 },
 },
@@ -928,7 +928,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Demonios, vaya que es usted un hombre egoísta.",
+"“Demonios, vaya que es usted un hombre egoísta.”",
 {"rt2"},
 },
 },
@@ -946,7 +946,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Soy la persona más egoísta que te vas a encontrar. Y disfruté toda mi\nvida siendo así.",
+"“Así es. Soy la persona más egoísta que te vas a encontrar. Y disfruté toda mi\nvida siendo así.”",
 {"rt2"},
 },
 },
@@ -963,7 +963,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Fue una emocionante y muy divertida vida.",
+"“Fue una emocionante y muy divertida vida.”",
 {"rt2"},
 },
 },
@@ -980,7 +980,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Emocionante y divertida, eh... Supongo que así lo fue.",
+"“Emocionante y divertida, eh... Supongo que así lo fue.”",
 {"rt2"},
 },
 },
@@ -998,7 +998,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Esta noche será mi última cena. ¿Te quedas a charlar?",
+"“Esta noche será mi última cena. ¿Te quedas a charlar?”",
 {"rt2"},
 },
 },
@@ -1015,7 +1015,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Su última cena?... No veo comida ni alcohol por ningún lado.",
+"“¿Su última cena?... No veo comida ni alcohol por ningún lado.”",
 {"rt2"},
 },
 },
@@ -1033,7 +1033,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Alcohol tengo. De aperitivos solo tengo mis historias del pasado.",
+"“Alcohol tengo. De aperitivos solo tengo mis historias del pasado.”",
 {"rt2"},
 },
 },
@@ -1050,7 +1050,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Historias del pasado como aperitivo?",
+"“¿Historias del pasado como aperitivo?”",
 {"rt2"},
 },
 },
@@ -1068,7 +1068,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, aunque te advierto que es una copiosa cantidad, eh. Vamos, quédate y\nescucha.",
+"“Sí, aunque te advierto que es una copiosa cantidad, eh. Vamos, quédate y\nescucha.”",
 {"rt2"},
 },
 },
@@ -1085,7 +1085,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Cómo puedo rechazarle si me pide que me quede?",
+"“¿Cómo puedo rechazarle si me pide que me quede?”",
 {"rt2"},
 },
 },
@@ -1103,7 +1103,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No te estoy forzando de ninguna manera.",
+"“No te estoy forzando de ninguna manera.”",
 {"rt2"},
 },
 },
@@ -1120,7 +1120,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Así no me esté forzando a nada no podría rechazar esa oferta. Así que bien,\n¿podría darme a escuchar un poco de esos aperitivos?",
+"“Así no me esté forzando a nada no podría rechazar esa oferta. Así que bien,\n¿podría darme a escuchar un poco de esos aperitivos?”",
 {"rt2"},
 },
 },
@@ -1137,7 +1137,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Me siento algo triste de saber que morirá pronto, ¿sabe? Quizás esas historias\npuedan saciar un poco el hueco en mi corazón.",
+"“Me siento algo triste de saber que morirá pronto, ¿sabe? Quizás esas historias\npuedan saciar un poco el hueco en mi corazón.”",
 {"rt2"},
 },
 },
@@ -1155,7 +1155,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Sí? Pues que bueno. ¿Te acuerdas de cuando todavía trabajaba de profesor en\nYumihari?...",
+"“¿Sí? Pues que bueno. ¿Te acuerdas de cuando todavía trabajaba de profesor en\nYumihari?...”",
 {"rt2"},
 },
 },
@@ -1172,7 +1172,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Sí, lo recuerdo. Justamente cuando yo todavía estudiaba ahí, ¿cierto?",
+"“Sí, lo recuerdo. Justamente cuando yo todavía estudiaba ahí, ¿cierto?”",
 {"rt2"},
 },
 },
@@ -1190,7 +1190,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, recuerdo que eras del club de arte.",
+"“Sí, recuerdo que eras del club de arte.”",
 {"rt2"},
 },
 },
@@ -1207,7 +1207,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Y bien que venía con frecuencia al club, ¿no, Kusanagi-san?",
+"“Y bien que venía con frecuencia al club, ¿no, Kusanagi-san?”",
 {"rt2"},
 },
 },
@@ -1225,7 +1225,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, no tenía a dónde más ir...",
+"“Sí, no tenía a dónde más ir...”",
 {"rt2"},
 },
 },
@@ -1242,7 +1242,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Y ahora que hablamos del pasado... Aun desde aquel entonces Mizuna era toda una\npreciosura, sí señor.",
+"“Y ahora que hablamos del pasado... Aun desde aquel entonces Mizuna era toda una\npreciosura, sí señor.”",
 {"rt2"},
 },
 },
@@ -1259,7 +1259,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Yo tampoco puedo decir lo contrario. Era muy conocida en el colegio por su\nhermosura.",
+"“Yo tampoco puedo decir lo contrario. Era muy conocida en el colegio por su\nhermosura.”",
 {"rt2"},
 },
 },
@@ -1282,7 +1282,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Vaya que sí. Aunque bueno, si no hubiese nacido con tal hermosura quizás no\nhubiese pasado por tanto sufrimiento...",
+"“Vaya que sí. Aunque bueno, si no hubiese nacido con tal hermosura quizás no\nhubiese pasado por tanto sufrimiento...”",
 {"rt2"},
 },
 },
@@ -1299,7 +1299,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"... ¿Está seguro de que puede contarme esta historia?",
+"“... ¿Está seguro de que puede contarme esta historia?”",
 {"rt2"},
 },
 },
@@ -1317,7 +1317,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, y preferiría contártelo, la verdad. Es mucho peso como para llevarlo todo\ndentro de mi pecho...",
+"“Sí, y preferiría contártelo, la verdad. Es mucho peso como para llevarlo todo\ndentro de mi pecho...”",
 {"rt2"},
 },
 },
@@ -1334,7 +1334,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Y por qué no contarle a Naoya?",
+"“¿Y por qué no contarle a Naoya?”",
 {"rt2"},
 },
 },
@@ -1352,7 +1352,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Alguien más se encargará de revelárselo todo...",
+"“Alguien más se encargará de revelárselo todo...”",
 {"rt2"},
 },
 },
@@ -1369,7 +1369,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Alguien más?",
+"“¿Alguien más?”",
 {"rt2"},
 },
 },
@@ -1386,7 +1386,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, ella más que nadie sabe de lo que Mizuna y yo vivimos... Sé que llegará el\ndía en que le contará todo a Naoya...",
+"“Sí, ella más que nadie sabe de lo que Mizuna y yo vivimos... Sé que llegará el\ndía en que le contará todo a Naoya...”",
 {"rt2"},
 },
 },
@@ -1403,7 +1403,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Por eso quiero que te quedes a escucharme...",
+"“Por eso quiero que te quedes a escucharme...”",
 {"rt2"},
 },
 },
@@ -1421,7 +1421,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Para poder beber esta noche del mejor licor que pueda haber...",
+"“Para poder beber esta noche del mejor licor que pueda haber...”",
 {"rt2"},
 },
 },
@@ -1438,7 +1438,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"¿Licor?...",
+"“¿Licor?...”",
 {"rt2"},
 },
 },
@@ -1455,7 +1455,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, uno muy gustoso que llaman felicidad...",
+"“Sí, uno muy gustoso que llaman felicidad...”",
 {"rt2"},
 },
 },
@@ -1472,7 +1472,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"Felicidad...",
+"“Felicidad...”",
 {"rt2"},
 },
 },
@@ -1490,7 +1490,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No me queda mucho por delante ya. Así que, kouhai mío de la vida, quisiera que\nescucharas lo que tengo para contar.",
+"“No me queda mucho por delante ya. Así que, kouhai mío de la vida, quisiera que\nescucharas lo que tengo para contar.”",
 {"rt2"},
 },
 },
@@ -1507,7 +1507,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Una buena historia para degustar de la felicidad...",
+"“Una buena historia para degustar de la felicidad...”",
 {"rt2"},
 },
 },
