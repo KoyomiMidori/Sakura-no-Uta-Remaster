@@ -2175,7 +2175,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ah? ¿Qué, acabas, de decir?",
+"“¿Ah? ¿Qué acabas, de decir?”",
 {"rt2"},
 },
 },
@@ -2193,7 +2193,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿Todavía te sirve la boca como para decir tonterías?",
+"“¿Todavía te sirve la boca como para decir tonterías?”",
 {"rt2"},
 },
 },
@@ -2211,7 +2211,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Ya no más, por favor!",
+"“¡Ya no más, por favor!”",
 {"rt2"},
 },
 },
@@ -2228,7 +2228,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No te preocupes, no me pasará nada. Esto es pelea de niños...",
+"“No te preocupes, no me pasará nada. Esto es pelea de niños...”",
 {"rt2"},
 },
 },
@@ -2247,7 +2247,7 @@ vo={
 ja={
 {
 name={"???"},
-"Ohhh... pelea de niños, eh. ¿Escucharon? Se está burlando de ustedes.",
+"“Ohhh... pelea de niños, eh. ¿Escucharon? Se está burlando de ustedes.”",
 {"rt2"},
 },
 },
@@ -2264,7 +2264,7 @@ vo={
 ja={
 {
 name={"Hombre de negro B"},
-"¿Nos permite silenciarlo?",
+"“¿Nos permite silenciarlo?”",
 {"rt2"},
 },
 },
@@ -2283,7 +2283,7 @@ vo={
 ja={
 {
 name={"???"},
-"Claro. Cállenle esa boca.",
+"Claro. Cállenle esa boca.”",
 {"rt2"},
 },
 },
@@ -2300,7 +2300,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Pero qué, qué piensan hacer?",
+"“Pero qué... ¿qué piensan hacer?”",
 {"rt2"},
 },
 },
@@ -2318,7 +2318,7 @@ vo={
 ja={
 {
 name={"???"},
-"Trae a Mizuna acá.",
+"“Trae a Mizuna acá.”",
 {"rt2"},
 },
 },
@@ -2335,7 +2335,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"Sí señor.",
+"“Sí señor.”",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡No, déjame!",
+"“¡No, déjame!”",
 {"rt2"},
 },
 },
@@ -2402,7 +2402,7 @@ vo={
 ja={
 {
 name={"Hombre de negro B"},
-"¿Derecho o izquierdo?",
+"“¿Derecho o izquierdo?”",
 {"rt2"},
 },
 },
@@ -2420,7 +2420,7 @@ vo={
 ja={
 {
 name={"???"},
-"Quitarle el derecho podría afectarle su vida diaria. Llévate solo el izquierdo.",
+"“Quitarle el derecho podría afectarle su vida diaria. Llévate solo el izquierdo.”",
 {"rt2"},
 },
 },
@@ -2437,7 +2437,7 @@ vo={
 ja={
 {
 name={"Hombre de negro B"},
-"Entendido.",
+"“Entendido.”",
 {"rt2"},
 },
 },
@@ -2457,7 +2457,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Gwah!",
+"“¡Gwah!”",
 {"rt2"},
 },
 },
@@ -2516,7 +2516,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡¡¿¡¿---?!?!!",
+"“¡¡¿¡¿---?!?!!”",
 {"rt2"},
 },
 },
@@ -2539,7 +2539,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡GWAAAAAaaaahhhh!",
+"“¡GWAAAAAaaaahhhh!”",
 {"rt2"},
 },
 },
@@ -2584,7 +2584,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Profesor! ¡Profesor! ¡Profesor Kusanagi!",
+"“¡Profesor! ¡Profesor! ¡Profesor Kusanagi!”",
 {"rt2"},
 },
 },
@@ -2601,7 +2601,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿Kusanagi? Ah, ahora que lo recuerdo...",
+"“¿Kusanagi? Ah, ahora que lo recuerdo...”",
 {"rt2"},
 },
 },
@@ -2618,7 +2618,7 @@ vo={
 ja={
 {
 name={"???"},
-"Kusanagi, sí, es el tipo que metí por ser conocido de Saki... Santo cielo, vaya\nque Saki me jode las pelotas también.",
+"“Kusanagi, sí, es el tipo que metí por ser conocido de Saki... Santo cielo, vaya\nque Saki me jode las pelotas también.”",
 {"rt2"},
 },
 },
@@ -2636,7 +2636,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Gi, giiiiiii...",
+"“Gi, giiiiiii...”",
 {"rt2"},
 },
 },
@@ -2653,7 +2653,7 @@ vo={
 ja={
 {
 name={"???"},
-"Apenas acaba de entrar a la familia, supongo que aún no está consciente de que\nes una Nakamura ahora... Tendré que darle un pequeño castigo...",
+"“Apenas acaba de entrar a la familia, supongo que aún no está consciente de que\nes una Nakamura ahora... Tendré que darle un pequeño castigo...”",
 {"rt2"},
 },
 },
@@ -2670,7 +2670,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"S-Saki, Saki, qué...",
+"“S-Saki, Saki, qué...”",
 {"rt2"},
 },
 },
@@ -2692,7 +2692,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿Ahhhn? ¿Todavía puedes hablar?",
+"“¿Ahhhn? ¿Todavía puedes hablar?”",
 {"rt2"},
 },
 },
@@ -2709,7 +2709,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tanto con Saki, y Saki, ¿qué es Saki, de ti?",
+"“Tanto con Saki, y Saki, ¿qué es Saki, de ti?”",
 {"rt2"},
 },
 },
@@ -2727,7 +2727,7 @@ vo={
 ja={
 {
 name={"???"},
-"Saki es mi esposa.",
+"“Saki es mi esposa.”",
 {"rt2"},
 },
 },
@@ -2744,7 +2744,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Esposa?",
+"“¿Esposa?”",
 {"rt2"},
 },
 },
@@ -2763,7 +2763,7 @@ vo={
 ja={
 {
 name={"Nakamura"},
-"Ya que lo mencionas, se me había olvidado presentarme. Soy Shoichi Nakamura.\nPróximo sucesor de la familia Nakamura y presidente de la directiva del\ncolegio.",
+"“Ya que lo mencionas, se me había olvidado presentarme. Soy Shoichi Nakamura.\nPróximo sucesor de la familia Nakamura y presidente de la directiva del\ncolegio.”",
 {"rt2"},
 },
 },
@@ -2780,7 +2780,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Shoichi, Nakamura... ¿tú?",
+"“Shoichi... Nakamura... ¿tú?”",
 {"rt2"},
 },
 },
@@ -2799,7 +2799,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Así es, que no se te olvide. Aunque bueno, de igual manera tu contrato allí se\ntermina hoy.",
+"“Así es, que no se te olvide. Aunque bueno, de igual manera tu contrato allí se\ntermina hoy.”",
 {"rt2"},
 },
 },
@@ -2817,7 +2817,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"No hace falta que vengas más.",
+"“No hace falta que vengas más.”",
 {"rt2"},
 },
 },
@@ -2835,7 +2835,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Mejor así!",
+"“¡Mejor así!”",
 {"rt2"},
 },
 },
@@ -2858,7 +2858,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Qué rebelde, eh. ¡Tú! Tuércele el otro brazo también.",
+"“Qué rebelde, eh. ¡Tú! Tuércele el otro brazo también.”",
 {"rt2"},
 },
 },
@@ -2875,7 +2875,7 @@ vo={
 ja={
 {
 name={"Hombre de negro B"},
-"Entendido.",
+"“Entendido.”",
 {"rt2"},
 },
 },
@@ -2896,7 +2896,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Basta, no más, por favor!",
+"“¡Basta, no más, por favor!”",
 {"rt2"},
 },
 },
@@ -2927,7 +2927,7 @@ vo={
 ja={
 {
 name={"Hombre de negro B"},
-"Kuh, suelta.",
+"“Kuh, suelta.”",
 {"rt2"},
 },
 },
@@ -2945,7 +2945,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"¡Eh, tú! No vuelvas a herir a la muchacha. ¿Quién te ha dado permiso para\ngolpearla?. Su cuerpo es muy valioso, no dejaré que nadie que no sea yo le\nhaga daño.",
+"“¡Eh, tú! No vuelvas a herir a la muchacha. ¿Quién te ha dado permiso para\ngolpearla?. Su cuerpo es muy valioso, no dejaré que nadie que no sea yo le\nhaga daño.”",
 {"rt2"},
 },
 },
@@ -2962,7 +2962,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"L-Lo siento señor...",
+"“L-Lo siento, señor...”",
 {"rt2"},
 },
 },
@@ -3006,7 +3006,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Ya está bien por hoy, vete ya!",
+"“¡Ya está bien por hoy, vete ya!”",
 {"rt2"},
 },
 },
@@ -3023,7 +3023,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Tú no eres quien para decidir eso.",
+"“Tú no eres quien para decidir eso.”",
 {"rt2"},
 },
 },
@@ -3042,7 +3042,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Te lo ruego, por favor, vete ya...",
+"“Te lo ruego, por favor, vete ya...”",
 {"rt2"},
 },
 },
@@ -3059,7 +3059,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Me niego, no voy a dejar que se salga con esta. ¡Tú! ¡Termina de romperle el\nbrazo!",
+"“Me niego, no voy a dejar que se salga con esta. ¡Tú! ¡Termina de romperle el\nbrazo!”",
 {"rt2"},
 },
 },
@@ -3078,7 +3078,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡No, para!",
+"“¡No, para!”",
 {"rt2"},
 },
 },
@@ -3102,7 +3102,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Haré lo que quieras! ¡Haré todo lo que me pidas, por favor! Solo... vete ya...",
+"“¡Haré lo que quieras! ¡Haré todo lo que me pidas, por favor! Solo... vete ya...”",
 {"rt2"},
 },
 },
@@ -3119,7 +3119,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Ohhh...",
+"“Ohhh...”",
 {"rt2"},
 },
 },
@@ -3137,7 +3137,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡No, maldita sea! ¡Rómpeme el brazo!",
+"“¡No, maldita sea! ¡Rómpeme el brazo!”",
 {"rt2"},
 },
 },
@@ -3155,7 +3155,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"No le hagas más daño, por favor. Haré... lo que desees.",
+"“No le hagas más daño, por favor. Haré... lo que desees.”",
 {"rt2"},
 },
 },
@@ -3172,7 +3172,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Lo que yo quiera, eh...",
+"“Lo que yo quiera, eh...”",
 {"rt2"},
 },
 },
@@ -3190,7 +3190,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Rómpelo, rómpelo! ¡Rómpeme el maldito brazo!",
+"“¡Rómpelo, rómpelo! ¡Rómpeme el maldito brazo!”",
 {"rt2"},
 },
 },
@@ -3207,7 +3207,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"¿Si lo dejo ir harás cualquier cosa que yo te pida, verdad, Mizuna?",
+"“Si lo dejo ir harás cualquier cosa que yo te pida, ¿verdad, Mizuna?”",
 {"rt2"},
 },
 },
@@ -3225,7 +3225,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡No, Mizuna, no lo hagas!",
+"“¡No, Mizuna, no lo hagas!”",
 {"rt2"},
 },
 },
@@ -3244,7 +3244,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Sí...",
+"“Sí...”",
 {"rt2"},
 },
 },
@@ -3261,7 +3261,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Huhuhuh, sí, va a ser divertido.",
+"“Huhuhuh, sí, va a ser divertido.”",
 {"rt2"},
 },
 },
@@ -3278,7 +3278,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Muy pasiva has sido hasta ahora, mostrando solo repulsión. Pero supongo que de\nahora en adelante me complacerás con gusto, ¿eh, Mizuna?",
+"“Muy pasiva has sido hasta ahora, mostrando solo repulsión. Pero supongo que de\nahora en adelante me complacerás con gusto, ¿eh, Mizuna?”",
 {"rt2"},
 },
 },
@@ -3297,7 +3297,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"S-- í.",
+"“S-- í.”",
 {"rt2"},
 },
 },
@@ -3317,7 +3317,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡¡Shoichi Nakamura, maldito imbéciiil!!",
+"“¡¡Shoichi Nakamura, maldito imbéciiil!!”",
 {"rt2"},
 },
 },
@@ -3336,7 +3336,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Qué bueno, ¿no? La muchacha te salvó, Kusanagi-kun. ¿Cómo se siente que una de\ntus alumnas te salve con su propio cuerpo?",
+"“Qué bueno, ¿no? La muchacha te salvó, Kusanagi-kun. ¿Cómo se siente que una de\ntus alumnas te salve con su propio cuerpo?”",
 {"rt2"},
 },
 },
@@ -3354,7 +3354,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Bastardooo!",
+"“¡Bastardooo!”",
 {"rt2"},
 },
 },
@@ -3372,7 +3372,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Siléncialo.",
+"“Siléncialo.”",
 {"rt2"},
 },
 },
@@ -3392,7 +3392,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"G-Gwaah...",
+"“G-Gwaah...”",
 {"rt2"},
 },
 },
@@ -3423,7 +3423,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡¿Qué tan cruel puedes ser?! ¡Dijiste que ya no lo harías!",
+"“¡¿Qué tan cruel puedes ser?! ¡Dijiste que ya no lo harías!”",
 {"rt2"},
 },
 },
@@ -3441,7 +3441,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Solo prometí que no le torcería el brazo derecho. Jamás dije que no le\npisotearía el brazo que ya tiene torcido.",
+"“Solo prometí que no le torcería el brazo derecho. Jamás dije que no le\npisotearía el brazo que ya tiene torcido.”",
 {"rt2"},
 },
 },
@@ -3459,7 +3459,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡¿Profesor, está bien?! ¡Profesor! ¡Está sangrando bastante!",
+"“¡Profesor, ¿está bien?! ¡Profesor! ¡Está sangrando bastante!”",
 {"rt2"},
 },
 },
@@ -3478,7 +3478,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Hmm, sí, qué feo se ve eso... Mira nada más, el hueso se salió y cortó la piel.\nDebe doler. ¿Fractura compuesta es que le llaman a esto?",
+"“Hmm, sí, qué feo se ve eso... Mira nada más, el hueso se salió y cortó la piel.\nDebe doler. ¿Fractura compuesta es que le llaman a esto?”",
 {"rt2"},
 },
 },
@@ -3495,7 +3495,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"Sí, le llaman también fractura expuesta, o abierta.",
+"“Sí, le llaman también fractura expuesta, o abierta.”",
 {"rt2"},
 },
 },
@@ -3513,7 +3513,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"¿Se puede sanar?",
+"“¿Se puede sanar?”",
 {"rt2"},
 },
 },
@@ -3530,7 +3530,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"De tomarse las medidas adecuadas, sí.",
+"“De tomarse las medidas adecuadas, sí.”",
 {"rt2"},
 },
 },
@@ -3548,7 +3548,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"¿Lo cual quiere decir que de no tomarse esas medidas quedarían secuelas?",
+"“¿Lo cual quiere decir que de no tomarse esas medidas quedarían secuelas?”",
 {"rt2"},
 },
 },
@@ -3565,7 +3565,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"Ciertamente.",
+"“Ciertamente.”",
 {"rt2"},
 },
 },
@@ -3585,7 +3585,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Hay que llevar al profesor a un hospital! ¡Déjame llevarlo, por favor! ¡No\ndejes que sufra más!",
+"“¡Hay que llevar al profesor a un hospital! ¡Déjame llevarlo, por favor! ¡No\ndejes que sufra más!”",
 {"rt2"},
 },
 },
@@ -3602,7 +3602,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Pues sí, si no lo llevamos a un hospital pronto quedará con una herida\nincurable de por vida. ¿Pero sabes, Mizuna? Quisiera que me dieras las\ngracias antes.",
+"“Pues sí, si no lo llevamos a un hospital pronto quedará con una herida\nincurable de por vida. Pero ¿sabes, Mizuna? Quisiera que me dieras las\ngracias antes.”",
 {"rt2"},
 },
 },
@@ -3620,7 +3620,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"B-Bueno...",
+"“B-Bueno...”",
 {"rt2"},
 },
 },
@@ -3637,7 +3637,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"¿Ahhhn? ¡No se te entiende nada! ¿Qué dijiste?",
+"“¿Ahhhn? ¡No se te entiende nada! ¿Qué dijiste?”",
 {"rt2"},
 },
 },
@@ -3656,7 +3656,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Estoy muy agradecida con usted, Shoichi-san. Mizuna está muy agradecida con su\npiedad y benevolencia.",
+"“Estoy muy agradecida con usted, Shoichi-san. Mizuna está muy agradecida con su\npiedad y benevolencia.”",
 {"rt2"},
 },
 },
@@ -3674,7 +3674,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Vaya, ya veo, ya veo. Lo dejaré ir entonces. Después de todo ya me diste tu\npalabra. ¿No es así, Mizunaaa?",
+"“Vaya, ya veo, ya veo. Lo dejaré ir entonces. Después de todo, ya me diste tu\npalabra. ¿No es así, Mizunaaa?”",
 {"rt2"},
 },
 },
@@ -3693,7 +3693,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"S-- í.",
+"“S-- í.”",
 {"rt2"},
 },
 },
@@ -3710,7 +3710,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Espero que no se te olvide lo que dijiste cuando venga de nuevo, Mizuna.",
+"“Espero que no se te olvide lo que dijiste cuando venga de nuevo, Mizuna.”",
 {"rt2"},
 },
 },
@@ -3742,7 +3742,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Está bien...",
+"“Está bien...”",
 {"rt2"},
 },
 },
@@ -3761,7 +3761,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"Nos vamos.",
+"“Nos vamos.”",
 {"rt2"},
 },
 },
@@ -3778,8 +3778,8 @@ vo={
 },
 ja={
 {
-name={"Hombres de negro A & B"},
-"Sí señor.",
+name={"Hombres de negro A u B"},
+"“Sí señor.”",
 {"rt2"},
 },
 },
@@ -3812,7 +3812,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Guh...",
+"“Guh...”",
 {"rt2"},
 },
 },
@@ -3830,7 +3830,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"No se mueva, por favor. Su hueso se fracturó y atravesó la piel. Llamaré a una\nambulancia de inmediato, espere solo un momento.",
+"“No se mueva, por favor. Su hueso se fracturó y atravesó la piel. Llamaré a una\nambulancia de inmediato, espere solo un momento.”",
 {"rt2"},
 },
 },
@@ -3847,7 +3847,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"M-Mizuna...",
+"“M-Mizuna...”",
 {"rt2"},
 },
 },
@@ -3865,7 +3865,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿S-Sí? ¿Le duele algo?",
+"“¿S-Sí? ¿Le duele algo?”",
 {"rt2"},
 },
 },
@@ -3882,7 +3882,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ese viejo... te violó?",
+"“¿Ese viejo... te violó?”",
 {"rt2"},
 },
 },
@@ -3900,7 +3900,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -3917,7 +3917,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Eso me pareció después de lo que escuché...",
+"“Eso me pareció después de lo que escuché...”",
 {"rt2"},
 },
 },
@@ -3935,7 +3935,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Eso, yo...",
+"“Eso, yo...”",
 {"rt2"},
 },
 },
@@ -3953,7 +3953,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Dime, por favor!",
+"“¡Dime, por favor!”",
 {"rt2"},
 },
 },
@@ -3971,7 +3971,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Aquí conviven las hijas ilegítimas de los Nakamura... Y esas hijas, a su vez,\nestán destinadas a convertirse en sus próximas amantes...",
+"“Aquí conviven las hijas ilegítimas de los Nakamura... Y esas hijas, a su vez,\nestán destinadas a convertirse en sus próximas amantes...”",
 {"rt2"},
 },
 },
@@ -3989,7 +3989,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"La relación consanguínea es tan cercana que es imposible consumar el\nmatrimonio... Las hijas de las amantes pasan a ser amantes, hasta la\nmuerte...",
+"“La relación consanguínea es tan cercana que es imposible consumar el\nmatrimonio... Las hijas de las amantes pasan a ser amantes, hasta la\nmuerte...”",
 {"rt2"},
 },
 },
@@ -4006,7 +4006,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Para mantener la sangre de los Nakamura?",
+"“¿Para mantener la sangre de los Nakamura?”",
 {"rt2"},
 },
 },
@@ -4029,7 +4029,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Eso dicen, pero en realidad no sé si eso es verdad. Todos ellos han estado\nabusando de las mujeres en esta residencia, por puro placer...",
+"“Eso dicen, pero en realidad no sé si eso es verdad. Todos ellos han estado\nabusando de las mujeres en esta residencia, por puro placer...”",
 {"rt2"},
 },
 },
@@ -4047,7 +4047,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Y en mi caso es lo mismo. Más que un vientre para dar a luz, me han usado como\nun simple juguete...",
+"“Y en mi caso es lo mismo. Más que un vientre para dar a luz, me han usado como\nun simple juguete...”",
 {"rt2"},
 },
 },
@@ -4108,7 +4108,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Voy a preguntarte algo que quizás suene muy cruel. ¿No te importa?",
+"“Voy a preguntarte algo que quizás suene muy cruel. ¿No te importa?”",
 {"rt2"},
 },
 },
@@ -4126,7 +4126,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Pregunte lo que quiera, se lo ruego. Fue mi culpa que usted pasara por esto,\naceptaré todo lo que me pida...",
+"“Pregunte lo que quiera, se lo ruego. Fue mi culpa que usted pasara por esto,\naceptaré todo lo que me pida...”",
 {"rt2"},
 },
 },
@@ -4143,7 +4143,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ese hombre te ha estado violando una y otra vez como si fueras una prostituta?",
+"“¿Ese hombre te ha estado violando una y otra vez como si fueras una prostituta?”",
 {"rt2"},
 },
 },
@@ -4162,7 +4162,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Sí... así es. Aunque, sería una falta de respeto para las verdaderas\nprostitutas decir eso...",
+"“Sí... así es. Aunque sería una falta de respeto para las verdaderas\nprostitutas decir eso...”",
 {"rt2"},
 },
 },
@@ -4179,7 +4179,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"En pocas palabras, este lugar es como un prostíbulo para ellos, ¿cierto?",
+"“En pocas palabras, este lugar es como un prostíbulo para ellos, ¿cierto?”",
 {"rt2"},
 },
 },
@@ -4198,7 +4198,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"A-Así es... sí, esta residencia es como un prostíbulo de y para los Nakamura...",
+"“A-Así es... sí, esta residencia es como un prostíbulo de y para los Nakamura...”",
 {"rt2"},
 },
 },
@@ -4216,7 +4216,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"De hecho, he escuchado que varias de las mujeres que residieron anteriormente\nacá fueron usadas como juguetes sexuales por varias personas de poder...",
+"“De hecho, he escuchado que varias de las mujeres que residieron anteriormente\nacá fueron usadas como juguetes sexuales por varias personas de poder...”",
 {"rt2"},
 },
 },
@@ -4233,7 +4233,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Son de la peor calaña, definitivamente...",
+"“Son de la peor calaña, definitivamente...”",
 {"rt2"},
 },
 },
@@ -4251,7 +4251,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"P-Por eso mismo estoy pensando en liberar a Ai-chan algún día, y evitar que\ntermine como yo.",
+"“P-Por eso mismo estoy pensando en liberar a Ai-chan algún día, y evitar que\ntermine como yo.”",
 {"rt2"},
 },
 },
@@ -4269,7 +4269,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Estoy estudiando ahora para eso. Quiero conseguir el título de abogado mientras\nvoy al colegio. Pensé que esa sería la mejor opción, por lo menos.",
+"“Estoy estudiando ahora para eso. Quiero conseguir el título de abogado mientras\nvoy al colegio. Pensé que esa sería la mejor opción, por lo menos.”",
 {"rt2"},
 },
 },
@@ -4292,7 +4292,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"P-Por ahora no puedo hacer nada. Absolutamente nada. Ni siquiera pude oponerme\na él... Soy totalmente impotente...",
+"“P-Por ahora no puedo hacer nada. Absolutamente nada. Ni siquiera pude oponerme\na él... Soy totalmente impotente...”",
 {"rt2"},
 },
 },
@@ -4310,7 +4310,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Así que estudio, porque por lo menos el estudio se puede lograr con esfuerzo,\npor eso es que me concentro tanto en eso ahora.",
+"“Así que estudio, porque por lo menos el estudio se puede lograr con esfuerzo,\npor eso es que me concentro tanto en eso ahora.”",
 {"rt2"},
 },
 },
@@ -4328,7 +4328,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Si llego a convertirme en una experta de las leyes podré resolver esta\nsituación.",
+"“Si llego a convertirme en una experta de las leyes, podré resolver esta\nsituación.”",
 {"rt2"},
 },
 },
@@ -4345,7 +4345,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"De ninguna manera van a quedarse quietos sabiendo que te convertirás en\nabogada.",
+"“De ninguna manera van a quedarse quietos sabiendo que te convertirás en\nabogada.”",
 {"rt2"},
 },
 },
@@ -4364,7 +4364,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Lo haré a escondidas. Si es por el dinero estudiaré tanto como sea necesario\npara obtener becas.",
+"“Lo haré a escondidas. Si es por el dinero, estudiaré tanto como sea necesario\npara obtener becas.”",
 {"rt2"},
 },
 },
@@ -4381,7 +4381,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ese no es el problema. Ellos harán lo que sea para evitarse problemas. Aun si\nlogras convertirte en abogada las cosas no se solucionarán tan fácilmente.",
+"“Ese no es el problema. Ellos harán lo que sea para evitarse problemas. Aun si\nlogras convertirte en abogada, las cosas no se solucionarán tan fácilmente.”",
 {"rt2"},
 },
 },
@@ -4398,7 +4398,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Nakamura no es solo un nombre de prestigio en esta región, es también una\nfamilia con fuertes conexiones con la delincuencia. Hace unos años hubo un\nconflicto entre Yakuzas donde los Nakamura se involucraron en gran parte.",
+"“Nakamura no es solo un nombre de prestigio en esta región, es también una\nfamilia con fuertes conexiones con la delincuencia. Hace unos años hubo un\nconflicto entre Yakuzas donde los Nakamura se involucraron en gran parte.”",
 {"rt2"},
 },
 },
@@ -4415,7 +4415,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Nada de esto se va a solucionar mágicamente convirtiéndote en abogada.",
+"“Nada de esto se va a solucionar mágicamente convirtiéndote en abogada.”",
 {"rt2"},
 },
 },
@@ -4434,7 +4434,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Lo sé, ¿pero qué debería hacer entonces? ¿Es que acaso conoce alguna otra\nalternativa?",
+"“Lo sé, ¿pero qué debería hacer entonces? ¿Es que acaso conoce alguna otra\nalternativa?”",
 {"rt2"},
 },
 },
@@ -4457,7 +4457,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Si fuese más inteligente quizás podría dar con más alternativas. Quizás se me\npodría ocurrir algo mejor... pero, esto es lo único que pude idear por ahora.",
+"“Si fuese más inteligente quizás podría dar con más alternativas. Quizás se me\npodría ocurrir algo mejor... pero esto es lo único que pude idear por ahora.”",
 {"rt2"},
 },
 },
@@ -4474,7 +4474,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ya veo, creo que ya he entendido un poco más de tu situación.",
+"“Ya veo, creo que ya he entendido un poco más de tu situación.”",
 {"rt2"},
 },
 },
@@ -4491,7 +4491,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"La razón por la cual has mantenido esas calificaciones... y el porqué de tanta\nlectura... Mantienes la mirada fría sobre la verdad, pero a la vez deseas\nfervientemente una verdad capaz de salvarte.",
+"“La razón por la cual has mantenido esas calificaciones... y el porqué de tanta\nlectura... Mantienes la mirada fría sobre la verdad, pero a la vez deseas\nfervientemente una verdad capaz de salvarte.”",
 {"rt2"},
 },
 },
@@ -4515,7 +4515,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"De nada sirve leer tanto... lo sé... pero, aun así no puedo quitarme la\nesperanza de encima...",
+"“De nada sirve leer tanto... lo sé... pero, aun así no puedo quitarme la\nesperanza de encima...”",
 {"rt2"},
 },
 },
@@ -4532,7 +4532,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí sirve, y esa voluntad que tienes es valiosa. El proceso de obtener la verdad\nes más importante que el resultado en sí.",
+"“Sí sirve, y esa voluntad que tienes es valiosa. El proceso de obtener la verdad\nes más importante que el resultado en sí.”",
 {"rt2"},
 },
 },
@@ -4550,7 +4550,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Saber eso solo me sirve de consuelo.",
+"“Saber eso solo me sirve de consuelo.”",
 {"rt2"},
 },
 },
@@ -4567,7 +4567,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sea lo que sea, el punto es que has estado esforzándote demasiado tú sola.",
+"“Sea lo que sea, el punto es que has estado esforzándote demasiado tú sola.”",
 {"rt2"},
 },
 },
@@ -4585,7 +4585,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Esforzarme yo sola? ¿Si no soy yo quién más lo hará? Solo nos tenemos a\nnosotras mismas para sobrevivir.",
+"“¿Esforzarme yo sola? ¿Si no soy yo quién más lo hará? Solo nos tenemos a\nnosotras mismas para sobrevivir.”",
 {"rt2"},
 },
 },
@@ -4602,7 +4602,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ahí es donde te equivocas. Una niña como tú no debería cargar con tanto peso.",
+"“Ahí es donde te equivocas. Una niña como tú no debería cargar con tanto peso.”",
 {"rt2"},
 },
 },
@@ -4621,7 +4621,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡A veces una niña también tiene que cargar con muchas cosas!",
+"“¡A veces una niña también tiene que cargar con muchas cosas!”",
 {"rt2"},
 },
 },
@@ -4639,7 +4639,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Pues esa niña debería cargar con algo más conforme a su estatura.",
+"“Pues esa niña debería cargar con algo más conforme a su estatura.”",
 {"rt2"},
 },
 },
@@ -4656,7 +4656,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Lo que llevas sobre tu espalda no es algo que una niña como tú debería cargar,\nMizuna.",
+"“Lo que llevas sobre tu espalda no es algo que una niña como tú debería cargar,\nMizuna.”",
 {"rt2"},
 },
 },
@@ -4674,7 +4674,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Quién lo hará por mí entonces?",
+"“¿Quién lo hará por mí entonces?”",
 {"rt2"},
 },
 },
@@ -4691,7 +4691,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Que quién? Vamos, no seas tonta. Yo, por supuesto.",
+"“¿Que quién? Vamos, no seas tonta. Yo, por supuesto.”",
 {"rt2"},
 },
 },
@@ -4714,7 +4714,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Eh? ¿U-Usted?",
+"“¿Eh? ¿U-Usted?”",
 {"rt2"},
 },
 },
@@ -4731,7 +4731,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tienes un adulto acá dispuesto a salvarlas a ustedes dos. No estaría mal tener\nalgo de fe, ¿no?",
+"“Tienes un adulto acá dispuesto a salvarlas a ustedes dos. No estaría mal tener\nalgo de fe, ¿no?”",
 {"rt2"},
 },
 },
@@ -4749,7 +4749,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿A nosotras? ¿Usted, profesor?",
+"“¿A nosotras? ¿Usted, profesor?”",
 {"rt2"},
 },
 },
@@ -4766,7 +4766,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es.",
+"“Así es.”",
 {"rt2"},
 },
 },
@@ -4784,7 +4784,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"--",
+"“--”",
 {"rt2"},
 },
 },
@@ -4815,7 +4815,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Creo, que en algún momento llegué a poner mi fe en usted... Pensé que, tal vez\nusted podría salvarnos... Creo que, en un rincón de mi corazón hubo algo de\nesa fe.",
+"“Creo que en algún momento llegué a poner mi fe en usted... Pensé que, tal vez\nusted podría salvarnos... Creo que, en un rincón de mi corazón hubo algo de\nesa fe.”",
 {"rt2"},
 },
 },
@@ -4838,7 +4838,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Y por eso terminé metiéndolo a usted en esto. Lo hice pasar por tan horrible\nsituación.",
+"“Y por eso terminé metiéndolo a usted en esto. Lo hice pasar por tan horrible\nsituación.”",
 {"rt2"},
 },
 },
@@ -4856,7 +4856,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Si hubiese elegido seguir sola usted no estaría sufriendo esto!",
+"“¡Si hubiese elegido seguir sola usted no estaría sufriendo esto!”",
 {"rt2"},
 },
 },
@@ -4873,7 +4873,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Te equivocas.",
+"“Te equivocas.”",
 {"rt2"},
 },
 },
@@ -4890,7 +4890,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Si terminé así fue por haberme metido con los guardaespaldas. Tú me detuviste y\na pesar de eso me dejé llevar.",
+"“Si terminé así fue por haberme metido con los guardaespaldas. Tú me detuviste y\na pesar de eso me dejé llevar.”",
 {"rt2"},
 },
 },
@@ -4907,7 +4907,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tú no tienes la culpa de nada.",
+"“Tú no tienes la culpa de nada.”",
 {"rt2"},
 },
 },
@@ -4926,7 +4926,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Pero, aun así usted luchó por protegerme...",
+"“Pero aun así usted luchó por protegerme...”",
 {"rt2"},
 },
 },
@@ -4944,7 +4944,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Si de esa manera lo ves, pues entonces deja que siga hasta el final.",
+"“Si de esa manera lo ves, pues entonces deja que siga hasta el final.”",
 {"rt2"},
 },
 },
@@ -4962,7 +4962,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Hasta el final?",
+"“¿Hasta el final?”",
 {"rt2"},
 },
 },
@@ -4981,7 +4981,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, no voy a dejar que me jodan y se vayan como si nada. ¡Esta ira que tengo no\nse va a calmar hasta que los haga pagar!",
+"“Sí, no voy a dejar que me jodan y se vayan como si nada. ¡Esta ira que tengo no\nse va a calmar hasta que los haga pagar!”",
 {"rt2"},
 },
 },
@@ -5004,7 +5004,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"No es buena idea que se precipite. Ellos, ellos no son normales...",
+"“No es buena idea que se precipite. Ellos, ellos no son normales...”",
 {"rt2"},
 },
 },
@@ -5022,7 +5022,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Acaso no lo mencionó usted mismo hace un momento? Ellos estuvieron implicados\nen un conflicto de Yakuzas...",
+"“¿Acaso no lo mencionó usted mismo hace un momento? Ellos estuvieron implicados\nen un conflicto de Yakuzas...”",
 {"rt2"},
 },
 },
@@ -5039,7 +5039,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, lo sé. Pero yo tampoco soy normal.",
+"“Sí, lo sé. Pero yo tampoco soy normal.”",
 {"rt2"},
 },
 },
@@ -5058,7 +5058,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Es completamente diferente. El peligro de esa gente está en otro nivel,\nprofesor.",
+"“Es completamente diferente. El peligro de esa gente está en otro nivel,\nprofesor.”",
 {"rt2"},
 },
 },
@@ -5075,7 +5075,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Vamos, ¿es que tienes fe en el poder de ellos pero no en el mío?",
+"“Vamos, ¿es que tienes fe en el poder de ellos pero no en el mío?”",
 {"rt2"},
 },
 },
@@ -5101,7 +5101,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Por supuesto. Mire nada más el estado en que está ahora, solo por intentar\nprotegerme... Y su brazo, hay que llevarlo ya al hospital...",
+"“Por supuesto. Mire nada más el estado en que está ahora, solo por intentar\nprotegerme... Y su brazo, hay que llevarlo ya al hospital...”",
 {"rt2"},
 },
 },
@@ -5118,7 +5118,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, está hecho mierda. Pero no hay nada más temible que un lobo herido.",
+"“Sí, está hecho mierda. Pero no hay nada más temible que un lobo herido.”",
 {"rt2"},
 },
 },
@@ -5135,7 +5135,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Y se los haré entender pronto. Y de tal manera que los volveré locos.",
+"“Y se los haré entender pronto. Y de tal manera que los volveré locos.”",
 {"rt2"},
 },
 },
@@ -5153,7 +5153,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Hacerles entender?... ¿Cómo?",
+"“¿Hacerles entender?... ¿Cómo?”",
 {"rt2"},
 },
 },
@@ -5170,7 +5170,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Las explicaciones después, ¿puedes prestarme el teléfono un momento?",
+"“Las explicaciones después, ¿puedes prestarme el teléfono un momento?”",
 {"rt2"},
 },
 },
@@ -5188,7 +5188,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿El teléfono? Si necesita llamar a una ambulancia yo me puedo encargar de eso.",
+"“¿El teléfono? Si necesita llamar a una ambulancia yo me puedo encargar de eso.”",
 {"rt2"},
 },
 },
@@ -5205,7 +5205,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No hay tiempo para andar llamando ambulancias.",
+"“No hay tiempo para andar llamando ambulancias.”",
 {"rt2"},
 },
 },
@@ -5223,7 +5223,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Eh? ¿No es para la ambulancia? ¿A quién va a llamar entonces?",
+"“¿Eh? ¿No es para la ambulancia? ¿A quién va a llamar entonces?”",
 {"rt2"},
 },
 },
@@ -5240,7 +5240,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"A una vieja conocida... bueno, solo conocida no es... En fin, es indispensable\npara vengarnos.",
+"“A una vieja conocida... bueno, solo conocida no es... En fin, es indispensable\npara vengarnos.”",
 {"rt2"},
 },
 },
@@ -5258,7 +5258,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Vengarnos?",
+"“¿Vengarnos?”",
 {"rt2"},
 },
 },
@@ -5275,7 +5275,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Sí, así mismo. Venganza, o si quieres le puedes llamar contraataque también.\nHaré que los Nakamura pasen por algo cien veces peor.",
+"“Sí, así mismo. Venganza, o si quieres le puedes llamar contraataque también.\nHaré que los Nakamura pasen por algo cien veces peor.”",
 {"rt2"},
 },
 },
@@ -5293,7 +5293,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Pero qué está diciendo usted? Más importante que eso es atenderlo--",
+"“¿Pero qué está diciendo usted? Más importante que eso es atenderlo--”",
 {"rt2"},
 },
 },
@@ -5310,7 +5310,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No tengo tiempo para recibir atención medica, no hasta que termine esto.",
+"“No tengo tiempo para recibir atención medica, no hasta que termine esto.”",
 {"rt2"},
 },
 },
@@ -5329,7 +5329,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Pero, no es tan fácil hacerlo como decirlo. Y menos aun con los Nakamura, la\nmisma gente que controla a Yumihari.",
+"“Pero no es tan fácil hacerlo como decirlo. Y menos aun con los Nakamura, la\nmisma gente que controla a Yumihari.”",
 {"rt2"},
 },
 },
@@ -5346,7 +5346,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Los Nakamura no son los únicos que mueven los bajos fondos de Yumihari.",
+"“Los Nakamura no son los únicos que mueven los bajos fondos de Yumihari.”",
 {"rt2"},
 },
 },
@@ -5364,7 +5364,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Tal vez, pero...",
+"“Tal vez, pero...”",
 {"rt2"},
 },
 },
@@ -5381,7 +5381,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Pero, yo solo no podré lograr esta venganza. Necesito también tu ayuda.",
+"“Pero yo solo no podré lograr esta venganza. Necesito también tu ayuda.”",
 {"rt2"},
 },
 },
@@ -5399,7 +5399,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Mi ayuda?",
+"“¿Mi ayuda?”",
 {"rt2"},
 },
 },
@@ -5416,7 +5416,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Mi plan de venganza te necesita a ti.",
+"“Así es. Mi plan de venganza te necesita a ti.”",
 {"rt2"},
 },
 },
@@ -5433,7 +5433,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Aunque, necesitaré que te prepares mentalmente. Y por supuesto, necesito tu\nabsoluta confianza en mí.",
+"“Aunque necesitaré que te prepares mentalmente. Y por supuesto, necesito tu\nabsoluta confianza en mí.”",
 {"rt2"},
 },
 },
@@ -5451,7 +5451,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Absoluta confianza en usted?",
+"“¿Absoluta confianza en usted?”",
 {"rt2"},
 },
 },
@@ -5468,7 +5468,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Crees que puedas?",
+"“¿Crees que puedas?”",
 {"rt2"},
 },
 },
@@ -5486,7 +5486,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Que si puedo?... Sería más difícil no confiar en alguien que tanto ha hecho\npor nosotras.",
+"“¿Que si puedo?... Sería más difícil no confiar en alguien que tanto ha hecho\npor nosotras.”",
 {"rt2"},
 },
 },
@@ -5503,7 +5503,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ya veo... pues entonces, perdona que te pida esto pero, ¿podrías desnudarte ya?",
+"“Ya veo... pues entonces, perdona que te pida esto pero, ¿podrías desnudarte ya?”",
 {"rt2"},
 },
 },
@@ -5527,7 +5527,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿D-Desnudarme? ¿Quitarme la ropa?",
+"“¿D-Desnudarme? ¿Quitarme la ropa?”",
 {"rt2"},
 },
 },
@@ -5544,7 +5544,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tal cual.",
+"“Tal cual.”",
 {"rt2"},
 },
 },
@@ -5567,7 +5567,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Eh? E-Esto... ¿Acaso, e-está usted, pidiéndome 'eso'? E-En ese caso, sería\nmejor ir al hospital antes, y luego...",
+"“¿Eh? E-Esto... ¿Acaso, e-está usted, pidiéndome 'eso'? E-En ese caso, sería\nmejor ir al hospital antes, y luego...”",
 {"rt2"},
 },
 },
@@ -5584,7 +5584,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿'Eso'?",
+"“¿'Eso'?”",
 {"rt2"},
 },
 },
@@ -5607,7 +5607,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Ah, quiero, decir...",
+"“Ah, quiero, decir...”",
 {"rt2"},
 },
 },
@@ -5624,7 +5624,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Te lo repito una vez más, no hay tiempo para ir al hospital. Ai volverá mañana\nen la noche.",
+"“Te lo repito una vez más, no hay tiempo para ir al hospital. Ai volverá mañana\nen la noche.”",
 {"rt2"},
 },
 },
@@ -5642,7 +5642,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Ah, si es por eso, creo que en el hospital tendremos algo de tiempo para estar\nsolos...",
+"“Ah, si es por eso, creo que en el hospital tendremos algo de tiempo para estar\nsolos...”",
 {"rt2"},
 },
 },
@@ -5659,7 +5659,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No hay manera de hacerlo en el hospital. Y no habrá más tiempo para mañana.",
+"“No hay manera de hacerlo en el hospital. Y no habrá más tiempo para mañana.”",
 {"rt2"},
 },
 },
@@ -5677,7 +5677,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Jaa? ¿H-Hacerlo?",
+"“¿Jaa? ¿H-Hacerlo?”",
 {"rt2"},
 },
 },
@@ -5694,7 +5694,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es, hacerlo. Hay que culminar antes de que acabe la noche.",
+"“Así es, hacerlo. Hay que culminar antes de que acabe la noche.”",
 {"rt2"},
 },
 },
@@ -5712,7 +5712,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Culmi... nar?",
+"“¿Culmi... nar?”",
 {"rt2"},
 },
 },
@@ -5729,7 +5729,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Te lo pregunto una vez más, ¿confías en mí?",
+"“Así es. Te lo pregunto una vez más, ¿confías en mí?”",
 {"rt2"},
 },
 },
@@ -5747,7 +5747,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡Y-Ya se lo dije! ¿Confiar? Jamás había tenido a alguien que hiciera tanto por\nmí, y en quien pudiera confiar tanto.",
+"“¡Y-Ya se lo dije! ¿Confiar? Jamás había tenido a alguien que hiciera tanto por\nmí, y en quien pudiera confiar tanto.”",
 {"rt2"},
 },
 },
@@ -5766,7 +5766,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"A-Así que, sea lo que usted considere necesario, yo... lo haré.",
+"“A-Así que, sea lo que usted considere necesario, yo... lo haré.”",
 {"rt2"},
 },
 },
@@ -5783,7 +5783,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Qué bueno saber eso. En fin, necesito hacer una llamada.",
+"“Qué bueno saber eso. En fin, necesito hacer una llamada.”",
 {"rt2"},
 },
 },
@@ -5807,7 +5807,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"E-Está bien, pero su brazo...",
+"“E-Está bien, pero su brazo...”",
 {"rt2"},
 },
 },
@@ -5824,7 +5824,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ya te lo dije, no hay tiempo.",
+"“Ya te lo dije, no hay tiempo.”",
 {"rt2"},
 },
 },
@@ -5886,7 +5886,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Vamos, atiende...",
+"“Vamos, atiende...”",
 {"rt2"},
 },
 },
@@ -5906,7 +5906,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Yasu-san? Soy yo, Kenichiro. Kenichiro Kusanagi. Déjame hablar con la abuela,\npor favor.",
+"“¿Yasu-san? Soy yo, Kenichiro. Kenichiro Kusanagi. Déjame hablar con la abuela,\npor favor.”",
 {"rt2"},
 },
 },
@@ -5923,7 +5923,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Dormida? ¡No importa, despiértala!",
+"“¿Dormida? ¡No importa, despiértala!”",
 {"rt2"},
 },
 },
@@ -5940,7 +5940,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Qué? ¿Que no es tu problema si me matan? Eso no importa ahora, de igual forma\nya estoy medio muerto.",
+"“¿Qué? ¿Que no es tu problema si me matan? Eso no importa ahora, de igual forma\nya estoy medio muerto.”",
 {"rt2"},
 },
 },
@@ -5957,7 +5957,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿A quién está llamando? Un hospital... no es, supongo.",
+"“¿A quién está llamando? Un hospital... no es, supongo.”",
 {"rt2"},
 },
 },
@@ -6004,7 +6004,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ah? Soy yo, Kenichiro Kusanagi.",
+"“¿Ah? Soy yo, Kenichiro Kusanagi.”",
 {"rt2"},
 },
 },
@@ -6021,7 +6021,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Te tengo una buena propuesta, abuela.",
+"“Te tengo una buena propuesta, abuela.”",
 {"rt2"},
 },
 },
@@ -6038,7 +6038,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Qué? ¿Qué otra buena propuesta podría haber?",
+"“¿Qué? ¿Qué otra buena propuesta podría haber?”",
 {"rt2"},
 },
 },
@@ -6055,7 +6055,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡Un trabajillo! ¡Te tengo un trabajillo!",
+"“¡Un trabajillo! ¡Te tengo un trabajillo!”",
 {"rt2"},
 },
 },
@@ -6072,7 +6072,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿'Trabajillo'? ¿Eh? ¿C-Con quién está hablando?",
+"“¿'Trabajillo'? ¿Eh? ¿C-Con quién está hablando?”",
 {"rt2"},
 },
 },
@@ -6089,7 +6089,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ahhh? ¿Cuánto dinero? Pues sí, un billón de yenes, ¿qué tal?",
+"“¿Ahhh? ¿Cuánto dinero? Pues sí, un billón de yenes, ¿qué tal?”",
 {"rt2"},
 },
 },
@@ -6107,7 +6107,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¡¿Un billón?!",
+"“¡¿Un billón?!”",
 {"rt2"},
 },
 },
@@ -6124,7 +6124,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Eso sí, no es en metálico. Probablemente venga en terreno y propiedades.",
+"“Eso sí, no es en metálico. Probablemente venga en terreno y propiedades.”",
 {"rt2"},
 },
 },
@@ -6141,7 +6141,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ah, por cierto, la mitad de la recompensa me la llevaré yo.",
+"“Ah, por cierto, la mitad de la recompensa me la llevaré yo.”",
 {"rt2"},
 },
 },
@@ -6159,7 +6159,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¿Ahh? ¿Solo diez por ciento? ¡¿Crees que me voy a quedar conforme solo con\neso?!",
+"“¿Ahh? ¿Solo diez por ciento? ¡¿Crees que me voy a quedar conforme solo con\neso?!”",
 {"rt2"},
 },
 },
@@ -6177,7 +6177,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"¡¿Ahh?! ¿En una negociación todo sirve siendo ambas partes iguales? Escucha,\nabuela, te recuerdo que soy tu nieto.",
+"“¡¿Ahh?! ¿En una negociación todo sirve siendo ambas partes iguales? Escucha,\nabuela, te recuerdo que soy tu nieto.”",
 {"rt2"},
 },
 },
@@ -6195,7 +6195,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Ugh... en negocios no hay hijo ni nieto que valga, sí, tienes razón...",
+"“Ugh... en negocios no hay hijo ni nieto que valga, sí, tienes razón...”",
 {"rt2"},
 },
 },
@@ -6213,7 +6213,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tch, qué dura eres, viejita.",
+"“Tch, qué dura eres, viejita.”",
 {"rt2"},
 },
 },
@@ -6230,7 +6230,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Está bien, sí. Haremos como tú digas. Diez por ciento para mí, está bien. Pero\na cambio de eso, quiero que ganes esa negociación como sea...",
+"“Está bien, sí. Haremos como tú digas. Diez por ciento para mí, está bien. Pero\na cambio de eso, quiero que ganes esa negociación como sea...”",
 {"rt2"},
 },
 },
@@ -6247,7 +6247,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Tráeme algunos hombres mañana, apenas salga el sol. Tengo que darles algunas\ninstrucciones.",
+"“Tráeme algunos hombres mañana, apenas salga el sol. Tengo que darles algunas\ninstrucciones.”",
 {"rt2"},
 },
 },
@@ -6264,7 +6264,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Cada segundo cuenta.",
+"“Cada segundo cuenta.”",
 {"rt2"},
 },
 },
@@ -6283,7 +6283,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Q-Qué quiere decir?",
+"“¿Q-Qué quiere decir?”",
 {"rt2"},
 },
 },
@@ -6300,7 +6300,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Bien, ¿comenzamos? Menos mal que traje todo mi equipo...",
+"“Bien, ¿comenzamos? Menos mal que traje todo mi equipo...”",
 {"rt2"},
 },
 },
@@ -6356,7 +6356,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Hay madera cuadrada en esta casa, ¿verdad?",
+"“Hay madera cuadrada en esta casa, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -6375,7 +6375,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Sí, ¿por qué?...",
+"“Sí, ¿por qué?...”",
 {"rt2"},
 },
 },
@@ -6392,7 +6392,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Trae toda la madera que consigas. Por cierto, en el almacén había una cortina\nbeige, ¿cierto? Tráela también.",
+"“Trae toda la madera que consigas. Por cierto, en el almacén había una cortina\nbeige, ¿cierto? Tráela también.”",
 {"rt2"},
 },
 },
@@ -6411,7 +6411,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Está bien.",
+"“Está bien.”",
 {"rt2"},
 },
 },
@@ -6461,7 +6461,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"Esto es...",
+"“Esto es...”",
 {"rt2"},
 },
 },
@@ -6478,7 +6478,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Solo falta imprimar y listo.",
+"“Solo falta imprimar y listo.”",
 {"rt2"},
 },
 },
@@ -6496,7 +6496,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Es un lienzo para óleo?",
+"“¿Es un lienzo para óleo?”",
 {"rt2"},
 },
 },
@@ -6513,7 +6513,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Así es. Construir un lienzo es muy fácil.",
+"“Así es. Construir un lienzo es muy fácil.”",
 {"rt2"},
 },
 },
@@ -6544,7 +6544,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Esto es?",
+"“¿Esto es?”",
 {"rt2"},
 },
 },
@@ -6561,7 +6561,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Una colección de imágenes de obras de artistas impresionistas.",
+"“Una colección de imágenes de obras de artistas impresionistas.”",
 {"rt2"},
 },
 },
@@ -6579,7 +6579,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Impresionistas?",
+"“¿Impresionistas?”",
 {"rt2"},
 },
 },
@@ -6596,7 +6596,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Haz la misma pose que en esta pintura, por favor.",
+"“Haz la misma pose que en esta pintura, por favor.”",
 {"rt2"},
 },
 },
@@ -6614,7 +6614,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"¿Cuando decía 'culminar' se refería a...?",
+"“Cuando decía 'culminar' se refería a...”",
 {"rt2"},
 },
 },
@@ -6631,7 +6631,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"Exactamente.",
+"“Exactamente.”",
 {"rt2"},
 },
 },
