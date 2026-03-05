@@ -3132,7 +3132,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pero no tengo ningún traje formal.",
+"“Pero no tengo ningún traje formal.”",
 {"rt2"},
 },
 },
@@ -3149,7 +3149,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí, ninguna chica de nuestra edad tiene traje formal.Aunque veo que tú sí\ntienes un esmoquin, Kusanagi-kun.",
+"“Sí, ninguna chica de nuestra edad tiene traje formal.\nAunque veo que tú sí tienes un esmoquin, Kusanagi-kun.”",
 {"rt2"},
 },
 },
@@ -3167,7 +3167,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Se ve bastante caro, ¿lo compraste solo para esta ocasión?",
+"“Se ve bastante caro, ¿lo compraste solo para esta ocasión?”",
 {"rt2"},
 },
 },
@@ -3181,7 +3181,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Para nada, fueron los de Moore los que me prepararon este traje.",
+"“Para nada, fueron los de Moore los que me prepararon este traje.”",
 {"rt2"},
 },
 },
@@ -3206,7 +3206,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Eh? ¿Es en serio?",
+"“¿Eh? ¿Es en serio?”",
 {"rt2"},
 },
 },
@@ -3220,7 +3220,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, me dijeron que habían preparado un traje para mí y pidieron que llegara\ntemprano.",
+"“Sí, me dijeron que habían preparado un traje para mí y pidieron que llegara\ntemprano.”",
 {"rt2"},
 },
 },
@@ -3244,7 +3244,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Ya veo. Vaya, pues no esperaba menos para un artista nominado.",
+"“Ya veo. Vaya, pues no esperaba menos para un artista nominado.”",
 {"rt2"},
 },
 },
@@ -3258,7 +3258,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, y te recuerdo que solo nominado.",
+"“Sí, y te recuerdo que solo nominado.”",
 {"rt2"},
 },
 },
@@ -3281,7 +3281,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Lo sé, pero ambos fueron nominados, ¿no?Quizá no sea absurda la idea de que\nalguno de los dos gane.",
+"“Lo sé, pero ambos fueron nominados, ¿no?\nQuizá no sea absurda la idea de que alguno de los dos gane.”",
 {"rt2"},
 },
 },
@@ -3295,7 +3295,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Los profesionales de verdad se enojarán si te escuchan decir eso.",
+"“Los profesionales de verdad se enojarán si te escuchan decir eso.”",
 {"rt2"},
 },
 },
@@ -3309,7 +3309,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y ha sido tal el escándalo que han hecho que los peces gordos nos están viendo\nahora...",
+"“Y ha sido tal el escándalo que han hecho que los peces gordos nos están viendo\nahora...”",
 {"rt2"},
 },
 },
@@ -3333,7 +3333,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Eh? ¿D-De verdad?",
+"“¿Eh? ¿D-De verdad?”",
 {"rt2"},
 },
 },
@@ -3352,7 +3352,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Pero, si llegaras a ganar sería impresionante. Pasarías de ser la celebridad de\nYumihari a un ídolo nacional, Kusanagi-kun.",
+"“Pero si llegaras a ganar sería impresionante. Pasarías de ser la celebridad de\nYumihari a un ídolo nacional, Kusanagi-kun.”",
 {"rt2"},
 },
 },
@@ -3371,7 +3371,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"No, no, alguien galardonado en la Exposición Moore no termina como un simple\nídolo nacional, se convierte en artista de renombre internacional.Los cuadros\nde los galardonados siempre venden a precios altísimos.",
+"“No, no, alguien galardonado en la Exposición Moore no termina como un simple\nídolo nacional, se convierte en artista de renombre internacional.\nLos cuadros de los galardonados siempre venden a precios altísimos.”",
 {"rt2"},
 },
 },
@@ -3390,7 +3390,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Es increíble. Podrías terminar ganando.",
+"“Es increíble. Podrías terminar ganando.”",
 {"rt2"},
 },
 },
@@ -3404,7 +3404,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Solo son posibilidades, nada más.",
+"“Solo son posibilidades, nada más.”",
 {"rt2"},
 },
 },
@@ -3423,7 +3423,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Volviendo al tema, Kei se está tardando mucho.Lo llamé, pero no contesta.",
+"“Volviendo al tema, Kei se está tardando mucho.Lo llamé, pero no contesta.”",
 {"rt2"},
 },
 },
@@ -3437,7 +3437,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Si está manejando no podrá escuchar el sonido del celular.",
+"“Si está manejando no podrá escuchar el sonido del celular.”",
 {"rt2"},
 },
 },
@@ -3456,7 +3456,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Lo sé, pero he estado tratando de llamarlo desde que salió en la mañana.",
+"“Lo sé, pero he estado tratando de llamarlo desde que salió en la mañana.”",
 {"rt2"},
 },
 },
@@ -3470,7 +3470,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... ¿Qué le habrá pasado?",
+"“Ya veo... ¿Qué le habrá pasado?”",
 {"rt2"},
 },
 },
@@ -3502,7 +3502,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya está por comenzar. Deberíamos sentarnos.",
+"“Ya está por comenzar. Deberíamos sentarnos.”",
 {"rt2"},
 },
 },
@@ -3520,7 +3520,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Tienes razón.",
+"“Tienes razón.”",
 {"rt2"},
 },
 },
@@ -3534,7 +3534,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me toca sentarme en la primera fila. Ustedes siéntense en los asientos de\ninvitados.",
+"“Me toca sentarme en la primera fila. Ustedes siéntense en los asientos de\ninvitados.”",
 {"rt2"},
 },
 },
@@ -3553,7 +3553,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Bueno, está bien.",
+"“Bueno, está bien.”",
 {"rt2"},
 },
 },
@@ -3736,7 +3736,7 @@ block_00230={
 text={
 ja={
 {
-"A su lado está Shouzou Sakamoto.Este también trabaja principalmente en el\nexterior, y fue seleccionado como uno de los cien artistas más influyentes\npor la revista artística Écrits.",
+"A su lado está Shouzou Sakamoto.\nEste también trabaja principalmente en el exterior, y fue seleccionado como uno de los cien artistas más influyentes por la revista artística Écrits.",
 {"rt2"},
 },
 },
@@ -3801,7 +3801,7 @@ block_00235={
 text={
 ja={
 {
-"Su pop-art es extremadamente teórico e ideológico.Ahora debe estar trabajando\ncomo profesor invitado en la universidad de California, campus de Los\nÁngeles.",
+"Su pop-art es extremadamente teórico e ideológico.\nAhora debe estar trabajando como profesor invitado en la universidad de California, campus de Los\nÁngeles.",
 {"rt2"},
 },
 },
@@ -3919,7 +3919,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"De verdad... ¿Qué demonios estará haciendo?",
+"“De verdad... ¿Qué demonios estará haciendo?”",
 {"rt2"},
 },
 },
@@ -3989,7 +3989,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Ambos ganaron?",
+"“¿Ambos ganaron?”",
 {"rt2"},
 },
 },
@@ -4073,7 +4073,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Oh? ¿Qué sucede, jovencito?",
+"“¿Oh? ¿Qué sucede, jovencito?”",
 {"rt2"},
 },
 },
@@ -4100,7 +4100,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, no... Nada en particular...",
+"“Ah, no... Nada en particular...”",
 {"rt2"},
 },
 },
@@ -4117,7 +4117,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"¿Nos viste parándonos antes de tiempo y pensaste que iríamos a la parte trasera\ndel escenario?¡Estos dos deben haber ganado! ¿Algo así?",
+"“¿Nos viste parándonos antes de tiempo y pensaste que iríamos a la parte trasera\ndel escenario?\n¡Estos dos deben haber ganado! ¿Algo así?”",
 {"rt2"},
 },
 },
@@ -4131,7 +4131,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Ambos saben quién ganó?",
+"“¿Ambos saben quién ganó?”",
 {"rt2"},
 },
 },
@@ -4149,7 +4149,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Sí, lo sabemos.",
+"“Sí, lo sabemos.”",
 {"rt2"},
 },
 },
@@ -4166,7 +4166,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Al parecer Murata ganó.",
+"“Al parecer Murata ganó.”",
 {"rt2"},
 },
 },
@@ -4183,7 +4183,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Aún no se ha anunciado, así que no vayas a decirle a nadie.",
+"“Aún no se ha anunciado, así que no vayas a decirle a nadie.”",
 {"rt2"},
 },
 },
@@ -4197,7 +4197,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿De verdad? ¿Cuál premio ganó?",
+"“¿De verdad? ¿Cuál premio ganó?”",
 {"rt2"},
 },
 },
@@ -4214,7 +4214,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Según escuché, es posible que haya sido el Airain Phoque.Ningún japonés lo ha\nganado, así que podría captar bastante atención pública.",
+"“Según escuché, es posible que haya sido el Airain Phoque.Ningún japonés lo ha\nganado, así que podría captar bastante atención pública.”",
 {"rt2"},
 },
 },
@@ -4228,7 +4228,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Usted es Kiyohiko Murata. No me extrañaría que reciba el Airain Phoque.",
+"“Usted es Kiyohiko Murata. No me extrañaría que reciba el Airain Phoque.”",
 {"rt2"},
 },
 },
@@ -4245,7 +4245,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Eso crees? Me pones en una situación difícil diciéndome eso.",
+"“¿Eso crees? Me pones en una situación difícil diciéndome eso.”",
 {"rt2"},
 },
 },
@@ -4259,7 +4259,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por qué?",
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -4276,7 +4276,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"He estado pensando en retirar mi nominación al Airain Phoque.",
+"“He estado pensando en retirar mi nominación al Airain Phoque.”",
 {"rt2"},
 },
 },
@@ -4290,7 +4290,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Va a retirar su nominación?",
+"“¿Va a retirar su nominación?”",
 {"rt2"},
 },
 },
@@ -4307,7 +4307,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Sí, la verdad es que quisiera ir por un premio mayor.",
+"“Sí, la verdad es que quisiera ir por un premio mayor.”",
 {"rt2"},
 },
 },
@@ -4324,7 +4324,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Ya dos japoneses han obtenido el Argent Daufin de Londres y el Platine Epaulard\nde Nueva York.",
+"“Ya dos japoneses han obtenido el Argent Daufin de Londres y el Platine Epaulard\nde Nueva York.”",
 {"rt2"},
 },
 },
@@ -4341,7 +4341,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Pero ninguno ha ganado el Or Baleine de París.¿A quién no le encantaría\nganarlo?",
+"“Pero ninguno ha ganado el Or Baleine de París.\n¿A quién no le encantaría ganarlo?”",
 {"rt2"},
 },
 },
@@ -4358,7 +4358,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Sí, por algo dicen también que el Or Baleine es el premio más puro, con menos\ntinte político.",
+"“Sí, por algo dicen también que el Or Baleine es el premio más puro, con menos\ntinte político.”",
 {"rt2"},
 },
 },
@@ -4372,7 +4372,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Tinte político?",
+"“¿Tinte político?”",
 {"rt2"},
 },
 },
@@ -4389,7 +4389,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"No se cruzan tantos intereses, poniéndolo de manera simple. El Platine Epaulard\ny el Argent Daufin mueven mucho dinero, y a la vez intereses.Por eso se dice\nque tienen tinte político.",
+"“No se cruzan tantos intereses, poniéndolo de manera simple. El Platine Epaulard\ny el Argent Daufin mueven mucho dinero, y a la vez intereses.\nPor eso se dice que tienen tinte político.”",
 {"rt2"},
 },
 },
@@ -4406,7 +4406,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"En ese sentido no es difícil ver por qué Kenichiro Kusanagi ganó el Platine\nEpaulard, o Hakai Miyazaki el Argent Daufin...",
+"“En ese sentido no es difícil ver por qué Kenichiro Kusanagi ganó el Platine\nEpaulard, o Hakai Miyazaki el Argent Daufin...”",
 {"rt2"},
 },
 },
@@ -4423,7 +4423,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Desde hace tiempo Kusanagi ha tenido una fuerte conexión con la Fundación\nMoore, mientras que Miyazaki nació en Japón, pero ha vivido desde pequeño en\nGran Bretaña, y ha pasado su vida artística en Londres.",
+"“Desde hace tiempo Kusanagi ha tenido una fuerte conexión con la Fundación\nMoore, mientras que Miyazaki nació en Japón, pero ha vivido desde pequeño en\nGran Bretaña, y ha pasado su vida artística en Londres.”",
 {"rt2"},
 },
 },
@@ -4440,7 +4440,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Cada uno representó muy bien a ambas ciudades como artista, se podría decir.",
+"“Cada uno representó muy bien a ambas ciudades como artista, se podría decir.”",
 {"rt2"},
 },
 },
@@ -4457,7 +4457,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"De igual forma, no cabe en duda que ambos han sido grandes genios.",
+"“De igual forma, no cabe en duda que ambos han sido grandes genios.”",
 {"rt2"},
 },
 },
@@ -4474,7 +4474,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Murata, ya llevas más de diez años de haber abierto tu taller en el exterior,\n¿no?",
+"“Murata, ya llevas más de diez años de haber abierto tu taller en el exterior,\n¿no?”",
 {"rt2"},
 },
 },
@@ -4491,7 +4491,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Sí, y me parece que he acumulado una buena porción de experiencia\ninternacional, pero mira nada más. Sigo sin poder salir del Airain Phoque.",
+"“Sí, y me parece que he acumulado una buena porción de experiencia\ninternacional, pero mira nada más. Sigo sin poder salir del Airain Phoque.”",
 {"rt2"},
 },
 },
@@ -4508,7 +4508,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"¿Pero qué andas diciendo? El solo ser premiado en la Exposición Moore es un\ngran logro. Solo han habido seis ganadores en estos sesenta años de su\nhistoria.",
+"“¿Pero qué andas diciendo? El solo ser premiado en la Exposición Moore es un\ngran logro. Solo han habido seis ganadores en estos sesenta años de su\nhistoria.”",
 {"rt2"},
 },
 },
@@ -4525,7 +4525,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Cincuenta y cuatro años sin ningún ganador japonés, hasta hace poco. Aunque\npodrías decir que eso prueba lo cerrado que ha sido el mundo artístico\njaponés.",
+"“Cincuenta y cuatro años sin ningún ganador japonés, hasta hace poco. Aunque\npodrías decir que eso prueba lo cerrado que ha sido el mundo artístico\njaponés.”",
 {"rt2"},
 },
 },
@@ -4555,7 +4555,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Por cierto, tú eres Naoya Kusanagi, ¿verdad?",
+"“Por cierto, tú eres Naoya Kusanagi, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -4569,7 +4569,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, sí...",
+"“Ah, sí...”",
 {"rt2"},
 },
 },
@@ -4586,7 +4586,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Claro, ya me preguntaba por qué había un niño en la fila. Así que se trataba de\nKusanagi junior, eh. Eres famoso, ¿sabías?",
+"“Claro, ya me preguntaba por qué había un niño en la fila. Así que se trataba de\nKusanagi junior, eh. Eres famoso, ¿sabías?”",
 {"rt2"},
 },
 },
@@ -4603,7 +4603,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Vi el cuadro que pintaste de niño, 'Fantasía de un día de cerezos'. Es un buen\ncuadro, no me parecio algo que pudiera pintar un crío.",
+"“Vi el cuadro que pintaste de niño, 'Fantasía de un día de cerezos'. Es un buen\ncuadro, no me parecio algo que pudiera pintar un niño.”",
 {"rt2"},
 },
 },
@@ -4617,7 +4617,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Muchas gracias.",
+"“Muchas gracias.”",
 {"rt2"},
 },
 },
@@ -4634,7 +4634,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Aunque la verdad no me pareció una obra digna de ser nominada por Moore...",
+"“Aunque la verdad no me pareció una obra digna de ser nominada por Moore...”",
 {"rt2"},
 },
 },
@@ -4651,7 +4651,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Han pasado años desde entonces, sus cuadros deben ser mucho mejores ahora.Y fue\nnominado de la misma manera que nosotros, así que debe ser un muy buen cuadro\nel que presentó.",
+"“Han pasado años desde entonces, sus cuadros deben ser mucho mejores ahora.Y fue\nnominado de la misma manera que nosotros, así que debe ser un muy buen cuadro\nel que presentó.”",
 {"rt2"},
 },
 },
@@ -4668,7 +4668,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Ah, claro, dos o tres años no son nada para nosotros, pero a su edad es\nbastante, eh.",
+"“Ah, claro, dos o tres años no son nada para nosotros, pero a su edad es\nbastante, eh.”",
 {"rt2"},
 },
 },
@@ -4685,7 +4685,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Te equivocas, creo que fue hace seis años.",
+"“Te equivocas, creo que fue hace seis años.”",
 {"rt2"},
 },
 },
@@ -4702,7 +4702,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"¿Eh? No me jodas, ¿tanto tiempo ha pasado?",
+"“¿Eh? No me jodas, ¿tanto tiempo ha pasado?”",
 {"rt2"},
 },
 },
@@ -4719,7 +4719,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Ya veo, sí. Obviamente sus cuadros deben ser completamente distintos ahora.",
+"“Ya veo, sí. Obviamente sus cuadros deben ser completamente distintos ahora.”",
 {"rt2"},
 },
 },
@@ -4736,7 +4736,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Realmente lo será?... ¿Será un cuadro lo suficientemente bueno para ser\nnominado?",
+"“¿Realmente lo será?... ¿Será un cuadro lo suficientemente bueno para ser\nnominado?”",
 {"rt2"},
 },
 },
@@ -4750,7 +4750,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Con esa intención lo pinté...",
+"“Con esa intención lo pinté...”",
 {"rt2"},
 },
 },
@@ -4767,7 +4767,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Uheeeh, se siente raro que alguien de esa edad hable de esa forma...Solo digo,\nen mi caso llevo más de diez años en esto.",
+"“Uheeeh, se siente raro que alguien de esa edad hable de esa forma...Solo digo,\nen mi caso llevo más de diez años en esto.”",
 {"rt2"},
 },
 },
@@ -4784,7 +4784,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Seguramente su cuadro tiene tanto valor como toda tu experiencia artística.",
+"“Seguramente su cuadro tiene tanto valor como toda tu experiencia artística.”",
 {"rt2"},
 },
 },
@@ -4802,7 +4802,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Jaa... eso sería increíble. Aunque bueno, según he escuchado te dieron un\nentrenamiento bastante fuerte desde pequeño.",
+"“Jaa... eso sería increíble. Aunque bueno, según he escuchado te dieron un\nentrenamiento bastante fuerte desde pequeño.”",
 {"rt2"},
 },
 },
@@ -4819,7 +4819,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"'Fantasía de un día de cerezos' es famosa acá, pero en Nueva York la exposición\nde padre e hijo de Kenichiro Kusanagi salió incluso en las noticias. Parece\nque una señora compró tu cuadro por ochocientos mil yenes...",
+"“'Fantasía de un día de cerezos' es famosa acá, pero en Nueva York la exposición\nde padre e hijo de Kenichiro Kusanagi salió incluso en las noticias. Parece\nque una señora compró tu cuadro por ochocientos mil yenes...”",
 {"rt2"},
 },
 },
@@ -4836,7 +4836,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Ha sido la venta más cara para esa edad, al parecer. Todo un prodigio, sin duda\nalguna.",
+"“Ha sido la venta más cara para esa edad, al parecer. Todo un prodigio, sin duda\nalguna.”",
 {"rt2"},
 },
 },
@@ -4850,7 +4850,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esa exposición fue de mi padre, sucede que mi obra fue presentada allí también\ny casualmente también subió de valor...",
+"“Esa exposición fue de mi padre, sucede que mi obra fue presentada allí también\ny casualmente también subió de valor...”",
 {"rt2"},
 },
 },
@@ -4867,7 +4867,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Ojalá haya sido eso.",
+"“Ojalá haya sido eso.”",
 {"rt2"},
 },
 },
@@ -4885,7 +4885,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Me pondré a llorar si este muchachito me quita el premio.",
+"“Me pondré a llorar si este muchachito me quita el premio.”",
 {"rt2"},
 },
 },
@@ -4902,7 +4902,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Pues llora tanto como quieras. Ninguno de nosotros te consolaremos.",
+"“Pues llora tanto como quieras. Ninguno de nosotros te consolaremos.”",
 {"rt2"},
 },
 },
@@ -4920,7 +4920,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Qué frío, eh. Demonios, claro, si ya tu tienes un premio asegurado.",
+"“Qué frío, eh. Demonios, claro, si ya tu tienes un premio asegurado.”",
 {"rt2"},
 },
 },
@@ -4937,7 +4937,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Por cierto, acaban de mencionar que hay dos ganadores de Japón, ¿cierto? Pues\nparece que el otro recibirá el Airain Otarie.",
+"“Por cierto, acaban de mencionar que hay dos ganadores de Japón, ¿cierto? Pues\nparece que el otro recibirá el Airain Otarie.”",
 {"rt2"},
 },
 },
@@ -4955,7 +4955,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"El premio de mayor rango dentro de la categoría de cobre, eh.¿Quién fue?",
+"“El premio de mayor rango dentro de la categoría de cobre, eh.\n¿Quién fue?”",
 {"rt2"},
 },
 },
@@ -4972,7 +4972,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Pues, resulta que no se ha escapado información alguna al respecto.",
+"“Pues resulta que no se ha escapado información alguna al respecto.”",
 {"rt2"},
 },
 },
@@ -4989,7 +4989,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"¿Por qué será eso? Ya a este punto alguno de la industria debería haberse\nenterado...",
+"“¿Por qué será eso? Ya a este punto alguno de la industria debería haberse\nenterado...”",
 {"rt2"},
 },
 },
@@ -5006,7 +5006,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Quizá aún no logran decidir.",
+"“Quizá aún no logran decidir.”",
 {"rt2"},
 },
 },
@@ -5023,7 +5023,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"¿Llegado a este punto y no deciden aún? No puede ser.Ahhh, de igual manera\nespero ser el afortunado.",
+"“¿Llegado a este punto y no deciden aún? No puede ser.\nAhhh, de igual manera espero ser el afortunado.”",
 {"rt2"},
 },
 },
@@ -5037,7 +5037,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Las probabilidades son altas para alguien como usted, señor Sakamoto.",
+"“Las probabilidades son altas para alguien como usted, señor Sakamoto.”",
 {"rt2"},
 },
 },
@@ -5055,7 +5055,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Pero no he recibido notificación alguna...",
+"“Pero no he recibido notificación alguna...”",
 {"rt2"},
 },
 },
@@ -5072,7 +5072,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"En fin, creo que deberíamos regresar ya. Ya es hora de que muestren nuestras\nobras.",
+"“En fin, creo que deberíamos regresar ya. Ya es hora de que muestren nuestras\nobras.”",
 {"rt2"},
 },
 },
@@ -5090,7 +5090,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Sí, tienes razón. Ya deben estar por terminar.",
+"“Sí, tienes razón. Ya deben estar por terminar.”",
 {"rt2"},
 },
 },
@@ -5104,7 +5104,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Por terminar?",
+"“¿Por terminar?”",
 {"rt2"},
 },
 },
@@ -5121,7 +5121,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Ah, cosas nuestras. Demonios, ¿quién necesita una exhibición? Deberían entregar\nlos premios y ya.",
+"“Ah, cosas nuestras. Demonios, ¿quién necesita una exhibición? Deberían entregar\nlos premios y ya.”",
 {"rt2"},
 },
 },
@@ -5138,7 +5138,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Vamos, no digas eso.Es la primera ceremonia de premiación en tres años, hay que\ndisfrutar el momento.",
+"“Vamos, no digas eso.\nEs la primera ceremonia de premiación en tres años, hay que disfrutar el momento.”",
 {"rt2"},
 },
 },
@@ -5156,7 +5156,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Pues bastante tienes por disfrutar tú que has ganado. En mi caso, creo que ni\nsiquiera debí haber venido.",
+"“Pues bastante tienes por disfrutar tú que has ganado. En mi caso, creo que ni\nsiquiera debí haber venido.”",
 {"rt2"},
 },
 },
@@ -5173,7 +5173,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Por qué?",
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -5191,7 +5191,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"El golpe será fuerte si no recibo el premio.",
+"“El golpe será fuerte si no recibo el premio.”",
 {"rt2"},
 },
 },
@@ -5208,7 +5208,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Además que tenemos al Kusanagi junior en la competición. ¿Qué voy a hacer si\neste crío se lleva el premio?",
+"“Además que tenemos al Kusanagi junior en la competición. ¿Qué voy a hacer si\neste crío se lleva el premio?”",
 {"rt2"},
 },
 },
@@ -5225,7 +5225,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Eso dependerá de quien sea el mejor.",
+"“Eso dependerá de quien sea el mejor.”",
 {"rt2"},
 },
 },
@@ -5243,7 +5243,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Qué deprimente esto.",
+"“Qué deprimente esto.”",
 {"rt2"},
 },
 },
@@ -5260,7 +5260,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Y además, el bufé del hotel en la fiesta posceremonia no es muy bueno.",
+"“Y además, el bufé del hotel en la fiesta posceremonia no es muy bueno.”",
 {"rt2"},
 },
 },
@@ -5277,7 +5277,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Ya estás en plan de fiesta?... Aunque bueno, no niego que todo lo del bufé me\nsabe a comida recalentada. Es difícil decisión.",
+"“¿Ya estás en plan de fiesta?... Aunque bueno, no niego que todo lo del bufé me\nsabe a comida recalentada. Es difícil decisión.”",
 {"rt2"},
 },
 },
@@ -5295,7 +5295,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Definitivamente. Vamos, ¿qué artista come en ese tipo de lugar? ¿Es que acaso\nnos creen animales capaces de comer cualquier cosa?",
+"“Definitivamente. Vamos, ¿qué artista come en ese tipo de lugar? ¿Es que acaso\nnos creen animales capaces de comer cualquier cosa?”",
 {"rt2"},
 },
 },
@@ -5312,7 +5312,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Estás exagerando...",
+"“Estás exagerando...”",
 {"rt2"},
 },
 },
@@ -5343,7 +5343,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Pues bien, ¿vamos a ver quién se gana el Airain Otarie?",
+"“Pues bien, ¿vamos a ver quién se gana el Airain Otarie?”",
 {"rt2"},
 },
 },
@@ -5360,7 +5360,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Sí, ya deben haber comenzado a exhibir las obras.",
+"“Sí, ya deben haber comenzado a exhibir las obras.”",
 {"rt2"},
 },
 },
@@ -5377,7 +5377,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Vamos entonces...",
+"“Vamos entonces...”",
 {"rt2"},
 },
 },
@@ -5394,7 +5394,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Ah, lo olvidaba. Tengo algo que debo decirte, Naoya Kusanagi-kun.",
+"“Ah, lo olvidaba. Tengo algo que debo decirte, Naoya Kusanagi-kun.”",
 {"rt2"},
 },
 },
@@ -5408,7 +5408,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Sí?",
+"“¿Sí?”",
 {"rt2"},
 },
 },
@@ -5425,7 +5425,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"El señor Kenichiro me ayudó bastante en Nueva York.Fue un gran artista.",
+"“El señor Kenichiro me ayudó bastante en Nueva York.\nFue un gran artista.”",
 {"rt2"},
 },
 },
@@ -5442,7 +5442,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Su muerte fue una gran perdida para la comunidad artística de Japón.",
+"“Su muerte fue una gran perdida para la comunidad artística de Japón.”",
 {"rt2"},
 },
 },
@@ -5459,7 +5459,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Eso cambiará si llega a surgir una nueva estrella.",
+"“Eso cambiará si llega a surgir una nueva estrella.”",
 {"rt2"},
 },
 },
@@ -5476,7 +5476,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"No hay artista actual que pueda superar a Kenichiro Kusanagi y a Hakai\nMiyazaki. El impacto de esos dos fue enorme.",
+"“No hay artista actual que pueda superar a Kenichiro Kusanagi y a Hakai\nMiyazaki. El impacto de esos dos fue enorme.”",
 {"rt2"},
 },
 },
@@ -5493,7 +5493,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Pues sí, ninguno de nosotros puede negar eso.",
+"“Pues sí, ninguno de nosotros puede negar eso.”",
 {"rt2"},
 },
 },
@@ -5510,7 +5510,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Por eso pienso que quizá en unos años, serán artistas nuevos como tú los que\nempujarán la pintura japonesa.",
+"“Por eso pienso que quizá en unos años, serán artistas nuevos como tú los que\nempujarán la pintura japonesa.”",
 {"rt2"},
 },
 },
@@ -5524,7 +5524,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Yo? No lo creo, la verdad.",
+"“¿Yo? No lo creo, la verdad.”",
 {"rt2"},
 },
 },
@@ -5541,7 +5541,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Quién sabe...",
+"“Quién sabe...”",
 {"rt2"},
 },
 },
@@ -5558,7 +5558,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"La Exposición Moore se rige por muchos intereses, sobre todo políticos. Hay la\nposibilidad de que estén buscando una nueva generación de artistas.",
+"“La Exposición Moore se rige por muchos intereses, sobre todo políticos. Hay la\nposibilidad de que estén buscando una nueva generación de artistas.”",
 {"rt2"},
 },
 },
@@ -5572,7 +5572,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Imposible, y aun si fuera así no tengo casi experiencia real.",
+"“Imposible, y aun si fuera así no tengo casi experiencia real.”",
 {"rt2"},
 },
 },
@@ -5589,7 +5589,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Yo también espero que no sea así. Pondré todo mi esfuerzo para que tu\ngeneración no termine hundiendo a la nuestra.",
+"“Yo también espero que no sea así. Pondré todo mi esfuerzo para que tu\ngeneración no termine hundiendo a la nuestra.”",
 {"rt2"},
 },
 },
@@ -5603,7 +5603,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Eso es algo exagerado...",
+"“Eso es algo exagerado...”",
 {"rt2"},
 },
 },
@@ -5620,7 +5620,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"¿Te parece? Yo también espero que termine solo en exageración...",
+"“¿Te parece? Yo también espero que termine solo en exageración...”",
 {"rt2"},
 },
 },
@@ -5637,7 +5637,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"Deberíamos ir ya.",
+"“Deberíamos ir ya.”",
 {"rt2"},
 },
 },
@@ -5654,7 +5654,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"Tienes razón.",
+"“Tienes razón.”",
 {"rt2"},
 },
 },
@@ -5668,7 +5668,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vayamos...",
+"“Vayamos...”",
 {"rt2"},
 },
 },
