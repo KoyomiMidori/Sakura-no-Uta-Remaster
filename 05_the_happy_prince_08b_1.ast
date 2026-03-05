@@ -54,7 +54,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pero qué dices?... Tú también...",
+"“¿Pero qué dices?... Tú también...”",
 {"rt2"},
 },
 },
@@ -73,7 +73,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Sí, tienes razón... Perdí a Kei.",
+"“Sí, tienes razón... Perdí a Kei.”",
 {"rt2"},
 },
 },
@@ -90,7 +90,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Es enorme la tristeza, sí...",
+"“Es enorme la tristeza, sí...”",
 {"rt2"},
 },
 },
@@ -107,7 +107,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pero, también me duele bastante haberte hecho pasar por tanta tristeza a ti...",
+"“Pero también me duele bastante haberte hecho pasar por tanta tristeza a ti...”",
 {"rt2"},
 },
 },
@@ -124,7 +124,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Nuestra salvación vino, probablemente, a costa de muchas perdidas para ti...",
+"“Nuestra salvación vino, probablemente, a costa de muchas perdidas para ti...”",
 {"rt2"},
 },
 },
@@ -141,7 +141,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Por eso... quisiera, calmar tu tristeza...Si es por algo que yo pueda darte...\nHaré lo que sea...",
+"“Por eso... quisiera, calmar tu tristeza...\nSi es por algo que yo pueda darte... Haré lo que sea...”",
 {"rt2"},
 },
 },
@@ -155,7 +155,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No seas tonta... Perder, dar...",
+"“No seas tonta... Perder, dar...”",
 {"rt2"},
 },
 },
@@ -169,7 +169,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No se trata de eso...",
+"“No se trata de eso...”",
 {"rt2"},
 },
 },
@@ -215,7 +215,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿--?!",
+"“¡¿--?!”",
 {"rt2"},
 },
 },
@@ -232,7 +232,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¡Ah, cuidado!",
+"“¡Ah, cuidado!”",
 {"rt2"},
 },
 },
@@ -266,7 +266,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Tan borracho te pusiste que perdiste el conocimiento hace un rato, ten cuidado.",
+"“Tan borracho te pusiste que perdiste el conocimiento hace un rato, ten cuidado.”",
 {"rt2"},
 },
 },
@@ -281,7 +281,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uh, *ugh*...",
+"“Uh, ugh...”",
 {"rt2"},
 },
 },
@@ -299,7 +299,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Te sientes mal?",
+"“¿Te sientes mal?”",
 {"rt2"},
 },
 },
@@ -329,7 +329,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Aguanta un poco, te llevaré al baño.",
+"“Aguanta un poco, te llevaré al baño.”",
 {"rt2"},
 },
 },
@@ -383,7 +383,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esta es...",
+"“Esta es...”",
 {"rt2"},
 },
 },
@@ -400,7 +400,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Despertaste? Qué bueno.",
+"“¿Despertaste? Qué bueno.”",
 {"rt2"},
 },
 },
@@ -414,7 +414,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Tu habitación?",
+"“¿Tu habitación?”",
 {"rt2"},
 },
 },
@@ -432,7 +432,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Sí, te quedaste dormido en el baño después de vomitar.Te traje hasta acá.",
+"“Sí, te quedaste dormido en el baño después de vomitar.\nTe traje hasta acá.”",
 {"rt2"},
 },
 },
@@ -446,7 +446,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... Lo siento.",
+"“Ya veo... Lo siento.”",
 {"rt2"},
 },
 },
@@ -463,7 +463,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No tienes por qué disculparte.",
+"“No tienes por qué disculparte.”",
 {"rt2"},
 },
 },
@@ -508,7 +508,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Hoy sí te dejas acariciar, eh.",
+"“Hoy sí te dejas acariciar, eh.”",
 {"rt2"},
 },
 },
@@ -522,7 +522,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -552,7 +552,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Jeje... me pone feliz hacer esto...",
+"“Jeje... me pone feliz hacer esto...”",
 {"rt2"},
 },
 },
@@ -569,7 +569,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Me recuerda a cuando eras un niño.",
+"“Me recuerda a cuando eras un niño.”",
 {"rt2"},
 },
 },
@@ -586,7 +586,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Acariciaba tu cabecita así como ahora.",
+"“Acariciaba tu cabecita así como ahora.”",
 {"rt2"},
 },
 },
@@ -600,7 +600,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí... lo recuerdo...",
+"“Sí... lo recuerdo...”",
 {"rt2"},
 },
 },
@@ -617,7 +617,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Y siempre que pasaba eso me abrazabas.",
+"“Y siempre que pasaba eso me abrazabas.”",
 {"rt2"},
 },
 },
@@ -634,7 +634,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Nadie lo creería viéndote ahora, pero de pequeño eras muy meloso.",
+"“Nadie lo creería viéndote ahora, pero de pequeño eras muy meloso.”",
 {"rt2"},
 },
 },
@@ -648,7 +648,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Inimaginable no lo es, la verdad...",
+"“Inimaginable no lo es, la verdad...”",
 {"rt2"},
 },
 },
@@ -665,7 +665,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pues entonces, déjate dar algo de cariño ahora...",
+"“Pues entonces, déjate dar algo de cariño ahora...”",
 {"rt2"},
 },
 },
@@ -733,7 +733,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A-Aiii...",
+"“A-Aiii...”",
 {"rt2"},
 },
 },
@@ -750,7 +750,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Sí...",
+"“Sí...”",
 {"rt2"},
 },
 },
@@ -764,7 +764,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo... yo...",
+"“Yo... yo...”",
 {"rt2"},
 },
 },
@@ -778,7 +778,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No debería decir que todo fue un error, y aun así...",
+"“No debería decir que todo fue un error, y aun así...”",
 {"rt2"},
 },
 },
@@ -792,7 +792,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Perdóname, Ai... Perdóname, por decir semejante cosa...",
+"“Perdóname, Ai... Perdóname, por decir semejante cosa...”",
 {"rt2"},
 },
 },
@@ -806,7 +806,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo... realmente soy...",
+"“Yo... realmente soy...”",
 {"rt2"},
 },
 },
@@ -820,7 +820,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Maldita sea... Qué débil soy. Qué tipejo tan débil soy...",
+"“Maldita sea... Qué débil soy. Qué tipejo tan débil soy...”",
 {"rt2"},
 },
 },
@@ -834,7 +834,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Decir que todo fue un error... Debería saber como se sentirían los demás de\nescuchar eso...",
+"“Decir que todo fue un error... Debería saber como se sentirían los demás de\nescuchar eso...”",
 {"rt2"},
 },
 },
@@ -848,7 +848,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Debería, saberlo. Pero aun así...",
+"“Debería, saberlo. Pero aun así...”",
 {"rt2"},
 },
 },
@@ -862,7 +862,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Soy... soy, tan débil, y...",
+"“Soy... soy, tan débil, y...”",
 {"rt2"},
 },
 },
@@ -879,7 +879,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Eso no es cierto.Más bien has vivido con mucha fuerza hasta ahora.",
+"“Eso no es cierto.\nMás bien has vivido con mucha fuerza hasta ahora.”",
 {"rt2"},
 },
 },
@@ -896,7 +896,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Todos llegaron a pensar que tenías un corazón de acero.",
+"“Todos llegaron a pensar que tenías un corazón de acero.”",
 {"rt2"},
 },
 },
@@ -913,7 +913,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pero fue por eso que pudieron dejarse salvar con tranquilidad...",
+"“Pero fue por eso que pudieron dejarse salvar con tranquilidad...”",
 {"rt2"},
 },
 },
@@ -930,7 +930,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Porque siempre has sido fuerte...",
+"“Porque siempre has sido fuerte...”",
 {"rt2"},
 },
 },
@@ -947,7 +947,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Fuerte, más que cualquiera...",
+"“Fuerte, más que cualquiera...”",
 {"rt2"},
 },
 },
@@ -964,7 +964,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Jamás te has mostrado débil...",
+"“Jamás te has mostrado débil...”",
 {"rt2"},
 },
 },
@@ -981,7 +981,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Pero sabes, Naoya? Nadie tiene por qué permanecer siempre fuerte.",
+"“¿Pero sabes, Naoya? Nadie tiene por qué permanecer siempre fuerte.”",
 {"rt2"},
 },
 },
@@ -998,7 +998,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Esa fuerza tuya ha salvado a muchos, pero esa no es razón para no dejarte\nsalvar a ti mismo.",
+"“Esa fuerza tuya ha salvado a muchos, pero esa no es razón para no dejarte\nsalvar a ti mismo.”",
 {"rt2"},
 },
 },
@@ -1015,7 +1015,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Puedes ser débil también.",
+"“Puedes ser débil también.”",
 {"rt2"},
 },
 },
@@ -1032,7 +1032,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No tienes por qué mostrarte fuerte ante todos.",
+"“No tienes por qué mostrarte fuerte ante todos.”",
 {"rt2"},
 },
 },
@@ -1049,7 +1049,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Puedes ser débil, al menos con alguien... Naoya.",
+"“Puedes ser débil, al menos con alguien... Naoya.”",
 {"rt2"},
 },
 },
@@ -1063,7 +1063,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Alguien?... ¿Quién es ese alguien?...",
+"“¿Alguien?... ¿Quién es ese alguien?...”",
 {"rt2"},
 },
 },
@@ -1080,7 +1080,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pues, eso lo decides tú.",
+"“Pues eso lo decides tú.”",
 {"rt2"},
 },
 },
@@ -1097,7 +1097,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pero, desde hace un buen tiempo, desde el día en que naciste...",
+"“Pero, desde hace un buen tiempo, desde el día en que naciste...”",
 {"rt2"},
 },
 },
@@ -1114,7 +1114,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Nunca has tenido que comportarte fuerte ante mí, ¿no, Naoya?",
+"“Nunca has tenido que comportarte fuerte ante mí, ¿no, Naoya?”",
 {"rt2"},
 },
 },
@@ -1128,7 +1128,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh...",
+"“Kuh...”",
 {"rt2"},
 },
 },
@@ -1171,7 +1171,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Aquel día estaba muy feliz...Debí haber estado frustrada,pero realmente estaba\nfeliz...",
+"“Aquel día estaba muy feliz...Debí haber estado frustrada,\npero realmente estaba feliz...”",
 {"rt2"},
 },
 },
@@ -1188,7 +1188,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"A pesar de que eras el niño que me había arrebatado a las dos personas que\ntanto quería... Es extraño.",
+"“A pesar de que eras el niño que me había arrebatado a las dos personas que\ntanto quería... Es extraño.”",
 {"rt2"},
 },
 },
@@ -1202,7 +1202,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -1216,7 +1216,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Qué bueno que no me gané tu odio...",
+"“Qué bueno que no me gané tu odio...”",
 {"rt2"},
 },
 },
@@ -1233,7 +1233,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Yo jamás te odiaría...",
+"“Yo jamás te odiaría...”",
 {"rt2"},
 },
 },
@@ -1247,7 +1247,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues... qué bueno saberlo...",
+"“Pues... qué bueno saberlo...”",
 {"rt2"},
 },
 },
@@ -1261,7 +1261,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya no está mamá... ni papá... y ahora Kei tampoco...",
+"“Ya no está mamá... ni papá... y ahora Kei tampoco...”",
 {"rt2"},
 },
 },
@@ -1275,7 +1275,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Todo aquel que ha caminado conmigo en el pasado se ha muerto...",
+"“Todo aquel que ha caminado conmigo en el pasado se ha muerto...”",
 {"rt2"},
 },
 },
@@ -1306,7 +1306,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Yo no moriré. Estaré siempre contigo.",
+"“Yo no moriré. Estaré siempre contigo.”",
 {"rt2"},
 },
 },
@@ -1323,7 +1323,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Y te protegeré siempre que te sientas débil.",
+"“Y te protegeré siempre que te sientas débil.”",
 {"rt2"},
 },
 },
@@ -1337,7 +1337,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajaja... Realmente eres como una hermana mayor.",
+"“Ajaja... Realmente eres como una hermana mayor.”",
 {"rt2"},
 },
 },
@@ -1354,7 +1354,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Sí, así es.",
+"“Sí, así es.”",
 {"rt2"},
 },
 },
@@ -1368,7 +1368,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero, ningún hombre le lloraría a su hermana teniendo esta edad.",
+"“Pero... ningún hombre le lloraría a su hermana teniendo esta edad.”",
 {"rt2"},
 },
 },
@@ -1385,7 +1385,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Eso no es cierto... Tienes derecho a llorar cuando te sientas triste.",
+"“Eso no es cierto... Tienes derecho a llorar cuando te sientas triste.”",
 {"rt2"},
 },
 },
@@ -1402,7 +1402,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Además, no tengo que ser tu hermana...",
+"“Además, no tengo que ser tu hermana...”",
 {"rt2"},
 },
 },
@@ -1419,7 +1419,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si así lo deseas, me convertiré en tu madre... o en tu mujer, si así lo\nquieres.",
+"“Si así lo deseas, me convertiré en tu madre... o en tu mujer, si así lo\nquieres.”",
 {"rt2"},
 },
 },
@@ -1433,7 +1433,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Madre? Vamos, eso es imposible...",
+"“¿Madre? Vamos, eso es imposible...”",
 {"rt2"},
 },
 },
@@ -1450,7 +1450,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Te parece? Bueno, ciertamente Mizuna nee-sama era una mujer excepcional...\nQuizá se notaría mucho la diferencia si tomo su lugar.",
+"“¿Te parece? Bueno, ciertamente Mizuna nee-sama era una mujer excepcional...\nQuizá se notaría mucho la diferencia si tomo su lugar.”",
 {"rt2"},
 },
 },
@@ -1464,7 +1464,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y... no digas tampoco eso... de volverte mi mujer...",
+"“Y... no digas tampoco eso... de volverte mi mujer...”",
 {"rt2"},
 },
 },
@@ -1481,7 +1481,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Por qué no? ¿Te da asco la idea?",
+"“¿Por qué no? ¿Te da asco la idea?”",
 {"rt2"},
 },
 },
@@ -1495,7 +1495,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Al contrario... Harás que te vea solo de esa forma...",
+"“Al contrario... Harás que te vea solo de esa forma...”",
 {"rt2"},
 },
 },
@@ -1512,7 +1512,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Podrías verme de esa forma?",
+"“¿Podrías verme de esa forma?”",
 {"rt2"},
 },
 },
@@ -1526,7 +1526,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y-Ya llevo tiempo diciéndotelo...",
+"“Y-Ya llevo tiempo diciéndotelo...”",
 {"rt2"},
 },
 },
@@ -1543,7 +1543,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"La tristeza... nos hace buscar el calor de otro... Probablemente, esto sea lo\nmismo.",
+"“La tristeza... nos hace buscar el calor de otro... Probablemente, esto sea lo\nmismo.”",
 {"rt2"},
 },
 },
@@ -1560,7 +1560,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Y no soy la excepción. Estando contigo de esta manera, me tranquilizo...",
+"“Y no soy la excepción. Estando contigo de esta manera, me tranquilizo...”",
 {"rt2"},
 },
 },
@@ -1577,7 +1577,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"El calor que recibo abrazándote, me sana...",
+"“El calor que recibo abrazándote, me sana...”",
 {"rt2"},
 },
 },
@@ -1591,7 +1591,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero, no es exactamente lo mismo esto a verte como mujer...",
+"“Pero, no es exactamente lo mismo esto a verte como mujer...”",
 {"rt2"},
 },
 },
@@ -1608,7 +1608,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Es lo mismo... Rozar piel con piel implica eso...",
+"“Es lo mismo... Rozar piel con piel implica eso...”",
 {"rt2"},
 },
 },
@@ -1625,7 +1625,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Los humanos son mamíferos, siempre buscan el calor del otro.",
+"“Los humanos son mamíferos, siempre buscan el calor del otro.”",
 {"rt2"},
 },
 },
@@ -1642,7 +1642,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si un perrito y un gatito temblando de frío se encontraran, es seguro que se\nacurrucarán el uno con el otro...",
+"“Si un perrito y un gatito temblando de frío se encontraran, es seguro que se\nacurrucarán el uno con el otro...”",
 {"rt2"},
 },
 },
@@ -1659,7 +1659,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Es normal para un mamífero buscar calor en medio del frío.",
+"“Es normal para un mamífero buscar calor en medio del frío.”",
 {"rt2"},
 },
 },
@@ -1676,7 +1676,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Y aunque eso pase a convertirse en lujuria y el deseo de contacto más íntimo...\nSu origen seguirá siendo el mismo, creo yo.",
+"“Y aunque eso pase a convertirse en lujuria y el deseo de contacto más íntimo...\nSu origen seguirá siendo el mismo, creo yo.”",
 {"rt2"},
 },
 },
@@ -1693,7 +1693,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"La soledad de las personas es, probablemente, lo que causa eso...",
+"“La soledad de las personas es, probablemente, lo que causa eso...”",
 {"rt2"},
 },
 },
@@ -1710,7 +1710,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Nacemos solos, y morimos solos.",
+"“Nacemos solos, y morimos solos.”",
 {"rt2"},
 },
 },
@@ -1727,7 +1727,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No es extraño pensar que quizá simplemente queremos evitar esa soledad, al\nmenos entre esos dos procesos.",
+"“No es extraño pensar que quizá simplemente queremos evitar esa soledad, al\nmenos entre esos dos procesos.”",
 {"rt2"},
 },
 },
@@ -1744,7 +1744,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Quizá, eso es lo que significa amar... pienso yo.",
+"“Quizá, eso es lo que significa amar... pienso yo.”",
 {"rt2"},
 },
 },
@@ -1761,7 +1761,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Los humanos no pueden aguantar el frío solos, y por eso aman.",
+"“Los humanos no pueden aguantar el frío solos, y por eso aman.”",
 {"rt2"},
 },
 },
@@ -1778,7 +1778,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si pudiéramos resistirlo, tal vez no necesitaríamos amor.",
+"“Si pudiéramos resistirlo, tal vez no necesitaríamos amor.”",
 {"rt2"},
 },
 },
@@ -1792,7 +1792,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Es así de pasivo el amor?",
+"“¿Es así de pasivo el amor?”",
 {"rt2"},
 },
 },
@@ -1809,7 +1809,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Ni idea, la verdad es que no lo sé.",
+"“Ni idea, la verdad es que no lo sé.”",
 {"rt2"},
 },
 },
@@ -1826,7 +1826,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No tengo casi experiencia con él...",
+"“No tengo casi experiencia con él...”",
 {"rt2"},
 },
 },
@@ -1843,7 +1843,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No he experimentado tanto el amor como para poder hablar de él.",
+"“No he experimentado tanto el amor como para poder hablar de él.”",
 {"rt2"},
 },
 },
@@ -1860,7 +1860,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Qué piensas tú del amor, Naoya?",
+"“¿Qué piensas tú del amor, Naoya?”",
 {"rt2"},
 },
 },
@@ -1874,7 +1874,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo qué sé. Es enamorarse, y querer pasar el resto de tu vida con alguien... Es\nlo único que sé.",
+"“Yo qué sé. Es enamorarse, y querer pasar el resto de tu vida con alguien... Es\nlo único que sé.”",
 {"rt2"},
 },
 },
@@ -1891,7 +1891,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Muy de ti...",
+"“Muy de ti...”",
 {"rt2"},
 },
 },
@@ -1908,7 +1908,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Una descripción propia de ti, me gusta...",
+"“Una descripción propia de ti, me gusta...”",
 {"rt2"},
 },
 },
@@ -1935,7 +1935,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Eso quiere decir que puedo verte como mujer, ¿no?",
+"“Eso quiere decir que puedo verte como mujer, ¿no?”",
 {"rt2"},
 },
 },
@@ -1952,7 +1952,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Claro.",
+"“Claro.”",
 {"rt2"},
 },
 },
@@ -1966,7 +1966,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me lo tomaré en serio, te lo advierto.",
+"“Me lo tomaré en serio, te lo advierto.”",
 {"rt2"},
 },
 },
@@ -1983,7 +1983,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Está bien.",
+"“Está bien.”",
 {"rt2"},
 },
 },
@@ -1997,7 +1997,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Y-Yo lo diré primero! ¡¿Bien?!",
+"“¡Y-Yo lo diré primero! ¡¿Bien?!”",
 {"rt2"},
 },
 },
@@ -2015,7 +2015,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No te lo puedo permitir.",
+"“No te lo puedo permitir.”",
 {"rt2"},
 },
 },
@@ -2029,7 +2029,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -2046,7 +2046,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No quiero que vengas con un 'para siempre' ni nada por el estilo.",
+"“No quiero que vengas con un 'para siempre' ni nada por el estilo.”",
 {"rt2"},
 },
 },
@@ -2060,7 +2060,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pero qué dices?... ¿Es porque somos alumno y maestra?",
+"“¿Pero qué dices?... ¿Es porque somos alumno y maestra?”",
 {"rt2"},
 },
 },
@@ -2077,7 +2077,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No es eso. Si realmente me amas, yo también te amaré con fuerza.",
+"“No es eso. Si realmente me amas, yo también te amaré con fuerza.”",
 {"rt2"},
 },
 },
@@ -2094,7 +2094,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Estaré siempre a tu lado. Si realmente me necesitas, eso sí.",
+"“Estaré siempre a tu lado. Si realmente me necesitas, eso sí.”",
 {"rt2"},
 },
 },
@@ -2108,7 +2108,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Por eso es que yo--",
+"“¡Por eso es que yo--!”",
 {"rt2"},
 },
 },
@@ -2125,7 +2125,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Tu mismo lo dijiste, eso no fue más que un lavado de cerebro por parte de la\nabuela, ¿no? Lo de estar juntos por la eternidad y eso...",
+"“Tú mismo lo dijiste, eso no fue más que un lavado de cerebro por parte de la\nabuela, ¿no? Lo de estar juntos por la eternidad y eso...”",
 {"rt2"},
 },
 },
@@ -2139,7 +2139,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ugh...",
+"“Ugh...”",
 {"rt2"},
 },
 },
@@ -2156,7 +2156,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No hacen falta palabras.",
+"“No hacen falta palabras.”",
 {"rt2"},
 },
 },
@@ -2173,7 +2173,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si me deseas, haré lo que sea.",
+"“Si me deseas, haré lo que sea.”",
 {"rt2"},
 },
 },
@@ -2190,7 +2190,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si estar juntos como maestra y alumno no está bien, dejaré mi trabajo como\nprofesora.",
+"“Si estar juntos como maestra y alumno no está bien, dejaré mi trabajo como\nprofesora.”",
 {"rt2"},
 },
 },
@@ -2204,7 +2204,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero, ser profesora ha sido tu sueño desde pequeña, y ahora que finalmente...",
+"“Pero ser profesora ha sido tu sueño desde pequeña, y ahora que finalmente...”",
 {"rt2"},
 },
 },
@@ -2221,7 +2221,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Así es, mi sueño siempre ha sido ser profesora.Pero, tú eres más importante que\nese sueño.",
+"“Así es, mi sueño siempre ha sido ser profesora.\nPero tú eres más importante que ese sueño.”",
 {"rt2"},
 },
 },
@@ -2238,7 +2238,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No debemos temer perder para ganar algo.",
+"“No debemos temer perder para ganar algo.”",
 {"rt2"},
 },
 },
@@ -2255,7 +2255,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Si es por corresponder tu amor, me desprenderé de todo.",
+"“Si es por corresponder tu amor, me desprenderé de todo.”",
 {"rt2"},
 },
 },
@@ -2269,7 +2269,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Eso es...",
+"“E-Eso es...”",
 {"rt2"},
 },
 },
@@ -2286,7 +2286,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Fufufu, pero qué cara estás haciendo ahora.",
+"“Jejeje, pero qué cara estás haciendo ahora.”",
 {"rt2"},
 },
 },
@@ -2303,7 +2303,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Estás acostumbrado a perder para salvar a los demás, pero no a que los otros\npierdan algo por ti.",
+"“Estás acostumbrado a perder para salvar a los demás, pero no a que los otros\npierdan algo por ti.”",
 {"rt2"},
 },
 },
@@ -2317,7 +2317,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"E-Es que...",
+"“E-Es que...”",
 {"rt2"},
 },
 },
@@ -2334,7 +2334,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Además, no estoy intentando salvarte ni nada por el estilo. Si me amas, yo\ntambién te daré mi amor. Nada más ni nada menos.",
+"“Además, no estoy intentando salvarte ni nada por el estilo. Si me amas, yo\ntambién te daré mi amor. Nada más ni nada menos.”",
 {"rt2"},
 },
 },
@@ -2351,7 +2351,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No es la gran cosa, perder algo para mantener lo más importante para uno.",
+"“No es la gran cosa, perder algo para mantener lo más importante para uno.”",
 {"rt2"},
 },
 },
@@ -2365,7 +2365,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ai...",
+"“Ai...”",
 {"rt2"},
 },
 },
@@ -2382,7 +2382,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿O es que prefieres no seguir con esto?",
+"“¿O es que prefieres no seguir con esto?”",
 {"rt2"},
 },
 },
@@ -2396,7 +2396,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -2414,7 +2414,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Solo bromeaba, tranquilo.",
+"“Solo bromeaba, tranquilo.”",
 {"rt2"},
 },
 },
@@ -2431,7 +2431,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Lo que quise decir es que si así lo quieres, dejaré mi trabajo como\nprofesora.De lo contrario, seguiré.",
+"“Lo que quise decir es que si así lo quieres, dejaré mi trabajo como\nprofesora.De lo contrario, seguiré.”",
 {"rt2"},
 },
 },
@@ -2448,7 +2448,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No te preocupes.",
+"“No te preocupes.”",
 {"rt2"},
 },
 },
@@ -2465,7 +2465,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No hay razón para sentir miedo.",
+"“No hay razón para sentir miedo.”",
 {"rt2"},
 },
 },
@@ -2482,7 +2482,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No hay razón para temblar.",
+"“No hay razón para temblar.”",
 {"rt2"},
 },
 },
@@ -2499,7 +2499,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Solo apóyate en mí.",
+"“Solo apóyate en mí.”",
 {"rt2"},
 },
 },
@@ -2516,7 +2516,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Haré todo lo que sea necesario por ti...",
+"“Haré todo lo que sea necesario por ti...”",
 {"rt2"},
 },
 },
@@ -2530,7 +2530,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ai...",
+"“Ai...”",
 {"rt2"},
 },
 },
@@ -2547,7 +2547,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Naoya...",
+"“Naoya...”",
 {"rt2"},
 },
 },
@@ -2579,7 +2579,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"... Jaaa.",
+"“... Jaaa.”",
 {"rt2"},
 },
 },
@@ -2593,7 +2593,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Nos... besamos.",
+"“Nos... besamos.”",
 {"rt2"},
 },
 },
@@ -2610,7 +2610,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Sí, y fue mi primera vez.",
+"“Sí, y fue mi primera vez.”",
 {"rt2"},
 },
 },
@@ -2624,7 +2624,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues yo también.",
+"“Pues yo también.”",
 {"rt2"},
 },
 },
@@ -2641,7 +2641,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Entonces, otro más...",
+"“Entonces, otro más...”",
 {"rt2"},
 },
 },
@@ -2659,7 +2659,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Ngh...",
+"“Ngh...”",
 {"rt2"},
 },
 },
@@ -2689,7 +2689,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Ngh... fuh... mm, ngh... *chu*...",
+"“Ngh... fuh... mm, ngh... *chu*...”",
 {"rt2"},
 },
 },
@@ -2719,7 +2719,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Mm... fuh...",
+"“Mm... fuh...”",
 {"rt2"},
 },
 },
@@ -2733,7 +2733,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"... Ai.",
+"“... Ai.”",
 {"rt2"},
 },
 },
@@ -2751,7 +2751,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¿Mm? ¿Qué quieres que haga?",
+"“¿Mm? ¿Qué quieres que haga?”",
 {"rt2"},
 },
 },
@@ -2765,7 +2765,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ehm...",
+"“Ehm...”",
 {"rt2"},
 },
 },
@@ -2778,7 +2778,7 @@ block_00176={
 text={
 ja={
 {
-"Te quiero más cerca'.Creo que eso quería decir.",
+"Te quiero más cerca.\nCreo que eso quería decir.",
 {"rt2"},
 },
 },
@@ -2795,7 +2795,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"¡Ah, claro! Me meteré yo también en el futon.",
+"“¡Ah, claro! Me meteré yo también en el futon.”",
 {"rt2"},
 },
 },
@@ -2809,7 +2809,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },

@@ -14,7 +14,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Ejejeje... a dormir juntos.",
+"“Ejejeje... a dormir juntos.”",
 {"rt2"},
 },
 },
@@ -28,7 +28,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, sí...",
+"“Ah, sí...”",
 {"rt2"},
 },
 },
@@ -45,7 +45,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Ven, Naoya, acercate un poco más...",
+"“Ven, Naoya, acercate un poco más...”",
 {"rt2"},
 },
 },
@@ -86,7 +86,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ai--",
+"“Ai--”",
 {"rt2"},
 },
 },
@@ -116,7 +116,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Mmm... *chu*, *chu*... *chrrr*... ah... *shrrr*...",
+"“Mmm... *chu*, *chu*... *chrrr*... ah... *shrrr*...”",
 {"rt2"},
 },
 },
@@ -129,7 +129,7 @@ block_00008={
 text={
 ja={
 {
-"Nuestras lenguas bailan juntas violentamente.Calientes, tiernas.",
+"Nuestras lenguas bailan juntas violentamente.\nCalientes, tiernas.",
 {"rt2"},
 },
 },
@@ -146,7 +146,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Pwaah... Jaa, jaa, jaa... Haaahhh...",
+"“Pwaah... Jaa, jaa, jaa... Jaaa...”",
 {"rt2"},
 },
 },
@@ -160,7 +160,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ai... ¿No te importa?",
+"“Ai... ¿No te importa?”",
 {"rt2"},
 },
 },
@@ -177,7 +177,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Jeje, no hace falta que me pidas permiso para eso.",
+"“Jeje, no hace falta que me pidas permiso para eso.”",
 {"rt2"},
 },
 },
@@ -194,7 +194,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Aunque, a juzgar por lo que veo, más que pedir permiso, quieres saber qué\ntienes que hacer, ¿no?",
+"“Aunque a juzgar por lo que veo, más que pedir permiso, quieres saber qué\ntienes que hacer, ¿no?”",
 {"rt2"},
 },
 },
@@ -208,7 +208,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Uh...",
+"“Uh...”",
 {"rt2"},
 },
 },
@@ -225,7 +225,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"No siempre el hombre tiene que llevar la delantera...",
+"“No siempre el hombre tiene que llevar la delantera...”",
 {"rt2"},
 },
 },
