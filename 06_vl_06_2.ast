@@ -66,7 +66,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Quizá estás pensando que nos ganaste, pero no. Más bien debo agradecerte.",
+"“Quizá estás pensando que nos ganaste, pero no. Más bien debo agradecerte.”",
 {"rt2"},
 },
 },
@@ -89,7 +89,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Debo ser honesta, nuestra obra no tenía el impacto suficiente.Pero tú le diste\nun nuevo significado.",
+"“Debo ser honesta, nuestra obra no tenía el impacto suficiente.\nPero tú le diste un nuevo significado.",
 {"rt2"},
 },
 },
@@ -107,7 +107,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Tal como lo expliqué hace un rato ante los medios, nuestra pintura no tenía\nsuficiente impacto como obra...",
+"“Tal como lo expliqué hace un rato ante los medios, nuestra pintura no tenía\nsuficiente impacto como obra...”",
 {"rt2"},
 },
 },
@@ -126,7 +126,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡Pero este logro sigue siendo de nosotros! ¡De Bourbagi!",
+"“¡Pero este logro sigue siendo de nosotros! ¡De Bourbagi!”",
 {"rt2"},
 },
 },
@@ -140,7 +140,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh--",
+"“Kuh--”",
 {"rt2"},
 },
 },
@@ -158,7 +158,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Frustrado? ¿Frustrado que tanto esfuerzo para pisotearnos terminara dándonos\nla victoria?",
+"“¿Frustrado? ¿Frustrado que tanto esfuerzo para pisotearnos terminara dándonos\nla victoria?”",
 {"rt2"},
 },
 },
@@ -176,7 +176,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Dime, ¿acaso no es así?",
+"“Dime, ¿acaso no es así?”",
 {"rt2"},
 },
 },
@@ -196,7 +196,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"OH~, YES. ¿Frustrado, DESHO? ¿Enojadito, DESHO?",
+"“OH~, YES. ¿Frustrado, DESHO? ¿Enojadito, DESHO?”",
 {"rt2"},
 },
 },
@@ -223,7 +223,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh, ja, ja...",
+"“Kuh, jaja...”",
 {"rt2"},
 },
 },
@@ -242,7 +242,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -257,7 +257,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuh, kuh, ajajajaja...",
+"“Kuh, kuh, ajajajaja...”",
 {"rt2"},
 },
 },
@@ -276,7 +276,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡¿Q-Qué se te hace tan divertido?!",
+"“¡¿Q-Qué se te hace tan divertido?!”",
 {"rt2"},
 },
 },
@@ -290,7 +290,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por fin lo he entendido.",
+"“Por fin lo he entendido.”",
 {"rt2"},
 },
 },
@@ -307,7 +307,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Eh? ¿Entender qué?",
+"“¿Eh? ¿Entender qué?”",
 {"rt2"},
 },
 },
@@ -321,7 +321,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te lo agradezco. Por fin lo entendí.",
+"“Te lo agradezco. Por fin lo entendí.”",
 {"rt2"},
 },
 },
@@ -335,7 +335,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Al fin he entendido lo que él decía.",
+"“Al fin he entendido lo que él decía.”",
 {"rt2"},
 },
 },
@@ -349,7 +349,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, creo que ahora sí puedo decir que entiendo el arte tanto como él.",
+"“Sí, creo que ahora sí puedo decir que entiendo el arte tanto como él.”",
 {"rt2"},
 },
 },
@@ -367,7 +367,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡¿D-De qué estás hablando?!",
+"“¡¿D-De qué estás hablando?!”",
 {"rt2"},
 },
 },
@@ -381,7 +381,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A pesar de mi largo tiempo sin pintar como artista, por fin pude...",
+"“A pesar de mi largo tiempo sin pintar como artista, por fin pude...”",
 {"rt2"},
 },
 },
@@ -399,7 +399,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡¿Y qué es eso que entendiste?!",
+"“¡¿Y qué es eso que entendiste?!”",
 {"rt2"},
 },
 },
@@ -413,7 +413,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Lo que significa crear una obra.",
+"“Lo que significa crear una obra.”",
 {"rt2"},
 },
 },
@@ -427,7 +427,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué significa crear para ti, Nagayama? ¿Ganar reconocimiento entre las\nmasas?¿Conmocionar a los medios?",
+"“¿Qué significa crear para ti, Nagayama? ¿Ganar reconocimiento entre las\nmasas?\n¿Conmocionar a los medios?”",
 {"rt2"},
 },
 },
@@ -446,7 +446,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡A-Así es!",
+"“¡A-Así es!”",
 {"rt2"},
 },
 },
@@ -460,7 +460,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cuál es el problema entonces? Esto es perfecto para ustedes.Ustedes ganaron.",
+"“¿Cuál es el problema entonces? Esto es perfecto para ustedes.\nUstedes ganaron.”",
 {"rt2"},
 },
 },
@@ -478,7 +478,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"¡Pues entonces al menos aparenta estar frustrado!",
+"“¡Pues entonces al menos aparenta estar frustrado!”",
 {"rt2"},
 },
 },
@@ -492,7 +492,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y por qué debería hacerlo?",
+"“¿Y por qué debería hacerlo?”",
 {"rt2"},
 },
 },
@@ -506,7 +506,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Para qué hice esa obra?...¿Y para quién?...",
+"“¿Para qué hice esa obra?...\n¿Y para quién?...”",
 {"rt2"},
 },
 },
@@ -520,7 +520,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No fue por alguien que ya no está, ni por alguien en particular...Esa fue una\nobra hecha por mí, y para mí.",
+"“No fue por alguien que ya no está, ni por alguien en particular...\nEsa fue una obra hecha por mí, y para mí.”",
 {"rt2"},
 },
 },
@@ -534,7 +534,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por lo tanto, no tengo necesidad alguna de quedar como autor.No necesito mi\nnombre sobre esa obra.",
+"“Por lo tanto, no tengo necesidad alguna de quedar como autor.\nNo necesito mi nombre sobre esa obra.”",
 {"rt2"},
 },
 },
@@ -553,7 +553,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¡S-Solo estás intentando justificarte!",
+"“¡S-Solo estás intentando justificarte!”",
 {"rt2"},
 },
 },
@@ -567,7 +567,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿No logras digerirlo?Pues entonces como artista no eres ni de segunda o de\ntercera, estás por debajo de eso.",
+"“¿No logras digerirlo?\nPues entonces como artista no eres ni de segunda o de tercera, estás por debajo de eso.”",
 {"rt2"},
 },
 },
@@ -585,7 +585,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Kuh...",
+"“Kuh...”",
 {"rt2"},
 },
 },
@@ -599,7 +599,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Con qué propósito nace una obra? ¿Con qué propósito creamos esa obra?...",
+"“¿Con qué propósito nace una obra? ¿Con qué propósito creamos esa obra?...”",
 {"rt2"},
 },
 },
@@ -613,7 +613,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El porqué que nos lleva a crearla... Solo basta con no perder de vista eso...\nAsí el nombre inscrito en ella no sea el nuestro.",
+"“El porqué que nos lleva a crearla... Solo basta con no perder de vista eso...\nAsí el nombre inscrito en ella no sea el nuestro.”",
 {"rt2"},
 },
 },
@@ -644,7 +644,7 @@ vo={
 ja={
 {
 name={"Naoya"},
-"¡¿--?!",
+"“¡¿--?!”",
 {"rt2"},
 },
 },
@@ -776,7 +776,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"¡¿Nuh?! Oh... oh.",
+"“¡¿Nuh?! Oh... oh.”",
 {"rt2"},
 },
 },
@@ -838,7 +838,7 @@ block_00050={
 text={
 ja={
 {
-"Thomas se había desmayado,con su cara terriblemente desfigurada.",
+"Thomas se había desmayado,\ncon su cara terriblemente desfigurada.",
 {"rt2"},
 },
 },
@@ -958,7 +958,7 @@ block_00059={
 text={
 ja={
 {
-"Veo a Thomas tumbado sobre el suelo.Había perdido el conocimiento.",
+"Veo a Thomas tumbado sobre el suelo.\nHabía perdido el conocimiento.",
 {"rt2"},
 },
 },
@@ -987,7 +987,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¡Thomas!! ¡Te voy a enseñar algo!",
+"“¡¡Thomas!! ¡Te voy a enseñar algo!”",
 {"rt2"},
 },
 },
@@ -1002,7 +1002,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Ser popular con las chicas no te hace fuerte! ¡¡Ni tampoco esa mierda del\nMOTE!!",
+"“¡Ser popular con las chicas no te hace fuerte! ¡¡Ni tampoco esa mierda del\nMOTE!!”",
 {"rt2"},
 },
 },
@@ -1017,7 +1017,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡La verdadera fuerza viene de entrenar día tras día tras día!",
+"“¡La verdadera fuerza viene de entrenar día tras día tras día!”",
 {"rt2"},
 },
 },
@@ -1032,7 +1032,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Quieres más, ah?! ¡Ven por más, falso intento de extranjero!",
+"“¡¿Quieres más, ah?! ¡Ven por más, falso intento de extranjero!”",
 {"rt2"},
 },
 },
@@ -1054,7 +1054,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"Hih, hiii...",
+"“Hih, hiii...”",
 {"rt2"},
 },
 },
@@ -1067,7 +1067,7 @@ block_00066={
 text={
 ja={
 {
-"Definitivamente lo grande lo tiene también de robusto.Juzgando por el impacto\njuraba que no despertaría por unos minutos, pero ya había recobrado el\nconocimiento.",
+"Definitivamente lo grande lo tiene también de robusto.\nJuzgando por el impacto juraba que no despertaría por unos minutos, pero ya había recobrado el conocimiento.",
 {"rt2"},
 },
 },
@@ -1120,7 +1120,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eso es todo lo que tienes, Thomas?",
+"“¿Eso es todo lo que tienes, Thomas?”",
 {"rt2"},
 },
 },
@@ -1149,7 +1149,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Dónde está tu famoso MOTE, ah?!",
+"“¡¿Dónde está tu famoso MOTE, ah?!”",
 {"rt2"},
 },
 },
@@ -1163,7 +1163,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¿Que no ibas a tumbarme con él, ah?!",
+"“¡¿Que no ibas a tumbarme con él, ah?!”",
 {"rt2"},
 },
 },
@@ -1177,7 +1177,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ni en tus sueños. Esa clase de cosas no podrá romper mi cuerpo.",
+"“Ni en tus sueños. Esa clase de cosas no podrá romper mi cuerpo.”",
 {"rt2"},
 },
 },
@@ -1191,7 +1191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Este cuerpo que he estado entrenando desde años.",
+"“Este cuerpo que he estado entrenando desde años.”",
 {"rt2"},
 },
 },
@@ -1205,7 +1205,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El cuerpo que seguí entrenando para poder pintar.",
+"“El cuerpo que seguí entrenando para poder pintar.”",
 {"rt2"},
 },
 },
@@ -1219,7 +1219,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No dejé de entrenar ni un solo día.",
+"“No dejé de entrenar ni un solo día.”",
 {"rt2"},
 },
 },
@@ -1233,7 +1233,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Incluyendo esta mano derecha...",
+"“Incluyendo esta mano derecha...”",
 {"rt2"},
 },
 },
@@ -1247,7 +1247,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Esta inútil mano derecha!",
+"“¡Esta inútil mano derecha!”",
 {"rt2"},
 },
 },
@@ -1261,7 +1261,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Tus débiles puños no son capaces de hacerle un solo rasguño!",
+"“¡Tus débiles puños no son capaces de hacerle un solo rasguño!”",
 {"rt2"},
 },
 },
@@ -1275,7 +1275,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Esta mano derecha es fuerte!",
+"“¡Esta mano derecha es fuerte!”",
 {"rt2"},
 },
 },
@@ -1289,7 +1289,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Observa! ¡Mira este cuerpo, este físico!",
+"“¡Observa! ¡Mira este cuerpo, este físico!”",
 {"rt2"},
 },
 },
@@ -1325,7 +1325,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡MIRA, MIERDA! ¡ESTE ES EL RESULTADO DE MI ENTRENAMIENTO!",
+"“¡MIRA, MIERDA!　¡ESTE ES EL RESULTADO DE MI ENTRENAMIENTO!”",
 {"rt2"},
 },
 },
@@ -1340,7 +1340,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¡VEN Y MIRA!!",
+"“¡¡VEN Y MIRA!!”",
 {"rt2"},
 },
 },
@@ -1355,7 +1355,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡¡THOMAS!! ¡¡¡VEN ACÁÁÁááÁÁ!!!",
+"“¡¡THOMAS!! ¡¡¡VEN ACÁÁÁááÁÁ!!!”",
 {"rt2"},
 },
 },
@@ -1373,7 +1373,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"¡Esp--, profesor Kusanagi! ¡El equipo de prensa está todavía presente!",
+"“¡Esp--, profesor Kusanagi! ¡El equipo de prensa está todavía presente!”",
 {"rt2"},
 },
 },
@@ -1390,7 +1390,7 @@ vo={
 ja={
 {
 name={"Consejero Inoue"},
-"Vamos, directora, déjele ser. Una vez más, el milagro lo hizo él.",
+"“Vamos, directora, déjele ser. Una vez más, el milagro lo hizo él.”",
 {"rt2"},
 },
 },
@@ -1481,7 +1481,7 @@ block_00095={
 text={
 ja={
 {
-"Esa noche,en la que culminamos esa obra.",
+"Esa noche,\nen la que culminamos esa obra.",
 {"rt2"},
 },
 },
@@ -1753,7 +1753,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Todavía sigues entrenando?",
+"“¿Todavía sigues entrenando?”",
 {"rt2"},
 },
 },
@@ -1767,7 +1767,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Ah?",
+"“¿Ah?”",
 {"rt2"},
 },
 },
@@ -1784,7 +1784,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Pues, entiendo que para manejar el pincel de la misma forma que Kenichiro\nKusanagi necesitas mucha fuerza en las manos.",
+"“Pues, entiendo que para manejar el pincel de la misma forma que Kenichiro\nKusanagi necesitas mucha fuerza en las manos.”",
 {"rt2"},
 },
 },
@@ -1801,7 +1801,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Sé que por eso estuviste entrenando desde pequeño.",
+"“Sé que por eso estuviste entrenando desde pequeño.”",
 {"rt2"},
 },
 },
@@ -1820,7 +1820,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Pero ¿qué caso tiene ahora? Por más que entrenes tu mano derecha no volverá.",
+"“Pero ¿qué caso tiene ahora? Por más que entrenes tu mano derecha no volverá.”",
 {"rt2"},
 },
 },
@@ -1834,7 +1834,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Hmph, ciertamente. Tal vez mi mano derecha no vuelva a su estado original.",
+"“Hmph, ciertamente. Tal vez mi mano derecha no vuelva a su estado original.”",
 {"rt2"},
 },
 },
@@ -1850,7 +1850,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero bien me sirvió para darle una paliza a Thomas.",
+"“Pero bien me sirvió para darle una paliza a Thomas.”",
 {"rt2"},
 },
 },
@@ -1864,7 +1864,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El entrenamiento diario puede traer resultados excepcionales.",
+"“El entrenamiento diario puede traer resultados excepcionales.”",
 {"rt2"},
 },
 },
@@ -1878,7 +1878,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y no hay desperdicio en ello si llega a servir de algo, así sea en la situación\nmás ridícula posible.",
+"“Y no hay desperdicio en ello si llega a servir de algo, así sea en la situación\nmás ridícula posible.”",
 {"rt2"},
 },
 },
@@ -1892,7 +1892,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me siento orgulloso de la preparación que le he dado a mi brazo derecho.",
+"“Me siento orgulloso de la preparación que le he dado a mi brazo derecho.”",
 {"rt2"},
 },
 },
@@ -1906,7 +1906,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El talento puede fallarle al mediocre,pero la técnica nunca lo hará.",
+"“El talento puede fallarle al mediocre,\npero la técnica nunca lo hará.”",
 {"rt2"},
 },
 },
@@ -1920,7 +1920,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esas son palabras tuyas.",
+"“Esas son palabras tuyas.”",
 {"rt2"},
 },
 },
@@ -1934,7 +1934,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El entrenamiento es lo que sostiene la técnica.",
+"“El entrenamiento es lo que sostiene la técnica.”",
 {"rt2"},
 },
 },
@@ -1948,7 +1948,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y debo decir que definitivamente no te falla.Aunque bueno, tampoco es que he\nvenido entrenándome en técnicas para golpear.",
+"“Y debo decir que definitivamente no te falla.\nAunque bueno, tampoco es que he venido entrenándome en técnicas para golpear.”",
 {"rt2"},
 },
 },
@@ -1962,7 +1962,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero, la técnica que desarrollas en el entrenamiento, es genial.",
+"“Pero... la técnica que desarrollas en el entrenamiento es genial.”",
 {"rt2"},
 },
 },
@@ -2012,7 +2012,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Hmph, esta conversación no tiene sentido alguno. Qué más da. Tienes mi\nagradecimiento, pero no mi rencor.",
+"“Hmph, esta conversación no tiene sentido alguno. Qué más da. Tienes mi\nagradecimiento, pero no mi rencor.”",
 {"rt2"},
 },
 },
@@ -2030,7 +2030,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Y es que usaré esta mediática para acercarme aún más a Rin Misakura.",
+"“Y es que usaré esta mediática para acercarme aún más a Rin Misakura.”",
 {"rt2"},
 },
 },
@@ -2044,7 +2044,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por más que multipliques cero por algo, solo obtendrás cero. No lograrás vencer\nal talento real con uno falso.",
+"“Por más que multipliques cero por algo, solo obtendrás cero. No lograrás vencer\nal talento real con uno falso.”",
 {"rt2"},
 },
 },
@@ -2068,7 +2068,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Quizá seamos falsos, pero con una pizca de talento, muchísimo trabajo duro y\nmétodos únicos lograremos convertirnos en auténticos, con algo de suerte.",
+"“Quizá seamos falsos, pero con una pizca de talento, muchísimo trabajo duro y\nmétodos únicos lograremos convertirnos en auténticos, con algo de suerte.”",
 {"rt2"},
 },
 },
@@ -2086,7 +2086,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Sabes qué pasa con el número 0.9 cuando le agregas infinitas cifras?",
+"“¿Sabes qué pasa con el número 0.9 cuando le agregas cifras infinitas?”",
 {"rt2"},
 },
 },
@@ -2103,7 +2103,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"0.9, 0.99, 0.999... Llevándolo al infinito, obtienes 1.",
+"“0.9, 0.99, 0.999... Llevándolo al infinito, obtienes 1.”",
 {"rt2"},
 },
 },
@@ -2117,7 +2117,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, lo sé.Es un tema recurrente en las matemáticas.",
+"“Sí, lo sé.\nEs un tema recurrente en las matemáticas.”",
 {"rt2"},
 },
 },
@@ -2131,7 +2131,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero, si esa es tu proporción entonces estás cometiendo un grave error.",
+"“Pero.... si esa es tu proporción, entonces estás cometiendo un grave error.”",
 {"rt2"},
 },
 },
@@ -2145,7 +2145,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Los genios están por el 0.9.",
+"“Los genios están por el 0.9.”",
 {"rt2"},
 },
 },
@@ -2159,7 +2159,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Solo ser un genio no te hará llegar a 1.",
+"“Solo ser un genio no te hará llegar a 1.”",
 {"rt2"},
 },
 },
@@ -2173,7 +2173,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Un ciclo cuasi-infinito de repetición por parte de ese genio.",
+"“Un ciclo cuasi-infinito de repetición por parte de ese genio.”",
 {"rt2"},
 },
 },
@@ -2187,7 +2187,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Combinado con niveles de sufrimiento y deleite que el mediocre jamás podría\nalcanzar.",
+"“Combinado con niveles de sufrimiento y deleite que el mediocre jamás podría\nalcanzar.”",
 {"rt2"},
 },
 },
@@ -2201,7 +2201,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Más un torrente sin fin de emociones.",
+"“Más un torrente sin fin de emociones.”",
 {"rt2"},
 },
 },
@@ -2215,7 +2215,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Y a eso le agregamos muchísimo ensayo y error.",
+"“Y a eso le agregamos muchísimo ensayo y error.”",
 {"rt2"},
 },
 },
@@ -2229,7 +2229,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así es como transformas el 0.9 en 0.999...",
+"“Así es como transformas el 0.9 en 0.999...”",
 {"rt2"},
 },
 },
@@ -2243,7 +2243,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En el valor que se esconde tras el infinito.",
+"“En el valor que se esconde tras el infinito.”",
 {"rt2"},
 },
 },
@@ -2257,7 +2257,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En 1, o uno, como único en el mundo.",
+"“En 1, o uno, como único en el mundo.”",
 {"rt2"},
 },
 },
@@ -2271,7 +2271,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aun siendo un genio es difícil llegar al 1.",
+"“Aun siendo un genio es difícil llegar al 1.”",
 {"rt2"},
 },
 },
@@ -2295,7 +2295,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Hmph, ya veo. Tal vez tengas razón.Aunque eso no pasa de ser un simple juego de\npalabras.",
+"“Hmph, ya veo. Tal vez tengas razón.\nAunque eso no pasa de ser un simple juego de palabras.”",
 {"rt2"},
 },
 },
@@ -2309,7 +2309,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, también lo podrías poner así.",
+"“Sí, también lo podrías poner así.”",
 {"rt2"},
 },
 },
@@ -2327,7 +2327,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Tú eres――",
+"“Tú eres――”",
 {"rt2"},
 },
 },
@@ -2341,7 +2341,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Yo, qué?",
+"“¿Yo, qué?”",
 {"rt2"},
 },
 },
@@ -2360,7 +2360,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"No es nada. Una ridiculez...",
+"“No es nada. Una ridiculez...”",
 {"rt2"},
 },
 },
@@ -2378,7 +2378,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Estuve a punto de decir algo muy tonto...",
+"“Estuve a punto de decir algo muy tonto...”",
 {"rt2"},
 },
 },
@@ -2396,7 +2396,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Y no voy a preocuparme por eso. Yo seguiré adelante.",
+"“Y no voy a preocuparme por eso. Yo seguiré adelante.”",
 {"rt2"},
 },
 },
@@ -2414,7 +2414,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"Hasta el fin, hasta lo más lejano...",
+"“Hasta el fin, hasta lo más lejano...”",
 {"rt2"},
 },
 },
@@ -2428,7 +2428,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así es, golondrina, golondrinita. Vuela lejos.O de lo contrario te consumirá un\nterrible frío...",
+"“Así es, golondrina, golondrinita. Vuela lejos.\nO de lo contrario te consumirá un terrible frío...”",
 {"rt2"},
 },
 },
@@ -2446,7 +2446,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"¿Golondrina?",
+"“¿Golondrina?”",
 {"rt2"},
 },
 },
@@ -2460,7 +2460,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Cosas mías.Solo cosas mías...",
+"“Cosas mías.\nSolo cosas mías...”",
 {"rt2"},
 },
 },
@@ -2496,7 +2496,7 @@ vo={
 ja={
 {
 name={"???"},
-"¿Y bien? ¿Algo que decir al respecto, señorita genio?",
+"“¿Y bien? ¿Algo que decir al respecto, señorita genio?”",
 {"rt2"},
 },
 },
@@ -2510,7 +2510,7 @@ text={
 ja={
 {
 name={"???"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -2527,7 +2527,7 @@ vo={
 ja={
 {
 name={"???"},
-"Volaste desde Nueva York hasta acá. Algo tendrás en mente, ¿no, Rin Misakura?",
+"“Volaste desde Nueva York hasta acá. Algo tendrás en mente, ¿no, Rin Misakura?”",
 {"rt2"},
 },
 },
@@ -2546,7 +2546,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin está pensando... Haz silencio por un momento...",
+"“Rin está pensando... Haz silencio por un momento...”",
 {"rt2"},
 },
 },
@@ -2563,7 +2563,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Bueno, bueno.",
+"“Bueno, bueno.”",
 {"rt2"},
 },
 },
@@ -2593,7 +2593,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Celofán...",
+"“Celofán...”",
 {"rt2"},
 },
 },
@@ -2610,7 +2610,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Así es. De lejos pareciera ser vidrio, pero fabricar un vitral en un día es\nimposible.",
+"“Así es. De lejos pareciera ser vidrio, pero fabricar un vitral en un día es\nimposible.”",
 {"rt2"},
 },
 },
@@ -2627,7 +2627,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pero usando celofán se puede recrear un vitral fácilmente, en cuestión de\nhoras.",
+"“Pero usando celofán se puede recrear un vitral fácilmente, en cuestión de\nhoras.”",
 {"rt2"},
 },
 },
@@ -2644,7 +2644,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -2661,7 +2661,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Vaya genialidad la de Kenichiro Kusanagi, ¿no? Quién diría que tendría esta\ncarta escondida bajo la manga...",
+"“Vaya genialidad la de Kenichiro Kusanagi, ¿no? Quién diría que tendría esta\ncarta escondida bajo la manga...”",
 {"rt2"},
 },
 },
@@ -2678,7 +2678,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Kenichiro Kusanagi?",
+"“¿Kenichiro Kusanagi?”",
 {"rt2"},
 },
 },
@@ -2695,7 +2695,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Sí. Al parecer fue un diseño descartado por él durante la elaboración de 'Las\nhuellas de los cerezos'.",
+"“Sí. Al parecer fue un diseño descartado por él durante la elaboración de 'Las\nhuellas de los cerezos'.”",
 {"rt2"},
 },
 },
@@ -2712,7 +2712,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Creo que eso es mentira.",
+"“Creo que eso es mentira.”",
 {"rt2"},
 },
 },
@@ -2729,7 +2729,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Mentira?",
+"“¿Mentira?”",
 {"rt2"},
 },
 },
@@ -2746,7 +2746,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Si a Kenichiro-san se le hubiese ocurrido esto, lo hubiese hecho antes de\nmorir. De eso no hay duda.",
+"“Si a Kenichiro-san se le hubiese ocurrido esto, lo hubiese hecho antes de\nmorir. De eso no hay duda.”",
 {"rt2"},
 },
 },
@@ -2763,7 +2763,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Así era él.",
+"“Así era él.”",
 {"rt2"},
 },
 },
@@ -2780,7 +2780,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pero, el diseño estaba entre sus planos.",
+"“Pero el diseño estaba entre sus planos.”",
 {"rt2"},
 },
 },
@@ -2797,7 +2797,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Hmm, ya veo...Por cierto, Toritani-san. ¿Sabías algo?",
+"“Mmm, ya veo...\nPor cierto, Toritani-san. ¿Sabías algo?”",
 {"rt2"},
 },
 },
@@ -2814,7 +2814,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"La letra de Nao-kun es idéntica a la de Kenichiro-san.",
+"“La letra de Nao-kun es idéntica a la de Kenichiro-san.”",
 {"rt2"},
 },
 },
@@ -2831,7 +2831,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Eh?",
+"“¿Eh?”",
 {"rt2"},
 },
 },
@@ -2848,7 +2848,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Ambos se parecen incluso en su caligrafía...",
+"“Ambos se parecen incluso en su caligrafía...”",
 {"rt2"},
 },
 },
@@ -2865,7 +2865,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Esta no es idea de Kenichiro-san.El jamás pintaría, ni llegó a pintar cerezos\ndespués de terminar con 'Cerezos recostados'.",
+"“Esta no es idea de Kenichiro-san.\nÉl jamás pintaría, ni llegó a pintar cerezos después de terminar con 'Cerezos recostados'.”",
 {"rt2"},
 },
 },
@@ -2882,7 +2882,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Incluso 'Las huellas de los cerezos' fue diseñada cuando Mizuna-san seguía con\nvida...",
+"“Incluso 'Las huellas de los cerezos' fue diseñada cuando Mizuna-san seguía con\nvida...”",
 {"rt2"},
 },
 },
@@ -2899,7 +2899,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"La temática de los cerezos era para él, la más importante y delicada...",
+"“La temática de los cerezos era para él, la más importante y delicada...”",
 {"rt2"},
 },
 },
@@ -2916,7 +2916,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Entonces, esto...",
+"“Entonces, esto...”",
 {"rt2"},
 },
 },
@@ -2933,7 +2933,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Probablemente a Nao-kun se le ocurrió esto en el instante que se paró aquí.",
+"“Probablemente a Nao-kun se le ocurrió esto en el instante que se paró aquí.”",
 {"rt2"},
 },
 },
@@ -2950,7 +2950,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Que se paró aquí?",
+"“¿Que se paró aquí?”",
 {"rt2"},
 },
 },
@@ -2967,7 +2967,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"En ese preciso instante... Incluso antes de culminar 'Las huellas de los\ncerezos'.",
+"“En ese preciso instante... Incluso antes de culminar 'Las huellas de los\ncerezos'.”",
 {"rt2"},
 },
 },
@@ -2984,7 +2984,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Incluso antes de culminar el mural...",
+"“Incluso antes de culminar el mural...”",
 {"rt2"},
 },
 },
@@ -3001,7 +3001,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pero, hacerlo no es tan fácil como idearlo. Registrar el movimiento del sol y\ntodo eso debió ser difícil, además.",
+"“Pero hacerlo no es tan fácil como idearlo. Registrar el movimiento del sol y\ntodo eso debió ser difícil, además.”",
 {"rt2"},
 },
 },
@@ -3018,7 +3018,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Así es. Y por eso creo que ha estado pensando esa idea todo este tiempo.",
+"“Así es. Y por eso creo que ha estado pensando esa idea todo este tiempo.”",
 {"rt2"},
 },
 },
@@ -3035,7 +3035,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Parándose acá, imaginando las obras de Kenichiro Kusanagi y pensando, ¿qué\npuedo hacer yo? ¿Será posible crear algo aún más grande?",
+"“Parándose acá, imaginando las obras de Kenichiro Kusanagi y pensando, ¿qué\npuedo hacer yo? ¿Será posible crear algo aún más grande?”",
 {"rt2"},
 },
 },
@@ -3052,7 +3052,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Estoy segura... de que pensó en muchas otras formas de lograrlo.",
+"“Estoy segura... de que pensó en muchas otras formas de lograrlo.”",
 {"rt2"},
 },
 },
@@ -3069,7 +3069,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Otras formas de lograrlo?",
+"“¿Otras formas de lograrlo?”",
 {"rt2"},
 },
 },
@@ -3086,7 +3086,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Por más que calcules el movimiento solar y des con la hora adecuada, si el\nclima llega a alterarse la luz solar no atravesará los vitrales.",
+"“Por más que calcules el movimiento solar y des con la hora adecuada, si el\nclima llega a alterarse la luz solar no atravesará los vitrales.”",
 {"rt2"},
 },
 },
@@ -3103,7 +3103,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sabrás que Nao-kun siempre se mete en los asuntos de los demás, y en esos\nmomentos siempre pareciera sacarse las ideas de un instante a otro, pero en\nrealidad no es así.",
+"“Sabrás que Nao-kun siempre se mete en los asuntos de los demás, y en esos\nmomentos siempre pareciera sacarse las ideas de un instante a otro, pero en\nrealidad no es así.”",
 {"rt2"},
 },
 },
@@ -3120,7 +3120,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Todo ha sido producto de un largo, larguísimo ciclo de pensamiento e\nintrospección...",
+"“Todo ha sido producto de un largo, larguísimo ciclo de pensamiento e\nintrospección...”",
 {"rt2"},
 },
 },
@@ -3137,7 +3137,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Kei Natsume-kun. Kenichiro Kusanagi-san. Y también yo. Entre cada obra que\npublicamos, estoy segura que él examina e investiga, pensando en qué podría\nhacer él...",
+"“Kei Natsume-kun. Kenichiro Kusanagi-san. Y también yo. Entre cada obra que\npublicamos, estoy segura que él examina e investiga, pensando en qué podría\nhacer él...”",
 {"rt2"},
 },
 },
@@ -3154,7 +3154,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"En su cabeza hay una infinidad de ideas, y él tiene la técnica y la habilidad\npara materializarlas.",
+"“En su cabeza hay una infinidad de ideas, y él tiene la técnica y la habilidad\npara materializarlas.”",
 {"rt2"},
 },
 },
@@ -3171,7 +3171,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Pero no ha publicado nada.",
+"“Pero no ha publicado nada.”",
 {"rt2"},
 },
 },
@@ -3188,7 +3188,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"¿Cuántos años han pasado ya desde aquel día?...",
+"“¿Cuántos años han pasado ya desde aquel día?...”",
 {"rt2"},
 },
 },
@@ -3205,7 +3205,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"El fuego todavía arde dentro de Nao-kun...",
+"“El fuego todavía arde dentro de Nao-kun...”",
 {"rt2"},
 },
 },
@@ -3222,7 +3222,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y por eso debo marcharme...",
+"“Y por eso debo marcharme...”",
 {"rt2"},
 },
 },
@@ -3239,7 +3239,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"A aquel lugar donde 'yo' no podría llegar... A aquel destino prometido...",
+"“A aquel lugar donde 'yo' no podría llegar... A aquel destino prometido...”",
 {"rt2"},
 },
 },
@@ -3256,7 +3256,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Mako-chan.",
+"“Mako-chan.”",
 {"rt2"},
 },
 },
@@ -3273,7 +3273,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Sí?",
+"“¿Sí?”",
 {"rt2"},
 },
 },
@@ -3290,7 +3290,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"La última vez que me encontré a Nao-kun, él dijo esto...",
+"“La última vez que me encontré a Nao-kun, él dijo esto...”",
 {"rt2"},
 },
 },
@@ -3308,7 +3308,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"I dwell in Possibility― Vivo en la posibilidad.",
+"“I dwell in Possibility―",
+{"rt2"},
+"Vivo en la posibilidad.”",
 {"rt2"},
 },
 },
@@ -3325,7 +3327,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"A fairer House than Prose― Una casa mejor que la prosa.",
+"“A fairer House than Prose―",
+{"rt2"},
+"Una casa mejor que la prosa.”",
 {"rt2"},
 },
 },
@@ -3342,7 +3346,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"More numerous of Windows― Que tiene más ventanas.",
+"“More numerous of Windows―",
+{"rt2"},
+"Que tiene más ventanas.”",
 {"rt2"},
 },
 },
@@ -3359,7 +3365,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Superior―for Doors― Y puertas superiores.",
+"“Superior―for Doors―",
+{"rt2"},
+"Y puertas superiores.”",
 {"rt2"},
 },
 },
@@ -3376,7 +3384,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Of Chambers as the Cedars― Y con cedros en sus cámaras.",
+"“Of Chambers as the Cedars―",
+{"rt2"},
+"Y con cedros en sus cámaras.”",
 {"rt2"},
 },
 },
@@ -3393,7 +3403,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Impregnable of Eye―Inexpugnables al ojo.",
+"“Impregnable of Eye―",
+{"rt2"},
+"Inexpugnables al ojo.”",
 {"rt2"},
 },
 },
@@ -3410,7 +3422,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"And for an Everlasting RoofThe Gambrels of the Sky―",
+"“And for an Everlasting Roof",
+{"rt2"},
+"The Gambrels of the Sky―”",
 {"rt2"},
 },
 },
@@ -3427,7 +3441,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Y que por techo eterno tiene,tejas del cielo――",
+"“Y que por techo eterno tiene,",
+{"rt2"},
+"tejas del cielo――”",
 {"rt2"},
 },
 },
@@ -3444,7 +3460,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Of Visitors―the fairest―La visitan solo los más hermosos.",
+"“Of Visitors―the fairest―",
+{"rt2"},
+"La visitan solo los más hermosos.”",
 {"rt2"},
 },
 },
@@ -3461,7 +3479,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"For Occupation―This―Y mi trabajo es.",
+"“For Occupation―This―",
+{"rt2"},
+"Y mi trabajo es.”",
 {"rt2"},
 },
 },
@@ -3478,7 +3498,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"The spreading wide of narrow HandsTo gather Paradise―",
+"“The spreading wide my narrow Hands",
+{"rt2"},
+"To gather Paradise―”",
 {"rt2"},
 },
 },
@@ -3495,7 +3517,9 @@ vo={
 ja={
 {
 name={"Rin"},
-"Extender estas pequeñas manos, y tomar el paraíso.",
+"“Extender estas pequeñas manos,",
+{"rt2"},
+"y tomar el paraíso.”",
 {"rt2"},
 },
 },
@@ -3512,7 +3536,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"En ese entonces pensaba que esas palabras eran para mí...",
+"“En ese entonces, pensaba que esas palabras eran para mí...”",
 {"rt2"},
 },
 },
@@ -3529,7 +3553,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Pero...",
+"“Pero...”",
 {"rt2"},
 },
 },
@@ -3546,7 +3570,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Rin... Ya es hora.",
+"“Rin... Ya es hora.”",
 {"rt2"},
 },
 },
@@ -3564,7 +3588,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí, tienes razón.",
+"“Sí, tienes razón.”",
 {"rt2"},
 },
 },
@@ -3581,7 +3605,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"¿Vendrás de nuevo a Japón?",
+"“¿Vendrás de nuevo a Japón?”",
 {"rt2"},
 },
 },
@@ -3598,7 +3622,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Tal vez...",
+"“Tal vez...”",
 {"rt2"},
 },
 },
@@ -3615,7 +3639,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Nos verás a todos cuando vuelvas, ¿verdad?",
+"“Nos verás a todos cuando vuelvas, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -3632,7 +3656,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Sí.",
+"“Sí.”",
 {"rt2"},
 },
 },
@@ -3649,7 +3673,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Rin...",
+"“Rin...”",
 {"rt2"},
 },
 },
@@ -3666,7 +3690,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Gracias por hoy.",
+"“Gracias por hoy.”",
 {"rt2"},
 },
 },
@@ -3683,7 +3707,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Gracias por tratarme como hace tiempo, como tu amiga. Aun hasta el último\nmomento...",
+"“Gracias por tratarme como hace tiempo, como tu amiga. Aun hasta el último\nmomento...”",
 {"rt2"},
 },
 },
@@ -3700,7 +3724,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"Ya es hora.",
+"“Ya es hora.”",
 {"rt2"},
 },
 },
@@ -3717,7 +3741,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"Nos vemos en otra ocasión.",
+"“Nos vemos en otra ocasión.”",
 {"rt2"},
 },
 },
