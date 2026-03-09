@@ -258,7 +258,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Bueno, ya terminé por hoy. Supongo que regresaré algo temprano...",
+"“Bueno, ya terminé por hoy. Supongo que regresaré algo temprano...”",
 {"rt2"},
 },
 },
@@ -279,8 +279,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Diablos, deja de invitarme a cada rato.",
+name={"Katagai"},
+"“Diablos, deja de invitarme a cada rato.”",
 {"rt2"},
 },
 },
@@ -294,7 +294,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tú eres el único a quien puedo invitar a salir a cada rato.",
+"“Tú eres el único a quien puedo invitar a salir a cada rato.”",
 {"rt2"},
 },
 },
@@ -311,8 +311,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Qué hay hoy? ¿Te pasó algo bueno?",
+name={"Katagai"},
+"“¿Qué hay hoy? ¿Te pasó algo bueno?”",
 {"rt2"},
 },
 },
@@ -326,7 +326,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Al contrario. Quizá me despidan del colegio.",
+"“Al contrario. Quizá me despidan del colegio.”",
 {"rt2"},
 },
 },
@@ -343,8 +343,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Por qué?",
+name={"Katagai"},
+"“¿Por qué?”",
 {"rt2"},
 },
 },
@@ -358,7 +358,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, al parecer hice enojar a uno de la directiva. Al consejero Murayama.",
+"“Pues, al parecer hice enojar a uno de la directiva. Al consejero Murayama.”",
 {"rt2"},
 },
 },
@@ -375,8 +375,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿A un consejero? Estás bromeando, ¿verdad? ¿Cómo podría un simple profesor a\ntiempo parcial hacer enojar a alguien de la directiva?",
+name={"Katagai"},
+"“¿A un consejero? Estás bromeando, ¿verdad? ¿Cómo podría un simple profesor a\ntiempo parcial hacer enojar a alguien de la directiva?”",
 {"rt2"},
 },
 },
@@ -390,7 +390,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo qué sé. Así que bueno, invítame algo.",
+"“Yo qué sé. Así que bueno, invítame algo.”",
 {"rt2"},
 },
 },
@@ -407,8 +407,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No quiero. Además, tú cuenta de ahorros está más inflada que la mía.",
+name={"Katagai"},
+"“No quiero. Además, tú cuenta de ahorros está más inflada que la mía.”",
 {"rt2"},
 },
 },
@@ -422,7 +422,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pero podría terminar desempleado en abril.",
+"“Pero podría terminar desempleado en abril.”",
 {"rt2"},
 },
 },
@@ -439,8 +439,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Je, ya veo. Bueno, ¡dos Hoppy, por favor!",
+name={"Katagai"},
+"“Je, ya veo. Bueno, ¡dos Hoppy, por favor!”",
 {"rt2"},
 },
 },
@@ -454,7 +454,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, y unas dos copas de sake caliente para mí.",
+"“Ah, y unas dos copas de sake caliente para mí.”",
 {"rt2"},
 },
 },
@@ -475,7 +475,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Oh, oh? ¿Por qué tanto alcohol hoy?",
+"“¿Oh, oh? ¿Por qué tanto alcohol hoy?”",
 {"rt2"},
 },
 },
@@ -489,7 +489,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, Nonomi-kun. Sucede que hoy Katakai pagará.",
+"“Ah, Nonomi-kun. Sucede que hoy Katagai pagará.”",
 {"rt2"},
 },
 },
@@ -505,8 +505,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Por qué se supone que ahora voy a pagar yo?",
+name={"Katagai"},
+"“¿Por qué se supone que ahora voy a pagar yo?”",
 {"rt2"},
 },
 },
@@ -524,7 +524,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Lo veo de buen humor.",
+"“Lo veo de buen humor.”",
 {"rt2"},
 },
 },
@@ -538,7 +538,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Sí? ¿Así parezco?",
+"“¿Sí? ¿Así parezco?”",
 {"rt2"},
 },
 },
@@ -555,7 +555,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Sí. ¿Irritado, pero de buen humor, debería decir?",
+"“Sí. ¿Irritado, pero de buen humor, debería decir?”",
 {"rt2"},
 },
 },
@@ -569,7 +569,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajajaja, qué aguda, eh. Me das miedo.Pues sí, la idea de acabar en la calle me\npone así.",
+"“Ajajaja, qué list, eh. Me das miedo.\nPues sí, la idea de acabar en la calle me pone así.”",
 {"rt2"},
 },
 },
@@ -587,7 +587,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿En serio?",
+"“¿En serio?”",
 {"rt2"},
 },
 },
@@ -604,7 +604,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Vi la obra de luz, por televisión.",
+"“Vi la obra de luz, por televisión.”",
 {"rt2"},
 },
 },
@@ -620,8 +620,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Qué obra?",
+name={"Katagai"},
+"“¿Qué obra?”",
 {"rt2"},
 },
 },
@@ -635,7 +635,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No es nada.",
+"“No es nada.”",
 {"rt2"},
 },
 },
@@ -705,7 +705,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Esa obra la hizo usted, ¿verdad? Fue asombrosa.",
+"“Esa obra la hizo usted, ¿verdad? Fue asombrosa.”",
 {"rt2"},
 },
 },
@@ -719,7 +719,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No fui yo. Fue el grupo Bourbagi.",
+"“No fui yo. Fue el grupo Bourbagi.”",
 {"rt2"},
 },
 },
@@ -737,7 +737,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Ah, cierto. Así dice la versión oficial.",
+"“Ah, cierto. Así dice la versión oficial.”",
 {"rt2"},
 },
 },
@@ -755,7 +755,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Aunque,la gran mayoría de los alumnos saben ya que usted fue el autor.",
+"“Aunque,la gran mayoría de los alumnos saben ya que usted fue el autor.”",
 {"rt2"},
 },
 },
@@ -769,7 +769,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo. Si siguen esparciéndose los rumores, mi despido podría ser aún más\ninminente...",
+"“Ya veo. Si siguen esparciéndose los rumores, mi despido podría ser aún más\ninminente...”",
 {"rt2"},
 },
 },
@@ -785,8 +785,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Qué? ¿Entonces lo de hoy es para celebrar eso?",
+name={"Katagai"},
+"“¿Qué? ¿Entonces lo de hoy es para celebrar eso?”",
 {"rt2"},
 },
 },
@@ -800,7 +800,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Acaso no escuchas? Podrían despedirme.",
+"“¿Acaso no escuchas? Podrían despedirme.”",
 {"rt2"},
 },
 },
@@ -816,8 +816,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No estoy entendiendo muy bien. Bueh, qué más da. ¡Salud!",
+name={"Katagai"},
+"“No estoy entendiendo muy bien. Bueh, qué más da. ¡Salud!”",
 {"rt2"},
 },
 },
@@ -831,7 +831,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Salud.",
+"“Salud.”",
 {"rt2"},
 },
 },
@@ -846,7 +846,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"*Glup*, *glup*, *glup*, *glup*... *Pwah*, ¡qué bueno esto! ¡El Hoppy de este\nlocal es delicioso! ¡Nada que ver con esos locales de puro shochu y Hoppy sin\nmezclar! ¡La mezcla de acá es sabrosa! Casi como cerveza.",
+"“*Glup*, *glup*, *glup*, *glup*... *Pwah*, ¡qué bueno esto! ¡El Hoppy de este\nlocal es delicioso! ¡Nada que ver con esos locales de puro shochu y Hoppy sin\nmezclar! ¡La mezcla de acá es sabrosa! Casi como cerveza.”",
 {"rt2"},
 },
 },
@@ -864,7 +864,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Por qué no pedir cerveza entonces?",
+"“¿Por qué no pedir cerveza entonces?”",
 {"rt2"},
 },
 },
@@ -880,8 +880,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Concuerdo con Nono-chan.",
+name={"Katagai"},
+"“Concuerdo con Nono-chan.”",
 {"rt2"},
 },
 },
@@ -895,7 +895,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿En serio? ¿Puedo?",
+"“¿En serio? ¿Puedo?”",
 {"rt2"},
 },
 },
@@ -911,8 +911,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ni creas que te las voy a pagar.",
+name={"Katagai"},
+"“Ni creas que te las voy a pagar.”",
 {"rt2"},
 },
 },
@@ -926,7 +926,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Vamos, no seas tacaño.",
+"“Vamos, no seas tacaño.”",
 {"rt2"},
 },
 },
@@ -942,8 +942,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Yo no soy tacaño...",
+name={"Katagai"},
+"“Yo no soy tacaño...”",
 {"rt2"},
 },
 },
@@ -957,7 +957,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A ver los aperitivos... ¿Qué hay esta temporada?",
+"“A ver los aperitivos... ¿Qué hay esta temporada?”",
 {"rt2"},
 },
 },
@@ -975,7 +975,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Que le parece algo de tataki de caballa?",
+"“¿Que le parece algo de tataki de caballa?”",
 {"rt2"},
 },
 },
@@ -989,7 +989,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Se escucha delicioso.",
+"“Se escucha delicioso.”",
 {"rt2"},
 },
 },
@@ -1004,7 +1004,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Nonomi-kun! Trae algo de ese tataki de caballa, y también calamar seco... Ah,\ntienes heshiko también, ¿verdad?",
+"“¡Nonomi-kun! Trae algo de ese tataki de caballa, y también calamar seco... Ah,\ntienes heshiko también, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1020,8 +1020,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Hombre, estás pidiendo puros aperitivos fríos. Y yo tengo frío.",
+name={"Katagai"},
+"“Hombre, estás pidiendo puros aperitivos fríos. Y yo tengo frío.”",
 {"rt2"},
 },
 },
@@ -1035,7 +1035,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quién te manda a pedir Hoppy? Yo tengo sake caliente.",
+"“¿Quién te manda a pedir Hoppy? Yo tengo sake caliente.”",
 {"rt2"},
 },
 },
@@ -1051,8 +1051,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ah, demonios, bueno. ¡Nonomi-chan! ¡Imo shochu mezclado con agua caliente, por\nfavor! ¡Y con umeboshi!",
+name={"Katagai"},
+"“Ah, demonios, bueno. ¡Nonomi-chan! ¡Imo shochu mezclado con agua caliente, por\nfavor! ¡Y con umeboshi!”",
 {"rt2"},
 },
 },
@@ -1071,7 +1071,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¡Entendido!",
+"“¡Entendido!”",
 {"rt2"},
 },
 },
@@ -1088,7 +1088,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Vamos, por qué no pides sake caliente?",
+"“Vamos, ¿por qué no pides sake caliente?”",
 {"rt2"},
 },
 },
@@ -1104,8 +1104,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No se me da muy bien el sake. Te lo puedes quedar todo tú...",
+name={"Katagai"},
+"“No se me da muy bien el sake. Te lo puedes quedar todo tú...”",
 {"rt2"},
 },
 },
@@ -1121,8 +1121,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ah, por cierto, ¿conoces una serie porno llamada PON? Salen chicas otaku\norinando. La descubrí recientemente.",
+name={"Katagai"},
+"“Ah, por cierto, ¿conoces una serie porno llamada PON? Salen chicas otaku\norinando. La descubrí recientemente.”",
 {"rt2"},
 },
 },
@@ -1136,7 +1136,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, sí. No soy muy conocedor del porno, pero tengo entendido que es de estilo\nunderground. Lluvias doradas de chicas otaku, y eso.",
+"“Ah, sí. No soy muy conocedor del porno, pero tengo entendido que es de estilo\nunderground. Lluvias doradas de chicas otaku, y eso.”",
 {"rt2"},
 },
 },
@@ -1152,8 +1152,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pues parece que el director es un senpai de tu club de arte.",
+name={"Katagai"},
+"“Pues parece que el director es un senpai de tu club de arte.”",
 {"rt2"},
 },
 },
@@ -1167,7 +1167,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? ¿Hablas en serio? ¿Quién?",
+"“¿Eh? ¿Hablas en serio? ¿Quién?”",
 {"rt2"},
 },
 },
@@ -1183,8 +1183,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ese extraño senpai tuyo llamado Akashi. El que voló un día frente al colegio.",
+name={"Katagai"},
+"“Ese extraño senpai tuyo llamado Akashi. El que voló un día frente al colegio.”",
 {"rt2"},
 },
 },
@@ -1198,7 +1198,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah~, Akashi~ Así que anda de director de películas porno.No me sorprende nada~",
+"“Ah~, Akashi~ Así que anda de director de películas porno.\nNo me sorprende nada~”",
 {"rt2"},
 },
 },
@@ -1212,7 +1212,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Aunque ya sabía que no podría terminar como matón... Director porno, eh... Y\nademás, de lluvias doradas amateur...",
+"“Aunque ya sabía que no podría terminar como matón... Director porno, eh... Y\nademás, de lluvias doradas amateur...”",
 {"rt2"},
 },
 },
@@ -1228,8 +1228,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pues parece que es todo un pro. Ha llevado a chicas otaku realmente lindas a\nhacer escenas de orina.",
+name={"Katagai"},
+"“Pues parece que es todo un pro. Ha llevado a chicas otaku realmente lindas a\nhacer escenas de orina.”",
 {"rt2"},
 },
 },
@@ -1243,7 +1243,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Pro?...",
+"“¿Pro?...”",
 {"rt2"},
 },
 },
@@ -1259,8 +1259,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ha convencido a actrices que normalmente no harían esa clase de escenas\nalocadas. Y dicen que es un experto negociador.",
+name={"Katagai"},
+"“Ha convencido a actrices que normalmente no harían esa clase de escenas\nalocadas. Y dicen que es un experto negociador.”",
 {"rt2"},
 },
 },
@@ -1274,7 +1274,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Experto negociador?... ¿Qué método usa para negociar?...",
+"“¿Experto negociador?... ¿Qué método usa para negociar?...”",
 {"rt2"},
 },
 },
@@ -1291,8 +1291,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Tiene una licencia del amor, la cual usa para pedirles insistentemente.",
+name={"Katagai"},
+"“Tiene una licencia del amor, la cual usa para pedirles insistentemente.”",
 {"rt2"},
 },
 },
@@ -1306,7 +1306,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Licencia del amor, eh...",
+"“Licencia del amor...”",
 {"rt2"},
 },
 },
@@ -1333,7 +1333,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Y en qué consiste esa licencia del amor?",
+"“¿Y en qué consiste esa licencia del amor?”",
 {"rt2"},
 },
 },
@@ -1350,8 +1350,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Al parecer se postra en el suelo pidiéndoles que actúen.",
+name={"Katagai"},
+"“Al parecer se postra en el suelo pidiéndoles que actúen.”",
 {"rt2"},
 },
 },
@@ -1365,7 +1365,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Se postra en el suelo?",
+"“¿Se postra en el suelo?”",
 {"rt2"},
 },
 },
@@ -1382,8 +1382,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Sí, se queda plantado en el suelo todo el rato.",
+name={"Katagai"},
+"“Sí, se queda plantado en el suelo todo el rato.”",
 {"rt2"},
 },
 },
@@ -1397,7 +1397,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Postrado en el suelo.",
+"“Postrado en el suelo.”",
 {"rt2"},
 },
 },
@@ -1413,8 +1413,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Al principio siempre le rechazan, pero el insiste e insiste postrado en el\nsuelo, sin parar.",
+name={"Katagai"},
+"“Al principio siempre le rechazan, pero el insiste e insiste postrado en el\nsuelo, sin parar.”",
 {"rt2"},
 },
 },
@@ -1430,8 +1430,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Cuentan que con eso logra que todas accedan. Es increíble, todo un experto.Un\ngenio.",
+name={"Katagai"},
+"“Cuentan que con eso logra que todas accedan. Es increíble, todo un experto.\nUn genio.”",
 {"rt2"},
 },
 },
@@ -1445,7 +1445,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Un... genio? ¿A eso, le llamas genio?",
+"“¿Un... genio? ¿A eso... le llamas genio?”",
 {"rt2"},
 },
 },
@@ -1475,8 +1475,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Sí. Por cierto, también ha producido películas normales.",
+name={"Katagai"},
+"“Sí. Por cierto, también ha producido películas normales.”",
 {"rt2"},
 },
 },
@@ -1490,7 +1490,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Sí?",
+"“¿Sí?”",
 {"rt2"},
 },
 },
@@ -1506,8 +1506,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Es más que todo cine independiente, aunque tienen buena fama.",
+name={"Katagai"},
+"“Es más que todo cine independiente, aunque tienen buena fama.”",
 {"rt2"},
 },
 },
@@ -1521,7 +1521,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo... Así que anda produciendo películas...",
+"“Ya veo... Así que anda produciendo películas...”",
 {"rt2"},
 },
 },
@@ -1537,8 +1537,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Me vi una y debo decir que son muy buenas. Te impactan, describen muy bien el\nsufrimiento de las personas.",
+name={"Katagai"},
+"“Me vi una y debo decir que son muy buenas. Te impactan, describen muy bien el\nsufrimiento de las personas.”",
 {"rt2"},
 },
 },
@@ -1552,7 +1552,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Je, vaya. Ha hecho también dramas... ¿De qué va la película?",
+"“Je, vaya. Ha hecho también dramas... ¿De qué va la película?”",
 {"rt2"},
 },
 },
@@ -1568,8 +1568,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pues, a una madre de familia le crece un pe*e, y la familia sufre por eso.",
+name={"Katagai"},
+"“Pues, a una madre de familia le crece un pe*e, y la familia sufre por eso.”",
 {"rt2"},
 },
 },
@@ -1589,8 +1589,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Kusanagi, no te caigas. ¿Estás bien? ¿Ya te embriagaste?",
+name={"Katagai"},
+"“Kusanagi, no te caigas. ¿Estás bien? ¿Ya te embriagaste?”",
 {"rt2"},
 },
 },
@@ -1606,7 +1606,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, es nada. Katakai... escucha, ¿estás hablando en serio?",
+"“No, es nada. Katagai... escucha, ¿estás hablando en serio?”",
 {"rt2"},
 },
 },
@@ -1623,8 +1623,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"En serio, muy en serio. Me cautivó bastante. La última escena donde corta su\nmiembro con una tegatana mientras llora, Dios...",
+name={"Katagai"},
+"“En serio, muy en serio. Me cautivó bastante. La última escena donde corta su\nmiembro con una tegatana mientras llora, Dios...”",
 {"rt2"},
 },
 },
@@ -1638,7 +1638,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Con una tegatana?",
+"“¿Con una tegatana?”",
 {"rt2"},
 },
 },
@@ -1668,8 +1668,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Y bien? ¿Qué te ha pasado?",
+name={"Katagai"},
+"“¿Y bien? ¿Qué te ha pasado?”",
 {"rt2"},
 },
 },
@@ -1683,7 +1683,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Nada... No ha pasado nada...",
+"“Nada... No ha pasado nada...”",
 {"rt2"},
 },
 },
@@ -1700,8 +1700,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Nada, eh...Solo alguien como yo, a quien realmente no le pasa nada, podría\ndecir eso.",
+name={"Katagai"},
+"“Nada, eh...\nSolo alguien como yo, a quien realmente no le pasa nada, podría decir eso.”",
 {"rt2"},
 },
 },
@@ -1715,7 +1715,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Quiero decir, ¿qué me podría pasar? No soy empleado formal, no tengo novia, y\nahora podría terminar en la calle...",
+"“Quiero decir, ¿qué me podría pasar? No soy empleado formal, no tengo novia, y\nahora podría terminar en la calle...”",
 {"rt2"},
 },
 },
@@ -1732,8 +1732,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Idiota... A eso me refiero cuando pregunto por si pasa algo...",
+name={"Katagai"},
+"“Idiota... A eso me refiero cuando pregunto por si pasa algo...”",
 {"rt2"},
 },
 },
@@ -1747,7 +1747,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Algo, algo, ¿qué significa algo? No entiendo bien...",
+"“Algo, algo, ¿qué significa algo? No entiendo bien...”",
 {"rt2"},
 },
 },
@@ -1763,8 +1763,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Si sigues haciéndote el tonto no voy a invitarte nada.",
+name={"Katagai"},
+"“Si sigues haciéndote el tonto, no voy a invitarte nada.”",
 {"rt2"},
 },
 },
@@ -1779,7 +1779,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Eh? ¿Me pagarás los tragos?",
+"“¿Eh? ¿Me pagarás los tragos?”",
 {"rt2"},
 },
 },
@@ -1796,8 +1796,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pues, ¿por qué no?",
+name={"Katagai"},
+"“Pues, ¿por qué no?”",
 {"rt2"},
 },
 },
@@ -1813,8 +1813,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Mi viejo amigo sigue brillando ahora de la misma forma que antes. Hay que\nbrindar por eso, así deba pagar yo.",
+name={"Katagai"},
+"“Mi viejo amigo sigue brillando ahora de la misma forma que antes. Hay que\nbrindar por eso, así deba pagar yo.”",
 {"rt2"},
 },
 },
@@ -1828,7 +1828,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Brillar?... ¿Recuerdas cuántos años tienes, Katakai?...",
+"“¿Brillar?... ¿Recuerdas cuántos años tienes, Katagai?...”",
 {"rt2"},
 },
 },
@@ -1844,8 +1844,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¿Es que acaso los viejos no tenemos derecho a brillar también?",
+name={"Katagai"},
+"“¿Es que acaso los viejos no tenemos derecho a brillar también?”",
 {"rt2"},
 },
 },
@@ -1859,7 +1859,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Estaría terrible.",
+"“Estaría terrible.”",
 {"rt2"},
 },
 },
@@ -1877,7 +1877,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Eso no es cierto. Tomen, esto va por parte de la casa.",
+"“Eso no es cierto. Tomen, esto va por parte de la casa.”",
 {"rt2"},
 },
 },
@@ -1909,7 +1909,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"No está bien que beba tan rápido. Vaya con más calma.",
+"“No está bien que beba tan rápido. Vaya con más calma.”",
 {"rt2"},
 },
 },
@@ -1925,8 +1925,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Así es. ¡Ten cuidado!",
+name={"Katagai"},
+"“Así es. ¡Ten cuidado!”",
 {"rt2"},
 },
 },
@@ -1939,7 +1939,7 @@ block_00124={
 text={
 ja={
 {
-"Katakai se bebe de una sentada el té de cúrcuma que Nonomi-kun había traído.",
+"Katagai se bebe de una sentada el té de cúrcuma que Nonomi-kun había traído.",
 {"rt2"},
 },
 },
@@ -1956,8 +1956,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¡Pwah! ¡Bebí bastante! ¡Iré un momento al baño!",
+name={"Katagai"},
+"“¡Pwah! ¡Bebí bastante! ¡Iré un momento al baño!”",
 {"rt2"},
 },
 },
@@ -1971,7 +1971,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Bueno, bueno.",
+"“Bueno, bueno.”",
 {"rt2"},
 },
 },
@@ -1984,7 +1984,7 @@ block_00127={
 text={
 ja={
 {
-"Katakai se va al baño.",
+"Katagai se va al baño.",
 {"rt2"},
 },
 },
@@ -2004,7 +2004,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Uiiin, qué cansancio, qué cansancio.",
+"“Uiiin, qué cansancio, qué cansancio.”",
 {"rt2"},
 },
 },
@@ -2033,7 +2033,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Estás en medio de tu turno, ¿no? ¿Está bien que te sientes con nosotros?",
+"“Estás en medio de tu turno, ¿no? ¿Está bien que te sientes con nosotros?”",
 {"rt2"},
 },
 },
@@ -2050,7 +2050,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Ya atendí todos los pedidos, no hay problema. Kusanagi-san, ha estado bebiendo\ndesde que llegó, va a desmayarse.",
+"“Ya atendí todos los pedidos, no hay problema. Kusanagi-san, ha estado bebiendo\ndesde que llegó, va a desmayarse.”",
 {"rt2"},
 },
 },
@@ -2065,7 +2065,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ajajaja, ahora tengo a una empleada de medio tiempo de un pub preocupándose por\nmí. Estoy mal, definitivamente.",
+"“Ajajaja, ahora tengo a una empleada de medio tiempo de un pub preocupándose por\nmí. Estoy mal, definitivamente.”",
 {"rt2"},
 },
 },
@@ -2083,7 +2083,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Me preocupo por usted como estudiante. Si sigue bebiendo de esa forma no se\nsentirá muy bien mañana.",
+"“Me preocupo por usted como estudiante. Si sigue bebiendo de esa forma no se\nsentirá muy bien mañana.”",
 {"rt2"},
 },
 },
@@ -2097,7 +2097,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues entonces debe ser peor. ¿Tener a una estudiante preocupándose por mi forma\nde beber? Dios.",
+"“Pues entonces debe ser peor. ¿Tener a una estudiante preocupándose por mi forma\nde beber? Dios.”",
 {"rt2"},
 },
 },
@@ -2115,7 +2115,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿El licor lo tiene mal?",
+"“¿El licor lo tiene mal?”",
 {"rt2"},
 },
 },
@@ -2129,7 +2129,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Te parece?",
+"“¿Te parece?”",
 {"rt2"},
 },
 },
@@ -2160,7 +2160,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"No lo sé.",
+"“No lo sé.”",
 {"rt2"},
 },
 },
@@ -2177,7 +2177,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Nonomi no bebe alcohol, y nunca ha tenido que beber para calmar algún\nsentimiento. Así que no sé si usted está mal o alegre.",
+"“Nonomi no bebe alcohol, y nunca ha tenido que beber para calmar algún\nsentimiento. Así que no sé si usted está mal o alegre.”",
 {"rt2"},
 },
 },
@@ -2191,7 +2191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -2209,7 +2209,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Por qué los adultos beben?Porque tristemente cuando nos volvemos adultos, solo\nel alcohol nos embriaga.",
+"“¿Por qué los adultos beben?Porque tristemente cuando nos volvemos adultos, solo\nel alcohol nos embriaga.”",
 {"rt2"},
 },
 },
@@ -2226,7 +2226,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Pero el niño no necesita beber. Solo jugar le basta para embriagarse...",
+"“Pero el niño no necesita beber. Solo jugar le basta para embriagarse...”",
 {"rt2"},
 },
 },
@@ -2240,7 +2240,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Quién dijo eso?",
+"“¿Quién dijo eso?”",
 {"rt2"},
 },
 },
@@ -2258,7 +2258,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"No lo sé. Lo encontré en internet.",
+"“No lo sé. Lo encontré en internet.”",
 {"rt2"},
 },
 },
@@ -2272,7 +2272,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, ya veo...",
+"“Ah, ya veo...”",
 {"rt2"},
 },
 },
@@ -2290,7 +2290,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Debe ser complicado para usted.",
+"“Debe ser complicado para usted.”",
 {"rt2"},
 },
 },
@@ -2304,7 +2304,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Complicado?",
+"“¿Complicado?”",
 {"rt2"},
 },
 },
@@ -2322,7 +2322,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Trabajar en un bar me ha enseñado que el mundo de los adultos es muy, muy\ncomplicado.",
+"“Trabajar en un bar me ha enseñado que el mundo de los adultos es muy, muy\ncomplicado.”",
 {"rt2"},
 },
 },
@@ -2336,7 +2336,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ni tanto. El mundo era también complicado de joven.",
+"“Ni tanto. El mundo era también complicado de joven.”",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿De verdad?",
+"“¿De verdad?”",
 {"rt2"},
 },
 },
@@ -2368,7 +2368,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, o al menos eso creo.Cuando trabajas de profesor tienes la oportunidad de\nobservar muy bien a la población joven.",
+"“Sí, o al menos eso creo.\nCuando trabajas de profesor tienes la oportunidad de observar muy bien a la población joven.”",
 {"rt2"},
 },
 },
@@ -2382,7 +2382,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esa microsociedad llamada colegio es más compleja de lo que parece.",
+"“Esa microsociedad llamada colegio es más compleja de lo que parece.”",
 {"rt2"},
 },
 },
@@ -2396,7 +2396,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por eso siempre pienso, ah, los jóvenes de hoy en día también la tienen\ndifícil.",
+"“Por eso siempre pienso, ah, los jóvenes de hoy en día también la tienen\ndifícil.”",
 {"rt2"},
 },
 },
@@ -2414,7 +2414,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Sí, la vida del estudiante tampoco es tan fácil.",
+"“Sí, la vida del estudiante tampoco es tan fácil.”",
 {"rt2"},
 },
 },
@@ -2431,7 +2431,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Aunque, en nuestro mundo, la moral, la fuerza y la inteligencia son más\nsencillas que la del mundo de los adultos.",
+"“Aunque, en nuestro mundo, la moral, la fuerza y la inteligencia son más\nsencillas que la del mundo de los adultos.”",
 {"rt2"},
 },
 },
@@ -2448,7 +2448,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"El chico popular de la clase. El inteligente, con buenas calificaciones. Y el\nlíder, bueno en los deportes. Nuestro mundo es más sencillo que el de los\nadultos.",
+"“El chico popular de la clase. El inteligente, con buenas calificaciones. Y el\nlíder, bueno en los deportes. Nuestro mundo es más sencillo que el de los\nadultos.”",
 {"rt2"},
 },
 },
@@ -2466,7 +2466,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Conseguir buenas calificaciones y entrar a la universidad que queremos, eso es\nlo único que define nuestro futuro.",
+"“Conseguir buenas calificaciones y entrar a la universidad que queremos, eso es\nlo único que define nuestro futuro.”",
 {"rt2"},
 },
 },
@@ -2484,7 +2484,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Las definiciones de moral, fuerza e inteligencia que nos dan son muy claras.",
+"“Las definiciones de moral, fuerza e inteligencia que nos dan son muy claras.”",
 {"rt2"},
 },
 },
@@ -2498,7 +2498,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo...",
+"“Ya veo...”",
 {"rt2"},
 },
 },
@@ -2516,7 +2516,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Por eso podemos brillar. De hecho, creo que solo el hecho de ser joven nos hace\nbrillar a veces.",
+"“Por eso podemos brillar. De hecho, creo que solo el hecho de ser joven nos hace\nbrillar a veces.”",
 {"rt2"},
 },
 },
@@ -2534,7 +2534,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Por eso me parece estupendo que los adultos brillen también.",
+"“Por eso me parece estupendo que los adultos brillen también.”",
 {"rt2"},
 },
 },
@@ -2551,7 +2551,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Brillar en este mundo tan complicado me parece increíble.Al menos a mí me\nparece fascinante que un hombre pueda lograrlo.",
+"“Brillar en este mundo tan complicado me parece increíble.Al menos a mí me\nparece fascinante que un hombre pueda lograrlo.”",
 {"rt2"},
 },
 },
@@ -2565,7 +2565,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Un adulto brillando, eh... Me imagino a alguien con muchos collares y joyas. No\nme gusta mucho eso.",
+"“Un adulto brillando... Me imagino a alguien con muchos collares y joyas. No\nme gusta mucho eso.”",
 {"rt2"},
 },
 },
@@ -2583,7 +2583,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Otra vez con sus bromas...",
+"“Otra vez con sus bromas...”",
 {"rt2"},
 },
 },
@@ -2601,7 +2601,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Aunque es típico de usted, sí...",
+"“Aunque es típico de usted, sí...”",
 {"rt2"},
 },
 },
@@ -2618,7 +2618,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Trabajando acá he tenido la oportunidad de observar a muchos adultos.",
+"“Trabajando acá he tenido la oportunidad de observar a muchos adultos.”",
 {"rt2"},
 },
 },
@@ -2635,7 +2635,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Pero son pocas las personas como usted, Kusanagi-san.",
+"“Pero son pocas las personas como usted, Kusanagi-san.”",
 {"rt2"},
 },
 },
@@ -2649,7 +2649,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Me estás diciendo que soy único? Eso no suena mucho a elogio, eh.",
+"“¿Me estás diciendo que soy único? Eso no suena mucho a elogio.”",
 {"rt2"},
 },
 },
@@ -2668,7 +2668,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¡Sí es un elogio! Vivir de esa manera para uno mismo me parece genial.",
+"“¡Sí es un elogio! Vivir de esa manera para uno mismo me parece genial.”",
 {"rt2"},
 },
 },
@@ -2682,7 +2682,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Vivir para uno mismo? ¿Yo?",
+"“¿Vivir para uno mismo? ¿Yo?”",
 {"rt2"},
 },
 },
@@ -2699,7 +2699,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Sí. Usted siempre está ocultándolo todo, pretendiendo ser inofensivo.Pero a mi\nparecer, usted es muy egocéntrico, y además avasallador.",
+"“Sí. Usted siempre está ocultándolo todo, pretendiendo ser inofensivo.Pero a mi\nparecer, usted es muy egocéntrico, y además avasallador.”",
 {"rt2"},
 },
 },
@@ -2717,7 +2717,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"A mí me encanta la versión de 'Las huellas de los cerezos' de Naoya Kusanagi.\n¡Mucho más que la de Bourbagi y la de Kenichiro Kusanagi!",
+"“A mí me encanta la versión de 'Las huellas de los cerezos' de Naoya Kusanagi.\n¡Mucho más que la de Bourbagi y la de Kenichiro Kusanagi!”",
 {"rt2"},
 },
 },
@@ -2731,7 +2731,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Qué idioteces dices? Los mismos reportajes lo han dicho, ese mural es obra de\nKenichiro Kusanagi.",
+"“¿Qué idioteces dices? Los mismos reportajes lo han dicho, ese mural es obra de\nKenichiro Kusanagi.”",
 {"rt2"},
 },
 },
@@ -2749,7 +2749,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Si el estilo de sus obras fuese un poco más discreto, quizá me hubiese creído\nlo que dicen en televisión.",
+"“Si el estilo de sus obras fuese un poco más discreto, quizá me hubiese creído\nlo que dicen en televisión.”",
 {"rt2"},
 },
 },
@@ -2767,7 +2767,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Aunque bueno, supongo que todo artista es egocéntrico.Así no estén conscientes\nde eso, sus obras destilan partes de su ego.",
+"“Aunque bueno, supongo que todo artista es egocéntrico.\nAsí no estén conscientes de eso, sus obras destilan partes de su ego.”",
 {"rt2"},
 },
 },
@@ -2785,7 +2785,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"El filósofo Ludwig Wittgenstein llegó a decir esto una vez.",
+"“El filósofo Ludwig Wittgenstein llegó a decir esto una vez.”",
 {"rt2"},
 },
 },
@@ -2802,7 +2802,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Cuando el genio es delgado, puede verse la inteligencia.",
+"“Cuando el genio es delgado, puede verse la inteligencia.”",
 {"rt2"},
 },
 },
@@ -2819,7 +2819,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Qué se puede ver entonces de un verdadero genio?",
+"“¿Qué se puede ver entonces de un verdadero genio?”",
 {"rt2"},
 },
 },
@@ -2833,7 +2833,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No lo sé.",
+"“No lo sé.”",
 {"rt2"},
 },
 },
@@ -2850,7 +2850,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Por cierto, él también llegó a decir esto.",
+"“Por cierto, él también llegó a decir esto.”",
 {"rt2"},
 },
 },
@@ -2868,7 +2868,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¡Genio es talento practicado con coraje!",
+"“¡Genio es talento practicado con coraje!”",
 {"rt2"},
 },
 },
@@ -2886,7 +2886,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Si bien no pareciera, todos están siempre con los ojos sobre usted, profesor.",
+"“Si bien no pareciera, todos están siempre con los ojos sobre usted, profesor.”",
 {"rt2"},
 },
 },
@@ -2905,7 +2905,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¡Oh oh, Katakai-san está por volver! ¡Bueno, regresaré a trabajar!",
+"“¡Oh oh, Katagai-san está por volver! ¡Bueno, regresaré a trabajar!”",
 {"rt2"},
 },
 },
@@ -2919,7 +2919,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Bueno, qué te vaya bien.",
+"“Bueno, que te vaya bien.”",
 {"rt2"},
 },
 },
@@ -2935,7 +2935,7 @@ block_00185={
 text={
 ja={
 {
-"Katakai regresa y Nonomi-kun vuelve al trabajo.",
+"Katagai regresa y Nonomi-kun vuelve al trabajo.",
 {"rt2"},
 },
 },
@@ -2952,8 +2952,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Estuviste hablando con Nono-chan mientras yo estaba en el baño, ¿verdad?",
+name={"Katagai"},
+"“Estuviste hablando con Nono-chan mientras yo estaba en el baño, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -2967,7 +2967,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, hablamos.",
+"“Sí, hablamos.”",
 {"rt2"},
 },
 },
@@ -2984,8 +2984,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Diablos, ¿y me dices lolicon a mí?",
+name={"Katagai"},
+"“Diablos, ¿y me dices lolicon a mí?”",
 {"rt2"},
 },
 },
@@ -2999,7 +2999,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Acaso hablar con ella me hace un lolicon?",
+"“¿Acaso hablar con ella me hace un lolicon?”",
 {"rt2"},
 },
 },
@@ -3015,8 +3015,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Fiuu...",
+name={"Katagai"},
+"“Fiuu...”",
 {"rt2"},
 },
 },
@@ -3033,8 +3033,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ah, jovencitas...",
+name={"Katagai"},
+"“Ah, jovencitas...”",
 {"rt2"},
 },
 },
@@ -3048,7 +3048,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Vas a venir de nuevo con tus perversiones criminales?",
+"“¿Vas a venir de nuevo con tus perversiones criminales?”",
 {"rt2"},
 },
 },
@@ -3065,8 +3065,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No es eso. Solo que siendo joven todo es tan simple. Es sencillamente\nmaravilloso.",
+name={"Katagai"},
+"“No es eso. Solo que siendo joven todo es tan simple. Es sencillamente\nmaravilloso.”",
 {"rt2"},
 },
 },
@@ -3080,7 +3080,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Estuve hablando acerca de eso con Nonomi-kun.",
+"“Estuve hablando acerca de eso con Nonomi-kun.”",
 {"rt2"},
 },
 },
@@ -3096,8 +3096,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Todo es tan claro, y esforzarse en algo es realmente fácil.",
+name={"Katagai"},
+"“Todo es tan claro, y esforzarse en algo es realmente fácil.”",
 {"rt2"},
 },
 },
@@ -3111,7 +3111,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Como si supieras tanto de eso... Nosotros dos somos ejemplo en carne y hueso de\nlo que pasa cuando alguien no se esfuerza de joven.",
+"“Como si supieras tanto de eso... Nosotros dos somos ejemplo en carne y hueso de\nlo que pasa cuando alguien no se esfuerza de joven.”",
 {"rt2"},
 },
 },
@@ -3128,8 +3128,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Tal vez. ¡Aunque pude ir a una buena universidad, e incluso entré al posgrado!",
+name={"Katagai"},
+"“Tal vez. ¡Aunque pude ir a una buena universidad, e incluso entré al posgrado!”",
 {"rt2"},
 },
 },
@@ -3143,7 +3143,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"El cual abandonaste.",
+"“El cual abandonaste.”",
 {"rt2"},
 },
 },
@@ -3160,8 +3160,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Sí, porque decidí emprender un viaje espiritual.",
+name={"Katagai"},
+"“Sí, porque decidí emprender un viaje espiritual.”",
 {"rt2"},
 },
 },
@@ -3175,7 +3175,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Idiota...",
+"“Idiota...”",
 {"rt2"},
 },
 },
@@ -3192,8 +3192,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No puedes pretender vivir toda tu vida haciendo decisiones inteligentes...",
+name={"Katagai"},
+"“No puedes pretender vivir toda tu vida haciendo decisiones inteligentes...”",
 {"rt2"},
 },
 },
@@ -3207,7 +3207,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te equivocas, nada hay de malo en vivir inteligentemente.",
+"“Te equivocas, nada hay de malo en vivir inteligentemente.”",
 {"rt2"},
 },
 },
@@ -3224,8 +3224,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Estás en lo correcto.Pero, ¿qué tiene de divertido andar diciendo siempre lo\ncorrecto?",
+name={"Katagai"},
+"“Estás en lo correcto.\nPero ¿qué tiene de divertido andar diciendo siempre lo correcto?”",
 {"rt2"},
 },
 },
@@ -3239,7 +3239,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tal vez... Aunque ir en un viaje de iluminación espiritual tampoco tiene nada\nde inteligente.",
+"“Tal vez... Aunque ir en un viaje de iluminación espiritual tampoco tiene nada\nde inteligente.”",
 {"rt2"},
 },
 },
@@ -3255,8 +3255,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Ah, sí.",
+name={"Katagai"},
+"“Ah, sí.”",
 {"rt2"},
 },
 },
@@ -3286,8 +3286,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Aunque, has estado trabajando duro, ¿no?",
+name={"Katagai"},
+"“Aunque, has estado trabajando duro, ¿no?”",
 {"rt2"},
 },
 },
@@ -3301,7 +3301,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -3315,7 +3315,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Que hay de ti?",
+"“¿Que hay de ti?”",
 {"rt2"},
 },
 },
@@ -3332,8 +3332,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Yo también trabajo duro. De lo contrario no podría mantenerme.",
+name={"Katagai"},
+"“Yo también trabajo duro. De lo contrario no podría mantenerme.”",
 {"rt2"},
 },
 },
@@ -3347,7 +3347,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Es de suponerse.",
+"“Es de suponerse.”",
 {"rt2"},
 },
 },
@@ -3364,8 +3364,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Los adultos siempre trabajan duro, así no brillen.",
+name={"Katagai"},
+"“Los adultos siempre trabajan duro, así no brillen.”",
 {"rt2"},
 },
 },
@@ -3379,7 +3379,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Para mantenerse, para vivir.",
+"“Para mantenerse, para vivir.”",
 {"rt2"},
 },
 },
@@ -3396,8 +3396,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"De llenos, intentando sobrevivir...",
+name={"Katagai"},
+"“De llenos, intentando sobrevivir...”",
 {"rt2"},
 },
 },
@@ -3411,7 +3411,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -3427,8 +3427,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"......",
+name={"Katagai"},
+"“...”",
 {"rt2"},
 },
 },
@@ -3443,7 +3443,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Otro shochu, por favor!",
+"“¡Otro shochu, por favor!”",
 {"rt2"},
 },
 },
@@ -3461,8 +3461,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¡Para mí también!",
+name={"Katagai"},
+"“¡Para mí también!”",
 {"rt2"},
 },
 },
@@ -3480,7 +3480,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"¿Otro más? ¿De verdad pueden seguir tomando?",
+"“¿Otro más? ¿De verdad pueden seguir tomando?”",
 {"rt2"},
 },
 },
@@ -3497,8 +3497,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"No te preocupes. ¡Hoy es día para beber!",
+name={"Katagai"},
+"“No te preocupes. ¡Hoy es día para beber!”",
 {"rt2"},
 },
 },
@@ -3515,7 +3515,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"Cielo santo. No me haré responsable de ninguna resaca.",
+"“Cielo santo. No me haré responsable de ninguna resaca.”",
 {"rt2"},
 },
 },
@@ -3531,7 +3531,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"......",
+"“...”",
 {"rt2"},
 },
 },
@@ -3546,7 +3546,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así que de joven todo es simple, eh...",
+"“Así que de joven todo es simple...”",
 {"rt2"},
 },
 },
@@ -3563,8 +3563,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Así es.",
+name={"Katagai"},
+"“Así es.”",
 {"rt2"},
 },
 },
@@ -3578,7 +3578,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Cuando entras en la adultez la cantidad de cosas tediosas aumenta\nexponencialmente...",
+"“Cuando entras en la adultez la cantidad de cosas tediosas aumenta\nexponencialmente...”",
 {"rt2"},
 },
 },
@@ -3594,8 +3594,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pero también hay muchas cosas divertidas. Puedes beber alcohol, puedes fumar,\npuedes ir con prostitutas, comprar todas las golosinas, juguetes y\nvideojuegos que quieras.",
+name={"Katagai"},
+"“Pero también hay muchas cosas divertidas. Puedes beber alcohol, puedes fumar,\npuedes ir con prostitutas, comprar todas las golosinas, juguetes y\nvideojuegos que quieras.”",
 {"rt2"},
 },
 },
@@ -3611,8 +3611,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Al convertirte en adulto puedes hacer lo que te da la gana.",
+name={"Katagai"},
+"“Al convertirte en adulto puedes hacer lo que te da la gana.”",
 {"rt2"},
 },
 },
@@ -3626,7 +3626,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Discrepo con lo de las prostitutas, eso sí...",
+"“Discrepo con lo de las prostitutas, eso sí...”",
 {"rt2"},
 },
 },
@@ -3643,8 +3643,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Vamos, no digas eso. ¿No quieres ir conmigo esta noche?",
+name={"Katagai"},
+"“Vamos, no digas eso. ¿No quieres ir conmigo esta noche?”",
 {"rt2"},
 },
 },
@@ -3658,7 +3658,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me basta con el alcohol.",
+"“Me basta con el alcohol.”",
 {"rt2"},
 },
 },
@@ -3675,8 +3675,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Pues bebe entonces, y deja que el alcohol se lleve lo bueno y lo malo.\nEmbriagate de esa sensación que te llega hasta el estómago.",
+name={"Katagai"},
+"“Pues bebe entonces, y deja que el alcohol se lleve lo bueno y lo malo.\nEmbriagate de esa sensación que te llega hasta el estómago.”",
 {"rt2"},
 },
 },
@@ -3692,8 +3692,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"Después de todo, no está mal hacerlo de vez en cuando, ¿no?",
+name={"Katagai"},
+"“Después de todo, no está mal hacerlo de vez en cuando, ¿no?”",
 {"rt2"},
 },
 },
@@ -3708,7 +3708,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¡Tu invitas, eh!",
+"“¡Tú invitas, eh!”",
 {"rt2"},
 },
 },
@@ -3725,8 +3725,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"¡Tenlo por seguro!",
+name={"Katagai"},
+"“¡Tenlo por seguro!”",
 {"rt2"},
 },
 },
@@ -3792,7 +3792,7 @@ block_00239={
 text={
 ja={
 {
-"Aunque, tiene algo de sentido.",
+"Aunque tiene algo de sentido.",
 {"rt2"},
 },
 },
@@ -3857,7 +3857,7 @@ block_00244={
 text={
 ja={
 {
-"Es tan complicado lo que siento que no logro dilucidar qué realmente es.",
+"Es tan complicado lo que siento que no logro dilucidar qué es.",
 {"rt2"},
 },
 },
