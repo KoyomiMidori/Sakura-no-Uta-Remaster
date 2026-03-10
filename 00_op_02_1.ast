@@ -285,7 +285,7 @@ block_00020={
 text={
 ja={
 {
-"Si vendo esto, seguramente podría hacer un buen monto de dinero, eh...",
+"Si vendo esto, seguramente podría hacer un buen monto de dinero...",
 {"rt2"},
 },
 },
@@ -602,7 +602,7 @@ block_00042={
 text={
 ja={
 {
-"No tengo dinero, pero no está mal que me de mis lujos de vez en cuando.",
+"No tengo dinero, pero no está mal que me dé mis lujos de vez en cuando.",
 {"rt2"},
 },
 },
@@ -616,7 +616,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hoy vamos a darnos un festín con algo de Gyuudon.”",
+"“Hoy vamos a darnos un festín con algo de gyuudon.”",
 {"rt2"},
 },
 },
@@ -637,7 +637,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Bien... ¿Qué Gyuudon de qué restaurante debería comer?...”",
+"“Bien... ¿Qué gyuudon de qué restaurante debería comer?...”",
 {"rt2"},
 },
 },
@@ -830,7 +830,7 @@ block_00057={
 text={
 ja={
 {
-"Lleva un vestido tipo Maid, pero obviamente, no es una de verdad. Asiste, al\nigual que yo, al colegio Yumihari, y es mi compañera de clases. Trabaja de\nmedio tiempo en el Café Quimera.",
+"Lleva un vestido tipo maid, pero obviamente, no es una de verdad. Asiste, al\nigual que yo, al colegio Yumihari, y es mi compañera de clases. Trabaja de\nmedio tiempo en el Café Quimera.",
 {"rt2"},
 },
 },
@@ -1364,7 +1364,7 @@ block_00091={
 text={
 ja={
 {
-"Levantarse la falda y mostrar las pantaletas, ¿no? Por más que se trate de\nalguien como yo, no hay manera de que le pida algo así a una compañera de\ncla――",
+"Levantarse la falda y mostrar las pantis, ¿no? Por más que se trate de\nalguien como yo, no hay manera de que le pida algo así a una compañera de\ncla――",
 {"rt2"},
 },
 },
@@ -2124,7 +2124,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Levantarme la falda delante de ti, mostrar mis panties y saludarte? ¿Y-Y? ¿De\nqué manera esperabas que lo hiciera?”",
+"“¿Levantarme la falda delante de ti, mostrar mis pantis y saludarte? ¿Y-Y? ¿De\nqué manera esperabas que lo hiciera?”",
 {"rt2"},
 },
 },
@@ -2392,7 +2392,7 @@ block_00154={
 text={
 ja={
 {
-"Sin duda alguna, y sin quererlo, malentendí las cosas pensando que 'Levantarse\nla falda = Mostrar las pantaletas'.",
+"Sin duda alguna, y sin quererlo, malentendí las cosas pensando que 'Levantarse\nla falda = Mostrar las pantis'.",
 {"rt2"},
 },
 },
@@ -2845,7 +2845,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Bien, entonces un Gyuudon... listo. Hoy estoy encargada también de la cocina,\nasí que puedes esperar algo bueno.”",
+"“Bien, entonces un gyuudon... listo. Hoy estoy encargada también de la cocina,\nasí que puedes esperar algo bueno.”",
 {"rt2"},
 },
 },

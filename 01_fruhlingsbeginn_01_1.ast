@@ -113,7 +113,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Nao-kun... Pero tú también piensas lo mismo, ¿no, Nao-kun? Y por pensar eso es\nque――”",
+"“Nao-kun...\nPero tú también piensas lo mismo, ¿no, Nao-kun? Y por pensar eso es que――”",
 {"rt2"},
 },
 },
@@ -621,7 +621,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Porque no pude dormir nada.",
+"“Porque no pude dormir nada.”",
 {"rt2"},
 },
 },
@@ -1460,7 +1460,7 @@ block_00100={
 text={
 ja={
 {
-"No conozco mucho acerca de todas las reproducciones de Kenichiro Kusanagi,\npero, no conozco ninguna otra copia tan fiel como esta.",
+"No conozco mucho acerca de todas las reproducciones de Kenichiro Kusanagi,\npero no conozco ninguna otra copia tan fiel como esta.",
 {"rt2"},
 },
 },
@@ -1473,7 +1473,7 @@ block_00101={
 text={
 ja={
 {
-"Pero aun así, hay unas pocas y diminutas partes que fueron cambiadas respecto a\nla obra original.",
+"Aun así, hay unas pocas y diminutas partes que fueron cambiadas respecto a\nla obra original.",
 {"rt2"},
 },
 },
@@ -2271,7 +2271,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Entonces yo también... Ah, no es la gran cosa. ¡Solo pura casualidad! ¡Sí! Solo\nfue pura casualidad.”",
+"“Entonces yo también...\nAh, no es la gran cosa. ¡Solo pura casualidad! ¡Sí! Solo fue pura casualidad.”",
 {"rt2"},
 },
 },

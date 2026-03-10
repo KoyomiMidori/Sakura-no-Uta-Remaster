@@ -964,7 +964,7 @@ linkback="block_00054",
 linknext="block_00056",
 },
 block_00056={
-{"fg",ch="藍",size="z2",mode=3,path=":fg/aix/z2/",file="aix_z2f0000",face="f0008",head="aix_z2f",lv=5,id=9},
+{"fg",ch="藍",size="z2",mode=3,path=":fg/aix/z2/",file="aix_z2h0020",face="h0017h",head="aix_z2h",lv=5,id=9},
 {"fgact",ch="藍",act="びっくり",lv=5,id=9},
 {"text"},
 text={
@@ -988,7 +988,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Vulgar? ¿Eso piensas? Pero si no eres ninguna niña, ¿de qué te estás...?”",
+"“¿Vulgar? ¿Eso piensas? Pero si no eres ninguna niña, ¿de qué te estás?...”",
 {"rt2"},
 },
 },
@@ -1086,7 +1086,7 @@ linkback="block_00061",
 linknext="block_00063",
 },
 block_00063={
-{"fg",ch="藍",size="z2",mode=3,path=":fg/aix/z2/",file="aix_z2h0000",face="h0021",head="aix_z2h",lv=5,id=9},
+{"fg",ch="藍",size="z2",mode=3,path=":fg/aix/z2/",file="aix_z2h0020",face="h0006h",head="aix_z2h",lv=5,id=9},
 {"fgact",ch="藍",act="ジャンプ",lv=5,id=9},
 {"quake",mode="mw"},
 {"text"},
@@ -2033,7 +2033,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Debut hace poco? Dijiste también algo de la TV, ¿qué clase de trabajo hace?”",
+"“¿Debut hace poco?\nDijiste también algo de la TV, ¿qué clase de trabajo hace?”",
 {"rt2"},
 },
 },

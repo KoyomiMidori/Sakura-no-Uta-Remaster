@@ -1140,7 +1140,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aquel momento pensé 'No sé que esperas de mí golpeando la mesa y buscándome\ndiscusión'.”",
+"“Aquel momento pensé 'No sé qué esperas de mí golpeando la mesa y buscándome\ndiscusión'.”",
 {"rt2"},
 },
 },
@@ -1378,7 +1378,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Realmente te gusta el club de arte, eh.”",
+"“Realmente te gusta el club de arte.”",
 {"rt2"},
 },
 },
@@ -1442,7 +1442,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Gracias a alguien que se esmera en mantenerla de esa manera, eh...”",
+"“Gracias a alguien que se esmera en mantenerla de esa manera...”",
 {"rt2"},
 },
 },
@@ -1584,7 +1584,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Idiota, las asistencias se cuentan como tardías, pero solo hasta el primer\ntercio de la clase... Si no vamos ya me pondrán como inasistente.”",
+"“Idiota, las asistencias se cuentan como tardías, pero solo hasta el primer\ntercio de la clase... Si no vamos ya, me pondrán como inasistente.”",
 {"rt2"},
 },
 },
@@ -2017,7 +2017,7 @@ block_00130={
 text={
 ja={
 {
-"En fin, es importante procurar no encontrarme con Toritani. Y, cuando traté de\ndirigirme en dirección hacia el portón frontal del colegio――",
+"En fin, es importante procurar no encontrarme con Toritani.\nY, cuando traté de dirigirme en dirección hacia el portón frontal del colegio――",
 {"rt2"},
 },
 },
@@ -2581,7 +2581,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Qué cruel eres, ehhh, aun viendo cómo tu mejor amigo está en tantos aprietos.”",
+"“Qué cruel eres, aun viendo cómo tu mejor amigo está en tantos aprietos.”",
 {"rt2"},
 },
 },

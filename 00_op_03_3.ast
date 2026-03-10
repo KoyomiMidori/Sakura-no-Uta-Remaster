@@ -409,7 +409,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Espera, ¿en qué momento?",
+"“Espera, ¿en qué momento?”",
 {"rt2"},
 },
 },
@@ -2363,7 +2363,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Cállate. O eso quisiera decir, pero, quizás te pida que me enseñes cuando tenga\nalgo de tiempo libre...”",
+"“Cállate. O eso quisiera decir, pero quizás te pida que me enseñes cuando tenga\nalgo de tiempo libre...”",
 {"rt2"},
 },
 },
@@ -3384,7 +3384,7 @@ block_00194={
 text={
 ja={
 {
-"Y me dijo que, siempre era posible que nos volviéramos a ver de nuevo…",
+"Y me dijo que, siempre era posible que nos volviéramos a ver de nuevo...",
 {"rt2"},
 },
 },

@@ -117,7 +117,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Buenos días. Eres mañanero, eh, Kusanagi.”",
+"“Buenos días. Eres mañanero, Kusanagi.”",
 {"rt2"},
 },
 },
@@ -235,7 +235,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿B-Bueno'~?”",
+"“¿B-Buenas~?”",
 {"rt2"},
 },
 },
@@ -949,7 +949,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“De ninguna manera podría hacer eso... Si no fueras tú ya te hubiera golpeado\npor haber dicho eso.”",
+"“De ninguna manera podría hacer eso... Si no fueras tú, ya te hubiera golpeado\npor haber dicho eso.”",
 {"rt2"},
 },
 },
@@ -987,7 +987,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ciertamente... Pero, aun así no puedo soltar esta mansión.”",
+"“Ciertamente... Pero aun así no puedo soltar esta mansión.”",
 {"rt2"},
 },
 },
@@ -1005,7 +1005,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Hay muchos recuerdos amargos en esta mansión, pero sobretodo eso, hay\nmuchísimos más recuerdos maravillosos. Creo que mientras yo siga viviendo\nseguiré protegiendo esta mansión...”",
+"“Hay muchos recuerdos amargos en esta mansión, pero sobre todo eso, hay\nmuchísimos más recuerdos maravillosos. Creo que mientras yo siga viviendo\nseguiré protegiendo esta mansión...”",
 {"rt2"},
 },
 },
@@ -1204,7 +1204,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tienes razón.",
+"“Tienes razón.”",
 {"rt2"},
 },
 },
@@ -1726,7 +1726,7 @@ block_00102={
 text={
 ja={
 {
-"La ironía y el sarcasmo no funcionan con este idiota…",
+"La ironía y el sarcasmo no funcionan con este idiota...",
 {"rt2"},
 },
 },
@@ -2133,7 +2133,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Tu crees?... Si tan solo viniera esa chica...”",
+"“¿Tú crees?... Si tan solo viniera esa chica...”",
 {"rt2"},
 },
 },
@@ -2166,7 +2166,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Comenzaron la mañana con muy buenos ánimos, eh.”",
+"“Comenzaron la mañana con muy buenos ánimos, ¿eh?”",
 {"rt2"},
 },
 },
@@ -2346,7 +2346,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Jaa, y ahora abandonas toda voluntad de replicar... Por Dios, qué hombre tan\npoco enérgico, eh. ¿No será que de veras te vas a morir mañana o pronto?”",
+"“Jaa, y ahora abandonas toda voluntad de replicar... Por Dios, qué hombre tan\npoco enérgico. ¿No será que de veras te vas a morir mañana o pronto?”",
 {"rt2"},
 },
 },

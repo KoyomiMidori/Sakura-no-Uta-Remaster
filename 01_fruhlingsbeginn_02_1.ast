@@ -112,7 +112,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Kusanagi vino a buscarte desde temprano~ Se tomo la molestia de venir a\nbuscarte, y hasta se metió a la casa para preparar el desayuno~”",
+"“Kusanagi vino a buscarte desde temprano~ Se tomó la molestia de venir a\nbuscarte, y hasta se metió a la casa para preparar el desayuno~”",
 {"rt2"},
 },
 },
@@ -487,7 +487,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por Dios, si sigues parado ahí como un tonto vas a llegar tarde.”",
+"“Por Dios, si sigues parado ahí como un tonto, vas a llegar tarde.”",
 {"rt2"},
 },
 },
@@ -1406,7 +1406,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Sí importa. No es momento para andar medio dormidos. ¡Observa! ¡Aún mientras\nestamos acá!”",
+"“Sí importa. No es momento para andar medio dormidos. ¡Observa! ¡Mientras\nestamos acá!”",
 {"rt2"},
 },
 },
@@ -2236,7 +2236,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡I-Idiota! ¡Las Vespa son--! ¡¿En primer lugar, en qué época se supone que\nnaciste, Aneki?! ¡Llamando 'ciclomotor' a una scooter!”",
+"“¡I-Idiota! ¡Las Vespa son--! ¡En primer lugar, ¿en qué época se supone que\nnaciste, Aneki?! ¡Llamando 'ciclomotor' a una scooter!”",
 {"rt2"},
 },
 },
@@ -2541,7 +2541,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Oigan, realmente no tienen prisa? ¿No está como que un poco peligrosa la hora?”",
+"“Oigan, ¿realmente no tienen prisa? ¿No está como que un poco peligrosa la hora?”",
 {"rt2"},
 },
 },
@@ -2675,7 +2675,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Esto no está nada bien... ¡Si no llego en 5 minutos a la estación no podré\ntomar el expreso!”",
+"“Esto no está nada bien... ¡Si no llego en 5 minutos a la estación, no podré\ntomar el expreso!”",
 {"rt2"},
 },
 },
@@ -3650,7 +3650,7 @@ block_00226={
 text={
 ja={
 {
-"Mas que una pared, parece un muro de piedra.",
+"Más que una pared, parece un muro de piedra.",
 {"rt2"},
 },
 },
@@ -3796,7 +3796,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Es esa práctica donde se corre, salta, trepa y se controlan todos los\nmovimientos en todo tipo de entornos. Leí en una revista de artes marciales\nque se originó de las carreras de obstáculos empleadas por el ejercito.”",
+"“Es esa práctica donde se corre, salta, trepa y se controlan todos los\nmovimientos en todo tipo de entornos. Leí en una revista de artes marciales\nque se originó de las carreras de obstáculos empleadas por el ejército.”",
 {"rt2"},
 },
 },
@@ -3843,7 +3843,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues sí. Cuando eres el hijo de Kenichiro Kusanagi desarrollas varias\nhabilidades especiales bastante descabelladas...”",
+"“Pues sí. Cuando eres el hijo de Kenichiro Kusanagi, desarrollas varias\nhabilidades especiales bastante descabelladas...”",
 {"rt2"},
 },
 },
@@ -4212,7 +4212,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Decídete.",
+"“Decídete.”",
 {"rt2"},
 },
 },
@@ -4347,7 +4347,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ohhh, ese es un motor bastante peligroso para la humanidad y la Tierra, eh.”",
+"“Ohhh, ese es un motor bastante peligroso para la humanidad y la Tierra.”",
 {"rt2"},
 },
 },

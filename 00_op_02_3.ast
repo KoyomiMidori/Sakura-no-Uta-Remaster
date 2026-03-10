@@ -718,7 +718,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“E-Está como que un poco salado, eh.”",
+"“E-Está como que un poco salado.”",
 {"rt2"},
 },
 },
@@ -1079,7 +1079,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Kei, tú no lo llamaste? ¿Entonces por qué este tipo está acá?”",
+"“Kei, ¿tú no lo llamaste? ¿Entonces por qué este tipo está acá?”",
 {"rt2"},
 },
 },
@@ -1357,7 +1357,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¡*musha, musha*, ohh! ¡Kusanagi, veo que sigues siendo un talento en la cocina\ncomo siempre, eh! ¡Pero los genios se mueren bien rápido, así que C U Í D A T\nE!”",
+"“¡*musha, musha*, ohh! ¡Kusanagi, veo que sigues siendo un talento en la cocina\ncomo siempre, eh! ¡Pero los genios se mueren bien rápido, así que \nC U Í D A T E!”",
 {"rt2"},
 },
 },
@@ -2487,7 +2487,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡¿Pero qué rayos, comerciar con humanos?! ¡Todos ustedes están\nmalinterpretándolo todo!”",
+"“¡Pero qué rayos, ¿comerciar con humanos?! ¡Todos ustedes están\nmalinterpretándolo todo!”",
 {"rt2"},
 },
 },
@@ -2655,7 +2655,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Qué~? Senpai, ¡¿trataste de mirar a hurtadillas?! ¡Eres de lo peor!”",
+"“¿Qué~? ¡Senpai, ¿trataste de mirar a hurtadillas?! ¡Eres de lo peor!”",
 {"rt2"},
 },
 },
@@ -2686,7 +2686,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Eso es suficiente para que te impidan la entrada. Hay que ver la suerte que\ntuviste de que no te despidieran, eh...”",
+"“Eso es suficiente para que te impidan la entrada. Hay que ver la suerte que\ntuviste de que no te despidieran...”",
 {"rt2"},
 },
 },

@@ -468,7 +468,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Por supuesto. En el momento en que entré al salón me di cuenta. Pero, por culpa\nde eso me agité... Jaja.”",
+"“Por supuesto. En el momento en que entré al salón me di cuenta. Pero por culpa\nde eso me agité... Jaja.”",
 {"rt2"},
 },
 },
@@ -1190,7 +1190,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“C-Ciertamente. Pero, tu padre estuvo soltero por un largo tiempo, así que,\nesto... creí que eso también...”",
+"“C-Ciertamente. Pero tu padre estuvo soltero por un largo tiempo, así que,\nesto... creí que eso también...”",
 {"rt2"},
 },
 },
@@ -2055,7 +2055,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Como puedes ver, no tengo ningún tipo de relación especial con Kusanagi- kun.\n¡Aunque! Pensé que nos llevábamos tan bien que podríamos llamarnos amigos de\nla infancia.”",
+"“Como puedes ver, no tengo ningún tipo de relación especial con Kusanagi-kun.\n¡Aunque! Pensé que nos llevábamos tan bien que podríamos llamarnos amigos de\nla infancia.”",
 {"rt2"},
 },
 },
@@ -2261,7 +2261,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Misakura-senpai, si eres de tercer año, entonces eso quiere decir que estás en\nel mismo año que Kusanagi-senpai?”",
+"“Misakura-senpai, si eres de tercer año, ¿entonces eso quiere decir que estás en\nel mismo año que Kusanagi-senpai?”",
 {"rt2"},
 },
 },
@@ -2285,7 +2285,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí, y tuve la suerte también de tocar en el mismo salón que él. Quisiera, tal\nvez, aprovechar la oportunidad y mejorar un poco nuestras raras e incomodas\nconversaciones.”",
+"“Sí, y tuve la suerte también de tocar en el mismo salón que él. Quisiera, tal\nvez, aprovechar la oportunidad y mejorar un poco nuestras raras e incómodas\nconversaciones.”",
 {"rt2"},
 },
 },
@@ -2334,7 +2334,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿Eso crees? Me alegra que me digas eso, Hikawa-san. Pero el hecho de que pueda\nhablar con tanta naturalidad no es por mí, sino porque tú eres una persona\ncon la que se puede hablar fácilmente.”",
+"“¿Eso crees? Me alegra que me digas eso, Hikawa-san.\nPero el hecho de que pueda hablar con tanta naturalidad no es por mí,\nsino porque tú eres una persona con la que se puede hablar fácilmente.”",
 {"rt2"},
 },
 },
@@ -2538,7 +2538,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Ah, no es nada realmente serio. Solo que, fueron hace 6 años cuando yo me mudé\nde esta ciudad...”",
+"“Ah, no es nada realmente serio. Solo que fueron hace 6 años cuando yo me mudé\nde esta ciudad...”",
 {"rt2"},
 },
 },
@@ -2701,7 +2701,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿Eso crees? Pero, es que me sentí feliz.”",
+"“¿Eso crees? Pero es que me sentí feliz.”",
 {"rt2"},
 },
 },
@@ -3223,7 +3223,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Es sin duda una aparición bastante escandalosa y llamativa, eh.”",
+"“Es sin duda una aparición bastante escandalosa y llamativa.”",
 {"rt2"},
 },
 },
@@ -3856,7 +3856,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡No hay más que problemas en eso! ¡¿En primer lugar, en qué momento se supone\nque me convertí en un ped*filo?!”",
+"“¡No hay más que problemas en eso! ¡En primer lugar, ¿en qué momento se supone\nque me convertí en un ped*filo?!”",
 {"rt2"},
 },
 },
@@ -4386,7 +4386,7 @@ block_00255={
 text={
 ja={
 {
-"Después de todo, Rin no le gustó que Kei y yo discutiéramos acerca de ella.",
+"Después de todo, a Rin no le gustó que Kei y yo discutiéramos acerca de ella.",
 {"rt2"},
 },
 },
@@ -4602,7 +4602,7 @@ block_00269={
 text={
 ja={
 {
-"Rin es tan educada, hábil y cortés que se le podría llamar perfecta. Pero, es\ntambién del tipo de persona cuyas partes torpes son realmente torpes.",
+"Rin es tan educada, hábil y cortés que se le podría llamar perfecta. Pero es\ntambién del tipo de persona cuyas partes torpes son realmente torpes.",
 {"rt2"},
 },
 },

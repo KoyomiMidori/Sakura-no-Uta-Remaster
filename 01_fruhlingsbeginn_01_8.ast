@@ -145,7 +145,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No tengo ningún reclamo, ¿pero no es peligroso que tomes alcohol dentro del\ncolegio? Aún estás en horas de trabajo, ¿no?”",
+"“No tengo ningún reclamo, pero ¿no es peligroso que tomes alcohol dentro del\ncolegio? Aún estás en horas de trabajo, ¿no?”",
 {"rt2"},
 },
 },
@@ -162,7 +162,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“Por eso mismo ando ahora bebiendo acá escondido, rayos.”",
+"“Por eso mismo ando bebiendo acá escondido, rayos.”",
 {"rt2"},
 },
 },
@@ -193,7 +193,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“Ni que estuviera bebiendo en clases, ¿cuál es el problema?... Ah, eso, cuando\naún era un estudiante siempre bebía mientras participaba en los seminarios.”",
+"“Ni que estuviera bebiendo en clases, ¿cuál es el problema?... Ah, eso, cuando\naún era un estudiante, siempre bebía mientras participaba en los seminarios.”",
 {"rt2"},
 },
 },
@@ -725,7 +725,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Espera, pero qué viejo es este licor. ¡Es de hace 36 años! No se mucho acerca\nde licores, pero esto es caro, ¿no?”",
+"“Espera, pero qué viejo es este licor. ¡Es de hace 36 años! No sé mucho acerca\nde licores, pero esto es caro, ¿no?”",
 {"rt2"},
 },
 },
@@ -919,7 +919,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Es de tamaño económico, eh. Parece justamente del tipo de licores que son\npésimos para el cuerpo...”",
+"“Es de tamaño económico. Parece justamente del tipo de licores que son\npésimos para el cuerpo...”",
 {"rt2"},
 },
 },
@@ -1479,7 +1479,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡En fin, me voy ya, eh! Cierra bien las puertas.”",
+"“¡En fin, me voy ya! Cierra bien las puertas.”",
 {"rt2"},
 },
 },
@@ -1561,7 +1561,7 @@ block_00102={
 text={
 ja={
 {
-"Aunque es raro, eh.",
+"Aunque es raro.",
 {"rt2"},
 },
 },
@@ -1675,7 +1675,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hasta que llegue el momento... eh.”",
+"“Hasta que llegue el momento...”",
 {"rt2"},
 },
 },
@@ -1796,7 +1796,7 @@ block_00119={
 text={
 ja={
 {
-"El Magatoki se refiere al magatoki. Cualquier persona, aún perteneciente a la\nsociedad moderna, sentiría algo tétrico al escuchar ese nombre.",
+"El Magatoki se refiere al omagatoki. Cualquier persona, aún perteneciente a la\nsociedad moderna, sentiría algo tétrico al escuchar ese nombre.",
 {"rt2"},
 },
 },
@@ -2100,7 +2100,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Así es. Nao-kun, ¿has leído a Oscar Wilde?”",
+"“Así es.\nNao-kun, ¿has leído a Oscar Wilde?”",
 {"rt2"},
 },
 },
@@ -3226,7 +3226,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí, ¿pero sabes? El creía que su amor era tal que había sido traído por el\npropio Dios.”",
+"“Sí, ¿pero sabes? Él creía que su amor era tal que había sido traído por el\npropio Dios.”",
 {"rt2"},
 },
 },
@@ -3288,7 +3288,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿No lo sabes...?”",
+"“¿No lo sabes?”",
 {"rt2"},
 },
 },
@@ -3345,7 +3345,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Yo no estoy dentro de esta hermosa historia. Pero ¿se podría decir lo mismo de\nti, Nao-kun?”",
+"“Yo no estoy dentro de esta hermosa historia.\nPero ¿se podría decir lo mismo de ti, Nao-kun?”",
 {"rt2"},
 },
 },

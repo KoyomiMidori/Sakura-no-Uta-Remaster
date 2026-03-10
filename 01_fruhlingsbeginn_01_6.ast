@@ -851,7 +851,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Estás yendo con más ímpetu que el año pasado, eh. ¿Por qué estás tan\ndesesperada en incrementar el número de miembros del club?”",
+"“Estás yendo con más ímpetu que el año pasado. ¿Por qué estás tan\ndesesperada en incrementar el número de miembros del club?”",
 {"rt2"},
 },
 },
@@ -1315,7 +1315,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡P-Por supuesto que no! ¡¿Espera, por qué preguntas eso?!”",
+"“¡P-Por supuesto que no! ¡Espera, ¿por qué preguntas eso?!”",
 {"rt2"},
 },
 },
@@ -1923,7 +1923,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo, creo que me siento un poco más motivado. Cuando las cosas son\nbeneficiosas para uno la motivación se va para arriba.”",
+"“Ya veo, creo que me siento un poco más motivado. Cuando las cosas son\nbeneficiosas para uno, la motivación se va para arriba.”",
 {"rt2"},
 },
 },
@@ -1947,7 +1947,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Es en serio? ¿Naoya, de verdad no te importa? Siento que la imagen que tenía\nde ti se ha desmoronado dentro de mí.”",
+"“¿Es en serio? Naoya, ¿de verdad no te importa? Siento que la imagen que tenía\nde ti se ha desmoronado dentro de mí.”",
 {"rt2"},
 },
 },
@@ -2671,7 +2671,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Venga, no te enojes con esa ropa puesta. Si te pones a saltar así se te va a\nver la falda.”",
+"“Venga, no te enojes con esa ropa puesta. Si te pones a saltar así, se te va a\nver la falda.”",
 {"rt2"},
 },
 },

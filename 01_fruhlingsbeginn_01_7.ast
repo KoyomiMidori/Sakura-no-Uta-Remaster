@@ -1118,7 +1118,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Qué bien, verdad, Naoya? ¡Te dijeron que te ves apuesto!”",
+"“Qué bien, ¿verdad, Naoya? ¡Te dijeron que te ves apuesto!”",
 {"rt2"},
 },
 },
@@ -2295,7 +2295,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Espera, en primer lugar, por qué mi pintura está en ese lugar? ¿Y cuál de\ntodas es?”",
+"“Espera, en primer lugar, ¿por qué mi pintura está en ese lugar? ¿Y cuál de\ntodas es?”",
 {"rt2"},
 },
 },
@@ -2507,7 +2507,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Es que, aparte de no ver nunca la TV, rechazaste todas las invitaciones de\nreportaje, ¿no recuerdas?”",
+"“Es que, aparte de no ver nunca la tele, rechazaste todas las invitaciones de\nreportaje, ¿no recuerdas?”",
 {"rt2"},
 },
 },
@@ -2813,7 +2813,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Dejemos eso de un lado. Tú. Quedaste con una cierta impresión en mente después\nde haber visto la pintura del ayuntamiento, tienes aptitud, eh. ¿Cómo te\nllamas?”",
+"“Dejemos eso de un lado. Tú. Quedaste con una cierta impresión en mente después\nde haber visto la pintura del ayuntamiento, tienes aptitud. ¿Cómo te\nllamas?”",
 {"rt2"},
 },
 },
@@ -3102,7 +3102,7 @@ vo={
 ja={
 {
 name={"Alumna C"},
-"“Es idéntico al Kenichiro Kusanagi que vi en la TV. Eres su hijo, ¿cierto?”",
+"“Es idéntico al Kenichiro Kusanagi que vi en la tele. Eres su hijo, ¿cierto?”",
 {"rt2"},
 },
 },
@@ -3150,7 +3150,7 @@ vo={
 ja={
 {
 name={"Alumna B"},
-"“Increíble, eres el que hizo la pintura del ayuntamiento, ¿verdad? ¡Hace poco lo\ndijeron en la TV!”",
+"“Increíble, eres el que hizo la pintura del ayuntamiento, ¿verdad? ¡Hace poco lo\ndijeron en la tele!”",
 {"rt2"},
 },
 },
@@ -3468,7 +3468,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Sí, y son muchas más que el año pasado. Parece que llegaron a hablar del asunto\ndurante varios días seguidos en los programas de variedad desde que se\nrealizó el funeral de Kenichiro Kusanagi-san, pero no pensé que también\nhubieran mostrado tu pintura en la TV.”",
+"“Sí, y son muchas más que el año pasado. Parece que llegaron a hablar del asunto\ndurante varios días seguidos en los programas de variedad desde que se\nrealizó el funeral de Kenichiro Kusanagi-san, pero no pensé que también\nhubieran mostrado tu pintura en la tele.”",
 {"rt2"},
 },
 },
@@ -3482,7 +3482,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Simplemente se quedaron sin más temas de qué hablar en la TV. Bien... creo que\nme iré ya.”",
+"“Simplemente se quedaron sin más temas de qué hablar en la tele. Bien... creo que\nme iré ya.”",
 {"rt2"},
 },
 },
@@ -3705,7 +3705,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡¿Espera, será posible que lo de querer seguidoras era mentira, y en realidad\nlo hiciste por el club de arte?!”",
+"“¡Espera, ¿será posible que lo de querer seguidoras era mentira, y en realidad\nlo hiciste por el club de arte?!”",
 {"rt2"},
 },
 },

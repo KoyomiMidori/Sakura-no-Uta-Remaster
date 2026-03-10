@@ -470,7 +470,7 @@ vo={
 },
 ja={
 {
-"'En ese momento, estaba ya lista para recibir una pena de despido\ndisciplinario'",
+"'En ese momento, estaba ya lista para recibir una pena de despido\ndisciplinario.'",
 {"rt2"},
 },
 },
@@ -522,7 +522,7 @@ block_00031={
 text={
 ja={
 {
-"'Siento como si me hubieran llevado del Infierno hacia el Cielo'",
+"'Siento como si me hubieran llevado del Infierno hacia el Cielo.'",
 {"rt2"},
 },
 },
@@ -971,7 +971,7 @@ block_00061={
 text={
 ja={
 {
-"... Una nueva estudiante, eh.",
+"... Una nueva estudiante, ¿eh?",
 {"rt2"},
 },
 },
@@ -1732,7 +1732,7 @@ block_00110={
 text={
 ja={
 {
-"No es de sorprenderse. Pues, la muchacha que había visto ayer en el álbum y por\nla cual se había interesado tanto estaba ahora frente a sus ojos.",
+"No es de sorprenderse, pues la muchacha que había visto ayer en el álbum y por\nla cual se había interesado tanto estaba ahora frente a sus ojos.",
 {"rt2"},
 },
 },
@@ -2661,7 +2661,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Fuu... Pero qué desagradable, eh, volteaste cuando te llamé guapo. Así que\nestás total y completamente seguro de que lo eres, ¿no?”",
+"“Fuu... Pero qué desagradable, volteaste cuando te llamé guapo. Así que\nestás total y completamente seguro de que lo eres, ¿no?”",
 {"rt2"},
 },
 },
@@ -2925,7 +2925,7 @@ block_00182={
 text={
 ja={
 {
-"Hay que estar bien loco como para pasarse 364 días del año tranquilo y echarse\nlos ánimos al cielo solo el día del nuevo período.",
+"Hay que estar bien loco como para pasarse 364 días del año tranquilo y echarse\nlos ánimos al cielo el día del nuevo período.",
 {"rt2"},
 },
 },
@@ -3102,7 +3102,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“L-Lo siento... Pero, cualquiera reaccionaría con un golpe si le dijeran eso con\nesa sonrisa... No solo soy yo...”",
+"“L-Lo siento... Pero cualquiera reaccionaría con un golpe si le dijeran eso con\nesa sonrisa... No solo soy yo...”",
 {"rt2"},
 },
 },
@@ -3239,7 +3239,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡E-Eso fue porque...!”",
+"“¡E-Eso fue porque--!”",
 {"rt2"},
 },
 },
@@ -3309,7 +3309,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Uh... son bastantes.”",
+"“¡Pues eso es porque el destino de nuestro club está en juego, es obvio!”",
 {"rt2"},
 },
 },
@@ -3323,7 +3323,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Pues eso es porque el destino de nuestro club está en juego, es obvio!”",
+"“¿Dónde debería repartir todos estos folletos?...”",
 {"rt2"},
 },
 },
@@ -3341,7 +3341,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Dónde debería repartir todos estos folletos?...”",
+"“¿Puedes repartirlos en la plaza central? Esa es la zona donde es más violenta\nla lucha por atraer a los nuevos estudiantes.”",
 {"rt2"},
 },
 },
@@ -3355,7 +3355,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Puedes repartirlos en la plaza central? Esa es la zona donde es más violenta\nla lucha por atraer a los nuevos estudiantes.”",
+"“La plaza central, eh...”",
 {"rt2"},
 },
 },
@@ -3373,7 +3373,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“La plaza central, eh...”",
+"“¿Voy yo también?”",
 {"rt2"},
 },
 },
@@ -3391,7 +3391,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Voy yo también?”",
+"“No. Kei, tú vienes conmigo.”",
 {"rt2"},
 },
 },
@@ -3413,7 +3413,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“No. Kei, tú vienes conmigo.”",
+"“¿Mm? ¿A dónde vamos?”",
 {"rt2"},
 },
 },
@@ -3436,7 +3436,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Mm? ¿A dónde vamos?”",
+"“Tengo una misión pensada para ti que solo tú eres capaz de cumplir. Para\nmañana.”",
 {"rt2"},
 },
 },
@@ -3459,7 +3459,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Tengo una misión pensada para ti que solo tú eres capaz de cumplir. Para\nmañana.”",
+"“¿Una misión que solo yo puedo cumplir? Eso es genial.”",
 {"rt2"},
 },
 },
@@ -3549,7 +3549,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡Ohh! Naoya, ¡¿tú también me apoyas?! ¡Lo haré lo mejor que pueda!”",
+"“¡Ohh! ¡Naoya, ¿tú también me apoyas?! ¡Lo haré lo mejor que pueda!”",
 {"rt2"},
 },
 },
@@ -3629,7 +3629,7 @@ block_00224={
 text={
 ja={
 {
-"Son muchos los estudiantes que aplican a este colegio solo porque lo consideran\nchic.",
+"Son muchos los estudiantes que aplican a este colegio solo porque lo consideran\ngenial.",
 {"rt2"},
 },
 },
@@ -3694,7 +3694,7 @@ block_00229={
 text={
 ja={
 {
-"En fin, pasar el tiempo charlando y tomando té acá en las tardes (por lo\ngeneral, con té negro de botella plástica) es, al parecer, el estilo chic y\nelegante de los jóvenes de Yumihari.",
+"En fin, pasar el tiempo charlando y tomando té acá en las tardes (por lo\ngeneral, con té negro de botella plástica) es, al parecer, el estilo genial y\nelegante de los jóvenes de Yumihari.",
 {"rt2"},
 },
 },
@@ -3707,7 +3707,7 @@ block_00230={
 text={
 ja={
 {
-"Ellos disfrutan su elegancia y su estilo chic...",
+"Ellos disfrutan su elegancia y su estilo genial...",
 {"rt2"},
 },
 },
@@ -3752,7 +3752,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Está repleto de personas, eh.”",
+"“Está repleto de personas.”",
 {"rt2"},
 },
 },
@@ -4032,7 +4032,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Demonios... Qué cobarde soy, eh.”",
+"“Demonios... Qué cobarde soy.”",
 {"rt2"},
 },
 },

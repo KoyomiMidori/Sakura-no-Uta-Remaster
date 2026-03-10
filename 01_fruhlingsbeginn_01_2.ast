@@ -2321,7 +2321,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Pero, tengo tercer nivel en contaduría... Realmente soy mala con los cálculos.\nSoy del campo de sociales y humanismo, hasta la médula.”",
+"“Pero tengo tercer nivel en contaduría... Realmente soy mala con los cálculos.\nSoy del campo de sociales y humanismo, hasta la médula.”",
 {"rt2"},
 },
 },
@@ -2336,7 +2336,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡EL HECHO DE QUE SEPAS O NO CONTADURÍA NO CAMBIA LA FUERZA DE TUS GOLPES!”",
+"“¡EL HECHO DE QUE SEPAS O NO CONTADURÍA NO CAMBIA LA\nFUERZA DE TUS GOLPES!”",
 {"rt2"},
 },
 },
@@ -2360,7 +2360,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“C-Ciertamente, pero... sí, tienes razón, pero... Lo siento. Realmente, actúe de\nuna manera muy precipitada...”",
+"“C-Ciertamente, pero... sí, tienes razón, pero... Lo siento. Realmente actúe de\nuna manera muy precipitada...”",
 {"rt2"},
 },
 },
@@ -2640,7 +2640,7 @@ block_00170={
 text={
 ja={
 {
-"Por eso, desde que papá murió me ha estado llamando 'Kusanagi'.",
+"Por eso, desde que papá murió, me ha estado llamando 'Kusanagi'.",
 {"rt2"},
 },
 },
