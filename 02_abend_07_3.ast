@@ -30,7 +30,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No hay de que, qué bien que se haya podido borrar.”",
+"“No hay de qué, qué bien que se haya podido borrar.”",
 {"rt2"},
 },
 },
@@ -274,7 +274,7 @@ vo={
 ja={
 {
 name={"Thomas"},
-"“La isla de calor, TOKYO HOT, Tokyo anda en calor. La eficiencia de todos está\nen declive por culpa del efecto rosquilla.”",
+"“La isla de calor, TOKIO HOT, Tokio anda en calor. La eficiencia de todos está\nen declive por culpa del efecto rosquilla.”",
 {"rt2"},
 },
 },
@@ -291,7 +291,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No estamos en Tokyo, y la ciudad Yumihari no tiene tanto concreto.”",
+"“No estamos en Tokio, y la ciudad Yumihari no tiene tanto concreto.”",
 {"rt2"},
 },
 },
@@ -934,7 +934,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Con sinceridad?... No podemos elegir entonces al lado bueno. Pero, tampoco me\nparece que sea realmente malo... Diría más bien que es malvado.”",
+"“¿Con sinceridad?... No podemos elegir entonces al lado bueno. Pero tampoco me\nparece que sea realmente malo... Diría más bien que es malvado.”",
 {"rt2"},
 },
 },

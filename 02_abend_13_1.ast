@@ -524,7 +524,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Jaa... Aunque no puedo aguantar ya las ganas de ir. Es maravilloso poder ir al\ncampamento sin Akashi-senpai ni tú. Podre además estar con Rina todo lo que\nquiera...”",
+"“Jaa... Aunque no puedo aguantar ya las ganas de ir. Es maravilloso poder ir al\ncampamento sin Akashi-senpai ni tú. Podré además estar con Rina todo lo que\nquiera...”",
 {"rt2"},
 },
 },
@@ -561,7 +561,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Son esas ansias lo que me molesta... Aunque, alguien tan torpe como tú\nprobablemente no lo entienda...”",
+"“Son esas ansias lo que me molesta... Aunque alguien tan torpe como tú\nprobablemente no lo entienda...”",
 {"rt2"},
 },
 },
@@ -1007,7 +1007,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, no es de muy buen gusto eso, eh.”",
+"“Sí, no es de muy buen gusto eso.”",
 {"rt2"},
 },
 },
@@ -1370,7 +1370,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Solo han pasado unos pocos meses desde que regresé... Pero, ya sé más o menos\nqué piensan y sienten todos acerca de ti, y además, me enteré de que\nprobablemente cada uno de todos llegó a experimentar algo en el pasado...”",
+"“Solo han pasado unos pocos meses desde que regresé... Pero ya sé más o menos\nqué piensan y sienten todos acerca de ti, y además, me enteré de que\nprobablemente cada uno de todos llegó a experimentar algo en el pasado...”",
 {"rt2"},
 },
 },
@@ -1947,7 +1947,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Estás esperando a que Nee-san se duerma, ¿verdad? Para salir...”",
+"“Estás esperando a que nee-san se duerma, ¿verdad? Para salir...”",
 {"rt2"},
 },
 },
@@ -2646,7 +2646,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Dejando atrás la broma de hace un momento, procuraré hacer unas cuantas cosas\npara que Nee-san no se dé cuenta.”",
+"“Dejando atrás la broma de hace un momento, procuraré hacer unas cuantas cosas\npara que nee-san no se dé cuenta.”",
 {"rt2"},
 },
 },
@@ -3099,7 +3099,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“The Last Leaf... 'La última hoja' ¿Es que acaso pretendes jugar a ser O. Henry?”",
+"“The Last Leaf... 'La última hoja'.\n¿Es que acaso pretendes jugar a ser O. Henry?”",
 {"rt2"},
 },
 },

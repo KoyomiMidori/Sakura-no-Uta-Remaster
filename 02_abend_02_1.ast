@@ -36,7 +36,7 @@ block_00002={
 text={
 ja={
 {
-"Y si me preguntan por qué, pues es porque nadie puede ver realmente como pasa\nel tiempo. Y aun así...",
+"Y si me preguntan por qué, pues es porque nadie puede ver realmente cómo pasa\nel tiempo. Y aun así...",
 {"rt2"},
 },
 },
@@ -189,7 +189,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No me importa que te hundas en el placer de tus palabrerías, pero... Kusanagi,\nrealmente eras un idiota, eh...”",
+"“No me importa que te hundas en el placer de tus palabrerías, pero... Kusanagi,\nrealmente eras un idiota...”",
 {"rt2"},
 },
 },
@@ -236,7 +236,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Vamos Mako-chan, cálmate, Kusanagi-kun se sentirá mal si le dices eso.”",
+"“Vamos, Mako-chan, cálmate, Kusanagi-kun se sentirá mal si le dices eso.”",
 {"rt2"},
 },
 },
@@ -391,7 +391,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Acaso no eres tú igual?... ¿O, no había sido peor en tu caso? Escuché que\nsaliste fatal en casi todas las materias.”",
+"“¿Acaso no eres tú igual?... ¿O no había sido peor en tu caso? Escuché que\nsaliste fatal en casi todas las materias.”",
 {"rt2"},
 },
 },
@@ -1195,7 +1195,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Aunque, debo decir que es sorprendente que hayas podido entrar a Yumihari con\nestas calificaciones tan terribles. El nivel estándar de este colegio es\nrelativamente alto, ¿no?”",
+"“Aunque debo decir que es sorprendente que hayas podido entrar a Yumihari con\nestas calificaciones tan terribles. El nivel estándar de este colegio es\nrelativamente alto, ¿no?”",
 {"rt2"},
 },
 },
@@ -1918,7 +1918,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡Ajajajaja, pero es que en tu mundo solo existe Japón, Chiba, Nueva York,\nEuropa, China y el Medio Oriente!”",
+"“¡Ajajajaja, pero es que en tu mundo solo existe Japón, Chiba, América, Nueva York,\nEuropa, China y el Medio Oriente!”",
 {"rt2"},
 },
 },
@@ -2097,7 +2097,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, bueno, la verdad es que ya he reflexionado un poco al respecto. Si tan solo\nme hubiera dado cuenta en secundaria y hubiera tratado de recuperarme en\nGeografía... Aunque, parece que ya es demasiado tarde...”",
+"“Sí, bueno, la verdad es que ya he reflexionado un poco al respecto. Si tan solo\nme hubiera dado cuenta en secundaria y hubiera tratado de recuperarme en\nGeografía... Aunque parece que ya es demasiado tarde...”",
 {"rt2"},
 },
 },
@@ -2465,7 +2465,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Ah, sí... disculpa... --peme.”",
+"“Ah, sí... discúlpa... --peme.”",
 {"rt2"},
 },
 },
@@ -2506,7 +2506,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Ah, sí. ¿Sabes? Soy bueno en el shiritori, e incluso se rumorea en la ciudad de\nmis habilidades... de las habilidades de mi persona.”",
+"“Ah, sí. ¿Sabe? Soy bueno en el shiritori, e incluso se rumorea en la ciudad de\nmis habilidades... de las habilidades de mi persona.”",
 {"rt2"},
 },
 },
@@ -2584,7 +2584,7 @@ vo={
 ja={
 {
 name={"Profesor"},
-"“¿Bien, te gustaría jugar conmigo entonces?”",
+"“Bien, ¿te gustaría jugar conmigo entonces?”",
 {"rt2"},
 },
 },
@@ -3073,7 +3073,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“No es ninguna novela. Es un hada que yo inventé. Siempre vive dentro de uno de\nlos orificios de la nariz de Nee-chan. Es la protectora de los siete sellos y\nademás una detective.”",
+"“No es ninguna novela. Es un hada que yo inventé. Siempre vive dentro de uno de\nlos orificios de la nariz de nee-chan. Es la protectora de los siete sellos y\nademás una detective.”",
 {"rt2"},
 },
 },

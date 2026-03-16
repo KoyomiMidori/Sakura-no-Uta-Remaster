@@ -716,7 +716,7 @@ vo={
 ja={
 {
 name={"Dueño de la tienda"},
-"“¿De verdad? Pero, el jefe del club de arte de tu colegio vino a pedirme acetona\ntambién.”",
+"“¿De verdad? Pero el jefe del club de arte de tu colegio vino a pedirme acetona\ntambién.”",
 {"rt2"},
 },
 },
@@ -1382,7 +1382,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¡No solo geografía, Nee-chan se está encargando de todas las materias!”",
+"“¡No solo geografía, nee-chan se está encargando de todas las materias!”",
 {"rt2"},
 },
 },

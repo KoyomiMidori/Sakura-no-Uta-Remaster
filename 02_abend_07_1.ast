@@ -2182,7 +2182,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¿Por qué tan agitado?... Fuh. Está bien. Aceptaré tu reto.”",
+"“¿Por qué tan agitado?...\nFuh. Está bien. Aceptaré tu reto.”",
 {"rt2"},
 },
 },
@@ -2717,7 +2717,7 @@ block_00166={
 text={
 ja={
 {
-"Que velocidad tan absurda.",
+"Qué velocidad tan absurda.",
 {"rt2"},
 },
 },
@@ -3359,7 +3359,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Qué pasa, otra mujer nueva? Realmente eres bien bueno consiguiéndote novias\nnuevas, eh.”",
+"“¿Qué pasa, otra mujer nueva? Realmente eres bien bueno consiguiéndote novias\nnuevas.”",
 {"rt2"},
 },
 },

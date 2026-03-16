@@ -1097,7 +1097,7 @@ vo={
 ja={
 {
 name={"Padre"},
-"“Kukuku... me has ganado una. Me has obligado ahora a regresar con vida de mi\npróxima operación, pase lo que pase...”",
+"“Jajaja... me has ganado una. Me has obligado ahora a regresar con vida de mi\npróxima operación, pase lo que pase...”",
 {"rt2"},
 },
 },
@@ -2432,7 +2432,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"“No lo crees, ¿verdad?... Nadie en su normal juicio lo haría...”",
+"“No lo crees, ¿verdad?... Nadie en su sano juicio lo haría...”",
 {"rt2"},
 },
 },
@@ -2538,7 +2538,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“En todo momento observamos eso, pero, nadie pensaría que el Sol gira alrededor\nde la Tierra al ver eso, ¿no? Todos sabemos que la Tierra gira alrededor del\nSol.”",
+"“En todo momento observamos eso, pero nadie pensaría que el Sol gira alrededor\nde la Tierra al ver eso, ¿no? Todos sabemos que la Tierra gira alrededor del\nSol.”",
 {"rt2"},
 },
 },

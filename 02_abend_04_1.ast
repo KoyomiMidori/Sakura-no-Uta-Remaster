@@ -33,7 +33,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ya es verano, eh.”",
+"“Ya es verano.”",
 {"rt2"},
 },
 },
@@ -610,7 +610,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Sí, ya me enteré. Un campamento durante esta época, eh. Aunque bueno, supongo\nque será por la exhibición de otoño.”",
+"“Sí, ya me enteré. Un campamento durante esta época. Aunque bueno, supongo\nque será por la exhibición de otoño.”",
 {"rt2"},
 },
 },
@@ -757,7 +757,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿De verdad? Pero ahora que lo mencionas, la Exposición Moore no parece tener\nuna historia tan larga... Aunque, incluso en las noticias llegan a reportar a\naquellos que ganan algún premio de esa exposición. ¿Por qué eso?”",
+"“¿De verdad? Pero ahora que lo mencionas, la Exposición Moore no parece tener\nuna historia tan larga... Aunque incluso en las noticias llegan a reportar a\naquellos que ganan algún premio de esa exposición. ¿Por qué eso?”",
 {"rt2"},
 },
 },
@@ -771,7 +771,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Simplemente porque eso significa dinero para ellos también. La verdad es que la\nExposición Moore colabora, en el caso de Japón, con todas las grandes\nagencias de publicidad del país. Obviamente la TV y todos los otros medios de\ncomunicación masiva se ocuparán de mostrarlos en exclusiva.”",
+"“Simplemente porque eso significa dinero para ellos también. La verdad es que la\nExposición Moore colabora, en el caso de Japón, con todas las grandes\nagencias de publicidad del país. Obviamente la tele y todos los otros medios de\ncomunicación masiva se ocuparán de mostrarlos en exclusiva.”",
 {"rt2"},
 },
 },
@@ -990,7 +990,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ya veo, y por eso Toritani está tan entusiasmada... Aunque, ya los exámenes de\ningreso a la universidad están a la vuelta de la esquina, así que\npersonalmente me gustaría que se esforzaran mesuradamente.”",
+"“Ya veo, y por eso Toritani está tan entusiasmada... Aunque ya los exámenes de\ningreso a la universidad están a la vuelta de la esquina, así que\npersonalmente me gustaría que se esforzaran mesuradamente.”",
 {"rt2"},
 },
 },
@@ -1632,7 +1632,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No lo sé. Simplemente se me ocurrió eso... En fin, te lo preguntaré una vez\nmás. ¿Kusanagi, tienes algo que ver en este caso?”",
+"“No lo sé. Simplemente se me ocurrió eso... En fin, te lo preguntaré una vez\nmás. Kusanagi, ¿tienes algo que ver en este caso?”",
 {"rt2"},
 },
 },
@@ -1678,7 +1678,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Tu intuición, eh...”",
+"“Tu intuición...”",
 {"rt2"},
 },
 },
@@ -1697,7 +1697,7 @@ block_00099={
 text={
 ja={
 {
-"Recuerdo a Akashi y como observaba la pared de la iglesia.",
+"Recuerdo a Akashi y cómo observaba la pared de la iglesia.",
 {"rt2"},
 },
 },

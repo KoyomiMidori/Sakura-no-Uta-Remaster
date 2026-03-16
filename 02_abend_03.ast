@@ -52,7 +52,7 @@ block_00002={
 text={
 ja={
 {
-"Un peculiar, y estruendoso sonido. Y, es que en el pasillo de la casa de los\nNatsume aún está presente y trabajando un nostálgico y viejo teléfono a\ndisco.",
+"Un peculiar, y estruendoso sonido. Y es que en el pasillo de la casa de los\nNatsume aún está presente y trabajando un nostálgico y viejo teléfono a\ndisco.",
 {"rt2"},
 },
 },
@@ -418,7 +418,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Algo que preguntarme, eh...”",
+"“Algo que preguntarme...”",
 {"rt2"},
 },
 },
@@ -464,7 +464,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Oh? ¿Ai? No estás atontada por el sueño, eh.”",
+"“¿Oh? ¿Ai? No estás atontada por el sueño.”",
 {"rt2"},
 },
 },
@@ -737,7 +737,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo, tren, eh... ¿Nos vamos juntos entonces?”",
+"“Ya veo, tren, ¿eh?... ¿Nos vamos juntos entonces?”",
 {"rt2"},
 },
 },
@@ -975,7 +975,7 @@ block_00060={
 text={
 ja={
 {
-"Aunque, aun así, no se puede juzgar el sabor de la comida por su aspecto\nexterior...",
+"Aun así, no se puede juzgar el sabor de la comida por su aspecto\nexterior...",
 {"rt2"},
 },
 },
@@ -1320,7 +1320,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Fuu... Pero qué tipo tan descortés de verdad, eh... vamos.”",
+"“Fuu... Pero qué tipo tan descortés de verdad... vamos.”",
 {"rt2"},
 },
 },
@@ -1520,7 +1520,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿Oh? Llevaba tiempo sin prepararlo, pero no está nada mal, eh. Quedó muy bueno.”",
+"“¿Oh? Llevaba tiempo sin prepararlo, pero no está nada mal. Quedó muy bueno.”",
 {"rt2"},
 },
 },

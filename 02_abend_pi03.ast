@@ -855,7 +855,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“A-Ahh... sí. Pues, sí, la dueña las compra para luego venderlas acá.”",
+"“A-Ahh... sí. Pues sí, la dueña las compra para luego venderlas acá.”",
 {"rt2"},
 },
 },
@@ -883,7 +883,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Pero no es esta de la primera serie que salió? Aun con lo difícil que son de\nconseguir en Internet, quién diría que se podrían conseguir aquí... Estoy\nasombrado.”",
+"“Pero ¿no es esta de la primera serie que salió? Aun con lo difícil que son de\nconseguir en internet, quién diría que se podrían conseguir aquí... Estoy\nasombrado.”",
 {"rt2"},
 },
 },
@@ -2484,7 +2484,7 @@ vo={
 ja={
 {
 name={"Muchaha"},
-"*mogamoga*～～～～～!",
+"¡*mogamoga*～～～～～!",
 {"rt2"},
 },
 },

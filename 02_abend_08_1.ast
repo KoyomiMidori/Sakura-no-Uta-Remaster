@@ -143,7 +143,7 @@ block_00008={
 text={
 ja={
 {
-"¿Habrá observado como me he acercado varias veces a la iglesia de Yumihari?...",
+"¿Habrá observado cómo me he acercado varias veces a la iglesia de Yumihari?...",
 {"rt2"},
 },
 },
@@ -1059,7 +1059,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Bien, respecto a la fecha del campamento y tomando en cuenta los planes de\ntodos, la fecha más pronta que tenemos es el primero de agosto. Y, pensé en\ncomprar de una vez los boletos para esa fecha. ¿Algún problema al respecto?”",
+"“Bien, respecto a la fecha del campamento y tomando en cuenta los planes de\ntodos, la fecha más pronta que tenemos es el primero de agosto. Y pensé en\ncomprar de una vez los boletos para esa fecha. ¿Algún problema al respecto?”",
 {"rt2"},
 },
 },
@@ -3641,7 +3641,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Eso no es verdad. Le agradas bastante a Yuumi a pesar de como habla y\nactúa.”",
+"“Eso no es verdad. Le agradas bastante a Yuumi a pesar de cómo habla y\nactúa.”",
 {"rt2"},
 },
 },
@@ -3940,7 +3940,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, ya veo, ya veo, todo lo ves, todo lo sabes, eh, Toritani...”",
+"“Sí, ya veo, ya veo, todo lo ves, todo lo sabes, Toritani...”",
 {"rt2"},
 },
 },

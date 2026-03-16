@@ -1172,7 +1172,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Qué manera tan cruel de referirte a mí, eh...”",
+"“Qué manera tan cruel de referirte a mí...”",
 {"rt2"},
 },
 },
@@ -1923,7 +1923,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"“Sí, parece que antes de que nosotras entráramos a este colegio, justo cuando\nOnii-chan era un estudiante de primer año, él venía a hablar muy a menudo con\nel padre.”",
+"“Sí, parece que antes de que nosotras entráramos a este colegio, justo cuando\nonii-chan era un estudiante de primer año, él venía a hablar muy a menudo con\nel padre.”",
 {"rt2"},
 },
 },
@@ -1964,7 +1964,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"“Parece que era acerca de arquitectura. Al parecer, Onii-chan tenía\nconocimientos de arquitectura y todo lo relacionado a ella, y venía a hablar\nfrecuentemente con el padre.”",
+"“Parece que era acerca de arquitectura. Al parecer, onii-chan tenía\nconocimientos de arquitectura y todo lo relacionado a ella, y venía a hablar\nfrecuentemente con el padre.”",
 {"rt2"},
 },
 },
@@ -2060,7 +2060,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"“Escuché que hablaron de varias cosas, de quien la diseñó en un principio, de\ncuándo se reformó el interior y de quién condujo esa reforma.”",
+"“Escuché que hablaron de varias cosas, de quién la diseñó en un principio, de\ncuándo se reformó el interior y de quién condujo esa reforma.”",
 {"rt2"},
 },
 },
@@ -2770,7 +2770,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ah, no, solo me hablaba a mi mismo. Nos vemos...”",
+"“Ah, no, solo me hablaba a mí mismo. Nos vemos...”",
 {"rt2"},
 },
 },
@@ -3311,7 +3311,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“... Si no vas todos los demás se sentirán tristes.”",
+"“... Si no vas todos los demás, se sentirán tristes.”",
 {"rt2"},
 },
 },

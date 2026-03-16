@@ -1918,7 +1918,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ajaja, ¿de verdad? No suelen decirme eso así que me siento algo feliz. Aunque,\nno puedo llevar un traje de baño tan expuesto como este...”",
+"“Ajaja, ¿de verdad? No suelen decirme eso así que me siento algo feliz. Aunque\nno puedo llevar un traje de baño tan expuesto como este...”",
 {"rt2"},
 },
 },
@@ -2828,7 +2828,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Sí, está bien, me callaré. Pero, Onee-sama, te pido que dejes de alborotar la\ntienda vestida en traje de baño. Como tu hermana menor, se me hace algo\nvergonzoso.”",
+"“Sí, está bien, me callaré. Pero, onee-sama, te pido que dejes de alborotar la\ntienda vestida en traje de baño. Como tu hermana menor, se me hace algo\nvergonzoso.”",
 {"rt2"},
 },
 },
@@ -2846,7 +2846,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Suzuna-chan, sigues aún pareciendo la mamá de Yuumi.”",
+"“Suzuna-chan, sigues pareciendo la mamá de Yuumi.”",
 {"rt2"},
 },
 },

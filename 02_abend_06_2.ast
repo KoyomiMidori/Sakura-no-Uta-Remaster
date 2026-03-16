@@ -882,7 +882,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¿Artículos defectuosos? Fuh, pero qué idiotez has dicho, eh, Toritani. Si es\ndefectuoso o no, eso depende únicamente de la persona que lo use.”",
+"“¿Artículos defectuosos? Fuh, pero qué idiotez has dicho, Toritani. Si es\ndefectuoso o no, eso depende únicamente de la persona que lo use.”",
 {"rt2"},
 },
 },
@@ -1301,7 +1301,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y, así como ven, yo sí me estoy esforzando. Aunque, no sé qué hay de Kei.”",
+"“Y, así como ven, yo sí me estoy esforzando. Aunque no sé qué hay de Kei.”",
 {"rt2"},
 },
 },
@@ -1494,7 +1494,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, es bueno que te gradúes, sí. Aunque, es imposible en tu caso...”",
+"“Pues, es bueno que te gradúes, sí.\nAunque es imposible en tu caso...”",
 {"rt2"},
 },
 },
@@ -2043,7 +2043,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Vaya, pero es que no sabías? Son muy altas las posibilidades de obtener\ninformación incorrecta al torturar a alguien. El torturado simplemente\naportará la información que el torturador desea saber.”",
+"“Vaya, ¿pero es que no sabías? Son muy altas las posibilidades de obtener\ninformación incorrecta al torturar a alguien. El torturado simplemente\naportará la información que el torturador desea saber.”",
 {"rt2"},
 },
 },
@@ -2511,7 +2511,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Parece que a este templo le llaman Templo Hakuki. Aunque, no sé qué significa\nel nombre.”",
+"“Parece que a este templo le llaman Templo Hakuki. Aunque no sé qué significa\nel nombre.”",
 {"rt2"},
 },
 },

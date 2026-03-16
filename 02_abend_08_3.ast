@@ -654,7 +654,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“No te preocupaste en siquiera negarlo, eh. Que típico de los hombres, o debería\ndecir, de los depravados...”",
+"“No te preocupaste en siquiera negarlo. Qué típico de los hombres, o debería\ndecir, de los depravados...”",
 {"rt2"},
 },
 },
@@ -2174,7 +2174,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Bien, será que vamos ya?”",
+"“Bien, ¿será que vamos ya?”",
 {"rt2"},
 },
 },
@@ -2218,7 +2218,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡Ya no importa si la conozco o no, Rina, vayamos rápido a algún vestidor! Y\nentonces las dos, encerradas, enclaustradas, atrapadas, Jaa, jaa...”",
+"“¡Ya no importa si la conozco o no, Rina, vayamos rápido a algún vestidor! Y\nentonces las dos, encerradas, enclaustradas, atrapadas, jaa, jaa...”",
 {"rt2"},
 },
 },

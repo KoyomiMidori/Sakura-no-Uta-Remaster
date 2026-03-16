@@ -38,7 +38,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Así que te encontraste al padre Masada... Eso quiere decir que debería asumir\nque has descubierto todo mi plan, eh.”",
+"“Así que te encontraste al padre Masada... Eso quiere decir que debería asumir\nque has descubierto todo mi plan.”",
 {"rt2"},
 },
 },
@@ -572,7 +572,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Fuh, hasta en eso me descubriste... Pero qué poder de deducción tan asombroso\ntienes, eh.”",
+"“Fuh, hasta en eso me descubriste... Pero qué poder de deducción tan asombroso\ntienes.”",
 {"rt2"},
 },
 },
@@ -818,7 +818,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por cierto, aquella vez que puliste el suelo hasta dejarlo como un espejo, ¿fue\neso de prática? Para pulir las paredes y el piso de la iglesia.”",
+"“Por cierto, aquella vez que puliste el suelo hasta dejarlo como un espejo, ¿fue\neso de práctica? Para pulir las paredes y el piso de la iglesia.”",
 {"rt2"},
 },
 },
@@ -997,7 +997,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Aunque, se podría decir que la herencia más grande, la verdadera herencia es\nesta edificación...”",
+"“Aunque se podría decir que la herencia más grande, la verdadera herencia, es\nesta edificación...”",
 {"rt2"},
 },
 },
@@ -1170,7 +1170,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Será...",
+"“Será...”",
 {"rt2"},
 },
 },
@@ -2249,7 +2249,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¡Dí más bien que tengo un cuerpo bien sólido!”",
+"“¡Di más bien que tengo un cuerpo bien sólido!”",
 {"rt2"},
 },
 },
@@ -2385,7 +2385,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Tenía que hacerlo... En fin, qué más da. ¿Y bien, qué significado hay detrás de\ntu semi-desnudo?”",
+"“Tenía que hacerlo... En fin, qué más da. Y bien, ¿qué significado hay detrás de\ntu semi-desnudo?”",
 {"rt2"},
 },
 },

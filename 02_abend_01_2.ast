@@ -951,7 +951,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Mmm, no entiendo por qué dices eso... ¿Además, es que hay alguna persona con\nsentido común capaz de lanzar una valla de bloques?”",
+"“Mmm, no entiendo por qué dices eso... Además, ¿es que hay alguna persona con\nsentido común capaz de lanzar una valla de bloques?”",
 {"rt2"},
 },
 },
@@ -1331,7 +1331,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No sé si vas al club de arte o al de astronomía, pero debe ser terrible\ncomenzar las vacaciones de verano con eso, eh.”",
+"“No sé si vas al club de arte o al de astronomía, pero debe ser terrible\ncomenzar las vacaciones de verano con eso.”",
 {"rt2"},
 },
 },
@@ -1654,7 +1654,7 @@ block_00102={
 text={
 ja={
 {
-"Ahora que lo recuerdo, aún estaba a mitad de enseñarle a pintar a Rin, eh. Ya\ndebería estar por terminar esa pintura...",
+"Ahora que lo recuerdo, aún estaba a mitad de enseñarle a pintar a Rin.\nYa debería estar por terminar esa pintura...",
 {"rt2"},
 },
 },

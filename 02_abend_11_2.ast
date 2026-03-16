@@ -1962,7 +1962,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡Tú... planeas hacerlo todo, solo! ¡Sin confiar en nosotros... ni tampoco pedir\npor nuestra ayuda, en ningún momento! ¡De eso se trata, ¿verdad?!”",
+"“¡Tú... planeas hacerlo todo, solo! ¡Sin confiar en nosotros... ni tampoco pedir\nnuestra ayuda, en ningún momento! ¡De eso se trata, ¿verdad?!”",
 {"rt2"},
 },
 },
@@ -1996,7 +1996,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ya entendí. De ser así, entonces has lo que se te venga en gana... Tengo un\ncampamento del cual ocuparme ahora... ¡Idiota!”",
+"“Ya entendí. De ser así, entonces haz lo que se te venga en gana... Tengo un\ncampamento del cual ocuparme ahora... ¡Idiota!”",
 {"rt2"},
 },
 },
@@ -3219,7 +3219,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Sí. ¿Acaso no lo sabías? Aunque, ciertamente no se puede observar enteramente\nel hospital desde acá, así que es razonable que no te dieras cuenta...”",
+"“Sí. ¿Acaso no lo sabías? Aunque ciertamente no se puede observar enteramente\nel hospital desde acá, así que es razonable que no te dieras cuenta...”",
 {"rt2"},
 },
 },

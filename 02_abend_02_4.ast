@@ -18,7 +18,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“La mansión de los Natsume está igual de enorme que siempre, eh.”",
+"“La mansión de los Natsume está igual de enorme que siempre.”",
 {"rt2"},
 },
 },
@@ -670,7 +670,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Ahh, lo siento. En fin, Nee-chan no ha regresado aún, pero pasen.”",
+"“Ahh, lo siento. En fin, nee-chan no ha regresado aún, pero pasen.”",
 {"rt2"},
 },
 },
@@ -894,7 +894,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Ambos parecen estar llevándose bien, eh.”",
+"“Ambos parecen estar llevándose bien.”",
 {"rt2"},
 },
 },
@@ -1394,7 +1394,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Él es realmente como uno de esos héroes que aparecen en los manga. No solamente\nse trata de la pintura. No tiene que ver únicamente con su talento.”",
+"“Él es realmente como uno de esos héroes que aparecen en los mangas. No solamente\nse trata de la pintura. No tiene que ver únicamente con su talento.”",
 {"rt2"},
 },
 },
@@ -1577,7 +1577,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Sabes, me parece que el héroe es capaz de escuchar los gritos de súplica de\nalguien.”",
+"“¿Sabes? Me parece que el héroe es capaz de escuchar los gritos de súplica de\nalguien.”",
 {"rt2"},
 },
 },
@@ -1740,7 +1740,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Tal vez. Yo tampoco sé muy bien realmente, pero, hay unas palabras que me\ngustan bastante.”",
+"“Tal vez. Yo tampoco sé muy bien realmente, pero hay unas palabras que me\ngustan bastante.”",
 {"rt2"},
 },
 },
@@ -1833,7 +1833,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No están nada mal, eh.”",
+"“No están nada mal.”",
 {"rt2"},
 },
 },

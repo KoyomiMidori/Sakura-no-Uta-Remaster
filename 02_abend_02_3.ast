@@ -636,7 +636,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Jee, parece que ya te acostumbraste a usar la pintura, eh.”",
+"“Je, parece que ya te acostumbraste a usar la pintura.”",
 {"rt2"},
 },
 },
@@ -660,7 +660,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿D-De verdad? Pero, el cuadro no está resultando tan bueno.”",
+"“¿D-De verdad? Pero el cuadro no está resultando tan bueno.”",
 {"rt2"},
 },
 },
@@ -1521,7 +1521,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero es que el hígado es barato. ¿Cualquiera se aburriría comiendo hígado y\nnira salteada todos los días, no crees? Así que se muele y se hace paté con\neso.”",
+"“Pero es que el hígado es barato. Cualquiera se aburriría comiendo hígado y\nnira salteada todos los días, ¿no crees? Así que se muele y se hace paté con\neso.”",
 {"rt2"},
 },
 },
@@ -2080,7 +2080,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pero cocinas, ¿no? Los obentou que siempre traes los preparas tú, ¿no es así?\nEsas enormes cajas dobles.”",
+"“Pero cocinas, ¿no? Los almuerzos que siempre traes los preparas tú, ¿no es así?\nEsas enormes cajas dobles.”",
 {"rt2"},
 },
 },
@@ -2444,7 +2444,7 @@ block_00147={
 text={
 ja={
 {
-"Aún viviendo separados, pensé que por lo menos se veían. Pues, es probable que\nél esté viviendo en esta ciudad también...",
+"Aún viviendo separados, pensé que por lo menos se veían. Pues es probable que\nél esté viviendo en esta ciudad también...",
 {"rt2"},
 },
 },
@@ -2511,7 +2511,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Tan pronto? Eres bien rápido mandando mensajes, eh...”",
+"“¿Tan pronto? Eres bien rápido mandando mensajes...”",
 {"rt2"},
 },
 },
@@ -2810,7 +2810,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Estás más estricta de lo normal, eh.”",
+"“Estás más estricta de lo normal.”",
 {"rt2"},
 },
 },
