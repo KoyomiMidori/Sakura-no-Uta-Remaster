@@ -73,7 +73,7 @@ vo={
 ja={
 {
 name={"Alumna C"},
-"“Lo vi, salió en la TV. Esa manera de tratar con los medios, parecía toda una\ncelebridad, ¿verdad?”",
+"“Lo vi, salió en la tele. Esa manera de tratar con los medios, parecía toda una\ncelebridad, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1134,7 +1134,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Aunque, es un hecho que no tuve ninguna gran razón para hacerlo. Simplemente me\ntopé con una cara conocida y decidí perseguirla.”",
+"“Aunque es un hecho que no tuve ninguna gran razón para hacerlo. Simplemente me\ntopé con una cara conocida y decidí perseguirla.”",
 {"rt2"},
 },
 },
@@ -1451,7 +1451,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pues, estoy un tanto consciente al respecto. Pero también hay muchachas lindas\ny normales entre tus conocidas, ¿no?”",
+"“Pues, estoy un tanto consciente al respecto.\nPero también hay muchachas lindas y normales entre tus conocidas, ¿no?”",
 {"rt2"},
 },
 },
@@ -1579,7 +1579,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿De verdad? Me alegra escuchar eso desde tan tempranas horas. Pero, Mako-chan,\n¡Tú, también, tienes esto!”",
+"“¿De verdad? Me alegra escuchar eso desde tan tempranas horas. Pero, Mako-chan,\n¡tú, también, tienes esto!”",
 {"rt2"},
 },
 },
@@ -2238,7 +2238,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¿Qué es lo que sucede? ¿Rin, no quieres acariciar mis pechos?”",
+"“¿Qué es lo que sucede? Rin, ¿no quieres acariciar mis pechos?”",
 {"rt2"},
 },
 },
@@ -2677,7 +2677,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Vaya, vaya... Siempre tan rápida como el viento, eh...”",
+"“Vaya, vaya... Siempre tan rápida como el viento...”",
 {"rt2"},
 },
 },
@@ -3300,7 +3300,7 @@ block_00187={
 text={
 ja={
 {
-"Tanto así está concentrándose ahora en este mural... O en ese algo que ve ella\ntras el mural――.",
+"Tanto así está concentrándose ahora en este mural... O en ese algo que ve ella\ntras el mural――",
 {"rt2"},
 },
 },
@@ -3844,7 +3844,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Es raro verte criticando de esa forma a otra persona, eh.”",
+"“Es raro verte criticando de esa forma a otra persona.”",
 {"rt2"},
 },
 },
@@ -4353,7 +4353,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ya veo... ¡Espera! ¡¿Piensas saltarte las clases de nuevo, verdad?! Aun con las\ncalificaciones tan peligrosas que llevas.”",
+"“Ya veo... ¡Espera! ¡Piensas saltarte las clases de nuevo, ¿verdad?! Aun con las\ncalificaciones tan peligrosas que llevas.”",
 {"rt2"},
 },
 },

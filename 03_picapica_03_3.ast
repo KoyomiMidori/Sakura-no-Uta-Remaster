@@ -20,7 +20,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“¡Toritani-saaa～n!”",
 {"rt2"},
 },
@@ -67,7 +67,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“La chica del turno de la noche llamó de repente, dijo que no podría\nvenir...”",
 {"rt2"},
 },
@@ -102,7 +102,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“¿Qué hacemos? Está difícil pedirle a alguien que venga ahora mismo, ¿verdad?...”",
 {"rt2"},
 },
@@ -258,7 +258,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Eh~, pero está diciendo que nos ayudará, deberías dejar las reservas y\naprovechar la oportunidad~”",
 {"rt2"},
 },
@@ -365,7 +365,7 @@ block_00021={
 text={
 ja={
 {
-"Le aviso a Ai de que llegaré algo tarde, y entro a trabajar.",
+"Le aviso a Ai que llegaré algo tarde, y entro a trabajar.",
 {"rt2"},
 },
 },
@@ -795,7 +795,7 @@ block_00049={
 text={
 ja={
 {
-"No es bueno andar conectando todo lo que sé con otras cosas. Pero, esta\nmujer... ¿No se parece un poco a la niña de hace un rato?",
+"No es bueno andar conectando todo lo que sé con otras cosas. Pero esta\nmujer... ¿No se parece un poco a la niña de hace un rato?",
 {"rt2"},
 },
 },
@@ -1140,7 +1140,7 @@ block_00072={
 text={
 ja={
 {
-"Pensé que Toritani metería las monedas en la caja. Sin embargo las insertó en\nun enorme frasco de vidrio que estaba sobre la barra.",
+"Pensé que Toritani metería las monedas en la caja. Sin embargo, las insertó en\nun enorme frasco de vidrio que estaba sobre la barra.",
 {"rt2"},
 },
 },
@@ -1877,7 +1877,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“De no ser así no pondría esa cara de ninguna forma.”",
+"“De no ser así, no pondría esa cara de ninguna forma.”",
 {"rt2"},
 },
 },
@@ -2049,7 +2049,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pero, un niño que deba tragarse todos sus deseos por entender el sufrimiento de\nsu madre es, seguramente, infeliz.”",
+"“Pero un niño que deba tragarse todos sus deseos por entender el sufrimiento de\nsu madre es, seguramente, infeliz.”",
 {"rt2"},
 },
 },
@@ -2874,7 +2874,7 @@ block_00176={
 text={
 ja={
 {
-"No tienen la omnipresencia ni la vistosidad que podrían tener las grandes\ncorporaciones de comercio general, pero han llevado una administración rígida\ny segura, y a veces algo atrevida. De no ser así no habrían sobrevivido hasta\nahora.",
+"No tienen la omnipresencia ni la vistosidad que podrían tener las grandes\ncorporaciones de comercio general, pero han llevado una administración rígida\ny segura, y a veces algo atrevida. De no ser así, no habrían sobrevivido hasta\nahora.",
 {"rt2"},
 },
 },

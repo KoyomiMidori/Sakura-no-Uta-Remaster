@@ -1111,7 +1111,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Por supuesto, no mentí cuando dije que me desagradaba que te usara a ti y al\nclub de arte. Pero, la verdadera y principal razón era esta.”",
+"“Por supuesto, no mentí cuando dije que me desagradaba que te usara a ti y al\nclub de arte. Pero la verdadera y principal razón era esta.”",
 {"rt2"},
 },
 },
@@ -1258,7 +1258,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Perdona que te cuente algo tan extraño. Pero quería que lo supieras.”",
+"“Perdona que te cuente algo tan extraño.\nPero quería que lo supieras.”",
 {"rt2"},
 },
 },
@@ -2096,7 +2096,7 @@ vo={
 },
 ja={
 {
-name={"看護師"},
+name={"Enfermera"},
 "“Nei Onda-chaaan. Ah, así que estabas acá. Tu mamá te llama por teléfono.\n¿Podrías venir a la estación de enfermería?”",
 {"rt2"},
 },
@@ -3509,7 +3509,7 @@ block_00206={
 text={
 ja={
 {
-"Asiento satisfactoriamente mientras observo el montón de libros de textos y mis\napuntes. Vaya que he avanzado bastante, eh.",
+"Asiento satisfactoriamente mientras observo el montón de libros de textos y mis\napuntes. Vaya que he avanzado bastante.",
 {"rt2"},
 },
 },
@@ -3555,7 +3555,7 @@ block_00209={
 text={
 ja={
 {
-"¿E-Espera, onigiris...? Mis ojos se ven atraídos hacia esos calientes y\nhumeantes onigiris.",
+"¿E-Espera, onigiris? Mis ojos se ven atraídos hacia esos calientes y\nhumeantes onigiris.",
 {"rt2"},
 },
 },
@@ -3827,7 +3827,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Las pantaletas no son mi objetivo.”",
+"“Las pantis no son mi objetivo.”",
 {"rt2"},
 },
 },
@@ -3859,7 +3859,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No, bueno, también quiero ver pantaletas. Sencillamente me muero por verlas.”",
+"“No, bueno, también quiero ver pantis. Sencillamente me muero por verlas.”",
 {"rt2"},
 },
 },

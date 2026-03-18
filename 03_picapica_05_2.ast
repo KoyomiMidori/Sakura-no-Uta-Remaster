@@ -224,7 +224,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Entendido～”",
 {"rt2"},
 },
@@ -323,7 +323,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Aquí está el agua～”",
 {"rt2"},
 },
@@ -380,7 +380,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Y aquí tienes una toalla～”",
 {"rt2"},
 },
@@ -860,7 +860,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Waa, muchas gracias～”",
 {"rt2"},
 },
@@ -895,7 +895,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Entendido～”",
 {"rt2"},
 },
@@ -1435,7 +1435,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Sea bienvenida～”",
 {"rt2"},
 },
@@ -4458,7 +4458,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pero, esa obra jamás debió haber llegado a la luz pública. Tal como lo dije\nhace un momento, para mí esa pieza fue un fracaso.”",
+"“Pero esa obra jamás debió haber llegado a la luz pública. Tal como lo dije\nhace un momento, para mí esa pieza fue un fracaso.”",
 {"rt2"},
 },
 },

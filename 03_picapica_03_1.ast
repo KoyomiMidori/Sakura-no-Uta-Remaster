@@ -1213,7 +1213,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ese hombre, muy seguramente no la odiaba a usted.”",
+"“Ese hombre... muy seguramente no la odiaba a usted.”",
 {"rt2"},
 },
 },
@@ -1388,7 +1388,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“Seguramente aprovecharon la oportunidad después de que presenté el mural en el\ncolegio. De verdad que vinieron justamente en el mejor momento, eh.”",
+"“Seguramente aprovecharon la oportunidad después de que presenté el mural en el\ncolegio. De verdad que vinieron justamente en el mejor momento.”",
 {"rt2"},
 },
 },
@@ -1757,7 +1757,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No me gustaría para nada ver de nuevo a ese viejo tampoco...”",
+"“No me gustaría para nada ver de nuevo a ese viejo...”",
 {"rt2"},
 },
 },
@@ -1899,7 +1899,7 @@ block_00119={
 text={
 ja={
 {
-"Se puede ver muy bien el mural desde acá, eh. Y también las personas enfrente\ncontemplándolo.",
+"Se puede ver muy bien el mural desde acá. Y también las personas enfrente\ncontemplándolo.",
 {"rt2"},
 },
 },
@@ -2108,7 +2108,7 @@ block_00133={
 text={
 ja={
 {
-"Sí, ciertamente... Si realmente está trabajando para esa mujer, entonces\nseguramente no puede regresar desvergonzadamente con las manos vacías.",
+"Sí, ciertamente... Si realmente está trabajando para esa mujer, entonces\nno puede regresar desvergonzadamente con las manos vacías.",
 {"rt2"},
 },
 },

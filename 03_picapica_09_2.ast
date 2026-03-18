@@ -472,7 +472,7 @@ block_00035={
 text={
 ja={
 {
-"...... Las palabras de Reika en aquel momento sentaron raíz en mi parte más\ndébil, floreciendo luego para convertirse en unas espinas imposibles de\ndesatar.",
+"... Las palabras de Reika en aquel momento sentaron raíz en mi parte más\ndébil, floreciendo luego para convertirse en unas espinas imposibles de\ndesatar.",
 {"rt2"},
 },
 },
@@ -599,7 +599,7 @@ block_00044={
 text={
 ja={
 {
-"No llegué a conocerla sino hasta que vine a vivir a la casa Toritani. Sin\nembargo, sus frecuentes visitas y su presencia fue apaciguando poco a poco mi\natormentado corazón.",
+"No llegué a conocerla sino hasta que vine a vivir a la casa Toritani. Sin\nembargo, sus frecuentes visitas y su presencia fueron apaciguando\npoco a poco mi atormentado corazón.",
 {"rt2"},
 },
 },
@@ -660,7 +660,7 @@ block_00048={
 text={
 ja={
 {
-"Ella es muy inteligente, y además buena persona, así que seguramente tuvo una\nrazón para eso'",
+"Ella es muy inteligente, y además buena persona, así que seguramente tuvo una\nrazón para eso'.",
 {"rt2"},
 },
 },
@@ -913,7 +913,7 @@ block_00066={
 text={
 ja={
 {
-"Quizás, si se me hubiera dicho que la adopción de Kei en la familia Natsume se\ndebía a que el fuera hijo de la amante, entonces hubiera terminado por\nodiarla.",
+"Quizás, si se me hubiera dicho que la adopción de Kei en la familia Natsume se\ndebía a que él era hijo de la amante, entonces hubiera terminado por\nodiarla.",
 {"rt2"},
 },
 },
@@ -1448,7 +1448,7 @@ block_00105={
 text={
 ja={
 {
-"Aunque, seguramente lo es.",
+"Aunque seguramente lo es.",
 {"rt2"},
 },
 },

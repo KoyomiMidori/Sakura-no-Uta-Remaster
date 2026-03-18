@@ -294,7 +294,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“¡Mm!!”",
+"“¡¡Mm!!”",
 {"rt2"},
 },
 },
@@ -732,7 +732,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“En ese momento solo estábamos platicando. Aunque, vaya que lo recuerdas, eh.”",
+"“En ese momento solo estábamos platicando. Aunque vaya que lo recuerdas, eh.”",
 {"rt2"},
 },
 },
@@ -1180,7 +1180,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“Sí, bueno... En fin, es un hecho que Reika nos ha odiado a mí y a mi hija\nfuertemente aun antes de que yo me divorciara de su hermano.”",
+"“Sí, bueno... En fin, es un hecho que Reika nos ha odiado a mí y a mi hija\nfuertemente antes de que yo me divorciara de su hermano.”",
 {"rt2"},
 },
 },
@@ -1555,7 +1555,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No sabía, que habían hablado de eso...”",
+"“No sabía que habían hablado de eso...”",
 {"rt2"},
 },
 },
@@ -1656,7 +1656,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“'Aunque no pueda recuperar los cuadros de Kei, si puedo hacer que Makoto-san se\nponga de mi lado y logro que madre e hija se confronten entre si de una\nmanera cruel y horrenda... Solo de imaginármelo me siento extasiada'... Eso\nfue lo que dijo...”",
+"“'Aunque no pueda recuperar los cuadros de Kei, si puedo hacer que Makoto-san se\nponga de mi lado y logro que madre e hija se confronten entre sí de una\nmanera cruel y horrenda... Solo de imaginármelo me siento extasiada'... Eso\nfue lo que dijo...”",
 {"rt2"},
 },
 },
@@ -1768,7 +1768,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“Aunque, por otra parte... Kirino-san.”",
+"“Aunque por otra parte... Kirino-san.”",
 {"rt2"},
 },
 },
@@ -1788,7 +1788,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"... Ugh.",
+"“... Ugh.”",
 {"rt2"},
 },
 },
@@ -1836,7 +1836,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“Para ese entonces aún eras joven, seguramente no tenías la suficiente\nsabiduría. Pero con la edad que tienes ahora, deberías tener ya un mínimo de\ncriterio al momento de hacer las cosas. ¿No es así?”",
+"“Para ese entonces aún eras joven, seguramente no tenías la suficiente\nsabiduría. Pero con la edad que tienes ahora, deberías tener ya un mínimo de\ncriterio al momento de hacer las cosas, ¿no es así?”",
 {"rt2"},
 },
 },
@@ -1876,7 +1876,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Pero de verdad, sucedieron tantas cosas, y... Aun con Nei en mi vientre, gasté\ntodos mis ahorros... Me sentía tan sola, y...”",
+"“Pero de verdad, sucedieron tantas cosas, y... aun con Nei en mi vientre, gasté\ntodos mis ahorros... Me sentía tan sola, y...”",
 {"rt2"},
 },
 },
@@ -1893,7 +1893,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“De verdad, de verdad, lo siento... perdóneme... lo, siento...”",
+"“De verdad, de verdad, lo siento... perdóneme... lo siento...”",
 {"rt2"},
 },
 },
@@ -2257,7 +2257,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“He estado pensando bastante por mi cuenta... Pero, hablé con la abogada, y me\ndijo que no hay ninguna otra manera de proceder... Y por eso es que...\nnecesito, a como dé lugar... los cuadros de Kei...”",
+"“He estado pensando bastante por mi cuenta... Pero hablé con la abogada, y me\ndijo que no hay ninguna otra manera de proceder... Y por eso es que...\nnecesito, a como dé lugar... los cuadros de Kei...”",
 {"rt2"},
 },
 },
@@ -2427,7 +2427,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“Estoy cuidando de los cuadros de Kei para evitar que los Nakamura le traigan\nproblemas a Kei y a los Natsume, o saquen alguna falsa acusación en torno a\nsus cuadros. Solo eso.”",
+"“Estoy cuidando los cuadros de Kei para evitar que los Nakamura le traigan\nproblemas a Kei y a los Natsume, o saquen alguna falsa acusación en torno a\nsus cuadros. Solo eso.”",
 {"rt2"},
 },
 },
@@ -2989,7 +2989,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No pasa nada. Puedo seguir elaborando mi obra mientras protejo a Kirino- san y\na su hija. Le pediré el favor a Shizuru-sa... A la dueña de Quimera...\nPodrían vivir por ese tiempo en Quimera, ¿no?”",
+"“No pasa nada. Puedo seguir elaborando mi obra mientras protejo a Kirino-san y\na su hija. Le pediré el favor a Shizuru-sa... A la dueña de Quimera...\nPodrían vivir por ese tiempo en Quimera, ¿no?”",
 {"rt2"},
 },
 },
@@ -3894,7 +3894,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“En ese momento llegué incluso a cercenar los buenos sentimientos de Kei, todo\npara darle fin a mi deseo. Y aun así.. sí, es exactamente tal como lo dice la\ndirectora.”",
+"“En ese momento llegué incluso a cercenar los buenos sentimientos de Kei, todo\npara darle fin a mi deseo. Y aun así.. sí, es tal y como lo dice la directora.”",
 {"rt2"},
 },
 },
@@ -4215,7 +4215,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque bueno, para ser un poco más preciso, pensé eso cuando vi tu expresión y\ntu manera de hablar. Pensé que, tal vez se trataba de algo que no querías\ncontarle.”",
+"“Aunque bueno, para ser un poco más preciso, pensé eso cuando vi tu expresión y\ntu manera de hablar. Pensé que tal vez se trataba de algo que no querías\ncontarle.”",
 {"rt2"},
 },
 },

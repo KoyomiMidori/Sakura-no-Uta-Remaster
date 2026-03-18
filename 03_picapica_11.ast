@@ -1242,7 +1242,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Lo usarás de referencia? Aunque, me parece que esto está bastante alejado a lo\nque normalmente fabricas... ¿Piensas cambiar de rumbo ahora?”",
+"“¿Lo usarás de referencia? Aunque me parece que esto está bastante alejado a lo\nque normalmente fabricas... ¿Piensas cambiar de rumbo ahora?”",
 {"rt2"},
 },
 },
@@ -1565,7 +1565,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Esta extraña cosa está llena de 'algo'. Y por eso, es que está tan grande y\ngruesa. Eso fue lo que pensé.”",
+"“Esta extraña cosa está llena de 'algo'. Y por eso es que está tan grande y\ngruesa. Eso fue lo que pensé.”",
 {"rt2"},
 },
 },
@@ -2435,7 +2435,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pero, creo que es justamente eso lo que les lleva a crear toda esa enorme\ncantidad de obras por las cuales se destacan.”",
+"“Pero creo que es justamente eso lo que les lleva a crear toda esa enorme\ncantidad de obras por las cuales se destacan.”",
 {"rt2"},
 },
 },
@@ -2740,7 +2740,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Me llegaron unos mensajes al celular. Uno de la dueña, y el otro, de Nei- chan.\nLo dejé apagado mientras trabajaba, así que fue hace un momento que me di\ncuenta.”",
+"“Me llegaron unos mensajes al celular. Uno de la dueña, y el otro de Nei-chan.\nLo dejé apagado mientras trabajaba, así que fue hace un momento que me di\ncuenta.”",
 {"rt2"},
 },
 },
@@ -3022,7 +3022,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Al ver tu cuadro... ese cuadro tuyo, el que decora el ayuntamiento――'Fantasía\nde un día de cerezos'. Al ver ese cuadro, me quedé estancada, detenida en el\ncamino. Sin embargo, Kei intentó seguir adelante.”",
+"“Al ver tu cuadro... ese cuadro tuyo, el que decora el ayuntamiento――'Fantasía\nde un día de cerezos'.\nAl ver ese cuadro, me quedé estancada, detenida en el camino. Sin embargo,\nKei intentó seguir adelante.”",
 {"rt2"},
 },
 },
@@ -3239,7 +3239,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Una luna de papel no es suficiente―― Y no por mí, sino por esos genios, yo--”",
+"“Una luna de papel no es suficiente――\nY no por mí, sino por esos genios, yo--”",
 {"rt2"},
 },
 },

@@ -97,7 +97,7 @@ block_00005={
 text={
 ja={
 {
-"Para decir la verdad, mis estudios andan peor aun ahora. La razón es evidente.",
+"Para decir la verdad, mis estudios andan peor aún ahora. La razón es evidente.",
 {"rt2"},
 },
 },
@@ -720,7 +720,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ah, pero, se preocuparán en tu casa si llegas muy tarde, ¿no?”",
+"“Ah, pero se preocuparán en tu casa si llegas muy tarde, ¿no?”",
 {"rt2"},
 },
 },
@@ -2209,7 +2209,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“..............”",
+"“...”",
 {"rt2"},
 },
 },
@@ -2559,7 +2559,7 @@ block_00163={
 text={
 ja={
 {
-"No se puede observar desde fuera. En otras palabras, se trata de un problema de\nobservación. No se está definiendo nada.",
+"No se puede observar desde fuera. En pocas palabras, se trata de un problema de\nobservación. No se está definiendo nada.",
 {"rt2"},
 },
 },
@@ -4758,7 +4758,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Q-Qué estás diciendo?... Eh, ¿estás llorando...? ¿No es como para llorar, no?\n¡Y espera, ¿pero por qué estás llorando?!”",
+"“¿Q-Qué estás diciendo?... Eh, ¿estás llorando...? No es como para llorar, ¿no?\n¡Y espera, ¿pero por qué estás llorando?!”",
 {"rt2"},
 },
 },
@@ -4926,7 +4926,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡Ni que pongas esa cara de tristeza lo haré!”",
+"“¡Ni porque pongas esa cara de tristeza lo haré!”",
 {"rt2"},
 },
 },

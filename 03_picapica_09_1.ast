@@ -85,7 +85,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Ehhh, pero es una fiesta, ¿no? Para celebrar que algo salió bien, o algo así\nescuché. ¡No está de más entonces decorar el local!”",
 {"rt2"},
 },
@@ -129,7 +129,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Ah, ¿te diste cuenta? La verdad es que estoy aspirando a convertirme en una\nprofesora de guardería～. Por eso es que siempre me pongo a hacer este tipo\nde decoraciones con los niños pequeños de mis familiares.”",
 {"rt2"},
 },
@@ -210,7 +210,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Así es～. ¡Todas las muchachas de medio tiempo nos encargaremos de la fiesta de\nesta noche! ¡Desde la comida hasta decoración, todo!”",
 {"rt2"},
 },
@@ -253,7 +253,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Y por lo tanto, Makoto-san, puedes sentarte y hacer tuyo el lugar por hoy, como\nuna cliente más.”",
 {"rt2"},
 },
@@ -307,7 +307,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Ah, ¿la canción de hace un momento? Fue Makoto-san quien me la enseñó～”",
 {"rt2"},
 },
@@ -324,7 +324,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Mi nombre es Tsugumi, que también significa mirlo. Y cuando Makoto-san me\nconoció, me enseñó esta canción. Me gusta, pero me cuesta aprendérmela.”",
 {"rt2"},
 },
@@ -341,7 +341,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Cantemos una canción de seis peniques～. Y, veinticuatro mirlos, cantan dentro\nde la torta horneada, y bromean, y el Rey, se... ¿sorprende?...”",
 {"rt2"},
 },
@@ -390,7 +390,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Los seis peniques son parte de una tradición que supuestamente trae la\nprosperidad, ¿verdad? Dicen que en un casamiento, si la novia mete seis\npeniques en su zapato, entonces ni a ella ni a su marido les faltará dinero\njamás, ¿o algo así?...”",
 {"rt2"},
 },
@@ -481,7 +481,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Ah, eso, eso.”",
 {"rt2"},
 },
@@ -498,7 +498,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Mi onee-chan hizo eso en su boda～. ¡Y me dio los seis peniques de la felicidad\na mí!”",
 {"rt2"},
 },
@@ -515,7 +515,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Siempre lo guardo en mi billetera para no perderlo～. Se siente bien, me da el\npresentimiento de que la prosperidad y la felicidad vendrán a mí.”",
 {"rt2"},
 },
@@ -533,7 +533,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Oh, creo que ya hablé demasiado. Tengo que seguir con los preparativos, así que\nme iré ya. Háganse cómodos y pasen un buen rato los dos～”",
 {"rt2"},
 },
@@ -885,7 +885,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Te sucede algo hoy? Estás bastante sentimental, eh.”",
+"“¿Te sucede algo hoy? Estás bastante sentimental.”",
 {"rt2"},
 },
 },
@@ -1565,7 +1565,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Saki-sama... disculpe, directora Toritani... Realmente, le agradezco todo lo\nque hizo por nosotras. No sé qué podría hacer por usted a cambio...”",
+"“Saki-sama... disculpe, directora Toritani... Realmente le agradezco todo lo\nque hizo por nosotras. No sé qué podría hacer por usted a cambio...”",
 {"rt2"},
 },
 },

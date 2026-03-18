@@ -965,7 +965,7 @@ block_00059={
 text={
 ja={
 {
-"¿Desde niño...? ¿La directora conoce mi historia previa a mi ingreso al\ncolegio?...",
+"¿Desde niño?... ¿La directora conoce mi historia previa a mi ingreso al\ncolegio?...",
 {"rt2"},
 },
 },
@@ -978,7 +978,7 @@ block_00060={
 text={
 ja={
 {
-"¿Qué hago? ¿Trato de seguir pisando terreno? Aunque, pareciera ser un anzuelo\ndemasiado obvio.",
+"¿Qué hago? ¿Trato de seguir pisando terreno? Aunque pareciera ser un anzuelo\ndemasiado obvio.",
 {"rt2"},
 },
 },
@@ -1202,7 +1202,7 @@ vo={
 ja={
 {
 name={"Directora"},
-"“O por ejemplo, acerca de como siendo directora de este colegio, tengo el\napellido Toritani.”",
+"“O por ejemplo, acerca de cómo siendo directora de este colegio, tengo el\napellido Toritani.”",
 {"rt2"},
 },
 },
@@ -1632,7 +1632,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Procure dar usted el ejemplo como directora que es, Directora Toritani. Estamos\nen plena hora de clases.”",
+"“Procure dar usted el ejemplo como directora que es, directora Toritani. Estamos\nen plena hora de clases.”",
 {"rt2"},
 },
 },
@@ -2765,7 +2765,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Así es. Además, ya está bien de que hablemos de mí. Más importante que eso\nahora...”",
+"“Así es. Además, ya está bien de que hablemos de mí.\nMás importante que eso ahora...”",
 {"rt2"},
 },
 },
@@ -2899,7 +2899,7 @@ block_00176={
 text={
 ja={
 {
-"No tenía nada qué hacer en particular. Pero, quizás por costumbre es que vine\nsin pensármelo mucho.",
+"No tenía nada qué hacer en particular. Pero quizás por costumbre es que vine\nsin pensármelo mucho.",
 {"rt2"},
 },
 },
@@ -3024,7 +3024,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Kei-kun no es de la clase de chicos que se la pasa armando esa clase de\nproblemas.... Aunque, supongo que eres tú mejor que nadie quien lo sabe,\nNao-kun.”",
+"“Kei-kun no es de la clase de chicos que se la pasa armando esa clase de\nproblemas.... Aunque supongo que eres tú mejor que nadie quien lo sabe,\nNao-kun.”",
 {"rt2"},
 },
 },
@@ -3140,7 +3140,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo... Pobre de nuestra jefa, eh. Tener que estar pendiente incluso de las\nsiestas de los miembros del club... Disculpa por ponerte a hacer esto, Rin.”",
+"“Ya veo... Pobre de nuestra jefa. Tener que estar pendiente incluso de las\nsiestas de los miembros del club... Disculpa por ponerte a hacer esto, Rin.”",
 {"rt2"},
 },
 },
@@ -3379,7 +3379,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Asegurate de responderme cuando llegue el momento, ¿sí?”",
+"“Asegúrate de responderme cuando llegue el momento, ¿sí?”",
 {"rt2"},
 },
 },
@@ -3672,7 +3672,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ya veo... Pero, hace lo mismo todos los días, ¿verdad?”",
+"“Ya veo... Pero hace lo mismo todos los días, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -4134,7 +4134,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Mmm... Ciertamente fui yo quien le recomendó pintar un paisaje. Pero, pensé que\ntú le ayudarías, Kusanagi.”",
+"“Mmm... Ciertamente fui yo quien le recomendó pintar un paisaje. Pero pensé que\ntú le ayudarías, Kusanagi.”",
 {"rt2"},
 },
 },
@@ -4272,7 +4272,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“N-- No me esperaba esa respuesta.”",
+"“N-No me esperaba esa respuesta.”",
 {"rt2"},
 },
 },
@@ -4762,7 +4762,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“--??!!”",
+"“¡¿Ah?!”",
 {"rt2"},
 },
 },
@@ -5068,7 +5068,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡¡Kusanagi, tú...!!”",
+"“¡¡Kusanagi, tú--!!”",
 {"rt2"},
 },
 },

@@ -479,7 +479,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Eso, es tan injusto...”",
+"“Eso... es tan injusto...”",
 {"rt2"},
 },
 },
@@ -1201,7 +1201,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Tienes una cara un tanto rara. ¿Será, que estás nervioso?”",
+"“Tienes una cara un tanto rara. ¿Será... que estás nervioso?”",
 {"rt2"},
 },
 },
@@ -1606,7 +1606,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Vamos, no tienes nada de qué temer. No haré nada que te desagrade.”",
+"“Vamos, no tienes nada que temer. No haré nada que te desagrade.”",
 {"rt2"},
 },
 },
@@ -2830,7 +2830,7 @@ block_00181={
 text={
 ja={
 {
-"Hago lo imposible por ocultar mi impaciencia, y estoy fallando estrepitosamente\nen el intento. Realmente ninguno de los dos puede pensar con claridad\nahora... Y mientras pienso en eso, me resigno a decir la verdad, sin más qué\npoder hacer.",
+"Hago lo imposible por ocultar mi impaciencia, y estoy fallando estrepitosamente\nen el intento. Realmente ninguno de los dos puede pensar con claridad\nahora... Y mientras pienso en eso, me resigno a decir la verdad, sin más que\npoder hacer.",
 {"rt2"},
 },
 },
@@ -3393,7 +3393,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No creas, yo también lo estoy. O digo, estoy perdiendo gradualmente la razón.\nSi dices que vas a desnudarte, pues me encantaría que me dejaras hacerlo yo.”",
+"“No creas, yo también lo estoy. O digo, estoy perdiendo poco a poco la razón.\nSi dices que vas a desnudarte, pues me encantaría que me dejaras hacerlo yo.”",
 {"rt2"},
 },
 },
@@ -4898,7 +4898,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"No pares por nada del mundo, aunque mi cara se retuerza del dolor, ¿sí?...\nQuiero, volverme una contigo, como debe ser...",
+"“No pares por nada del mundo, aunque mi cara se retuerza del dolor, ¿sí?...\nQuiero, volverme una contigo, como debe ser...”",
 {"rt2"},
 },
 },
@@ -6000,7 +6000,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Sí, así mismo... Ahh, por Dios... uhn... ¿Escucha, sí?... Esto, solo lo diré...\nuna sola vez... Solo, una única vez, así que escucha muy bien!...”",
+"“Sí, así mismo... Ahh, por Dios... uhn... ¿Escucha, sí?... Esto, solo lo diré...\nuna sola vez... Solo, una única vez, ¡así que escucha muy bien!...”",
 {"rt2"},
 },
 },
@@ -6938,7 +6938,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Faah... ha, Jaa... ah, aahh... ah...”",
+"“Faah... ja, jaa... ah, aahh... ah...”",
 {"rt2"},
 },
 },

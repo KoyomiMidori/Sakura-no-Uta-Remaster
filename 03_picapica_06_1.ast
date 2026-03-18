@@ -49,7 +49,7 @@ block_00002={
 text={
 ja={
 {
-"Algunos se van al comedor, otros comen de sus obentou, mientras que otros van a\nla cantina... Todos comienzan el receso del mediodía a su propia manera.",
+"Algunos se van al comedor, otros comen sus almuerzos, mientras que otros van a\nla cantina... Todos comienzan el receso del mediodía a su propia manera.",
 {"rt2"},
 },
 },
@@ -76,7 +76,7 @@ block_00004={
 text={
 ja={
 {
-"Saco mi obentou de la mochila y me piro del salón.",
+"Saco mi almuerzo de la mochila y me piro del salón.",
 {"rt2"},
 },
 },
@@ -1507,7 +1507,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Gracias al silbido del viento, empezaron a achacarle historias raras, y en\ncierto momento los rumores trajeron más rumores. Que si había el espíritu de\nuna mujer sollozando contenido adentro, o que al tenerlo en tus manos\nacabarías en la bancarrota... Terminó ganándose el titulo de obra\nmaldecida... Por Dios, cualquiera que lo vea se daría cuenta que se trata de\nuna pieza reciente...”",
+"“Gracias al silbido del viento, empezaron a achacarle historias raras, y en cierto momento\nlos rumores trajeron más rumores. Que si había el espíritu de una mujer sollozando\ncontenido adentro, o que al tenerlo en tus manos acabarías en la bancarrota...\nTerminó ganándose el titulo de obra maldecida... Por Dios, cualquiera que lo vea\nse daría cuenta que se trata de una pieza reciente...”",
 {"rt2"},
 },
 },
@@ -2547,7 +2547,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No realmente.”",
+"“Realmente no.”",
 {"rt2"},
 },
 },
@@ -3762,7 +3762,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Está bien... Aunque, a mi parecer se ven buenas...”",
+"“Está bien... Aunque a mi parecer se ven buenas...”",
 {"rt2"},
 },
 },
@@ -4014,7 +4014,7 @@ vo={
 ja={
 {
 name={"Komaki"},
-"“Claro, y muchas gracias siempre por el favor. Aunque, hoy vinimos también a\ncontribuir con las ventas del local, así que si no te molesta, ¿podrías\ndarnos el menú?”",
+"“Claro, y muchas gracias siempre por el favor. Aunque hoy vinimos también a\ncontribuir con las ventas del local, así que si no te molesta, ¿podrías\ndarnos el menú?”",
 {"rt2"},
 },
 },

@@ -271,7 +271,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"Esta es la habitación de la directora. Había dicho que era casi como un\ndepósito, ¿no recuerdas?",
+"“Esta es la habitación de la directora. Había dicho que era casi como un\ndepósito, ¿no recuerdas?”",
 {"rt2"},
 },
 },
@@ -995,7 +995,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No sé por qué pensé eso... Aunque, quizás se debe a que en la parte trasera del\nespejo hay un patrón de urracas grabadas, y terminé asociándolo con eso.”",
+"“No sé por qué pensé eso... Aunque quizás se debe a que en la parte trasera del\nespejo hay un patrón de urracas grabadas, y terminé asociándolo con eso.”",
 {"rt2"},
 },
 },
@@ -1059,7 +1059,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“... ¡Mm! ¿C-Cómo te atreves a-- No niego que fui yo quien desvió la\nconversación, pero no podemos andar entre historias y descansos todo el día.\n¡Vamos, presta atención y mira esto!”",
+"“... ¡Mm! C-Cómo te atreves a-- No niego que fui yo quien desvió la\nconversación, pero no podemos andar entre historias y descansos todo el día.\n¡Vamos, presta atención y mira esto!”",
 {"rt2"},
 },
 },
@@ -2009,7 +2009,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo, y entonces... fue después la directora quien descubrió eso cuando aún\nestaba en la preparatoria, eh.”",
+"“Ya veo, y entonces... fue después la directora quien descubrió eso cuando aún\nestaba en la preparatoria.”",
 {"rt2"},
 },
 },
@@ -2509,7 +2509,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Digamos que he visto ya a unas cuantas personas con esos mismos ojos que tiene\nusted ahora, así que pensé '¿Será que quizás...?'. Para decir la verdad, fue\nmera intuición.”",
+"“Digamos que he visto ya a unas cuantas personas con esos mismos ojos que tiene\nusted ahora, así que pensé '¿Será que quizás?'. Para decir la verdad, fue\nmera intuición.”",
 {"rt2"},
 },
 },
@@ -2619,7 +2619,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Suetake-san, el jarrón que usted tanto quiere, es en realidad parte de una\nserie.”",
+"“Suetake-san, el jarrón que usted tanto quiere es en realidad parte de una\nserie.”",
 {"rt2"},
 },
 },
@@ -3258,7 +3258,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Gracias por venir～”",
 {"rt2"},
 },

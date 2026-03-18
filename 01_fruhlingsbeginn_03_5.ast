@@ -828,7 +828,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“No puedo permitir eso. Está bien, no me queda otra opción... Les pagaré por su\ntrabajo. Pero, todo el dinero del pago será destinado a cubrir el presupuesto\ndel club. ¿Aun así están de acuerdo?”",
+"“No puedo permitir eso. Está bien, no me queda otra opción... Les pagaré por su\ntrabajo. Pero todo el dinero del pago será destinado a cubrir el presupuesto\ndel club. ¿Aun así están de acuerdo?”",
 {"rt2"},
 },
 },
@@ -1381,7 +1381,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Un set de macarrones Sakura y un New Blend, junto con un ramen sobre piedra y\nun café helado. Aquí tienen.”",
 {"rt2"},
 },

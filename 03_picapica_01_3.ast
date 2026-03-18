@@ -1092,7 +1092,7 @@ block_00064={
 text={
 ja={
 {
-"Al ver con cuidado, pude notar como Kei estaba respirando de manera periódica y\nserena, durmiendo.",
+"Al ver con cuidado, pude notar cómo Kei estaba respirando de manera periódica y\nserena, durmiendo.",
 {"rt2"},
 },
 },
@@ -1222,7 +1222,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Kei nunca se para a pensar. Simplemente pinta. Pinta y sigue pintando. Así es\nél.”",
+"“Kei nunca se para a pensar. Simplemente pinta. Pinta y sigue pintando.\nAsí es él.”",
 {"rt2"},
 },
 },
@@ -1533,7 +1533,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“... Realmente, cada vez tengo más y más deudas contigo.”",
+"“... De verdad, cada vez tengo más y más deudas contigo.”",
 {"rt2"},
 },
 },
@@ -1620,7 +1620,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿No es así como pasa siempre? Sea un acto para bien o para mal, la persona que\nlo hizo no suele recordar casi... o, simplemente no recuerda nada.”",
+"“¿No es así como pasa siempre? Sea un acto para bien o para mal, la persona que\nlo hizo no suele recordar casi... o simplemente no recuerda nada.”",
 {"rt2"},
 },
 },
@@ -1973,7 +1973,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Es fantástica. Pero, la temática es ligeramente distinta... ¿Por qué le habrá\nhecho este cambio?”",
+"“Es fantástica. Pero la temática es ligeramente distinta... ¿Por qué le habrá\nhecho este cambio?”",
 {"rt2"},
 },
 },
@@ -2220,7 +2220,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Aunque, a juzgar por lo que dices, parece que realmente tampoco sabes mucho de\nlo que verdaderamente sucedió.”",
+"“Aunque, a juzgar por lo que dices, parece que tampoco sabes mucho de\nlo que verdaderamente sucedió.”",
 {"rt2"},
 },
 },
@@ -2257,7 +2257,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Yo también sé un poco, solo un poco, respecto a Kenichiro Kusanagi. Y también,\nacerca de Kotoko Natsume.”",
+"“Yo también sé un poco, solo un poco, respecto a Kenichiro Kusanagi.\nY también, acerca de Kotoko Natsume.”",
 {"rt2"},
 },
 },
@@ -2449,7 +2449,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Hmm, ya veo. Claro.”",
+"“Mmm, ya veo. Claro.”",
 {"rt2"},
 },
 },
@@ -2801,7 +2801,7 @@ block_00167={
 text={
 ja={
 {
-"De no ser así, entonces cualquier familia se desmoronaría fácilmente', eh... Lo\ndice como si realmente supiera del asunto...",
+"De no ser así, entonces cualquier familia se desmoronaría fácilmente'... Lo\ndice como si realmente supiera del asunto...",
 {"rt2"},
 },
 },
@@ -2824,7 +2824,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Supongo, que esta pintura también... es uno de los vínculos que une a tu\nfamilia.”",
+"“Supongo... que esta pintura también... es uno de los vínculos que une a tu\nfamilia.”",
 {"rt2"},
 },
 },
@@ -2901,7 +2901,7 @@ block_00173={
 text={
 ja={
 {
-"Casi como volando, algo rozó mi flequillo a una velocidad que ni el mismo ojo\npodía captar. Fue ese sonido de '*ton*' que hizo Toritani al bajar su pierna,\nque finalmente me di cuenta que se trataba de una patada.",
+"Casi como volando, algo rozó mi flequillo a una velocidad que ni el mismo ojo\npodía captar. Fue con ese sonido de '*ton*' que hizo Toritani al bajar su pierna\nque finalmente me di cuenta que se trataba de una patada.",
 {"rt2"},
 },
 },
@@ -2951,7 +2951,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No, espera, ¿eso no haría que tus pantaletas se muestren al momento de patear?”",
+"“No, espera, ¿eso no haría que tus pantis se muestren al momento de patear?”",
 {"rt2"},
 },
 },
@@ -2992,7 +2992,7 @@ block_00178={
 text={
 ja={
 {
-"Toritani agita sus manos y se marcha. Veo como se va caminando, sin miedo y con\naplomo.",
+"Toritani agita sus manos y se marcha. Veo cómo se va caminando, sin miedo y con\naplomo.",
 {"rt2"},
 },
 },
@@ -3209,7 +3209,7 @@ block_00192={
 text={
 ja={
 {
-"Aprendí la lección. No, ya lo sabía desde un principio. Solo que ahora, la\nrealidad me restregó la verdad de nuevo frente a mis ojos.",
+"Aprendí la lección. No, ya lo sabía desde un principio.\nSolo que ahora... la realidad me restregó la verdad de nuevo frente a mis ojos.",
 {"rt2"},
 },
 },
@@ -3248,7 +3248,7 @@ block_00195={
 text={
 ja={
 {
-"Por eso es que ella puede también, separar por completo lo sensual del arte.",
+"Por eso es que ella puede, también, separar por completo lo sensual del arte.",
 {"rt2"},
 },
 },

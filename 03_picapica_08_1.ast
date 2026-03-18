@@ -90,7 +90,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“¡Bienvenidas～! Les guiaré hasta su mesa, si no es molestia esperen un m--”",
 {"rt2"},
 },
@@ -124,7 +124,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Jaa～...”",
 {"rt2"},
 },
@@ -254,7 +254,7 @@ vo={
 ja={
 {
 name={"???"},
-"“Sí, es que tiene que ser. Quizás engañó a los demás, pero no podrá engañarme a\nmí... Lo único que sabe hacer bien esa mujer es mentir, realmente. Pero qué\nproblema, ¿no crees?”",
+"“Sí, es que tiene que ser. Quizás engañó a los demás, pero no podrá engañarme a\nmí... Lo único que sabe hacer bien esa mujer es mentir, en serio. Pero qué\nproblema, ¿no crees?”",
 {"rt2"},
 },
 },
@@ -638,7 +638,7 @@ vo={
 },
 ja={
 {
-name={"麗華"},
+name={"Reika"},
 "“Muchacha... Ya lo sabía, pero debo decirlo de todas formas. Realmente eres una\ntonta. Jaa... Qué más da. Suetake, explícale paso a paso y lentamente, de\nmanera que esta tonta entienda.”",
 {"rt2"},
 },
@@ -714,7 +714,7 @@ vo={
 },
 ja={
 {
-name={"麗華"},
+name={"Reika"},
 "“Vaya, pero qué insolencia. Tal cual madre, tal cual hija... Ah, ahora que lo\nrecuerdo, Shizuru también era así.”",
 {"rt2"},
 },
@@ -1079,7 +1079,7 @@ vo={
 },
 ja={
 {
-name={"麗華"},
+name={"Reika"},
 "“Desde hace años ustedes las Toritani no se han cansado de ponerse en mi camino,\ny la verdad es que ya estoy harta. Y para más colmo, se robaron a Kei y a sus\ncuadros, todo propiedad de la familia Nakamura... ¿No será más bien que todos\nlos Toritani llevan sangre de ladrones por dentro?”",
 {"rt2"},
 },
@@ -1682,7 +1682,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Sí... Y esto es lo que faltó pagar de esa factura. Aunque, seguramente la dueña\ntampoco llegó a imaginarse que nosotros también tendríamos que pagar.”",
+"“Sí... Y esto es lo que faltó pagar de esa factura. Aunque seguramente la dueña\ntampoco llegó a imaginarse que nosotros también tendríamos que pagar.”",
 {"rt2"},
 },
 },
@@ -1866,7 +1866,7 @@ block_00106={
 text={
 ja={
 {
-"Para cuando pudimos coger a la muy ajetreada Directora, ya era de noche.",
+"Para cuando pudimos ver a la muy ajetreada directora, ya era de noche.",
 {"rt2"},
 },
 },
@@ -2328,7 +2328,7 @@ block_00131={
 text={
 ja={
 {
-"Toritani me lanza una mirada un tanto exasperada al haberla acompañado de\nvuelta a Quimera. Aunque, de su voz rebosaba consideración y amabilidad por\nmí.",
+"Toritani me lanza una mirada un tanto exasperada al haberla acompañado de\nvuelta a Quimera. Aunque de su voz rebosaba consideración y amabilidad por\nmí.",
 {"rt2"},
 },
 },
@@ -3003,7 +3003,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Perdona que te haya contado cosas tan raras aquella vez. Pero, quería que lo\nsupieras.”",
+"“Perdona que te haya contado cosas tan raras aquella vez. Pero quería que lo\nsupieras.”",
 {"rt2"},
 },
 },

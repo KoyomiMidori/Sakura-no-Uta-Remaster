@@ -542,7 +542,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Recordé lo que me dijiste frente a 'Olympia'. De como entre tú y la familia\nNatsume no hay una relación directa, pero están vinculados de alguna forma.”",
+"“Recordé lo que me dijiste frente a 'Olympia'. De cómo entre tú y la familia\nNatsume no hay una relación directa, pero están vinculados de alguna forma.”",
 {"rt2"},
 },
 },
@@ -681,7 +681,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Dijiste hace un momento que Kei y yo nos parecemos, ¿verdad? Si nos parecemos,\nentonces es gracias a la sangre de Nakamura que corre dentro de los dos.”",
+"“Dijiste hace un momento que Kei y yo nos parecemos, ¿verdad? Si nos parecemos,\nentonces es gracias a la sangre de los Nakamura que corre dentro de los dos.”",
 {"rt2"},
 },
 },
@@ -1672,7 +1672,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Aunque... aun siendo tan buen amigo de Kei, no conoces nada de su pasado por lo que veo.”",
+"“Aunque... aun siendo tan buen amigo de Kei, no conoces nada de su\npasado por lo que veo.”",
 {"rt2"},
 },
 },
@@ -2393,7 +2393,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Te lo ruego, Kusanagi. Quizás no tenga valor alguno para ti ahora, pero, esta\nmano es muy, muy preciada... y por eso...”",
+"“Te lo ruego, Kusanagi. Quizás no tenga valor alguno para ti ahora, pero esta\nmano es muy, muy preciada... y por eso...”",
 {"rt2"},
 },
 },
@@ -2411,7 +2411,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Sabes algo, Kusanagi? La razón por la cual luché tanto para mantener el club\nde arte... La razón por la cual estoy ahora apostándole a la Exposición\nMoore. Todo eso, lo hago por el bien de dos genios.”",
+"“¿Sabes algo, Kusanagi? La razón por la cual luché tanto para mantener el club\nde arte... La razón por la cual estoy ahora apostándole a la Exposición\nMoore. Todo eso... lo hago por el bien de dos genios.”",
 {"rt2"},
 },
 },
@@ -2502,7 +2502,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Acaso no es obvio? Nunca juego a perder, sea lo que sea que haga. Pero, mi\nobjetivo no es siempre ganar.”",
+"“¿Acaso no es obvio? Nunca juego a perder, sea lo que sea que haga. Pero mi\nobjetivo no es siempre ganar.”",
 {"rt2"},
 },
 },
@@ -2581,7 +2581,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Lo mismo aplica para todo lo demás... ¡Espera, ¿p-Por qué reaccionas justo\nahí?!”",
+"“Lo mismo aplica para todo lo demás... ¡Espera, ¿p-por qué reaccionas justo\nahí?!”",
 {"rt2"},
 },
 },
@@ -2895,7 +2895,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡¡Que no!! En pocas palabras, quiero decir... ehm... ¿Tanto valor tienen las\npantaletas para los hombres? ¿Sin importar de quién sean?”",
+"“¡¡Que no!! En pocas palabras, quiero decir... ehm... ¿Tanto valor tienen las\npantis para los hombres? ¿Sin importar de quién sean?”",
 {"rt2"},
 },
 },
@@ -2955,7 +2955,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No podría responder a eso sin probarlo de antemano. En primer lugar, unas\npantaletas no son algo que se vean todos los días y a toda hora.”",
+"“No podría responder a eso sin probarlo de antemano. En primer lugar, unas\npantis no son algo que se vean todos los días y a toda hora.”",
 {"rt2"},
 },
 },
@@ -2969,7 +2969,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hay, con toda certeza, muchas cosas en este mundo que no se pueden entender de\nno experimentarlas antes. Y eso podemos decir, sin duda alguna, de las\npantaletas que se esconden tras las faldas.”",
+"“Hay, con toda certeza, muchas cosas en este mundo que no se pueden entender de\nno experimentarlas antes. Y eso podemos decir, sin duda alguna, de las\npantis que se esconden tras las faldas.”",
 {"rt2"},
 },
 },
@@ -3439,7 +3439,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y respecto a las pantaletas, más que hablar acerca de ellas, preferiría verlas.”",
+"“Y respecto a las pantis, más que hablar acerca de ellas, preferiría verlas.”",
 {"rt2"},
 },
 },
@@ -3549,7 +3549,7 @@ block_00216={
 text={
 ja={
 {
-"A pesar de todo lo que ocurrió hoy, al final todo el tono serio se esfumó con\nlo del tema de las pantaletas al final. La conversación tomó un tinte\nextraño, con eso del romance y el interés en el amor...",
+"A pesar de todo lo que ocurrió hoy, al final todo el tono serio se esfumó con\nlo del tema de las pantis al final. La conversación tomó un tinte\nextraño, con eso del romance y el interés en el amor...",
 {"rt2"},
 },
 },

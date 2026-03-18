@@ -768,7 +768,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por fin lograste llegar hasta este punto, eh.”",
+"“Por fin lograste llegar hasta este punto.”",
 {"rt2"},
 },
 },
@@ -1126,7 +1126,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pondré todo el esfuerzo que pueda dar, y haré todo lo mejor que pueda hacerlo.\nNo puedo descuidarme durante el enfriado, así que procuraré concentrarme\nhasta abrir el horno. Aunque, en lo que concierne al resultado...”",
+"“Pondré todo el esfuerzo que pueda dar, y haré todo lo mejor que pueda hacerlo.\nNo puedo descuidarme durante el enfriado, así que procuraré concentrarme\nhasta abrir el horno. Aunque en lo que concierne al resultado...”",
 {"rt2"},
 },
 },
@@ -1830,7 +1830,7 @@ block_00117={
 text={
 ja={
 {
-"Aunque, seguramente no deseaba de ninguna manera caerse rendida ante el sueño\nen este lugar.",
+"Aunque seguramente no deseaba de ninguna manera caerse rendida ante el sueño\nen este lugar.",
 {"rt2"},
 },
 },
@@ -2022,7 +2022,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Es mentira. Yo también estuve durmiendo a tu lado, ¿que no recuerdas?”",
+"“Es mentira. Yo también estuve durmiendo a tu lado, ¿qué no recuerdas?”",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ block_00149={
 text={
 ja={
 {
-"La gruesa capa de esmalte blanco representaba la brillante superficie de la\nluna, mientras que los patrones grises que se veían tras la fina capa de\nesmalte semitranslúcido y las partes negras expuestas formadas por el tipo de\nencogimiento conocido como 'Kairagi' forman un delicado y perfecto contraste\nde sombras, describiendo los parches y sombras del único satélite que tiene\nel planeta.",
+"La gruesa capa de esmalte blanco representaba la brillante superficie de la luna,\nmientras que los patrones grises que se veían tras la fina capa de esmalte\nsemitranslúcido y las partes negras expuestas formadas por el tipo de\nencogimiento conocido como 'Kairagi' forman un delicado y perfecto contraste de\nsombras, describiendo los parches y sombras del único satélite del planeta.",
 {"rt2"},
 },
 },
@@ -2393,7 +2393,7 @@ block_00152={
 text={
 ja={
 {
-"'La cara oculta de la luna'―― Ese fue el nombre que Toritani le dio a esta\npieza.",
+"'La cara oculta de la luna'――\nEse fue el nombre que Toritani le dio a esta pieza.",
 {"rt2"},
 },
 },
@@ -2432,7 +2432,7 @@ block_00155={
 text={
 ja={
 {
-"No tenemos forma alguna de volar y llegar a la cara expuesta de la luna. Pero,\nsi es por su cara oculta――",
+"No tenemos forma alguna de volar y llegar a la cara expuesta de la luna.\nPero si es por su cara oculta――",
 {"rt2"},
 },
 },
@@ -2803,7 +2803,7 @@ block_00181={
 text={
 ja={
 {
-"Las manos de Toritani no lograron alcanzar su preciado deseo: 'Lo mejor que\npueda hacer, por el bien de los dos genios'",
+"Las manos de Toritani no lograron alcanzar su preciado deseo: 'Lo mejor que\npueda hacer, por el bien de los dos genios'.",
 {"rt2"},
 },
 },
@@ -2829,7 +2829,7 @@ block_00183={
 text={
 ja={
 {
-"'No importa. Así está bien'. Esas palabras que ella misma se dijo, eran su todo\nahora.",
+"'No importa. Así está bien'.\nEsas palabras que ella misma se dijo eran su todo ahora.",
 {"rt2"},
 },
 },

@@ -763,7 +763,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Te daré el jarrón de la urraca. Pero, antes de eso, hay algo que quisiera\npreguntar.”",
+"“Te daré el jarrón de la urraca. Pero antes de eso, hay algo que quisiera\npreguntar.”",
 {"rt2"},
 },
 },
@@ -957,7 +957,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“'Una imagen de un paisaje de nieve y una urraca', y 'La Luna y las Estrellas'.\nLa razón por la cual traje estas dos obras hoy, es porque quiero que elijas\nentre una de las dos.”",
+"“'Una imagen de un paisaje de nieve y una urraca', y 'La Luna y las Estrellas'.\nLa razón por la cual traje estas dos obras hoy es porque quiero que elijas\nentre una de las dos.”",
 {"rt2"},
 },
 },
@@ -1124,7 +1124,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“¡¡Aja, ajaja, jajajaja, perdiste tu tiempo!!”",
+"“¡¡AJA, AJAJAJA, JAJAJAJA, perdiste tu tiempo!!”",
 {"rt2"},
 },
 },
@@ -1235,7 +1235,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“Si buscabas engañar a alguien, elegiste a la persona menos indicada. Estoy\nconsciente ya de todo lo que estás tramando. Sea lo que sea que tengas que\nhacer, no estás dispuesta a soltar el jarrón de la urraca, ¡¿verdad?! ¡¡¡Pero\ncréeme cuando te digo que a mí NO me engañarás!!!”",
+"“Si buscabas engañar a alguien, elegiste a la persona menos indicada. Estoy\nconsciente ya de todo lo que estás tramando. ¡Sea lo que sea que tengas que\nhacer, no estás dispuesta a soltar el jarrón de la urraca, ¿verdad?! ¡¡¡Pero\ncréeme cuando te digo que a mí NO me engañarás!!!”",
 {"rt2"},
 },
 },
@@ -1256,7 +1256,7 @@ vo={
 ja={
 {
 name={"Suetake"},
-"“R-Reika-sama... -- Decir que la serie de jarrones de la Luna y las Estrellas\nson chatarras, es---”",
+"“R-Reika-sama... Decir que la serie de jarrones de la Luna y las Estrellas\nson chatarras es---”",
 {"rt2"},
 },
 },
@@ -1284,7 +1284,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“¡¡CÁLLATE!! ¡¿Suetake, quién te crees para venir a discutirme?!”",
+"“¡¡CÁLLATE!! ¡Suetake, ¿quién te crees para venir a discutirme?!”",
 {"rt2"},
 },
 },
@@ -1378,7 +1378,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“¡¡Mis ojos son capaces de ver dónde hay una verdadera obra maestra!! ¡¡¡No\nimporta que tanta palabrería traigas, no puedes engañar a alguien con la\nsensibilidad artística que tengo yo!!! ¡¡¡Tonta, tonta!!!”",
+"“¡¡Mis ojos son capaces de ver dónde hay una verdadera obra maestra!! ¡¡¡No\nimporta qué tanta palabrería traigas, no puedes engañar a alguien con la\nsensibilidad artística que tengo yo!!! ¡¡¡Tonta, tonta!!!”",
 {"rt2"},
 },
 },
@@ -1424,7 +1424,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“¡¡Madre, hija, prima, todas son unas idiotas. Puros idiotas, idiotas, idiotas,\npuros idiotas en esa familia!!”",
+"“¡¡Madre, hija, prima, todas son unas idiotas!! ¡¡Puros idiotas, idiotas, idiotas,\npuros idiotas en esa familia!!”",
 {"rt2"},
 },
 },
@@ -1487,7 +1487,7 @@ vo={
 ja={
 {
 name={"Reika"},
-"“¡Makoto Toritani! ¡Realmente eres una jovencita asquerosa! ¡No sabes lo mucho\nque me encantaría sacar toda la sangre que tienes, retirar todos los genes de\nOnii-sama y llenarte de nuevo con la sangre de un perro callejero, pero\nagradece que no lo haré ahora!”",
+"“¡Makoto Toritani! ¡Realmente eres una jovencita asquerosa! ¡No sabes lo mucho\nque me encantaría sacar toda la sangre que tienes, retirar todos los genes de\nonii-sama y llenarte de nuevo con la sangre de un perro callejero, pero\nagradece que no lo haré ahora!”",
 {"rt2"},
 },
 },

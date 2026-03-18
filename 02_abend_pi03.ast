@@ -2089,7 +2089,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Ah, pero, Makoto-san, tú también vendes piezas de alfarería, ¿verdad～?”",
 {"rt2"},
 },
@@ -2348,7 +2348,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“¿Eh? Pero eso--”",
 {"rt2"},
 },
@@ -2386,7 +2386,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "*mogaa*",
 {"rt2"},
 },
@@ -2448,7 +2448,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "*moga*, *moga*, *moga*.",
 {"rt2"},
 },
@@ -2483,7 +2483,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "¡*mogamoga*～～～～～!",
 {"rt2"},
 },

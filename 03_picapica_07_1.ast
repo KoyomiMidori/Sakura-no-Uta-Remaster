@@ -46,7 +46,7 @@ block_00002={
 text={
 ja={
 {
-"Ser famoso trae sus pros y sus contras, eh... Aunque, me da la sensación de que\nmi fama no me ha traído ningún pro aún.",
+"Ser famoso trae sus pros y sus contras... Aunque me da la sensación de que\nmi fama no me ha traído ningún pro aún.",
 {"rt2"},
 },
 },
@@ -927,7 +927,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Makoto-san, me iré ya.”",
 {"rt2"},
 },
@@ -962,7 +962,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“No hay de qué～ Bueno bueno, me voy ya.”",
 {"rt2"},
 },
@@ -2233,7 +2233,7 @@ vo={
 ja={
 {
 name={"Cliente A"},
-"“¿P-Por... qué... lo sabes...?”",
+"“¿P-Por... qué... lo sabes?”",
 {"rt2"},
 },
 },
@@ -2718,7 +2718,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Sí. Firmé un documento según el cual se me prohíbe acercarme a la familia\nNakamura. Realmente fue doloroso para mí separarme de Kei. Pero, ahora...\npienso que quizás fue lo mejor.”",
+"“Sí. Firmé un documento según el cual se me prohíbe acercarme a la familia\nNakamura. Realmente fue doloroso para mí separarme de Kei. Pero ahora...\npienso que quizás fue lo mejor.”",
 {"rt2"},
 },
 },
@@ -2771,7 +2771,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Amaba a Kei, por supuesto. Pero no sabía que hacer. Estaba desesperada y\nperdida en medio de la nada, con un niño recién nacido en mis brazos...”",
+"“Amaba a Kei, por supuesto. Pero no sabía qué hacer. Estaba desesperada y\nperdida en medio de la nada, con un niño recién nacido en mis brazos...”",
 {"rt2"},
 },
 },
@@ -2820,7 +2820,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Habían muchas cosas duras y severas escritas en los documentos, y llegó a\nreferirse al dinero que me dieron como 'dinero de separación'. Pero, también\nme ayudó a conseguir un nuevo lugar para vivir y un nuevo trabajo... No me\nbastan las palabras para agradecerle por lo que hizo por mí.”",
+"“Habían muchas cosas duras y severas escritas en los documentos, y llegó a\nreferirse al dinero que me dieron como 'dinero de separación'. Pero también\nme ayudó a conseguir un nuevo lugar para vivir y un nuevo trabajo... No me\nbastan las palabras para agradecerle por lo que hizo por mí.”",
 {"rt2"},
 },
 },
@@ -3272,7 +3272,7 @@ vo={
 ja={
 {
 name={"Kirino"},
-"“Y aun así... yo, no... no puedo hacerlo. No puedo engañarte...”",
+"“Y aun así... no... no puedo hacerlo. No puedo engañarte...”",
 {"rt2"},
 },
 },
@@ -3341,7 +3341,7 @@ block_00201={
 text={
 ja={
 {
-"――'Se me hizo conocido tú nombre por un momento, y parece que no me\nequivoqué'.",
+"――'Se me hizo conocido tu nombre por un momento, y parece que no me\nequivoqué'.",
 {"rt2"},
 },
 },
@@ -3732,7 +3732,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ahh, sí... A mí también me pareció curioso eso. ¿Kusanagi, cómo es que\ndescubriste que Kirino-san era la madre de Kei?”",
+"“Ahh, sí... A mí también me pareció curioso eso. Kusanagi, ¿cómo es que\ndescubriste que Kirino-san era la madre de Kei?”",
 {"rt2"},
 },
 },
@@ -3760,7 +3760,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Las expresiones de Kei y Kirino-san son tan diferentes que al principio no me\ndi cuenta. Fue luego que a medida que la fui viendo con más frecuencia, me\npareció que Kirino-san se parecía más a Kei que a Nei...”",
+"“Las expresiones de Kei y Kirino-san son tan diferentes que al principio no me\ndi cuenta. Fue luego de verla con más frecuencia que me pareció que Kirino-san\nse parecía más a Kei que a Nei...”",
 {"rt2"},
 },
 },

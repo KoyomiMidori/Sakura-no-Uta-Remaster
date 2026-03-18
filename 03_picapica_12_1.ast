@@ -183,7 +183,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“... Solo que, estuve hablando con mi madre.”",
+"“... Solo que estuve hablando con mi madre.”",
 {"rt2"},
 },
 },
@@ -1801,7 +1801,7 @@ block_00106={
 text={
 ja={
 {
-"Toritani, quien estaba cayéndose del sueño, asintió a mis palabras mucho más\nfácilmente que de usual.",
+"Toritani, quien estaba cayéndose del sueño, asintió a mis palabras mucho más\nfácilmente de lo normal.",
 {"rt2"},
 },
 },
@@ -2486,7 +2486,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Siento que si sigo esperando aquí con toda tranquilidad contigo me empezará a\ncrecer musgo por todo el cuerpo...”",
+"“Siento que si sigo esperando aquí con toda tranquilidad contigo, me empezará a\ncrecer musgo por todo el cuerpo...”",
 {"rt2"},
 },
 },

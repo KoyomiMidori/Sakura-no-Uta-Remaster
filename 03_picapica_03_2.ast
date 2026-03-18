@@ -673,7 +673,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Espera, espera, ¿no estarás tratando de decirme que esa eres tú, o sí?”",
+"“Espera, espera, no estarás tratando de decirme que esa eres tú, ¿o sí?”",
 {"rt2"},
 },
 },
@@ -760,7 +760,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Sin embargo, al ver ese cuadro Kei decidió ir más allá.”",
+"“Sin embargo, al ver ese cuadro, Kei decidió ir más allá.”",
 {"rt2"},
 },
 },
@@ -1380,7 +1380,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Lo es. Toritani llegó a ser una familia bastante adinerada. Hace tiempo vivía\nmi abuela, así como los hermanos de esa mujer, pero...”",
+"“Lo es. Los Toritani llegaron a ser una familia bastante adinerada. Hace tiempo vivía\nmi abuela, así como los hermanos de esa mujer, pero...”",
 {"rt2"},
 },
 },
@@ -1655,7 +1655,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Le encanta hablar. Pero, también tiene también una gran ética profesional, y\npor eso siempre busca querer hablarme de las cosas que suceden en la casa\nToritani.”",
+"“Le encanta hablar. Pero también tiene también una gran ética profesional, y\npor eso siempre busca querer hablarme de las cosas que suceden en la casa\nToritani.”",
 {"rt2"},
 },
 },
@@ -2071,7 +2071,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -2223,7 +2223,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Yo tampoco lo sé muy bien... Es como, si me dejaras atónito... No digo que sea\nuna molestia, para ser sincero, eso me pone feliz.",
+"Yo tampoco lo sé muy bien... Es como, si me dejaras atónito... No digo que sea\nuna molestia, la verdad es que eso me pone feliz.",
 {"rt2"},
 },
 },
@@ -2310,7 +2310,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“... No lo sé, pero, cuando me dices eso, siento que muchas cosas comienzan a\ndar vueltas dentro de mi cabeza, y... me, pones, en una grave situación.”",
+"“... No lo sé, pero cuando me dices eso, siento que muchas cosas comienzan a\ndar vueltas dentro de mi cabeza, y... me pones en una grave situación.”",
 {"rt2"},
 },
 },
@@ -2763,7 +2763,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ahh, no, solo que recordé algo que tenía que hacer. Sigue tu y luego te\nalcanzo. No es ninguna excusa para no estudiar ni nada de eso, así que no te\npreocupes.”",
+"“Ahh, no, solo que recordé algo que tenía que hacer. Sigue tú y luego te\nalcanzo. No es ninguna excusa para no estudiar ni nada de eso, así que no te\npreocupes.”",
 {"rt2"},
 },
 },
@@ -3525,7 +3525,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Quizás esté de más que diga esto cuando en realidad no he visto nada de lo que\nhas vivido, pero, me parece que has estado haciendo las cosas bien. No tienes\npor qué presionarte tanto a ti misma.”",
+"“Quizás esté de más que diga esto cuando en realidad no he visto nada de lo que\nhas vivido, pero me parece que has estado haciendo las cosas bien. No tienes\npor qué presionarte tanto a ti misma.”",
 {"rt2"},
 },
 },

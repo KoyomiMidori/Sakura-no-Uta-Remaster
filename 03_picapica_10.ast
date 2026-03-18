@@ -535,7 +535,7 @@ vo={
 ja={
 {
 name={"Estudiante A"},
-"“No lo puedo creer. Esa mujer no es nada digna de ser la novia de Naoya- kun.\n¡Debería ahorrarse la pena y alejarse de él!”",
+"“No lo puedo creer. Esa mujer no es nada digna de ser la novia de Naoya-kun.\n¡Debería ahorrarse la pena y alejarse de él!”",
 {"rt2"},
 },
 },
@@ -1266,7 +1266,7 @@ block_00079={
 text={
 ja={
 {
-"Si yo estuviera en el lugar en que ella está, también sufriría. Pero,\nprobablemente desearía también que no me dijera nada.",
+"Si yo estuviera en el lugar en que ella está, también sufriría. Pero\nprobablemente desearía también que no me dijera nada.",
 {"rt2"},
 },
 },
@@ -1279,7 +1279,7 @@ block_00080={
 text={
 ja={
 {
-"Yo soy débil. Y ella, muy fuerte.",
+"Yo soy débil. Y ella es muy fuerte.",
 {"rt2"},
 },
 },
@@ -1292,7 +1292,7 @@ block_00081={
 text={
 ja={
 {
-"La quiero mucho. A ella―― a Rin-chan. Y por eso mismo, no puedo ser 'amable'\ncon ella ahora. De ninguna forma.",
+"La quiero mucho. A ella――a Rin-chan.\nY por eso mismo, no puedo ser 'amable' con ella ahora. De ninguna forma.",
 {"rt2"},
 },
 },
@@ -1551,7 +1551,7 @@ block_00097={
 text={
 ja={
 {
-"Pero, mientras trataba de ignorarlas, Rin-chan saltó a mi vista. Nuestras\nmiradas se cruzaron.",
+"Pero mientras trataba de ignorarlas, Rin-chan saltó a mi vista. Nuestras\nmiradas se cruzaron.",
 {"rt2"},
 },
 },
@@ -1617,7 +1617,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Ya veo. Por eso es que a pesar de ser tan penosita, gritaste eso en medio de\ntanta gente. Gracias. Gracias, Mako-chan.”",
+"“Ya veo. Por eso es que a pesar de ser tan penosita, gritaste eso en medio de\ntanta gente. Gracias. Muchísimas gracias, Mako-chan.”",
 {"rt2"},
 },
 },
@@ -1901,7 +1901,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¡E-Eso no...! ¡Ciertamente dije que él y yo estamos en una relación, pero no\nhay por qué ponerse a pensar de repente en esas cosas ahora, ¿no?!”",
+"“¡E-Eso no! ¡Ciertamente dije que él y yo estamos en una relación, pero no\nhay por qué ponerse a pensar de repente en esas cosas ahora, ¿no?!”",
 {"rt2"},
 },
 },
@@ -2356,7 +2356,7 @@ block_00148={
 text={
 ja={
 {
-"Suena la campana y comienza el receso del mediodía. Lamentablemente, hoy no\ntraje ningún obentou conmigo.",
+"Suena la campana y comienza el receso del mediodía. Lamentablemente, hoy no\ntraje nada para comer.",
 {"rt2"},
 },
 },
@@ -2871,7 +2871,7 @@ vo={
 },
 ja={
 {
-name={"Muchaha"},
+name={"Muchacha"},
 "“Makoto-san, Makoto-san.”",
 {"rt2"},
 },
@@ -3412,7 +3412,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Sí, en la de los Toritani. Lo que había escrito en la faja del libro me dejó\nuna impresión tan fuerte, que aún recuerdo lo que decía.”",
+"“Sí, en la de los Toritani. Lo que había escrito en la faja del libro me dejó\nuna impresión tan fuerte que aún recuerdo lo que decía.”",
 {"rt2"},
 },
 },
@@ -3639,7 +3639,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Vaya cosa que dices frente a tu novio, eh.”",
+"“Vaya cosa que dices frente a tu novio.”",
 {"rt2"},
 },
 },
@@ -3823,7 +3823,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí. Y es que, los hombres de la familia Kusanagi... suelen dar sus vidas por el\namor.”",
+"“Sí. Y es que los hombres de la familia Kusanagi... suelen dar sus vidas por el\namor.”",
 {"rt2"},
 },
 },
