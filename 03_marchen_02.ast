@@ -949,7 +949,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Pasa algo, Rina?... Pareces, estar de mal humor...”",
+"“¿Pasa algo, Rina?... Pareces estar de mal humor...”",
 {"rt2"},
 },
 },
@@ -1136,7 +1136,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Me alegra que te lleves bien con todos, pero... ¿Ah, Por qué será? Hay algo en\neso que no me gusta mucho.”",
+"“Me alegra que te lleves bien con todos, pero... Ah, ¿por qué será? Hay algo en\neso que no me gusta mucho.”",
 {"rt2"},
 },
 },
@@ -1187,7 +1187,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pero, jamás pensé que llegarías a decirme algo así...”",
+"“Pero jamás pensé que llegarías a decirme algo así...”",
 {"rt2"},
 },
 },
@@ -1745,7 +1745,7 @@ block_00109={
 text={
 ja={
 {
-"Si esos sueños fueron obra de los cerezos milenarios, entonces,",
+"Si esos sueños fueron obra de los cerezos milenarios, entonces...",
 {"rt2"},
 },
 },
@@ -1926,7 +1926,7 @@ block_00122={
 text={
 ja={
 {
-"No lo sé. Mientras pienso todo esto los dos van bajando la colina, alejándose\ncada vez más.",
+"No lo sé. Mientras pienso todo esto, los dos van bajando la colina, alejándose\ncada vez más.",
 {"rt2"},
 },
 },

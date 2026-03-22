@@ -115,7 +115,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"¡¿?!",
+"¡¿Mmm?!",
 {"rt2"},
 },
 },
@@ -657,7 +657,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No deberías llamarles así. Nos perdonaron en cuanto les expliqué con detalle\ntodo. Son buenas, razonables personas.”",
+"“No deberías llamarles así. Nos perdonaron en cuanto les expliqué con detalle\ntodo. Son buenas y razonables personas.”",
 {"rt2"},
 },
 },
@@ -728,7 +728,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“La muchacha comprendió bien la situación, pero, me dijo que igual necesitaba\nuna compensación.”",
+"“La muchacha comprendió bien la situación, pero me dijo que igual necesitaba\nuna compensación.”",
 {"rt2"},
 },
 },
@@ -1243,7 +1243,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Eso no es excusa. Creo que debería ejercitarme un poco más, definitivamente.”",
+"“Eso no es excusa. Creo que sí debería ejercitarme un poco más.”",
 {"rt2"},
 },
 },
@@ -1260,7 +1260,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pero, tu enfermedad...”",
+"“Pero tu enfermedad...”",
 {"rt2"},
 },
 },
@@ -1986,7 +1986,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Pues si no lo eres entonces no te metas en asuntos tan peligrosos. Te prohíbo\nque vuelvas a hacerlo, ¿te queda claro?”",
+"“Pues si no lo eres entonces no te metas en asuntos tan peligrosos. Te prohibo\nque vuelvas a hacerlo, ¿te queda claro?”",
 {"rt2"},
 },
 },
@@ -2276,7 +2276,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“N-No puedo... contenerme, después de verte así.”",
+"“N-No puedo... contenerme después de verte así.”",
 {"rt2"},
 },
 },
@@ -2482,7 +2482,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Puedo... ¿Puedo, besarte?... Solo, solo será una vez, ¿sí?”",
+"“Puedo... ¿Puedo besarte?... Solo, solo será una vez, ¿sí?”",
 {"rt2"},
 },
 },
@@ -3032,7 +3032,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Pue, do?”",
+"“¿Puedo?”",
 {"rt2"},
 },
 },
