@@ -338,7 +338,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“E-Estaba, viendo el cielo...”",
+"“E-Estaba... viendo el cielo...”",
 {"rt2"},
 },
 },
@@ -420,7 +420,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, sí, pero...”",
+"“Pues sí, pero...”",
 {"rt2"},
 },
 },
@@ -965,7 +965,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Bueno, bueno, si sigues perdiendo el tiempo acá se pondrá el sol. Debes irte\nya.”",
+"“Bueno, bueno, si sigues perdiendo el tiempo acá, se pondrá el sol. Debes irte\nya.”",
 {"rt2"},
 },
 },
@@ -1610,7 +1610,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“La verdad es que no. O al menos me gustaría decir eso, pero Toritani- senpai se\npodría enfadar conmigo si me escucha decirlo...”",
+"“La verdad es que no. O al menos me gustaría decir eso, pero Toritani-senpai se\npodría enfadar conmigo si me escucha decirlo...”",
 {"rt2"},
 },
 },
@@ -1628,7 +1628,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Pero... no pinto este cuadro por premios.",
+"“Pero... no pinto este cuadro por premios.”",
 {"rt2"},
 },
 },
@@ -2206,7 +2206,7 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
+name={"Ruriwo"},
 "“Jee, lo de ser buenos tomando fotos a escondidas parece ser de familia. Suzuna,\neres casi tan buena como Yuumi onee-chan.”",
 {"rt2"},
 },
@@ -2225,7 +2225,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Te pido de manera cortés que retires lo dicho. Esta foto la tomé con los lentes\ntelescópicos que Onee-sama usa con su teléfono.”",
+"“Te pido de manera cortés que retires lo dicho. Esta foto la tomé con los lentes\ntelescópicos que onee-sama usa con su teléfono.”",
 {"rt2"},
 },
 },
@@ -2290,8 +2290,8 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
-"“Ah, claro claro. Es por eso que Onee-chan tiene fotos tan cercanas de\nKusanagi-chan. A Kusanagi-chan no parece gustarle mucho las fotografías, así\nque se me hacía extraño~”",
+name={"Ruriwo"},
+"“Ah, claro claro. Es por eso que onee-chan tiene fotos tan cercanas de\nKusanagi-chan. A Kusanagi-chan no parece gustarle mucho las fotografías, así\nque se me hacía extraño~”",
 {"rt2"},
 },
 },
@@ -2412,8 +2412,8 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
-"“¿Y también es casualidad que cuides bastante de la foto~? Rurio te ha visto,\nOnee-chan. Siempre que estás sola viendo esas fotos comienzas a hacer 'Jaa,\njaa'.”",
+name={"Ruriwo"},
+"“¿Y también es casualidad que cuides bastante de la foto~? Ruriwo te ha visto,\nonee-chan. Siempre que estás sola viendo esas fotos comienzas a hacer 'Jaa,\njaa'.”",
 {"rt2"},
 },
 },
@@ -2483,7 +2483,7 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
+name={"Ruriwo"},
 "“¿Qué es lo que haces siempre con esa foto? Siempre se me ha hecho curioso~”",
 {"rt2"},
 },
@@ -2521,7 +2521,7 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
+name={"Ruriwo"},
 "“¿Eh? ¿Por qué? Apenas acabamos de llegar.”",
 {"rt2"},
 },
@@ -2621,7 +2621,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“Está bien. Adiooos, Kusanagi-chaaan.”",
+"“Está bien. Adióóós, Kusanagi-chaaan.”",
 {"rt2"},
 },
 },
@@ -3648,7 +3648,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Discípula.... Ah, pues sí. Rechazarte era la opción más obvia.”",
+"“Discípula... Ah, pues sí. Rechazarte era la opción más obvia.”",
 {"rt2"},
 },
 },
@@ -4368,7 +4368,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No bastará, con decir solo 'gracias'...”",
+"“No bastará con decir solo 'gracias'...”",
 {"rt2"},
 },
 },
@@ -4668,7 +4668,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Parece que haga lo que haga, terminaré siempre siendo el malo, eh...”",
+"“Parece que haga lo que haga, terminaré siempre siendo el malo...”",
 {"rt2"},
 },
 },
@@ -4945,7 +4945,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ya veo... Pero, ya la Rina de aquel entonces no existe...”",
+"“Ya veo... Pero ya la Rina de aquel entonces no existe...”",
 {"rt2"},
 },
 },
@@ -5092,7 +5092,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ni idea, la verdad. Creo, quizás, que dentro de poco tendré que abrirme a lo\nque mi corazón realmente siente.”",
+"“Ni idea, la verdad. Creo que dentro de poco tendré que abrirme a lo\nque mi corazón realmente siente.”",
 {"rt2"},
 },
 },
@@ -5106,7 +5106,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y dependiendo de la respuesta a la que llegue, quizás, tal vez, llegue a\nmorir...”",
+"“Y dependiendo de la respuesta a la que llegue, quizás llegue a\nmorir...”",
 {"rt2"},
 },
 },
@@ -5404,7 +5404,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“De igual manera, pasé lo que pasé, el amor no se acabará.”",
+"“De igual manera, pase lo que pase, el amor no se acabará.”",
 {"rt2"},
 },
 },

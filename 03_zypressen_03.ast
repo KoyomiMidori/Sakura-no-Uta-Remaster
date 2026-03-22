@@ -150,7 +150,7 @@ block_00009={
 text={
 ja={
 {
-"Aunque, debe estar exhausta, supongo. No encuentro otra explicación posible\npara que esté durmiendo acá.",
+"Aunque debe estar exhausta. No encuentro otra explicación posible\npara que esté durmiendo acá.",
 {"rt2"},
 },
 },
@@ -692,7 +692,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“En seguida cerró la puerta y fue a acostarse en el lecho de la abuela,\nesperando a Caperucita Roja.”",
+"“Enseguida cerró la puerta y fue a acostarse en el lecho de la abuela,\nesperando a Caperucita Roja.”",
 {"rt2"},
 },
 },
@@ -1274,7 +1274,7 @@ block_00078={
 text={
 ja={
 {
-"¿Y si la muchacha de la historia no hubiera sido caperucita roja?",
+"¿Y si la muchacha de la historia no hubiera sido Caperucita Roja?",
 {"rt2"},
 },
 },
@@ -1391,7 +1391,7 @@ block_00087={
 text={
 ja={
 {
-"En Europa le conocen como el 'Ángel Destructor>Destroying Angel'. Es la mayor\nresponsable por las muertes de envenenamiento en Japón.",
+"En Europa le conocen como el 'Ángel Destructor (Destroying Angel)'. Es la mayor\nresponsable por las muertes de envenenamiento en Japón.",
 {"rt2"},
 },
 },
@@ -1521,7 +1521,7 @@ block_00097={
 text={
 ja={
 {
-"¿Que sería de caperucita roja entonces si, en lugar de llevar una caperuza\nroja, llevara una sombrilla blanca?",
+"¿Que sería de Caperucita Roja entonces si, en lugar de llevar una caperuza\nroja, llevara una sombrilla blanca?",
 {"rt2"},
 },
 },
@@ -1625,7 +1625,7 @@ block_00105={
 text={
 ja={
 {
-"Ni el lobo más astuto podría diferenciarla de la caperucita roja.",
+"Ni el lobo más astuto podría diferenciarla de la Caperucita Roja.",
 {"rt2"},
 },
 },
@@ -2503,7 +2503,7 @@ block_00168={
 text={
 ja={
 {
-"Ese extracto, que me pareció escuchar con la voz de Yuumi, es de la Caperucita\nroja de los hermanos Grimm.",
+"Ese extracto, que me pareció escuchar con la voz de Yuumi, es de la Caperucita\nRoja de los hermanos Grimm.",
 {"rt2"},
 },
 },

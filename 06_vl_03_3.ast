@@ -63,8 +63,8 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
-"“No te preocupes por eso. Kusanagi-chan parece haberse divertido, además.”",
+name={"Ruriwo"},
+"“No te preocupes por eso. Kusanagi-chan parece haberse divertido.”",
 {"rt2"},
 },
 },
@@ -95,7 +95,7 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
+name={"Ruriwo"},
 "“Vaya, qué honesto.”",
 {"rt2"},
 },
@@ -231,8 +231,8 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
-"“Así es, así es. ¿Qué piensas hacer? Rurio hará lo que sea.”",
+name={"Ruriwo"},
+"“Así es, así es. ¿Qué piensas hacer? Ruriwo hará lo que sea.”",
 {"rt2"},
 },
 },

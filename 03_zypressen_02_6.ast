@@ -825,7 +825,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Entonces te llamaré 'Onii-chan' a partir de hoy.”",
+"“Entonces te llamaré 'onii-chan' a partir de hoy.”",
 {"rt2"},
 },
 },
@@ -893,7 +893,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Lo único que me importa es ser tu discípula, por eso lo propuse. Nada tiene que\nver si compartimos la misma sangre o no. Es algo más como una condición\nmental. Algo, así como una hermanita mental...”",
+"“Lo único que me importa es ser tu discípula, por eso lo propuse. Nada tiene que\nver si compartimos la misma sangre o no. Es algo más como una condición\nmental. Algo así como una hermanita mental...”",
 {"rt2"},
 },
 },
@@ -975,7 +975,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Ah? ¿Terco, yo?\nVamos, intenta llamarme así de nuevo. Llámame 'Onii-chan', si es que puedes.\nO será que no eres capaz de hacerlo, ¿ah?”",
+"“¿Ah? ¿Terco, yo?\nVamos, intenta llamarme así de nuevo. Llámame 'onii-chan', si es que puedes.\nO será que no eres capaz de hacerlo, ¿ah?”",
 {"rt2"},
 },
 },
@@ -994,7 +994,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Onii-chan♪.”",
+"“Onii-chan♪”",
 {"rt2"},
 },
 },
@@ -1042,7 +1042,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Agregando a eso, Onii-chan, quisiera darte las gracias por todo.”",
+"“Agregando a eso, onii-chan, quisiera darte las gracias por todo.”",
 {"rt2"},
 },
 },
@@ -1353,7 +1353,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“E-Es, que no quería dejarme vencer...”",
+"“E-Es que no quería dejarme vencer...”",
 {"rt2"},
 },
 },
@@ -1387,7 +1387,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿De verdad? A mí no me pareció en lo absoluto... Aunque, sentí que de alguna\nforma estaba encaminado a aquello que yo quería mostrar. Con rectitud, sin\ndesviarse a ninguna parte.”",
+"“¿De verdad? A mí no me pareció en lo absoluto... Aunque sentí que de alguna\nforma estaba encaminado a aquello que yo quería mostrar. Con rectitud, sin\ndesviarse a ninguna parte.”",
 {"rt2"},
 },
 },
@@ -1498,7 +1498,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No sabía que estabas enferma. Pero no miento cuando digo que pensé en que tu\ndibujo era muy deprimente. No me gustaba eso, quería volverlo un dibujo más\nalegre.”",
+"“No sabía que estabas enferma. Pero no miento cuando digo que pensé que tu\ndibujo era muy deprimente. No me gustaba eso, quería volverlo un dibujo más\nalegre.”",
 {"rt2"},
 },
 },
@@ -1562,7 +1562,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿No está mal, eh?”",
+"“No está mal, ¿eh?”",
 {"rt2"},
 },
 },
@@ -2040,7 +2040,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Pensé que, tal vez, si no me importara morir, entonces la operación dejaría de\ndarme miedo...”",
+"“Pensé que, tal vez, si no me importara morir, la operación dejaría de\ndarme miedo...”",
 {"rt2"},
 },
 },
@@ -2745,7 +2745,7 @@ vo={
 },
 ja={
 {
-"Y es que, todavía puedo estar con ella...",
+"Y es que todavía puedo estar con ella...",
 {"rt2"},
 },
 },
@@ -3576,7 +3576,7 @@ vo={
 },
 ja={
 {
-"Aun si intentara pelear con alguno de ellos, no tendría forma de ganarles.\nAunque, ya para este momento las golpizas con ellos se habían acabado.",
+"Aun si intentara pelear con alguno de ellos, no tendría forma de ganarles.\nAunque ya para este momento las golpizas con ellos se habían acabado.",
 {"rt2"},
 },
 },

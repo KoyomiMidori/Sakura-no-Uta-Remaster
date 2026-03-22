@@ -193,7 +193,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Todavía estamos en verano, así que no hay forma de verlo. Pero, cuando llega la\nprimavera y los cerezos florecen se puede ver el negro de los cipreses entre\nel bosque de cerezos.”",
+"“Todavía estamos en verano, así que no hay forma de verlo. Pero cuando llega la\nprimavera y los cerezos florecen, se puede ver el negro de los cipreses entre\nel bosque de cerezos.”",
 {"rt2"},
 },
 },
@@ -211,7 +211,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Apenas llegó la primavera vine acá a la azotea y tomé una fotografía.”",
+"“Apenas llegó la primavera, vine acá a la azotea y tomé una fotografía.”",
 {"rt2"},
 },
 },
@@ -368,7 +368,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Me gustan. Pero, ahora me gustan los cerezos también.”",
+"“Me gustan. Pero ahora me gustan los cerezos también.”",
 {"rt2"},
 },
 },
@@ -833,7 +833,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“Aunque, debo admitir que no pensé que vendría.”",
+"“Aunque... debo admitir que no pensé que vendría.”",
 {"rt2"},
 },
 },
@@ -2301,7 +2301,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“R-Rina, estuviste quizás pensando acerca, de esos sueños?...”",
+"“R-Rina, estuviste quizás pensando... ¿en esos sueños?...”",
 {"rt2"},
 },
 },
@@ -2502,7 +2502,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Todos andan ocupados en sus obras para la Exposición Moore, y por eso no hay\nnadie ahora en la sala de arte. Deprime estar encerrado sin nadie alrededor\nadentro, así que le propuse a Rin que pintáramos afuera y aceptó.”",
+"“Todos andan ocupados en sus obras para la Exposición Moore, y por eso no hay\nnadie en la sala de arte. Deprime estar encerrado sin nadie alrededor\nadentro, así que le propuse a Rin que pintáramos afuera y aceptó.”",
 {"rt2"},
 },
 },
@@ -2623,7 +2623,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“No lo sé, la verdad. Aunque, creo que quisiera pintar la iglesia.”",
+"“No lo sé, la verdad. Aunque creo que quisiera pintar la iglesia.”",
 {"rt2"},
 },
 },
@@ -2659,7 +2659,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí. Es nuestro recuerdo del verano de este año, así que de poder quisiera\ngrabarlo en una pintura.”",
+"“Sí. Es nuestro recuerdo del verano de este año, así que de poder, quisiera\ngrabarlo en una pintura.”",
 {"rt2"},
 },
 },
@@ -2711,7 +2711,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿Y-Y? Rina-chan, Yuumi-chan, ¿qué pintan ustedes?”",
+"“¿Y? Rina-chan, Yuumi-chan, ¿qué pintan ustedes?”",
 {"rt2"},
 },
 },
@@ -3667,7 +3667,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¡¿Qué, demonios, pretendes, diciéndole esas ridiculeces a Rin-senpai, y con esa\ncara tan fresca?! ¡A alguien tan pura como Rin-senpai!”",
+"“¡¿Qué demonios pretendes diciéndole esas ridiculeces a Rin-senpai, y con esa\ncara tan fresca?! ¡A alguien tan pura como Rin-senpai!”",
 {"rt2"},
 },
 },
@@ -3691,7 +3691,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Vaya, ya, ya veo. P-Pero, a mí también me encanta hacerlo, no tienes por qué\nsentirte avergonzada.”",
+"“Vaya, ya, ya veo. P-Pero a mí también me encanta hacerlo, no tienes por qué\nsentirte avergonzada.”",
 {"rt2"},
 },
 },
@@ -4588,7 +4588,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Espera, espera, en un principio esta clase de cosas tampoco se hablan entre\nchicas, normalmente.”",
+"“Espera, espera, en un principio esta clase de cosas tampoco se hablan entre\nchicas normalmente.”",
 {"rt2"},
 },
 },
@@ -4656,7 +4656,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No se tomen a pecho lo que Rin diga. Desde pequeña siempre dice las cosas\ncuidando de no arruinar la atmósfera del momento.”",
+"“No se tomen a pecho lo que Rin diga. Desde pequeña siempre dice las cosas\nprocurando no arruinar la atmósfera del momento.”",
 {"rt2"},
 },
 },
@@ -4710,7 +4710,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Aunque, volviendo al tema... No hemos avanzado nada con nuestras obras.”",
+"“Aunque volviendo al tema... No hemos avanzado nada con nuestras obras.”",
 {"rt2"},
 },
 },
@@ -4760,7 +4760,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡Este, estorbón!”",
+"“¡Este estorbón!”",
 {"rt2"},
 },
 },

@@ -616,7 +616,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Rina y yo. Hemos estado teniendo el mismo, exacto sueño.”",
+"“Rina y yo. Hemos estado teniendo el mismo sueño.”",
 {"rt2"},
 },
 },
@@ -1205,7 +1205,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡¿Me va a decir eso la misma persona que le dedico lo poco que le quedaba de\nmano a una mujer?!”",
+"“¡¿Me va a decir eso la misma persona que le dedicó lo poco que le quedaba de\nmano a una mujer?!”",
 {"rt2"},
 },
 },
@@ -1523,7 +1523,7 @@ block_00095={
 text={
 ja={
 {
-"Un enorme árbol de cerezos erigido sobre templo de Hakuki.",
+"Un enorme árbol de cerezos erigido sobre el Templo Hakuki.",
 {"rt2"},
 },
 },
@@ -1767,7 +1767,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Son particularmente sensibles a la sensación de perdida, cuando te arrebatan\nalgo.”",
+"“Son particularmente sensibles a la sensación de pérdida, cuando te arrebatan\nalgo.”",
 {"rt2"},
 },
 },
@@ -2015,7 +2015,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Tal cual. Así que deberías alegrarte, tal vez. Esto es una especie de milagro.\nAunque, no uno del cual los demás puedan alegrarse, quizás...”",
+"“Tal cual. Así que deberías alegrarte, tal vez. Esto es una especie de milagro.\nAunque quizás no uno del cual los demás puedan alegrarse...”",
 {"rt2"},
 },
 },
@@ -2063,7 +2063,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Lo sé. Pero, quisiera que me digas por qué crees que eso no puede alegrar a los\ndemás.”",
+"“Lo sé. Pero quisiera que me digas por qué crees que eso no puede alegrar a los\ndemás.”",
 {"rt2"},
 },
 },
@@ -2091,7 +2091,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Fue ahí que me di cuenta de que cosas terribles ocurren cuando los deseos de\nlas personas se cumplen a como dé lugar, como si nada. Y me di cuenta de la\npeor manera.””",
+"“Fue ahí que me di cuenta de que cosas terribles ocurren cuando los deseos de\nlas personas se cumplen a como dé lugar, como si nada. Y me di cuenta de la\npeor manera.”",
 {"rt2"},
 },
 },
@@ -2661,7 +2661,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Gracias a ese fuerte amor mi madre pudo irse en paz, diciendo antes de morir lo\nmaravillosa que fue su vida.”",
+"“Gracias a ese fuerte amor, mi madre pudo irse en paz, diciendo antes de morir lo\nmaravillosa que fue su vida.”",
 {"rt2"},
 },
 },
@@ -3044,7 +3044,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero creo que que Hikawa también te ama a ti.”",
+"“Pero creo que Hikawa también te ama a ti.”",
 {"rt2"},
 },
 },
@@ -3216,7 +3216,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Sí... deberías morirte, realmente...”",
+"“Sí... deberías morirte...”",
 {"rt2"},
 },
 },
@@ -3514,7 +3514,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Si te sientes tan cómodo que la noche se te hace eterna entonces por qué\ndespertarías?”",
+"“Si te sientes tan cómodo que la noche se te hace eterna, ¿por qué\ndespertarías?”",
 {"rt2"},
 },
 },
@@ -3531,7 +3531,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pero,resulta que en realidad va de la otra manera. Son los sueños que se hacen\neternos de los que terminas despertando.”",
+"“Pero resulta que en realidad va de la otra manera. Son los sueños que se hacen\neternos de los que terminas despertando.”",
 {"rt2"},
 },
 },
@@ -4105,7 +4105,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡No me malinterpretes! ¡Reconozco tu talento como artista, pero aun te odio\ncomo persona!”",
+"“¡No me malinterpretes! ¡Reconozco tu talento como artista, pero aún te odio\ncomo persona!”",
 {"rt2"},
 },
 },
@@ -4736,7 +4736,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Gracias, eh!”",
+"“¡Gracias!”",
 {"rt2"},
 },
 },
@@ -5606,7 +5606,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Como los dos, declaran su amor. Y prometen... que serán felices juntos.”",
+"“Cómo los dos... declaran su amor. Y prometen... que serán felices juntos.”",
 {"rt2"},
 },
 },

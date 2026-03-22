@@ -535,7 +535,7 @@ block_00030={
 text={
 ja={
 {
-"Volteo a ver y me topo con una muchacha vestida con el mismo uniforme que\nRurio.",
+"Volteo a ver y me topo con una muchacha vestida con el mismo uniforme que\nRuriwo.",
 {"rt2"},
 },
 },
@@ -2110,7 +2110,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“Porque desde pequeña he observado el amor de Yuumi-san por onee- chan. El amor\nes genial, ¿no crees? Ruriwo siempre apoyará a toda niña enamorada, sí.”",
+"“Porque desde pequeña he observado el amor de Yuumi-san por onee-chan. El amor\nes genial, ¿no crees? Ruriwo siempre apoyará a toda niña enamorada, sí.”",
 {"rt2"},
 },
 },
@@ -2754,7 +2754,7 @@ block_00162={
 text={
 ja={
 {
-"De como fue mi rival, y del estúpido sueño que compartíamos.",
+"De cómo fue mi rival, y del estúpido sueño que compartíamos.",
 {"rt2"},
 },
 },

@@ -131,7 +131,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Debo admitir que has llegado temprano, Senpai. Pero estoy acá desde hace una\nhora, así que no fue tan temprano después de todo.”",
+"“Debo admitir que has llegado temprano, senpai. Pero estoy acá desde hace una\nhora, así que no fue tan temprano después de todo.”",
 {"rt2"},
 },
 },
@@ -178,7 +178,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo. Aunque, creo que estoy sobrando acá...”",
+"“Ya veo. Aunque creo que estoy sobrando acá...”",
 {"rt2"},
 },
 },
@@ -719,7 +719,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Vaya que se llevan bien esas dos, eh...”",
+"“Vaya que se llevan bien esas dos...”",
 {"rt2"},
 },
 },
@@ -948,7 +948,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Eh? ¿Kusanagi, vas a ponerte este traje de baño de puntitos?”",
+"“¿Eh? Kusanagi, ¿vas a ponerte este traje de baño de puntitos?”",
 {"rt2"},
 },
 },
@@ -1109,7 +1109,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Obentos?”",
+"“¿Obentous?”",
 {"rt2"},
 },
 },
@@ -1128,7 +1128,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Has acertado. Sí, obentos.”",
+"“Has acertado. Sí, obentous.”",
 {"rt2"},
 },
 },
@@ -1180,7 +1180,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Obentos en el parque, eh. Digo...”",
+"“Obentous en el parque, eh. Digo...”",
 {"rt2"},
 },
 },
@@ -1216,7 +1216,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡No tomes ni un bocado de ese obento, yo me lo comeré! ¡Dame acá!”",
+"“¡No tomes ni un bocado de ese obentou, yo me lo comeré! ¡Dame acá!”",
 {"rt2"},
 },
 },
@@ -1244,7 +1244,7 @@ block_00075={
 text={
 ja={
 {
-"Me atiborro con el obento que Hikawa me preparó para evitar que Kawachino me lo\nquitara.",
+"Me atiborro con el obentou que Hikawa me preparó para evitar que Kawachino me lo\nquitara.",
 {"rt2"},
 },
 },
@@ -1337,7 +1337,7 @@ block_00081={
 text={
 ja={
 {
-"Es indescriptible lo divertido que es llevarse a la boca cada uno de los\nmanjares que adornaban estos obentos.",
+"Es indescriptible lo divertido que es llevarse a la boca cada uno de los\nmanjares que adornaban estos obentous.",
 {"rt2"},
 },
 },
@@ -1368,7 +1368,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Se me ocurrió hacerlo, pero me daba algo de miedo llegar a comparar tus obentos\ncon los míos...”",
+"“Se me ocurrió hacerlo, pero me daba algo de miedo llegar a comparar tus obentous\ncon los míos...”",
 {"rt2"},
 },
 },
@@ -1413,7 +1413,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por supuesto que no, simplemente he tenido que valerme por mi cuenta desde hace\ntiempo. Además, tus obentos están realmente buenos.”",
+"“Por supuesto que no, simplemente he tenido que valerme por mi cuenta desde hace\ntiempo. Además, tus obentous están realmente buenos.”",
 {"rt2"},
 },
 },
@@ -2152,7 +2152,7 @@ block_00133={
 text={
 ja={
 {
-"Kawachino sacó un obento repleto únicamente de tamagoyaki. Se veía simple, pero\nigualmente bueno.",
+"Kawachino sacó un obentou repleto únicamente de tamagoyaki. Se veía simple, pero\nigualmente bueno.",
 {"rt2"},
 },
 },
@@ -2792,7 +2792,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Con lo bueno que eres cocinando temía que fueras también quisquilloso al probar\nla comida de otros.”",
+"“Con lo bueno que eres cocinando, temía que fueras también quisquilloso al probar\nla comida de otros.”",
 {"rt2"},
 },
 },
@@ -2980,7 +2980,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No es mala idea. Pero, de esta forma podrás pintar sin que tu mano te moleste,\n¿no crees?”",
+"“No es mala idea. Pero de esta forma podrás pintar sin que tu mano te moleste,\n¿no crees?”",
 {"rt2"},
 },
 },
@@ -3304,7 +3304,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Heeh, no conocía ese hongo...”",
+"“Ehh, no conocía ese hongo...”",
 {"rt2"},
 },
 },
@@ -4112,7 +4112,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“No, en realidad si hubo una estrella que brilló tanto como Venus.”",
+"“No, en realidad sí hubo una estrella que brilló tanto como Venus.”",
 {"rt2"},
 },
 },
@@ -4630,7 +4630,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Y, así como puedes ver, Rina, me he vuelto toda una conocedora de las\nestrellas.”",
+"“Y, así como puedes ver, me he vuelto toda una conocedora de las\nestrellas.”",
 {"rt2"},
 },
 },
@@ -4681,7 +4681,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“No en vano, la supernova de Tycho es, de por sí, preciosa...”",
+"“No en vano, la supernova de Tycho es de por sí preciosa...”",
 {"rt2"},
 },
 },
@@ -4866,7 +4866,7 @@ block_00302={
 text={
 ja={
 {
-"Pero, paradojicamente, es también visto como símbolo de la inmortalidad y la\nreencarnación.",
+"Pero paradojicamente, es también visto como símbolo de la inmortalidad y la\nreencarnación.",
 {"rt2"},
 },
 },

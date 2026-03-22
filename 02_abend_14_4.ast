@@ -2366,7 +2366,7 @@ vo={
 ja={
 {
 name={"Kosachi"},
-"“¡Saca curry para mí! ¡Y para Komaki también! ¡Y mi ración la quiero, grande!\n¡¿Bien?!”",
+"“¡Saca curry para mí! ¡Y para Komaki también! ¡Y mi ración la quiero... grande!\n¡¿Bien?!”",
 {"rt2"},
 },
 },
@@ -2708,7 +2708,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Yo tampoco me enteré de eso. ¿Kusanagi, trajiste algo?”",
+"“Yo tampoco me enteré de eso. Kusanagi, ¿trajiste algo?”",
 {"rt2"},
 },
 },
@@ -3066,7 +3066,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Tus palabras me dan bastante alegría. Muchas gracias. Aunque, dejando eso de\nlado, también hay otras visitantes más.”",
+"“Tus palabras me dan bastante alegría. Muchas gracias. Aunque dejando eso de\nlado, también hay otras visitantes más.”",
 {"rt2"},
 },
 },
@@ -3447,7 +3447,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, aún tratándose de un traje de baño, si haces eso entonces...”",
+"“Sí, aún tratándose de un traje de baño, si haces eso...”",
 {"rt2"},
 },
 },
@@ -3671,7 +3671,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿De verdad? Pero, tus gustos en trajes de baño rayan en lo pervertido,\nKusanagi. Si te gustan los trajes de baño blancos entonces existe la\nposibilidad de que al levantar la falda se te parezcan a unas panties de\nverdad y sientas el doble de felicidad, o algo así, ¿no?”",
+"“¿De verdad? Pero tus gustos en trajes de baño rayan en lo pervertido,\nKusanagi. Si te gustan los trajes de baño blancos entonces existe la\nposibilidad de que al levantar la falda se te parezcan a unas pantis de\nverdad y sientas el doble de felicidad, o algo así, ¿no?”",
 {"rt2"},
 },
 },
@@ -3704,7 +3704,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Tanto las panties como los trajes de baño tienen sus buenos aspectos por\nseparado. ¿Es eso?”",
+"“Tanto las pantis como los trajes de baño tienen sus buenos aspectos por\nseparado. ¿Es eso?”",
 {"rt2"},
 },
 },
@@ -3871,7 +3871,7 @@ vo={
 },
 ja={
 {
-name={"Rurio"},
+name={"Ruriwo"},
 "“Ah~, yo también quiero comer.”",
 {"rt2"},
 },

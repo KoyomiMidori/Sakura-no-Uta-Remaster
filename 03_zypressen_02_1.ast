@@ -533,7 +533,7 @@ block_00031={
 text={
 ja={
 {
-"Había dejado la puerta del casillero cerrada con un pequeño trozo de cinta\nadhesiva de papel en el borde. Tan pequeño que nadie se de cuenta al abrirla.",
+"Había dejado la puerta del casillero cerrada con un pequeño trozo de cinta\nadhesiva de papel en el borde. Tan pequeño que nadie se dé cuenta al abrirla.",
 {"rt2"},
 },
 },
@@ -744,7 +744,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pues, lo más seguro es que sea alguna provocación por parte de las fans de\nKusanagi-senpai. Parece que lo de su popularidad no es mentira.”",
+"“Pues lo más seguro es que sea alguna provocación por parte de las fans de\nKusanagi-senpai. Parece que lo de su popularidad no es mentira.”",
 {"rt2"},
 },
 },
@@ -1027,7 +1027,7 @@ block_00064={
 text={
 ja={
 {
-"Aunque, bueno, supongo que es inevitable que lo esté.",
+"Aunque bueno, supongo que es inevitable que lo esté.",
 {"rt2"},
 },
 },
@@ -1157,7 +1157,7 @@ block_00074={
 text={
 ja={
 {
-"Y, probablemente sé también ya de qué sentimiento se trata.",
+"Y probablemente sé también ya de qué sentimiento se trata.",
 {"rt2"},
 },
 },
@@ -1174,7 +1174,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“En fin, hora de poner de esto...”",
+"“En fin, hora de poner esto...”",
 {"rt2"},
 },
 },
@@ -1515,7 +1515,7 @@ vo={
 },
 ja={
 {
-name={"Colegiala C"},
+name={"Alumna C"},
 "“¡Hikawa-saaan, buenos días!”",
 {"rt2"},
 },
@@ -1549,7 +1549,7 @@ vo={
 },
 ja={
 {
-name={"Colegiala B"},
+name={"Alumna B"},
 "¿Viste la tele ayer? Pasaron a--",
 {"rt2"},
 },
@@ -1798,7 +1798,7 @@ vo={
 },
 ja={
 {
-name={"Colegiala A"},
+name={"Alumna A"},
 "“¡Ahh, Hikawa-san, ese cuaderno es muy lindo! ¿Dónde lo compraste?”",
 {"rt2"},
 },

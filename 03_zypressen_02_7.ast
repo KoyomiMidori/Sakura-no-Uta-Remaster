@@ -733,7 +733,7 @@ block_00046={
 text={
 ja={
 {
-"Y su manera de actuar tampoco es incomoda...",
+"Y su manera de actuar tampoco es incómoda...",
 {"rt2"},
 },
 },
@@ -793,7 +793,7 @@ block_00050={
 text={
 ja={
 {
-"La verdad, es que yo también he estado teniendo sueños.",
+"La verdad es que yo también he estado teniendo sueños.",
 {"rt2"},
 },
 },
@@ -2708,7 +2708,7 @@ block_00167={
 text={
 ja={
 {
-"Después de quedarse viéndome por un momento.",
+"Después de quedarse viéndome por un momento...",
 {"rt2"},
 },
 },
@@ -3596,7 +3596,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Es como un sofá que convierte a la gente en zombies perezosos...”",
+"“Es como un sofá que convierte a la gente en zombis perezosos...”",
 {"rt2"},
 },
 },
@@ -3695,7 +3695,7 @@ block_00225={
 text={
 ja={
 {
-"A veces Rina me deja juguetear con ella. Aunque, siempre lo hace con una\nexpresión triste en su rostro.",
+"A veces Rina me deja juguetear con ella. Aunque siempre lo hace con una\nexpresión triste en su rostro.",
 {"rt2"},
 },
 },
@@ -4086,7 +4086,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ni idea, nunca me he puesto a pensar mucho en el asunto... Aunque, no hay que\nolvidar que te gusta también tomar fotografías de los demás sin permiso.”",
+"“Ni idea, nunca me he puesto a pensar mucho en el asunto... Aunque no hay que\nolvidar que te gusta también tomar fotografías de los demás sin permiso.”",
 {"rt2"},
 },
 },
@@ -4869,7 +4869,7 @@ block_00297={
 text={
 ja={
 {
-"Tanto, que... siento muy pesados, mis parpados.",
+"Tanto que... siento muy pesados... mis parpados.",
 {"rt2"},
 },
 },
@@ -5149,7 +5149,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Sí, está bien, está bien. Pero no miento, realmente estabas durmiendo muy\nplacidamente, Yuumi.”",
+"“Sí, está bien, está bien. Pero no miento, realmente estabas durmiendo muy\nplácidamente, Yuumi.”",
 {"rt2"},
 },
 },
@@ -5378,7 +5378,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ya veo. Pues, me alegro que pudieras descansar.”",
+"“Ya veo. Pues me alegro que pudieras descansar.”",
 {"rt2"},
 },
 },

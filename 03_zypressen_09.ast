@@ -597,7 +597,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡¿P-Pero, qué, estás diciendo?! ¡¿Q-Qué, dem--?!”",
+"“¡¿P-Pero qué estás diciendo?! ¡¿Q-Qué dem--?!”",
 {"rt2"},
 },
 },
@@ -1147,7 +1147,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Hablé con las muchachas que te acosaron, y les pregunté por qué hicieron eso.\nMe dijeron que les desagradaba la cercanía que tenías con Senpai aun cuando\nni siquiera son novios.”",
+"“Hablé con las muchachas que te acosaron, y les pregunté por qué hicieron eso.\nMe dijeron que les desagradaba la cercanía que tenías con senpai aun cuando\nni siquiera son novios.”",
 {"rt2"},
 },
 },
@@ -1411,7 +1411,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, sí...”",
+"“Pues sí...”",
 {"rt2"},
 },
 },
@@ -1445,7 +1445,7 @@ block_00086={
 text={
 ja={
 {
-"Al decir eso, Senpai sacó una mochila.",
+"Al decir eso, senpai sacó una mochila.",
 {"rt2"},
 },
 },
@@ -1896,7 +1896,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Hacemos algo el domingo, entonces?”",
+"“¿Hacemos algo el domingo?”",
 {"rt2"},
 },
 },
@@ -1986,7 +1986,7 @@ block_00119={
 text={
 ja={
 {
-"Aunque, no puedo negarlo, no he podido quitarme la fatiga de encima después del\nataque de ayer. Me conforta saber que podré liberarme de la presión, al menos\npor unos días.",
+"Aunque no puedo negarlo, no he podido quitarme la fatiga de encima después del\nataque de ayer. Me conforta saber que podré liberarme de la presión, al menos\npor unos días.",
 {"rt2"},
 },
 },
@@ -1999,7 +1999,7 @@ block_00120={
 text={
 ja={
 {
-"El cansancio me ha venido encima de manera repentina. Sinceramente, si hubieran\nseguido acosándome a diario habría terminado mal.",
+"El cansancio me ha venido encima de manera repentina. Sinceramente, si hubieran\nseguido acosándome a diario, habría terminado mal.",
 {"rt2"},
 },
 },
@@ -2280,7 +2280,7 @@ block_00137={
 text={
 ja={
 {
-"Siguió convirtiendo las pesadillas, oscuros pensamientos de mi padre en agua.",
+"Siguió convirtiendo las pesadillas, oscuros pensamientos de mi padre, en agua.",
 {"rt2"},
 },
 },
@@ -2617,7 +2617,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“Si es por hacer eso preferiría acabar con mi vida acá, y ahora.”",
+"“Si es por hacer eso, preferiría acabar con mi vida acá y ahora.”",
 {"rt2"},
 },
 },
@@ -2652,7 +2652,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“Huyamos, juntos. Mientras sigamos con vida siempre habrá otra oportunidad.”",
+"“Huyamos, juntos. Mientras sigamos con vida, siempre habrá otra oportunidad.”",
 {"rt2"},
 },
 },
@@ -2687,7 +2687,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“¿De... verdad...?”",
+"“¿De... verdad?”",
 {"rt2"},
 },
 },
@@ -2722,7 +2722,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“¿Dolo, rosa?... ¿Las sonrisas pueden ser dolorosas también?”",
+"“¿Dolo... rosa?... ¿Las sonrisas pueden ser dolorosas también?”",
 {"rt2"},
 },
 },
@@ -3462,7 +3462,7 @@ vo={
 ja={
 {
 name={"Housoushi"},
-"Donde el sable no sirve las flechas hacen el trabajo. Aunque, no pensé que\ntendría que usar mi carta secreta con un niño.",
+"“Donde el sable no sirve, las flechas hacen el trabajo. Aunque no pensé que\ntendría que usar mi carta secreta con un niño.”",
 {"rt2"},
 },
 },
@@ -3703,7 +3703,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“¿Que... por... qué?... ¿Qué explicación necesitaría, para... proteger, a la\nmujer, que amo?”",
+"“¿Que... por... qué?... ¿Qué explicación necesitaría para... proteger a la\nmujer que amo?”",
 {"rt2"},
 },
 },
@@ -3759,7 +3759,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“Ya... no puedo, ver su cara... Hakuki-dono...”",
+"“Ya... no puedo... ver su cara... Hakuki-dono...”",
 {"rt2"},
 },
 },
@@ -3797,7 +3797,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“Ya, no puedo... disfrutar, de observar su hermoso rostro...”",
+"“Ya... no puedo... disfrutar... de observar su hermoso rostro...”",
 {"rt2"},
 },
 },
@@ -3873,7 +3873,7 @@ vo={
 ja={
 {
 name={"Yoshisada"},
-"“¿En... serio?... Me alegro... Ya, no la confundiré más, con una muñeca...”",
+"“¿En... serio?... Me alegro... Ya... no la confundiré más... con una muñeca...”",
 {"rt2"},
 },
 },
@@ -4008,7 +4008,7 @@ block_00239={
 text={
 ja={
 {
-"Y pensé... ¿Es esto, lo que llaman morir?",
+"Y pensé... ¿Es esto... lo que llaman morir?",
 {"rt2"},
 },
 },
@@ -4026,7 +4026,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“Yoshisada-sama... Por fin lo he entendido... La manera, en la que lo veo a\nusted ahora... Esto es una sonrisa dolorosa...”",
+"“Yoshisada-sama... Por fin lo he entendido... La manera... en la que lo veo a\nusted ahora... Esto es una sonrisa dolorosa...”",
 {"rt2"},
 },
 },
@@ -4059,7 +4059,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“Tanto... tanto, que usted... me dio, a mí...”",
+"“Tanto... tanto, que usted... me dio a mí...”",
 {"rt2"},
 },
 },
@@ -4160,7 +4160,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“Y-Y yo, todavía... no he podido... hacer nada... dar nada... por usted...\n*uuhh*.”",
+"“Y-Y yo, todavía... no he podido... hacer nada... ni dar nada... por usted...\n*uuhh*.”",
 {"rt2"},
 },
 },
@@ -4558,7 +4558,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“No, usted no sabe realmente nada.”",
+"“No, usted no sabe nada.”",
 {"rt2"},
 },
 },
@@ -4611,7 +4611,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“No tienes idea, de lo que eso significa...”",
+"“No tiene idea de lo que eso significa...”",
 {"rt2"},
 },
 },
@@ -4800,7 +4800,7 @@ vo={
 ja={
 {
 name={"Hakuki"},
-"“Mis lamentos... implican, mi muerte. Es la señal, de que todos los sueños están\npor ser liberados.”",
+"“Mis lamentos... implican mi muerte. Es la señal de que todos los sueños están\npor ser liberados.”",
 {"rt2"},
 },
 },
@@ -5185,7 +5185,7 @@ block_00316={
 text={
 ja={
 {
-"Los sueños que alcanzaron el cielo, humedecían ahora la tierra.",
+"Los sueños que alcanzaron el cielo humedecían ahora la tierra.",
 {"rt2"},
 },
 },
@@ -5289,7 +5289,7 @@ block_00324={
 text={
 ja={
 {
-"Lo que llegaron a ver los aldeanos en los campos tras la lluvia, fue...",
+"Lo que llegaron a ver los aldeanos en los campos tras la lluvia fue...",
 {"rt2"},
 },
 },
@@ -6039,7 +6039,7 @@ block_00375={
 text={
 ja={
 {
-"Y, si realmente fuera ese el caso...",
+"Y si realmente fuera ese el caso...",
 {"rt2"},
 },
 },

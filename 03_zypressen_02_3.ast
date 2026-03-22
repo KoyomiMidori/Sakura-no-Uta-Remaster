@@ -109,7 +109,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“E-Esto... ¿Q-Qué, estás haciendo?”",
+"“E-Esto... ¿Q-Qué estás haciendo?”",
 {"rt2"},
 },
 },
@@ -864,7 +864,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“A pesar de siempre hablar como un hombre tienes una voz muy tierna en estos\nmomentos. Realmente eres rara.”",
+"“A pesar de siempre hablar como un hombre, tienes una voz muy tierna en estos\nmomentos. Realmente eres rara.”",
 {"rt2"},
 },
 },
@@ -1730,7 +1730,7 @@ vo={
 },
 ja={
 {
-"Es por eso que aun estando en el parque a medianoche pude entablar una\nconversación con ella a solas.",
+"Es por eso que, aun estando en el parque a medianoche, pude entablar una\nconversación con ella a solas.",
 {"rt2"},
 },
 },
@@ -1826,7 +1826,7 @@ vo={
 },
 ja={
 {
-"Y ahora, la idea de que esa bella autómata simplemente está adaptándose para\nresponderme siempre de la manera más óptima sentó raíz en mi cabeza.",
+"Y la idea de que esa bella autómata simplemente está adaptándose para\nresponderme siempre de la manera más óptima sentó raíz en mi cabeza.",
 {"rt2"},
 },
 },
@@ -2155,7 +2155,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Q-Qué acaso estás resentida por eso?”",
+"“¿A-Acaso estás resentida por eso?”",
 {"rt2"},
 },
 },
@@ -2872,7 +2872,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Es que, te veo dibujando acá y de noche en este parque abandonado, dentro de un\ndomo... y además, dibujando cipreses... Es tétrico, sinceramente. Encima de\neso, acabas de decir que tenías miedo.”",
+"“Es que te veo dibujando acá y de noche en este parque abandonado, dentro de un\ndomo... y además, dibujando cipreses... Es tétrico. Encima de eso, acabas de\ndecir que tenías miedo.”",
 {"rt2"},
 },
 },
@@ -3149,7 +3149,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“No soy imbécil, soy Okazawa. Apréndete de una buena vez los nombres de tus compañeros.”",
+"“No soy imbécil, soy Okazawa. Apréndete de una buena vez los nombres\nde tus compañeros.”",
 {"rt2"},
 },
 },
@@ -3230,7 +3230,7 @@ vo={
 },
 ja={
 {
-"Para los gatos, el gato a su lado,\nasí como los humanos que le dan comida, las vallas de metal que bloquean su camino, y la fría nieve que cae del cielo,\nes todo lo mismo. Parte de su ambiente.",
+"Para los gatos, el gato a su lado,\nasí como los humanos que le dan comida, las vallas de metal que bloquean su camino,\ny la fría nieve que cae del cielo,\nes todo lo mismo. Parte de su ambiente.",
 {"rt2"},
 },
 },
@@ -3263,7 +3263,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“¿Qué vas a hacer, sacar tu cuchillo como la vez pasada?　No creas que me vas a intimidar con eso.”",
+"“¿Qué vas a hacer, sacar tu cuchillo como la vez pasada?\nNo creas que me vas a intimidar con eso.”",
 {"rt2"},
 },
 },
@@ -3314,7 +3314,7 @@ vo={
 },
 ja={
 {
-"El cuchillo fue una finta. Con su concentración en mi mano derecha, cayó",
+"El cuchillo fue una finta. Con su concentración en mi mano derecha, cayó.",
 {"rt2"},
 },
 },
@@ -3416,7 +3416,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Ahh?　¡En ningún momento he dicho que no lo haré, simplemente no tolero a\nidiotas repulsivos como tú!”",
+"“¿Ahh? ¡En ningún momento he dicho que no lo haré, simplemente no tolero a\nidiotas repulsivos como tú!”",
 {"rt2"},
 },
 },
@@ -3433,7 +3433,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“Lo harás entonces, ¿verdad?　¿Ah?”",
+"“Lo harás entonces, ¿verdad? ¿Ah?”",
 {"rt2"},
 },
 },

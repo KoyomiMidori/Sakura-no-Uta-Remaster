@@ -469,7 +469,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Hummm. Pero, tampoco es para que se agolpen de esa manera...”",
+"“Hummm. Pero tampoco es para que se agolpen de esa manera...”",
 {"rt2"},
 },
 },
@@ -822,7 +822,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“*Ahaa*☆, ¿pero qué estás diciendo, senpai? Yo no quiero dinero alguno～。 Si\nhay algo que quiero, es a ti. Me gustas demasiado.”",
+"“*Ahaa*☆, ¿pero qué estás diciendo, senpai? Yo no quiero dinero alguno～ Si\nhay algo que quiero, es a ti. Me gustas demasiado.”",
 {"rt2"},
 },
 },
@@ -1648,7 +1648,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿P-Por qué, me ves con tanta ira?”",
+"“¿P-Por qué me ves con tanta ira?”",
 {"rt2"},
 },
 },
@@ -1683,7 +1683,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿E-Estas molesta?”",
+"“¿E-Estás molesta?”",
 {"rt2"},
 },
 },
@@ -2464,7 +2464,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Por haber abrazado a Kusanagi-senpai. ¡A pesar de ser una broma en ningún\nmomento me paré a pensar en cómo te podrías sentir de hacer yo eso!”",
+"“Por haber abrazado a Kusanagi-senpai. ¡A pesar de ser una broma, en ningún\nmomento me paré a pensar en cómo te podrías sentir de hacer yo eso!”",
 {"rt2"},
 },
 },
@@ -2703,7 +2703,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Digamos que lo de esta mañana ya quedó atrás, pero... ¡¿Vas a explicarme que\ndemonios fue eso de hace un momento?!”",
+"“Digamos que lo de esta mañana ya quedó atrás, pero... ¡¿Vas a explicarme qué\ndemonios fue eso de hace un momento?!”",
 {"rt2"},
 },
 },
@@ -2817,7 +2817,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¡Esas cosas no se dicen! ¡Así no se te ocurra más nada, no se dicen!”",
+"“¡Esas cosas no se dicen! ¡Así no se te ocurra nada más, no se dicen!”",
 {"rt2"},
 },
 },
@@ -3179,7 +3179,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¡No tienes de qué preocuparte, Rina! ¡Tu también eres tan linda como una idol!”",
+"“¡No tienes de qué preocuparte, Rina! ¡Tú también eres tan linda como una idol!”",
 {"rt2"},
 },
 },
@@ -3537,7 +3537,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque, me pregunto por qué la directora habrá esperado justamente a que\ncomenzara el nuevo período para mostrar la obra. Si es por reunir a los\nmedios le hubiera convenido más hacerlo durante las vacaciones...”",
+"“Aunque me pregunto por qué la directora habrá esperado justamente a que\ncomenzara el nuevo período para mostrar la obra. Si es por reunir a los\nmedios le hubiera convenido más hacerlo durante las vacaciones...”",
 {"rt2"},
 },
 },
@@ -3554,7 +3554,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Quién sabe? Quizás quería mostrársela primero a sus propios estudiantes. De\nvenir mucha gente de los medios los alumnos no podrían verla.”",
+"“¿Quién sabe? Quizás quería mostrársela primero a sus propios estudiantes. De\nvenir mucha gente de los medios, los alumnos no podrían verla.”",
 {"rt2"},
 },
 },
@@ -4267,7 +4267,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Y qué tanto tratas de aguantar? Deberías aprovechar de que tienes un pe*e y\nfollarte a toda mujer que se te acerque.”",
+"“¿Y qué tanto tratas de aguantar? Deberías aprovechar de que tienes un pene y\nfollarte a toda mujer que se te acerque.”",
 {"rt2"},
 },
 },
@@ -4281,7 +4281,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si solo por el hecho de tener un pe*e todos los hombres hicieran eso este país\nsería una nación de criminales.”",
+"“Si solo por el hecho de tener un pene todos los hombres hicieran eso, este país\nsería una nación de criminales.”",
 {"rt2"},
 },
 },
@@ -4299,7 +4299,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Eso dices? No tengo pe*e, así que no entiendo muy bien cómo piensan los\nhombres, pero si tuviera uno me gustaría metérselo a alguien.”",
+"“¿Eso dices? No tengo pene, así que no entiendo muy bien cómo piensan los\nhombres, pero si tuviera uno me gustaría metérselo a alguien.”",
 {"rt2"},
 },
 },
@@ -4446,7 +4446,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Y ahora que recuerdo, aun antes de que se culminara el mural se la pasaba\nviendo con frecuencia la iglesia.”",
+"“Y ahora que recuerdo, aun antes de que se culminara el mural, se la pasaba\nviendo con frecuencia la iglesia.”",
 {"rt2"},
 },
 },
@@ -4496,7 +4496,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ni idea. Aunque, sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...”",
+"“Ni idea. Aunque sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...”",
 {"rt2"},
 },
 },
@@ -4798,7 +4798,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, aunque bueno, nada extraño puede ocurrir de esta pintura de por sí. Pero,\nsi los sentimientos puestos en ella llegaran a resonar con los cerezos\nmilenarios...”",
+"“Sí, aunque bueno, nada extraño puede ocurrir de esta pintura de por sí. Pero\nsi los sentimientos puestos en ella llegaran a resonar con los cerezos\nmilenarios...”",
 {"rt2"},
 },
 },

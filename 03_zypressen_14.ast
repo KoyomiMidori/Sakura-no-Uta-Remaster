@@ -1635,7 +1635,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Je, Dios santo.”",
+"“Je, dios santo.”",
 {"rt2"},
 },
 },
@@ -1942,7 +1942,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ajajaja... Creo, que malentendió un poco las cosas al final.”",
+"“Ajajaja... Creo que malentendió un poco las cosas al final.”",
 {"rt2"},
 },
 },
@@ -2237,7 +2237,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Eso significaría, que juntos hacemos un solo, y genial artista...”",
+"“Eso significaría que juntos hacemos un solo y genial artista...”",
 {"rt2"},
 },
 },
@@ -3130,7 +3130,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“Aunque, ¿el hecho de que te hayan roto el corazón significa que por fin ya\npuedo poner pies sobre la línea de partida, tal vez?”",
+"“Aunque, ¿el hecho de que te hayan roto el corazón significa que ya por fin\npuedo poner pies sobre la línea de partida?”",
 {"rt2"},
 },
 },
@@ -3165,7 +3165,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“Nada más ni nada menos de lo que acabo de decir.”",
+"“Nada más ni nada menos que lo que acabo de decir.”",
 {"rt2"},
 },
 },
@@ -3283,7 +3283,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Q-Qué quieres decir entonces, con linea de partida?”",
+"“¿Q-Qué quieres decir entonces, con línea de partida?”",
 {"rt2"},
 },
 },
@@ -3369,7 +3369,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"“Y por eso estaba convencido. De no llegar a ver la cara que pondrías después de\nque te rompieran el corazón no podría estar a tu lado.”",
+"“Y por eso estaba convencido. De no llegar a ver la cara que pondrías después de\nque te rompieran el corazón, no podría estar a tu lado.”",
 {"rt2"},
 },
 },
@@ -3581,7 +3581,7 @@ vo={
 ja={
 {
 name={"Okazawa"},
-"Bueeeno, creo que me iré ya.",
+"“Bueeeno, creo que me iré ya.”",
 {"rt2"},
 },
 },
@@ -4217,7 +4217,7 @@ block_00257={
 text={
 ja={
 {
-"Un mar, que ni en broma se podría denominar hermoso.",
+"Un mar que ni en broma se podría denominar hermoso.",
 {"rt2"},
 },
 },

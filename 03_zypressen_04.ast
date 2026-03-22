@@ -283,7 +283,7 @@ vo={
 ja={
 {
 name={"Ietsuna"},
-"“Si lo ves de esa manera, no lo hay... pero, teniendo que lidiar justamente con\nlos Housoushi...”",
+"“Si lo ves de esa manera, no lo hay... pero teniendo que lidiar justamente con\nlos Housoushi...”",
 {"rt2"},
 },
 },
@@ -1880,7 +1880,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Si no tienes nada qué hacer acá entonces vete ya, por favor. Me distraes.”",
+"“Si no tienes nada que hacer acá entonces vete ya, por favor. Me distraes.”",
 {"rt2"},
 },
 },
@@ -3041,7 +3041,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pero, ya para aquella noche que vino el tifón tu obra había sido publicada.\nCuando convertiste el dibujo del ciprés de Rina en un árbol de cerezos ya\n'Fantasía de un día de cerezos' había salido a la luz pública.”",
+"“Pero ya para aquella noche que vino el tifón, tu obra había sido publicada.\nCuando convertiste el dibujo del ciprés de Rina en un árbol de cerezos ya\n'Fantasía de un día de cerezos' había salido a la luz pública.”",
 {"rt2"},
 },
 },
@@ -3137,7 +3137,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Oh, cielos, así que de verdad eras el mocoso de aquella vez.”",
+"“Oh, cielos, así que de verdad eras la mocosa de aquella vez.”",
 {"rt2"},
 },
 },
@@ -3363,7 +3363,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Fue a mí a quien le achacaron todos los honores, por eso es que me volví famoso\nahora. Si es por eso el verdadero altruista y abnegado sería Akashi.”",
+"“Fue a mí a quien le achacaron todos los honores, por eso es que me volví famoso\nahora. Si es por eso, el verdadero altruista y abnegado sería Akashi.”",
 {"rt2"},
 },
 },
@@ -3429,7 +3429,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“El porqué que nos lleva a crearla... Solo basta con no perder de vista eso...\nAun cuando el nombre inscrito en esa obra, no sea el nuestro.”",
+"“El porqué que nos lleva a crearla... Solo basta con no perder de vista eso...\nAun cuando el nombre inscrito en esa obra no sea el nuestro.”",
 {"rt2"},
 },
 },
@@ -3691,7 +3691,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Y de todos estos actos de altruismo, o como le digan, que más odio, es esa\npintura que convirtió el ciprés en cerezos.”",
+"“Y de todos estos actos de altruismo, o como le digan, el que más odio es esa\npintura que convirtió el ciprés en cerezos.”",
 {"rt2"},
 },
 },
@@ -4021,7 +4021,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Noté ansiedad, intranquilidad. La angustia de alguien que a pesar de intentar\npintar algo similar a lo que hizo en el pasado, terminaba con algo totalmente\ndiferente.”",
+"“Noté ansiedad, intranquilidad. La angustia de alguien que, a pesar de intentar\npintar algo similar a lo que hizo en el pasado, terminaba con algo totalmente\ndiferente.”",
 {"rt2"},
 },
 },
@@ -4516,7 +4516,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Puedo coger palillos. Incluso lápices. Pasa es, que simplemente ya no puedo\npintar como antes...”",
+"“Puedo coger palillos. Incluso lápices. Pero ya no puedo pintar como antes...”",
 {"rt2"},
 },
 },
@@ -4549,7 +4549,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, lo fue. Fue más duro de lo que esperaba, realmente... Era tremendo el\ntalento que Hikawa tenía, tanto que llegué a sentir que el dibujo me tragaría\nen cualquier momento...”",
+"“Sí, lo fue. Fue más duro de lo que esperaba... Era tremendo el talento\nque Hikawa tenía, tanto que llegué a sentir que el dibujo me tragaría\nen cualquier momento...”",
 {"rt2"},
 },
 },
@@ -4673,7 +4673,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No lo niego, eh. Pero tampoco sabía qué enfermedad era, así que no fue\ntotalmente intencional todo.”",
+"“No lo niego. Pero tampoco sabía qué enfermedad era, así que no fue\ntotalmente intencional todo.”",
 {"rt2"},
 },
 },
@@ -5973,7 +5973,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Qué pesado debe ser, eh. Tener que venir a verme, y luego devolverte a ayudar a\nRin con su pintura.”",
+"“Qué pesado debe ser. Tener que venir a verme, y luego devolverte a ayudar a\nRin con su pintura.”",
 {"rt2"},
 },
 },

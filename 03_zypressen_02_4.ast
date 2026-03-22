@@ -142,7 +142,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“N-No, no pasa nada, Hikawa-san... solo que, había, un mosquito parado sobre el\njuego.”",
+"“N-No, no pasa nada, Hikawa-san... solo que había un mosquito parado sobre el\njuego.”",
 {"rt2"},
 },
 },
@@ -182,7 +182,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“No. Sí. No te preocupes. Si lo haces te mataré.”",
+"“No. Sí. No te preocupes. Si lo haces, te mataré.”",
 {"rt2"},
 },
 },
@@ -547,7 +547,7 @@ vo={
 },
 ja={
 {
-"Se veía realmente, verdaderamente preciosa.",
+"Se veía verdaderamente preciosa.",
 {"rt2"},
 },
 },
@@ -596,7 +596,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Parece que hoy si puedo sonreír. ¿O quizás me equivoco?”",
+"“Parece que hoy sí puedo sonreír. ¿O quizás me equivoco?”",
 {"rt2"},
 },
 },
@@ -832,7 +832,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Eh?　A-Ahora que lo dices, ¿me llamaste Yuumi hace un rato?”",
+"“¿Eh? A-Ahora que lo dices, ¿me llamaste Yuumi hace un rato?”",
 {"rt2"},
 },
 },
@@ -1321,7 +1321,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"'¿Cuántas vidas de insectos habré tomado hasta ahora para subsistir? Y, ahora,\nal perseguirme la comadreja, he querido escapar, sin lograr siquiera salvar\nmi propia vida'",
+"'¿Cuántas vidas de insectos habré tomado hasta ahora para subsistir? Y, ahora,\nal perseguirme la comadreja, he querido escapar, sin lograr siquiera salvar\nmi propia vida.'",
 {"rt2"},
 },
 },
@@ -2244,7 +2244,7 @@ vo={
 },
 ja={
 {
-"Y a la vez, el miedo llevó a su mente a necesitar arte en el se gozara de la\nmuerte.",
+"Y a la vez, el miedo llevó a su mente a necesitar arte en el que se gozara de la\nmuerte.",
 {"rt2"},
 },
 },
@@ -2292,7 +2292,7 @@ vo={
 },
 ja={
 {
-"En mi caso, ya no podía verla como la misma chica elegante de siempre. Su forma delicada de hablar, su calmada actitud, su pulcritud, todo eso lo veía ahora\ncomo una especie de naturaleza nerviosa, desarrollada instintivamente para\nresistir su enfermedad.",
+"En mi caso, ya no podía verla como la misma chica elegante de siempre. Su forma\ndelicada de hablar, su calmada actitud, su pulcritud, todo eso lo veía ahora como\nuna especie de naturaleza nerviosa, desarrollada instintivamente para\nresistir su enfermedad.",
 {"rt2"},
 },
 },
@@ -2644,7 +2644,7 @@ vo={
 },
 ja={
 {
-"Porque topé con ese cuadro de cerezos del centro comunitario.",
+"Porque me topé con ese cuadro de cerezos del centro comunitario.",
 {"rt2"},
 },
 },

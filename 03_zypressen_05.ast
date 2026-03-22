@@ -1410,7 +1410,7 @@ block_00090={
 text={
 ja={
 {
-"Debo ser sincera. En el estado que estoy ahora, si unas cuantas llegan a\necharse sobre mí por detrás me acabarán con toda facilidad.",
+"Debo ser sincera. En el estado que estoy ahora, si unas cuantas llegan a\necharse sobre mí por detrás, me acabarán con toda facilidad.",
 {"rt2"},
 },
 },
@@ -1488,7 +1488,7 @@ block_00096={
 text={
 ja={
 {
-"Aunque, tampoco es que me dejé rodear sin nada en mente.",
+"Aunque tampoco es que me dejé rodear sin nada en mente.",
 {"rt2"},
 },
 },
@@ -1632,7 +1632,7 @@ vo={
 ja={
 {
 name={"Alumna D"},
-"“¡¿D-De que lado se supone que estás?!”",
+"“¡¿D-De qué lado se supone que estás?!”",
 {"rt2"},
 },
 },
@@ -1794,7 +1794,7 @@ vo={
 ja={
 {
 name={"Alumna"},
-"“Sabes ladrar, Yuumi Kawachino.”",
+"“Sabes ladrar, Yuumi Kawachino-san.”",
 {"rt2"},
 },
 },
@@ -1918,7 +1918,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Haz lo que quieras, vea por donde la veas es claro que están rodeándome para\namenazarme. No tengo nada que temer.”",
+"“Haz lo que quieras, por donde sea que la veas es claro que están\nrodeándome para amenazarme. No tengo nada que temer.”",
 {"rt2"},
 },
 },
@@ -2191,7 +2191,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¿Sí? Pues, no pareciera, la verdad. Estás en desventaja, diría yo.”",
+"“¿Sí? Pues no pareciera, la verdad. Estás en desventaja, diría yo.”",
 {"rt2"},
 },
 },
@@ -2385,7 +2385,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Vamos, solo, solo déjame hablar un poco con ella.”",
+"“Vamos, solo déjame hablar un poco con ella.”",
 {"rt2"},
 },
 },
@@ -2705,7 +2705,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Dicen que fue él quien dirigió la obra, pero seguramente es mentira. Los trazos\nde esas ramas, no son los de Kusanagi-kun...”",
+"“Dicen que fue él quien dirigió la obra, pero seguramente es mentira. Los trazos\nde esas ramas no son los de Kusanagi-kun...”",
 {"rt2"},
 },
 },
@@ -2883,7 +2883,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Pues la muchacha de hace un rato lo dijo, ¿no? Que el mismo Kusanagi- senpai\nlo había negado... Fue por eso que se enojó.”",
+"“Pues la muchacha de hace un rato lo dijo, ¿no? Que el mismo Kusanagi-senpai\nlo había negado... Fue por eso que se enojó.”",
 {"rt2"},
 },
 },
@@ -2919,7 +2919,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Sí, conociéndolo como es no sería raro que lo hiciera, así yo fuera realmente\nsu novia, pero... mentira es mentira...”",
+"“Sí, conociéndolo como es, no sería raro que lo hiciera, así yo fuera realmente\nsu novia, pero... mentira es mentira...”",
 {"rt2"},
 },
 },
@@ -2997,7 +2997,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Ajajaja, pero qué perdida de tiempo ha sido todo esto.”",
+"“Ajajaja, pero qué pérdida de tiempo ha sido todo esto.”",
 {"rt2"},
 },
 },
@@ -3190,7 +3190,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Aunque, les recomiendo que tengan cuidado. Tiene un cuchillo guardado.”",
+"“Aunque les recomiendo que tengan cuidado. Tiene un cuchillo guardado.”",
 {"rt2"},
 },
 },
@@ -3221,7 +3221,7 @@ block_00194={
 text={
 ja={
 {
-"¿No solo sabe que tengo a Bob Kramer contigo, sino también que es un cuchillo\nde cocina? Pero qué tan despiadadamente acosadora es esta mujer.",
+"¿No solo sabe que tengo a Bob Kramer conmigo, sino también que es un cuchillo\nde cocina? Pero qué tan despiadadamente acosadora es esta mujer.",
 {"rt2"},
 },
 },
@@ -4123,7 +4123,7 @@ block_00251={
 text={
 ja={
 {
-"No recuerdo nada de lo que paso después, ni como llegué acá.",
+"No recuerdo nada de lo que paso después, ni cómo llegué acá.",
 {"rt2"},
 },
 },
@@ -4182,7 +4182,7 @@ block_00255={
 text={
 ja={
 {
-"Como pueden ver, estaba algo preocupada. Aunque, Yumihari es un colegio de\nniños de buena familia.",
+"Como pueden ver, estaba algo preocupada. Aunque Yumihari es un colegio de\nniños de buena familia.",
 {"rt2"},
 },
 },
@@ -4977,7 +4977,7 @@ block_00311={
 text={
 ja={
 {
-"Pero, ese algo está cubierto de neblina.",
+"Pero ese algo está cubierto de neblina.",
 {"rt2"},
 },
 },
@@ -6031,7 +6031,7 @@ block_00379={
 text={
 ja={
 {
-"No podré huir esta vez si me vienen en grupo.",
+"No podré huir esta vez si vienen en grupo.",
 {"rt2"},
 },
 },
@@ -6274,7 +6274,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Sí. Luego de eso te vi corriendo, con varias muchachas de otros colegios\npersiguiéndote. Los seguí a todos.”",
+"“Sí. Luego de eso, te vi corriendo, con varias muchachas de otros colegios\npersiguiéndote. Los seguí a todos.”",
 {"rt2"},
 },
 },
@@ -6568,7 +6568,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Ah, sí, se me hacía estorbosa mientras huía así que la dejé por ahí.”",
+"“Ah, sí, se me hacía estorbosa mientras huía, así que la dejé por ahí.”",
 {"rt2"},
 },
 },
@@ -6702,7 +6702,7 @@ block_00420={
 text={
 ja={
 {
-"No sé por qué, pero después de eso Rina me abrazó fuertemente.",
+"No sé por qué, pero después de eso, Rina me abrazó fuertemente.",
 {"rt2"},
 },
 },
@@ -6770,7 +6770,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Sí... Tanto, que incluso ganas de llorar me das...”",
+"“Sí... Tanto... que incluso ganas de llorar me das...”",
 {"rt2"},
 },
 },

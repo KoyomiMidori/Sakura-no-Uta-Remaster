@@ -135,7 +135,7 @@ vo={
 },
 ja={
 {
-"Y sin embargo, el muchacho se quedo viéndolo, sin inmutarse en lo más mínimo.",
+"Y sin embargo, el muchacho se quedó viéndolo, sin inmutarse en lo más mínimo.",
 {"rt2"},
 },
 },
@@ -1323,7 +1323,7 @@ vo={
 },
 ja={
 {
-"Y sin embargo, al entrar al domo vimos cómo el dibujo había avanzado.",
+"Y sin embargo, al entrar al domo, vimos cómo el dibujo había avanzado.",
 {"rt2"},
 },
 },
@@ -1660,7 +1660,7 @@ ja={
 {"rt2"},
 " ",
 {"rt2"},
-"　　　　　　　　　　　　　　　　　　　　　　(Sin un lecho de cría adecuado, la eclosión de los gusanos es imposible)",
+"　　　　　　　　　　　　　　　　　　　　　　(Sin un lecho de cría adecuado, la\neclosión de los gusanos es imposible.)",
 {"rt2"},
 },
 },
@@ -1744,7 +1744,7 @@ ja={
 {"rt2"},
 " ",
 {"rt2"},
-"　　　　　　　　　　　　　　　　　　　Pero la distancia entre las dos se va acrecentando cada vez más.",
+"　　　　　　　　　　　　　　　　　　　Pero la distancia entre las dos se va\nacrecentando cada vez más.",
 {"rt2"},
 },
 },
@@ -2366,7 +2366,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Quizás sea difícil que lo notes ahora, pero en este lugar hay bastantes árboles\nde cerezos junto a los cipreses. Cuando comencé a pintar esto las flores de\ncerezo se podían ver por todos lados.”",
+"“Quizás sea difícil que lo notes ahora, pero en este lugar hay bastantes árboles\nde cerezos junto a los cipreses. Cuando comencé a pintar esto, las flores de\ncerezo se podían ver por todos lados.”",
 {"rt2"},
 },
 },

@@ -382,7 +382,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Mmm, conociendo como es, no creo que te obligue a hacerlo...\nPero viendo lo bueno que está quedando esto, no estoy muy seguro de que desista fácilmente.”",
+"“Mmm, conociendo cómo es, no creo que te obligue a hacerlo...\nPero viendo lo bueno que está quedando esto, no estoy muy seguro de que\ndesista fácilmente.”",
 {"rt2"},
 },
 },
@@ -400,7 +400,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Le diré que presentaré el año que viene, o sino el próximo.”",
+"“Le diré que presentaré el año que viene, o si no el próximo.”",
 {"rt2"},
 },
 },
@@ -833,7 +833,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Pero qué tonterías dices, Senpai? Soy yo la que debería preguntarse eso...”",
+"“¿Pero qué tonterías dices, senpai? Soy yo la que debería preguntarse eso...”",
 {"rt2"},
 },
 },
@@ -2168,7 +2168,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¡P-Por supuesto que no! Si llegas a irte ahora mi conmoción no se limitará solo\na este cuadro...”",
+"“¡P-Por supuesto que no! Si llegas a irte ahora, mi conmoción no se limitará solo\na este cuadro...”",
 {"rt2"},
 },
 },
@@ -2727,7 +2727,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¡Muh! ¿Esta, clase, de cosas? ¡Cualquiera soñaría con tener a la persona que le\ngusta abrazándole por detrás!”",
+"“¡Muh! ¿Esta clase de cosas? ¡Cualquiera soñaría con tener a la persona que le\ngusta abrazándole por detrás!”",
 {"rt2"},
 },
 },
@@ -3731,7 +3731,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Vamos ya entonces? De ir muy tarde no podrás estar mucho tiempo.”",
+"“¿Vamos ya entonces? De ir muy tarde, no podrás estar mucho tiempo.”",
 {"rt2"},
 },
 },
@@ -3767,7 +3767,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Si nos tardamos quizás pueda perder el último tren.”",
+"“Si nos tardamos, quizás pierda el último tren.”",
 {"rt2"},
 },
 },
@@ -5096,7 +5096,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Lo sé. Nunca he dejado de tener ojos para ti... Si hay algo que sé, es qué tipo\nde persona eres.”",
+"“Lo sé. Nunca he dejado de tener ojos para ti... Si hay algo que sé es qué tipo\nde persona eres.”",
 {"rt2"},
 },
 },
@@ -5716,7 +5716,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Kusanagi, san?...”",
+"“¿Kusanagi-san?...”",
 {"rt2"},
 },
 },
@@ -5960,7 +5960,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Mm... mm... *chuu*... Jaa... Está bien... Yo, también, quiero sentirte más,\nKusanagi-san...”",
+"“Mm... mm... *chuu*... Jaa... Está bien... Yo también quiero sentirte más,\nKusanagi-san...”",
 {"rt2"},
 },
 },
@@ -6068,7 +6068,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Jaa... Jaa, jaa... haaaa.... ngh.”",
+"“Jaa... Jaa, jaa... jaaaa.... ngh.”",
 {"rt2"},
 },
 },
@@ -6135,7 +6135,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Sí... ¿Podemos... hacerlo, de nuevo?...”",
+"“Sí... ¿Podemos... hacerlo de nuevo?...”",
 {"rt2"},
 },
 },
@@ -6417,7 +6417,7 @@ block_00398={
 text={
 ja={
 {
-"Hasta hace poco, solo era como una hermana pequeña para mí.",
+"Hasta hace poco, solo era como una hermana menor para mí.",
 {"rt2"},
 },
 },
@@ -6443,7 +6443,7 @@ block_00400={
 text={
 ja={
 {
-"Pero, de seguir así las cosas, creo que mis deseos carnales me harán perder el\ncontrol...",
+"Pero de seguir así las cosas, creo que mis deseos carnales me harán perder el\ncontrol...",
 {"rt2"},
 },
 },

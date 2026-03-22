@@ -385,7 +385,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No es que lo haya rechazado, realmente...”",
+"“No es que lo haya rechazado...”",
 {"rt2"},
 },
 },
@@ -729,7 +729,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“E-En tu caso, creo... creo, que se verían muy bien juntos, Rin-senpai...”",
+"“E-En tu caso, creo... que se verían muy bien juntos, Rin-senpai...”",
 {"rt2"},
 },
 },
@@ -748,7 +748,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿Te parece? Pero, Nao-kun tiene muchísimas pretendientes tras él.”",
+"“¿Te parece? Pero Nao-kun tiene muchísimas pretendientes tras él.”",
 {"rt2"},
 },
 },
@@ -1739,7 +1739,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Pero, a nadie le gustaría que le dijeran que la única opción que queda después\nde que un ser amado muere es suicidarse... y menos aun, cuando se trata de la\npersona que te gusta...”",
+"“Pero a nadie le gustaría que le dijeran que la única opción que queda después\nde que un ser amado muere es suicidarse... y menos aun cuando se trata de la\npersona que te gusta...”",
 {"rt2"},
 },
 },
@@ -1758,7 +1758,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Así es. Pero, el poema continúa.”",
+"“Así es. Pero el poema continúa.”",
 {"rt2"},
 },
 },
@@ -2351,7 +2351,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Y me pone a pensar que, quizás toda muestra de amor de su parte sea solo un\nproducto de ese altruismo...”",
+"“Y me pone a pensar que, quizás, toda muestra de amor de su parte sea solo un\nproducto de ese altruismo...”",
 {"rt2"},
 },
 },
@@ -2617,7 +2617,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“... ¿En base a qué, dices eso?”",
+"“... ¿En base a qué dices eso?”",
 {"rt2"},
 },
 },
@@ -2651,7 +2651,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Realmente no sé por qué. Pero, cada pincelada, cada trazo en sus obras está\nlleno de un amor que simplemente no se puede describir con simple altruismo.”",
+"“Realmente no sé por qué. Pero cada pincelada, cada trazo en sus obras está\nlleno de un amor que simplemente no se puede describir con simple altruismo.”",
 {"rt2"},
 },
 },
@@ -3810,7 +3810,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“De lo contrario, terminarás haciéndole más daño aún a los demás a tu alrededor.”",
+"“De lo contrario, terminarás haciéndole aún más daño a los que te rodean.”",
 {"rt2"},
 },
 },
@@ -3847,7 +3847,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Amar a una persona implica herir a otra, a veces.”",
+"“Amar a una persona implica herir a otra a veces.”",
 {"rt2"},
 },
 },
@@ -4161,7 +4161,7 @@ block_00234={
 text={
 ja={
 {
-"¿Habrá alguien capaz de sentir tanto amor por senpai como Rin-senpai?",
+"¿Habrá alguien capaz de sentir tanto amor por él como Rin-senpai?",
 {"rt2"},
 },
 },

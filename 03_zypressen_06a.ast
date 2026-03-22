@@ -164,7 +164,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí, está bien. Mochila, ven a mí mochila～”",
+"“Sí, está bien. Mochila, ven a mí, mochila～”",
 {"rt2"},
 },
 },
@@ -903,7 +903,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Quién sabe? En fin, ¿variamos un poco y regresamos juntos? Aunque, si no mal\nrecuerdo nuestras casas están en direcciones totalmente distintas.”",
+"“¿Quién sabe? En fin, ¿variamos un poco y regresamos juntos? Aunque si no mal\nrecuerdo, nuestras casas están en direcciones totalmente distintas.”",
 {"rt2"},
 },
 },
@@ -944,7 +944,7 @@ block_00057={
 text={
 ja={
 {
-"Pero entonces,",
+"Pero entonces...",
 {"rt2"},
 },
 },
@@ -1834,7 +1834,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Lo siento, eh. Lo había olvidado por completo. Aunque no se me ocurrió tampoco\nque todavía estuvieras aferrada a eso.”",
+"“Lo siento. Lo había olvidado por completo. Aunque no se me ocurrió tampoco\nque todavía estuvieras aferrada a eso.”",
 {"rt2"},
 },
 },
@@ -2433,7 +2433,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Supongamos que... esa persona llegara a conseguir novia. De ser así entonces\nesa muchacha ya no podría seguir siendo su amiga, ¿o no?...”",
+"“Supongamos que... esa persona llegara a conseguir novia. De ser así,\nesa muchacha ya no podría seguir siendo su amiga, ¿o no?...”",
 {"rt2"},
 },
 },
@@ -2544,7 +2544,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No me gusta eso de que juegues a ser mi hermanita, eh.”",
+"“No me gusta eso de que juegues a ser mi hermanita.”",
 {"rt2"},
 },
 },
@@ -2653,7 +2653,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Pues, es que de no hacerlo así no podría estar a tu lado, senpai.”",
+"“Pues... es que de no hacerlo así no podría estar a tu lado, senpai.”",
 {"rt2"},
 },
 },
@@ -3129,7 +3129,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“E-Esa cara que pones, es... es tan maliciosa... y para más colmo, en este\nmomento...”",
+"“E-Esa cara que pones es... tan maliciosa... y para más colmo, en este\nmomento...”",
 {"rt2"},
 },
 },

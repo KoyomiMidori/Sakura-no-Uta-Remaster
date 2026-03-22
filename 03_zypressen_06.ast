@@ -1332,7 +1332,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ni idea. Aunque, sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...”",
+"“Ni idea. Aunque sí me da la impresión de que algo pasó con esta iglesia hace\ntiempo...”",
 {"rt2"},
 },
 },
@@ -1956,7 +1956,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"...",
+"“...”",
 {"rt2"},
 },
 },
@@ -2441,7 +2441,7 @@ block_00149={
 text={
 ja={
 {
-"¿Qué solo yo podría hacer algo así? Vamos...",
+"¿Que solo yo podría hacer algo así? Vamos...",
 {"rt2"},
 },
 },
@@ -2538,7 +2538,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Pues... sí, digamos que como obra no está nada mal, pienso yo. Pero, eso de\nsacar una obra bajo el apellido Kusanagi cuando una de sus partes más\nimportantes la pintó otra persona, no me parece...”",
+"“Pues... sí, digamos que como obra no está nada mal, pienso yo. Pero eso de\nsacar una obra bajo el apellido Kusanagi cuando una de sus partes más\nimportantes la pintó otra persona, no me parece...”",
 {"rt2"},
 },
 },
@@ -2621,7 +2621,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Supongo que la persona quien lo hizo practicó mucho, pero... ese tronco no lo\nhizo Kenichiro Kusanagi, ni tampoco Naoya Kusanagi.”",
+"“Supongo que la persona que lo hizo practicó mucho, pero... ese tronco no lo\nhizo Kenichiro Kusanagi, ni tampoco Naoya Kusanagi.”",
 {"rt2"},
 },
 },
@@ -2763,7 +2763,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“... ¿Que acaso no estás hablando de 'Las huellas de los cerezos'?”",
+"“... ¿Qué acaso no estás hablando de 'Las huellas de los cerezos'?”",
 {"rt2"},
 },
 },
@@ -2796,7 +2796,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¿Entonces a qué demonios te refieres cuando hablas de la obra mía que\npresentaron en la TV?! Que yo sepa no hay ningún otro reportaje circulando\npor ahí.”",
+"“¡¿Entonces a qué demonios te refieres cuando hablas de la obra mía que\npresentaron en la tele?! Que yo sepa no hay ningún otro reportaje circulando\npor ahí.”",
 {"rt2"},
 },
 },
@@ -2861,7 +2861,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“... ¿Insinúas, que fui yo quien pintó eso?”",
+"“... ¿Insinúas que fui yo quien pintó eso?”",
 {"rt2"},
 },
 },
@@ -3032,7 +3032,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¿Que por qué? Hmmm, ¿por qué será? Digamos, que soy tu acosadora,\nKusanagi-kun...”",
+"“¿Que por qué? Mmmm, ¿por qué será? Digamos que soy tu acosadora,\nKusanagi-kun...”",
 {"rt2"},
 },
 },
@@ -3326,7 +3326,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Vamos, no me grites de esa forma tan espeluznante. Pero, ya veo. Así que no\npiensas pintar...”",
+"“Vamos, no me grites de esa forma tan espeluznante. Pero ya veo. Así que no\npiensas pintar...”",
 {"rt2"},
 },
 },
@@ -3350,7 +3350,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Perooo, ¿será verdad eso? Déjame recordarte que sí pintaste.”",
+"“Perooo ¿será verdad eso? Déjame recordarte que sí pintaste.”",
 {"rt2"},
 },
 },
@@ -4237,7 +4237,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Está bien. Y, gracias por preocuparte por Yuumi.”",
+"“Está bien. Y gracias por preocuparte por Yuumi.”",
 {"rt2"},
 },
 },
@@ -4394,7 +4394,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, así que, si tienes algún problema del cual me quieras hablar...”",
+"“Sí, así que si tienes algún problema del cual me quieras hablar...”",
 {"rt2"},
 },
 },
@@ -4444,7 +4444,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Eso quiere decir que en el caso contrario de no tener ningún problema del cual\ndiscutir no puedo hablarte?”",
+"“¿Eso quiere decir que en el caso contrario de no tener ningún problema del cual\ndiscutir... no puedo hablarte?”",
 {"rt2"},
 },
 },
@@ -4698,7 +4698,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿Te parece? Creo que, tal vez la decisión de Yuumi fue correcta. Solo basta con\nver todo el odio que se ha ganado de las otras muchachas después de hablarte.\nSi hubiera intentado hacerlo yo entonces me habría pasado lo mismo.”",
+"“¿Te parece? Creo que tal vez la decisión de Yuumi fue correcta. Solo basta con\nver todo el odio que se ha ganado de las otras muchachas después de hablarte.\nSi hubiera intentado hacerlo yo entonces me habría pasado lo mismo.”",
 {"rt2"},
 },
 },
@@ -4753,7 +4753,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“No hay nadie con las agallas para intentar hablarte en esa clase de\nsituación... O no, tal vez Rin-senpai si pudiera haberlo hecho.”",
+"“No hay nadie con las agallas para intentar hablarte en esa clase de\nsituación... O no, tal vez Rin-senpai sí pudiera haberlo hecho.”",
 {"rt2"},
 },
 },
@@ -4785,7 +4785,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Nada en especial. Pero, es hermosa, ¿no, Rin-senpai?”",
+"“Nada en especial. Pero es hermosa, ¿no? Rin-senpai.”",
 {"rt2"},
 },
 },
@@ -5590,7 +5590,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si es por eso entonces Cristo y Buda son peores que el peor de los\ndepravados...”",
+"“Si es por eso, Cristo y Buda son peores que el peor de los depravados...”",
 {"rt2"},
 },
 },
@@ -5678,7 +5678,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Ah, ya va a terminar la clase. Si no regreso ya se darán cuenta de que estuve\nafuera.”",
+"“Ah, ya va a terminar la clase. Si no regreso ya, se darán cuenta de que estuve\nafuera.”",
 {"rt2"},
 },
 },

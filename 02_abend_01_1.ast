@@ -515,7 +515,7 @@ block_00036={
 text={
 ja={
 {
-"¿Qué tanto habré estado dormido? Aunque, me parece que no dormí por tanto\ntiempo...",
+"¿Qué tanto habré estado dormido? Aunque me parece que no dormí por tanto\ntiempo...",
 {"rt2"},
 },
 },
@@ -570,7 +570,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Realmente es un ocioso, eh...”",
+"“Realmente es un ocioso...”",
 {"rt2"},
 },
 },
@@ -1433,7 +1433,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No te pongas a citar cosas extrañas de nuevo. Y qué sorpresa que conozcas esas\npalabras, eh.”",
+"“No te pongas a citar cosas extrañas de nuevo. Y qué sorpresa que conozcas esas\npalabras.”",
 {"rt2"},
 },
 },
@@ -2866,7 +2866,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“A Dios no le interesa las circunstancias individuales de cada quien. Le da\ntedio usar una linea de producción distinta para cada quien, así que nos\nfabrica a todos en la misma. Y por eso es que todos estamos hechos igual.”",
+"“A Dios no le interesa las circunstancias individuales de cada quien. Le da\ntedio usar una línea de producción distinta para cada quien, así que nos\nfabrica a todos en la misma. Y por eso es que todos estamos hechos igual.”",
 {"rt2"},
 },
 },
@@ -3053,7 +3053,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Mmm, esa cuestión está fuera de la especialidad de Rinacchi, así que no sé muy\nbien, pero, supongo que rezarle a Buda, ofrecer sacrificios, pelear las\nCruzadas, hay varias maneras, aunque, la forma más rápida que te puedo\nrecomendar es...”",
+"“Mmm, esa cuestión está fuera de la especialidad de Rinacchi, así que no sé muy\nbien, pero supongo que rezarle a Buda, ofrecer sacrificios, pelear las\nCruzadas, hay varias maneras, aunque la forma más rápida que te puedo\nrecomendar es...”",
 {"rt2"},
 },
 },
@@ -3395,7 +3395,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“Primero, no debes matar. No debes fornicar. No debes robar. No debes dar falso\ntestimonio, honra a mamá y a papá... y, ama a tu prójimo como a ti mismo...”",
+"“Primero, no debes matar. No debes fornicar. No debes robar. No debes dar falso\ntestimonio, honra a mamá y a papá... y ama a tu prójimo como a ti mismo...”",
 {"rt2"},
 },
 },
@@ -3480,7 +3480,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“¿Entonces, pudo ir al Cielo?”",
+"“¿Entonces pudo ir al Cielo?”",
 {"rt2"},
 },
 },
@@ -3856,7 +3856,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Ah, claro. Te prestaré dinero, pero tengo algo que quiero preguntarte, Rina...”",
+"“Ah, claro. Te prestaré dinero, pero quiero preguntarte algo, Rina...”",
 {"rt2"},
 },
 },
@@ -3927,7 +3927,7 @@ vo={
 ja={
 {
 name={"Rina"},
-"“¿S-Sexo?... Estás usando una expresión bastante directa, eh... ¡Una dama no\npuede decir eso!”",
+"“¿S-Sexo?... Estás usando una expresión bastante directa... ¡Una dama no\npuede decir eso!”",
 {"rt2"},
 },
 },
@@ -4031,7 +4031,7 @@ vo={
 ja={
 {
 name={"Yuumi"},
-"“Lo siento... Pero, eso de que imites a una señora... no me gusta...”",
+"“Lo siento... Pero eso de que imites a una señora... no me gusta...”",
 {"rt2"},
 },
 },
