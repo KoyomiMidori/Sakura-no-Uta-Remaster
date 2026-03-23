@@ -140,7 +140,7 @@ block_00010={
 text={
 ja={
 {
-"La compra sumó un total de 1500 millones, 600 de ellos de los seis cuadros, y\n900 de ellos de la fortuna de Kenichiro Kusanagi.",
+"La compra sumó un total de 1.500 millones, 600 de ellos de los seis cuadros, y\n900 de ellos de la fortuna de Kenichiro Kusanagi.",
 {"rt2"},
 },
 },
@@ -452,7 +452,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Que no es obvio? Para salvar a Kuzu.”",
+"“¿Qué no es obvio? Para salvar a Kuzu.”",
 {"rt2"},
 },
 },
@@ -470,7 +470,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Kuzu, eh... Sí, ahora que lo recuerdo Kenichiro también estuvo trabajando en\nNueva York para salvarla...”",
+"“Kuzu, eh... Sí, ahora que lo recuerdo, Kenichiro también estuvo trabajando en\nNueva York para salvarla...”",
 {"rt2"},
 },
 },
@@ -553,7 +553,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aun no, ¿lo olvidas?”",
+"“Aún no, ¿lo olvidas?”",
 {"rt2"},
 },
 },
@@ -636,7 +636,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“La fortuna de 900 millones que Kenichiro posee, y los seis cuadros valorados en\n600 millones. Juntando estos dos se saldará la deuda de 1500 millones que\nKenichiro tenía con los Nakamura.”",
+"“La fortuna de 900 millones que Kenichiro posee, y los seis cuadros valorados en\n600 millones. Juntando estos dos se saldará la deuda de 1.500 millones que\nKenichiro tenía con los Nakamura.”",
 {"rt2"},
 },
 },
@@ -841,7 +841,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“No es nada. Aunque, quisiera preguntarte algo. ¿Leiste bien lo que había\nescrito?”",
+"“No es nada. Aunque quisiera preguntarte algo. ¿Leiste bien lo que había\nescrito?”",
 {"rt2"},
 },
 },
@@ -1049,7 +1049,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“No te preocupes. Si quieres dinero podrías abandonar a la muchacha y recibir la\nherencia. De esa manera podrás obtener fácilmente 1500 millones.”",
+"“No te preocupes. Si quieres dinero, podrías abandonar a la muchacha y recibir la\nherencia. De esa manera, podrás obtener fácilmente 1.500 millones.”",
 {"rt2"},
 },
 },
@@ -1962,7 +1962,7 @@ block_00120={
 text={
 ja={
 {
-"Aunque, probablemente el arrepentimiento me carcomerá después...",
+"Aunque probablemente el arrepentimiento me carcomerá después...",
 {"rt2"},
 },
 },
@@ -2778,7 +2778,7 @@ block_00178={
 text={
 ja={
 {
-"Pude darme cuenta de como todas las personas que estaban adentro estaban ahora\nalteradas.",
+"Pude darme cuenta de cómo todas las personas que estaban adentro estaban ahora\nalteradas.",
 {"rt2"},
 },
 },
@@ -3205,7 +3205,7 @@ block_00207={
 text={
 ja={
 {
-"Después de dejar esas agresivas palabras salí de la oficina.",
+"Después de dejar esas agresivas palabras, salí de la oficina.",
 {"rt2"},
 },
 },
@@ -3334,7 +3334,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuzu, ¿podemos sentarnos un rato a hablar?",
+"“Kuzu, ¿podemos sentarnos un rato a hablar?”",
 {"rt2"},
 },
 },
@@ -3364,7 +3364,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, no, acá no. Vayamos a la sala.",
+"“No, no, acá no. Vayamos a la sala.”",
 {"rt2"},
 },
 },
@@ -3382,7 +3382,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿No? Pensé que me pedirías una felación en esta posición.",
+"“¿No? Pensé que me pedirías una felación en esta posición.”",
 {"rt2"},
 },
 },
@@ -3396,7 +3396,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Cómo me crees capaz de pedirte semejante bestialidad apenas regresando a casa?",
+"“¿Cómo me crees capaz de pedirte semejante bestialidad apenas regresando a casa?”",
 {"rt2"},
 },
 },
@@ -3414,7 +3414,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Llevas un buen tiempo sin venir a casa... y pensé que tendrías muchas ganas\nacumuladas.",
+"“Llevas un buen tiempo sin venir a casa... y pensé que tendrías muchas ganas\nacumuladas.”",
 {"rt2"},
 },
 },
@@ -3428,7 +3428,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No tengo energía alguna para eso. No dormí casi nada en todo este tiempo.\nAdemás, más de una vez fuiste a tragarte mis sueños mientras dormía...",
+"“No tengo energía alguna para eso. No dormí casi nada en todo este tiempo.\nAdemás, más de una vez fuiste a tragarte mis sueños mientras dormía...”",
 {"rt2"},
 },
 },
@@ -3447,7 +3447,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Lo sé, pero aun así...",
+"“Lo sé, pero aun así...”",
 {"rt2"},
 },
 },
@@ -3461,7 +3461,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"En fin, vayamos a la sala. Allá podremos hablar con calma.",
+"“En fin, vayamos a la sala. Allá podremos hablar con calma.”",
 {"rt2"},
 },
 },
@@ -3497,7 +3497,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Kuzu.",
+"“Kuzu.”",
 {"rt2"},
 },
 },
@@ -3515,7 +3515,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿Sí?",
+"“¿Sí?”",
 {"rt2"},
 },
 },
@@ -3542,7 +3542,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya todo terminó.",
+"“Ya todo terminó.”",
 {"rt2"},
 },
 },
@@ -3560,7 +3560,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿Todo terminó?",
+"“¿Todo terminó?”",
 {"rt2"},
 },
 },
@@ -3574,7 +3574,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, ya los Nakamura no vendrán más por ti.",
+"“Sí, ya los Nakamura no vendrán más por ti.”",
 {"rt2"},
 },
 },
@@ -3592,7 +3592,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿Eh? ¿Cómo?",
+"“¿Eh? ¿Cómo?”",
 {"rt2"},
 },
 },
@@ -3606,7 +3606,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Pues, digamos que organicé un poco la fortuna del viejo, y reuní el dinero\nnecesario. En fin, pude obtener tu libertad.",
+"“Pues, digamos que organicé un poco la fortuna del viejo, y reuní el dinero\nnecesario. En fin, pude obtener tu libertad.”",
 {"rt2"},
 },
 },
@@ -3620,7 +3620,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esta es la carta de garantía.",
+"“Esta es la carta de garantía.”",
 {"rt2"},
 },
 },
@@ -3673,7 +3673,7 @@ block_00238={
 text={
 ja={
 {
-"Aunque, el nombre escrito no era precisamente 'Kuzu'... Pero bueno, no podía\nhacer nada. Estaba escrito el nombre que ella misma ha estado ocultando. Hice\nlo posible por no verlo.",
+"Aunque el nombre escrito no era precisamente 'Kuzu'... Pero bueno, no podía\nhacer nada. Estaba escrito el nombre que ella misma ha estado ocultando. Hice\nlo posible por no verlo.",
 {"rt2"},
 },
 },
@@ -3692,7 +3692,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"P-Pero, se supone que la fortuna de Kenichiro no alcanzaba para...",
+"“P-Pero se supone que la fortuna de Kenichiro no alcanzaba para...”",
 {"rt2"},
 },
 },
@@ -3706,7 +3706,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No, no, sí alcanzó, por eso tengo esta carta. Eres libre ahora.",
+"“No, no, sí alcanzó, por eso tengo esta carta. Eres libre ahora.”",
 {"rt2"},
 },
 },
@@ -3724,7 +3724,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Soy libre...",
+"“Soy libre...”",
 {"rt2"},
 },
 },
@@ -3738,7 +3738,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Sí, y ya no hace falta que te ocultes o que sigas usando nombres falsos. Ahora\npuedes vivir con tu verdadero nombre, en donde realmente deberías estar.",
+"“Sí, y ya no hace falta que te ocultes o que sigas usando nombres falsos. Ahora\npuedes vivir con tu verdadero nombre, en donde realmente deberías estar.”",
 {"rt2"},
 },
 },
@@ -3752,7 +3752,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"A partir de hoy eres libre.",
+"“A partir de hoy eres libre.”",
 {"rt2"},
 },
 },
@@ -3771,7 +3771,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"P-Pero, Naoya.",
+"“P-Pero, Naoya.”",
 {"rt2"},
 },
 },
@@ -3785,7 +3785,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya te lo dije, lo único que hice fue reorganizar la fortuna. Sí, no pude\nrecibir la herencia, pero ya tenía planeado no recibirla de igual manera.",
+"“Ya te lo dije, lo único que hice fue reorganizar la fortuna. Sí, no pude\nrecibir la herencia, pero ya tenía planeado no recibirla de igual manera.”",
 {"rt2"},
 },
 },
@@ -3808,7 +3808,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Naoya... Naoya, yo, no tengo manera alguna de pagarte de vuelta.",
+"“Naoya... Naoya, yo... no tengo manera alguna de pagarte de vuelta.”",
 {"rt2"},
 },
 },
@@ -3822,7 +3822,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Recuerdas lo que te pedí hace un tiempo? Quiero que pruebes mi comida.",
+"“¿Recuerdas lo que te pedí hace un tiempo? Quiero que pruebes mi comida.”",
 {"rt2"},
 },
 },
@@ -3841,7 +3841,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Sí, lo sé, pero eso no es nada suficiente.",
+"“Sí, lo sé, pero eso no es nada suficiente.”",
 {"rt2"},
 },
 },
@@ -3855,7 +3855,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Para mí sí lo es. Cuando todo se calme y puedas lograr regresar a tu vida de\nantes, ven a verme.",
+"“Para mí sí lo es. Cuando todo se calme y puedas regresar a tu vida de\nantes, ven a verme.”",
 {"rt2"},
 },
 },
@@ -3869,7 +3869,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Te prepararé algo delicioso.",
+"“Te prepararé algo delicioso.”",
 {"rt2"},
 },
 },
@@ -3888,7 +3888,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Bueno... está bien.",
+"“Bueno... está bien.”",
 {"rt2"},
 },
 },
@@ -3902,7 +3902,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Me pregunto qué cara pondrás ese día.",
+"“Me pregunto qué cara pondrás ese día.”",
 {"rt2"},
 },
 },
@@ -3921,7 +3921,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"No lo sé. En este momento mi ser está muy cercano a Hakuki. Así que la variedad\nen mis expresiones y sentimientos es muy pobre.",
+"“No lo sé. En este momento, mi ser está muy cercano a Hakuki. Así que la variedad\nen mis expresiones y sentimientos es muy pobre.”",
 {"rt2"},
 },
 },
@@ -3935,7 +3935,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ya veo. Pues bueno, esperaré con ansias entonces el día en que puedas volver a\ntener una vida normal.",
+"“Ya veo. Pues bueno, esperaré con ansias entonces el día en que puedas volver a\ntener una vida normal.”",
 {"rt2"},
 },
 },
@@ -3954,7 +3954,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Sí. Pero, ten por seguro que te regresaré este favor. Así me tarde varios años\nen hacerlo.",
+"“Sí. Pero... ten por seguro que te regresaré este favor. Así me tarde varios años\nen hacerlo.”",
 {"rt2"},
 },
 },
@@ -3968,7 +3968,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Tonta, si piensas hacerlo con dinero mejor no lo hagas. Y además, soy yo quien\nrealmente... debe darte las gracias.",
+"“Tonta, si piensas hacerlo con dinero mejor no lo hagas. Y además, soy yo quien\nrealmente... debe darte las gracias.”",
 {"rt2"},
 },
 },
@@ -3986,7 +3986,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿Eres tú, quien realmente debe dar las gracias?",
+"“¿Eres tú... quien realmente debe dar las gracias?”",
 {"rt2"},
 },
 },
@@ -4000,7 +4000,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Así es. Tengo que darte las gracias por haberme dado esta oportunidad. Si no\nfuera por todo esto no hubiese podido crear esos cuadros.",
+"“Así es. Tengo que darte las gracias por haberme dado esta oportunidad. Si no\nfuera por todo esto, no hubiese podido crear esos cuadros.”",
 {"rt2"},
 },
 },
@@ -4014,7 +4014,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Esa espléndida confusión de epitafios...",
+"“Esa espléndida confusión de epitafios...”",
 {"rt2"},
 },
 },
@@ -4028,7 +4028,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Gracias a esto fue que pude crear esa obra...",
+"“Gracias a esto fue que pude crear esa obra...”",
 {"rt2"},
 },
 },
@@ -4042,7 +4042,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Supongo que en ese sentido, tendría que darle las gracias también a ese\ndetestable Shoichi Nakamura. Por supuesto, a Akashi también, e incluso al\nbastardo de Fridmann...",
+"“Supongo que en ese sentido, tendría que darle las gracias también a ese\ndetestable Shoichi Nakamura. Por supuesto, a Akashi también, e incluso al\nbastardo de Fridmann...”",
 {"rt2"},
 },
 },
@@ -4056,7 +4056,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Gracias a ellos pude vivir ese maravilloso instante...",
+"“Gracias a ellos pude vivir ese maravilloso instante...”",
 {"rt2"},
 },
 },
@@ -4092,7 +4092,7 @@ block_00264={
 text={
 ja={
 {
-"Y por otro lado, a pesar de que 'Sakura Nanasouzu' fue creada como una\nfalsificación, mi padre me dijo 'estos serán mis epitafios'.",
+"Por otro lado, a pesar de que 'Sakura Nanasouzu' fue creada como una\nfalsificación, mi padre me dijo 'estos serán mis epitafios'.",
 {"rt2"},
 },
 },
@@ -4163,7 +4163,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por eso soy yo quien debe agradecerte.",
+"“Por eso soy yo quien debe agradecerte.”",
 {"rt2"},
 },
 },
@@ -4177,7 +4177,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Por haberme otorgado el mejor de los momentos con mi viejo...",
+"“Por haberme otorgado el mejor de los momentos con mi viejo...”",
 {"rt2"},
 },
 },
@@ -4191,7 +4191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ni cientos, ni miles de millones de yenes podrían valer por ese maravilloso\nmomento...",
+"“Ni cientos, ni miles de millones de yenes podrían valer por ese maravilloso\nmomento...”",
 {"rt2"},
 },
 },
@@ -4205,7 +4205,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"¿Sabes muy bien de lo que hablo, verdad, Kuzu?",
+"“Sabes muy bien de lo que hablo, ¿verdad, Kuzu?”",
 {"rt2"},
 },
 },
@@ -4273,7 +4273,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ah, lo olvidaba... tengo que darte esto también.",
+"“Ah, lo olvidaba... tengo que darte esto también.”",
 {"rt2"},
 },
 },
@@ -4305,7 +4305,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"¿Esto es?",
+"“¿Esto es?”",
 {"rt2"},
 },
 },
@@ -4319,7 +4319,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"No lo sé, el viejo me pidió que te lo diera. Dijo que serviría para romper por\ncompleto el vínculo entre tú y los Nakamura...",
+"“No lo sé, el viejo me pidió que te lo diera. Dijo que serviría para romper por\ncompleto el vínculo entre tú y los Nakamura...”",
 {"rt2"},
 },
 },
@@ -4337,7 +4337,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Eso significa que...",
+"“Eso significa que...”",
 {"rt2"},
 },
 },
@@ -4350,7 +4350,7 @@ block_00282={
 text={
 ja={
 {
-"Kuzu aprieta la caja de paulonia. Y entonces de adentro se escuchó el leve\ntintineo de unas campanas Kagura.",
+"Kuzu aprieta la caja de paulonia. Y de adentro se escuchó el leve\ntintineo de unas campanas Kagura.",
 {"rt2"},
 },
 },
@@ -4369,7 +4369,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"Siempre... siempre soy yo, la que recibe los favores...",
+"“Siempre... siempre soy yo... la que recibe los favores...”",
 {"rt2"},
 },
 },

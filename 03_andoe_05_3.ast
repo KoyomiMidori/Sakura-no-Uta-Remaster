@@ -174,7 +174,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Sí, o al menos hasta que 'Las huellas de los cerezos' deje de ser algo novedoso\ny se convierta en una obra cualquiera... aunque, siempre hay la posibilidad\nde que resuene con los sentimientos de alguien.”",
+"“Sí, o al menos hasta que 'Las huellas de los cerezos' deje de ser algo novedoso\ny se convierta en una obra cualquiera... aunque siempre hay la posibilidad\nde que resuene con los sentimientos de alguien.”",
 {"rt2"},
 },
 },
@@ -277,7 +277,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Por más fuertes que sean los sentimientos de cada uno de los habitantes de la\nciudad, no hay manera de que haya resonancia. Los milagros no ocurren así de\nsimple...”",
+"“Por más fuertes que sean los sentimientos de cada uno de los habitantes de la\nciudad, no hay manera de que haya resonancia. Los milagros no ocurren así...”",
 {"rt2"},
 },
 },
@@ -564,7 +564,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Habiendo sido creada con todos esos alegres sentimientos, dudo mucho que la\nobra sea capaz de crear milagros a partir de malos sentimientos... pero, si\nen los sentimientos de las personas involucradas en la obra hubiese algo de\nmala naturaleza...”",
+"“Habiendo sido creada con todos esos alegres sentimientos, dudo mucho que la\nobra sea capaz de crear milagros a partir de malos sentimientos... pero si\nen los sentimientos de las personas involucradas en la obra hubiese algo de\nmala naturaleza...”",
 {"rt2"},
 },
 },
@@ -789,7 +789,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Y, además... hay otro detalle que te debería aliviar aún más.”",
+"“Y además... hay otro detalle que te debería aliviar aún más.”",
 {"rt2"},
 },
 },
@@ -1134,7 +1134,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Solo donde el genio es fino, puede verse el talento. Genio es lo que nos hace\nolvidar el talento.”",
+"“Solo donde el genio es fino, puede verse el talento.\nGenio es lo que nos hace olvidar el talento.”",
 {"rt2"},
 },
 },
@@ -1366,7 +1366,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Eh? Espera, ¿fueron los pétalos que esparcí allá lo que te hicieron regresar?”",
+"“¿Eh? Espera, ¿fueron los pétalos que esparcí allá los que te hicieron regresar?”",
 {"rt2"},
 },
 },
@@ -2030,7 +2030,7 @@ block_00118={
 text={
 ja={
 {
-"Y de ese ser que solo yo podía ver, me hice amiga. Pero, un día Kenichiro- san\nme dijo...",
+"Y de ese ser que solo yo podía ver, me hice amiga. Pero un día Kenichiro-san\nme dijo...",
 {"rt2"},
 },
 },
@@ -2707,7 +2707,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Pues no sé realmente, la verdad. Quizás sí, en lo que a pinturas se refiere.”",
+"“Pues no sé, la verdad. Quizás sí, en lo que a pinturas se refiere.”",
 {"rt2"},
 },
 },
@@ -2759,7 +2759,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Pues sí. No voy a negar que hay muchos problemas en tus cuadros, pero sí. En lo\nque a pinturas concierne nos llevamos muy bien.”",
+"“Pues sí. No voy a negar que hay muchos problemas en tus cuadros, pero sí. En lo\nque a pinturas concierne, nos llevamos muy bien.”",
 {"rt2"},
 },
 },
@@ -2810,7 +2810,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Y que hay de ti? Mucho que dices, pero capaz y si llegas a pintar te sacas\nalgo horrible. Criticar es mucho más fácil que hacer.”",
+"“¿Y qué hay de ti? Mucho que dices, pero capaz y si llegas a pintar te sacas\nalgo horrible. Criticar es mucho más fácil que hacer.”",
 {"rt2"},
 },
 },
@@ -3459,7 +3459,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Yumihari tiene muchos caminos ocultos. Pasando por el bosque puedes entrar al\nterreno del colegio. Aunque, nos tardamos un poco más de lo normal, eso sí...”",
+"“Yumihari tiene muchos caminos ocultos. Pasando por el bosque puedes entrar al\nterreno del colegio. Aunque nos tardamos un poco más de lo normal, eso sí...”",
 {"rt2"},
 },
 },
@@ -4030,7 +4030,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¡No! Definitivamente no es culpa alguna de los juegos sexuales. Aunque, sí debo\nadmitir que la Shizuku que he visto hoy es la más expresiva que he visto\njamás...”",
+"“¡No! Definitivamente no es culpa alguna de los juegos sexuales. Aunque sí debo\nadmitir que la Shizuku que he visto hoy es la más expresiva que he visto\njamás...”",
 {"rt2"},
 },
 },
@@ -4663,7 +4663,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡To, n, ta!”",
+"“¡Tonta!”",
 {"rt2"},
 },
 },
@@ -4714,7 +4714,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¡¿Nyo?! ¡¿Nyowaah, p-pero qué haces?! ¡¿Por qué, alborotas de nuevo, mi\ncabello?!”",
+"“¡¿Nyo?! ¡¿Nyowaah, p-pero qué haces?! ¡¿Por qué alborotas de nuevo mi\ncabello?!”",
 {"rt2"},
 },
 },
@@ -4876,7 +4876,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"*Puh*...",
+"“Puh...”",
 {"rt2"},
 },
 },
@@ -4895,7 +4895,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¡¡*Pwwwwh*!!, ¿pero qué estás diciendo? ¿Es un chiste o algo así?”",
+"“¡¡*Pwwwwh*!! ¿Pero qué estás diciendo? ¿Es un chiste o algo así?”",
 {"rt2"},
 },
 },
@@ -5280,7 +5280,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Jamás llegaste a tomar de nuevo el pincel frente a los demás. Y sin embargo,\ncuando se trata de ayudar a alguien no dudas en crear obras, aun sabiendo que\ntu nombre no quedará impreso en ellas.”",
+"“Jamás llegaste a tomar de nuevo el pincel frente a los demás. Y sin embargo,\ncuando se trata de ayudar a alguien, no dudas en crear obras, aun sabiendo que\ntu nombre no quedará impreso en ellas.”",
 {"rt2"},
 },
 },
@@ -5540,7 +5540,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Shizukuu... me siento, tan feliz...”",
+"“Shizukuu... me siento tan feliz...”",
 {"rt2"},
 },
 },
@@ -5575,7 +5575,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Yo... Sui, creyó... que la, olvidarían...”",
+"“Yo... Sui creyó... que la olvidarían...”",
 {"rt2"},
 },
 },
@@ -5643,7 +5643,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Pero la verdad es que, no quería desaparecer de la vida de los demás...”",
+"“Pero la verdad es que... no quería desaparecer de la vida de los demás...”",
 {"rt2"},
 },
 },
@@ -5694,7 +5694,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“No podía tolerar la idea, de... dejarles solos, tristeza...”",
+"“No podía tolerar la idea de... dejarles solos tristeza...”",
 {"rt2"},
 },
 },
@@ -6127,7 +6127,7 @@ block_00361={
 text={
 ja={
 {
-"Aun a pesar de haber llorado tanto hace un momento... Básicamente se fue\ncorriendo intentando hacer secar las lágrimas.",
+"Aun a pesar de haber llorado tanto hace un momento... Básicamente se fue\ncorriendo intentando secar las lágrimas.",
 {"rt2"},
 },
 },
@@ -6893,7 +6893,7 @@ block_00412={
 text={
 ja={
 {
-"En cada una de las ventanas brillando casi como estrellas que puedo ver de acá\nhacen vida personas.",
+"En cada una de las ventanas brillando casi como estrellas, y que puedo ver\ndesde acá, hacen vida personas.",
 {"rt2"},
 },
 },

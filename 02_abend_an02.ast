@@ -347,7 +347,7 @@ block_00025={
 text={
 ja={
 {
-"Es inevitable acabar con los ánimos por el suelo leyendo esta clase de cosas.\nEn primer lugar, no sirve de mucho ponerse a pensar acerca de un futuro que\nno sabemos cómo resultará.",
+"Es inevitable acabar con los ánimos por el suelo leyendo esta clase de cosas.\nEn primer lugar, no sirve de mucho ponerse a pensar en un futuro que no\nsabemos cómo resultará.",
 {"rt2"},
 },
 },
@@ -512,7 +512,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque más belleza despampanante, Shizuku tiene un aire de ternura...”",
+"“Aunque más que belleza despampanante, Shizuku tiene un aire de ternura...”",
 {"rt2"},
 },
 },
@@ -1144,7 +1144,7 @@ block_00084={
 text={
 ja={
 {
-"Esa figura recostada sobre las sábanas blancas era idéntica en todo, incluyendo\nsu estructura, con la obra 'Venus de Urbino', creada por Tiziano, un pintor\nque vivió unos 300 años antes que Manet. Y aun así,",
+"Esa figura recostada sobre las sábanas blancas era idéntica en todo, incluyendo\nsu estructura, con la obra 'Venus de Urbino', creada por Tiziano, un pintor\nque vivió unos 300 años antes que Manet. Y aun así...",
 {"rt2"},
 },
 },
@@ -1513,7 +1513,7 @@ block_00112={
 text={
 ja={
 {
-"Si tu nombre es Olympia, entonces eso te haría una prostituta'",
+"Si tu nombre es Olympia, entonces eso te haría una prostituta.'",
 {"rt2"},
 },
 },
@@ -1567,7 +1567,7 @@ block_00116={
 text={
 ja={
 {
-"Aun siendo una prostituta, esos aires de fuerza y osadía e incluso elegancia\nevocan me recuerdan a una mujer en particular.",
+"Aun siendo una prostituta, esos aires de fuerza, osadía e incluso elegancia\nque evoca me recuerdan a una mujer en particular.",
 {"rt2"},
 },
 },
@@ -2282,7 +2282,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Entiendo. Pensé elaboradamente en lo que hemos conversado hasta ahora y me\nsurgió la duda. A qué te referías originalmente con la Olympia que\nmencionaste inconscientemente, Naoya? No entiendo nada.”",
+"“Entiendo. Pensé elaboradamente en lo que hemos conversado hasta ahora y me\nsurgió la duda. ¿A qué te referías originalmente con la Olympia que\nmencionaste inconscientemente, Naoya? No entiendo nada.”",
 {"rt2"},
 },
 },
@@ -2378,7 +2378,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Ya veo, debo agregar entonces una otra simple duda. Las etiquetas normalmente,\nestán al reverso de la ropa.”",
+"“Ya veo, debo agregar entonces una otra simple duda. Las etiquetas, normalmente,\nestán al reverso de la ropa.”",
 {"rt2"},
 },
 },
@@ -2513,7 +2513,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Es tu imaginación... Y, digamos ahora, ¿por cual razón debería yo tener esa\nmirada ahora? Esta es otra duda más.”",
+"“Es tu imaginación... Y digamos ahora, ¿por cual razón debería yo tener esa\nmirada ahora? Esta es otra duda más.”",
 {"rt2"},
 },
 },
@@ -2707,7 +2707,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Pero, suponiendo que eso sea verdad, esos aires de donjuan capaz de hacerle\nquitar la ropa a una mujer no se quedan atrás con la popularidad que tenía el\nprestigioso Kenichiro Kusanagi con las mujeres, ciertamente.”",
+"“Pero, suponiendo que eso sea verdad, esos aires de donjuan capaz de hacerle\nquitar la ropa a una mujer no se quedan atrás con la popularidad que tenía el\nprestigioso Kenichiro Kusanagi con las mujeres.”",
 {"rt2"},
 },
 },
@@ -3202,7 +3202,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Igualmente hoy, interviniste para reconciliarme con Rin... Aunque, Rin y yo no\ndebimos habernos encontrado de nuevo...”",
+"“Igualmente hoy, interviniste para reconciliarme con Rin... Aunque Rin y yo no\ndebimos habernos encontrado de nuevo...”",
 {"rt2"},
 },
 },
@@ -3394,7 +3394,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“No, hagas más cosas peligrosas, por favor...”",
+"“No hagas más cosas peligrosas, por favor...”",
 {"rt2"},
 },
 },
@@ -3510,7 +3510,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“En fin, lo único que puedo decirte ahora, es que muchas gracias por ver con\ntanto detenimiento las fotos mías publicadas en esa revista.”",
+"“En fin, lo único que puedo decirte ahora es que muchas gracias por ver con\ntanto detenimiento las fotos mías publicadas en esa revista.”",
 {"rt2"},
 },
 },
@@ -3749,7 +3749,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Eh? N-No... Esa reacción fue, porque me pareció terrible eso.”",
+"“¿Eh? N-No... Esa reacción fue porque me pareció terrible eso.”",
 {"rt2"},
 },
 },
@@ -3763,7 +3763,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Deberías borrar todos los datos de esas fotografías, y ya. ¡Si llegan a\nfiltrarse por ahí sería terrible!”",
+"“Deberías borrar todos los datos de esas fotografías, y ya. ¡Si llegan a\nfiltrarse por ahí, sería terrible!”",
 {"rt2"},
 },
 },
@@ -4276,7 +4276,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“El problema es, que detrás de ti está Nee-san, y con una expresión parecida a\nla de un demonio...”",
+"“El problema es, que detrás de ti está nee-san, y con una expresión parecida a\nla de un demonio...”",
 {"rt2"},
 },
 },
@@ -4415,7 +4415,7 @@ block_00289={
 text={
 ja={
 {
-"Me di cuenta de que el termino en japonés (Olampia) es la pronunciación en\nfrancés de Olympia",
+"Me di cuenta de que el termino en japonés (Olampia) es la pronunciación en\nfrancés de Olympia.",
 {"rt2"},
 },
 },
@@ -4442,7 +4442,7 @@ block_00291={
 text={
 ja={
 {
-"Aunque, no logré encontrar nada que me pudiera servir de algo.",
+"Aunque no logré encontrar nada que me pudiera servir de algo.",
 {"rt2"},
 },
 },

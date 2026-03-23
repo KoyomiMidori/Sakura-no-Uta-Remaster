@@ -887,7 +887,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Desde que comenzaste a vivir en la casa Natsume, pensé que, quizás\nfuncionaría... pero, veo que tu reacción no cambia.”",
+"“Desde que comenzaste a vivir en la casa Natsume, pensé que quizás\nfuncionaría... pero veo que tu reacción no cambia.”",
 {"rt2"},
 },
 },
@@ -1259,7 +1259,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si llegaran a sospechar de mí intentarían indagar más, y eso complicaría las\ncosas. Lo que sucedió aquel día debe quedar entre nosotros, y nadie más.”",
+"“Si llegaran a sospechar de mí, intentarían indagar más, y eso complicaría las\ncosas. Lo que sucedió aquel día debe quedar entre nosotros, y nadie más.”",
 {"rt2"},
 },
 },
@@ -1439,7 +1439,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“De igual forma, lo único que hice yo fue cumplir con su voluntad, como su hijo.\nMás nada.”",
+"“De igual forma, lo único que hice yo fue cumplir con su voluntad, como su hijo.\nNada más.”",
 {"rt2"},
 },
 },
@@ -1490,7 +1490,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Pero, estoy aún más agradecida contigo.”",
+"“Pero estoy aún más agradecida contigo.”",
 {"rt2"},
 },
 },
@@ -2206,7 +2206,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero, ahora la conozco muy bien...”",
+"“Pero ahora la conozco muy bien...”",
 {"rt2"},
 },
 },
@@ -2963,7 +2963,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“E-Esta vez si pude permanecer despierta...”",
+"“E-Esta vez sí pude permanecer despierta...”",
 {"rt2"},
 },
 },
@@ -3056,7 +3056,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Por supuesto que no... Ese día sentí que desaproveché un gran chance...”",
+"“Por supuesto que no... Ese día sentí que desaproveché una gran oportunidad...”",
 {"rt2"},
 },
 },
@@ -3279,7 +3279,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues si la memoria no me falla, tu misma habías dicho que lo único que tragabas\nde mi corazón eran sueños eróticos.”",
+"“Pues si la memoria no me falla, tú misma habías dicho que lo único que tragabas\nde mi corazón eran sueños eróticos.”",
 {"rt2"},
 },
 },
@@ -4074,7 +4074,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aun como Shizuku ya llevamos casi medio año juntos. Aunque, nuestro tiempo\njuntos ahora no ha sido tan íntimo como entonces...”",
+"“Aun como Shizuku ya llevamos casi medio año juntos. Aunque nuestro tiempo\njuntos ahora no ha sido tan íntimo como entonces...”",
 {"rt2"},
 },
 },
@@ -4121,7 +4121,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Y por eso mismo, quise pagarte de vuelta la felicidad que me diste... pero, no\npude hacer nada...”",
+"“Y por eso mismo, quise pagarte de vuelta la felicidad que me diste... pero no\npude hacer nada...”",
 {"rt2"},
 },
 },
@@ -4213,7 +4213,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Soy buena ocultando mi corazón, y por eso... también soy buena, actuando.”",
+"“Soy buena ocultando mi corazón, y por eso... también soy buena actuando.”",
 {"rt2"},
 },
 },
@@ -4403,7 +4403,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“¡¿Entonces que debería hacer con esto que siento?!”",
+"“¡¿Entonces qué debería hacer con esto que siento?!”",
 {"rt2"},
 },
 },

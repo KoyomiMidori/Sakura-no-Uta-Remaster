@@ -1096,7 +1096,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No realmente. Estoy leyendo el Sutra del Loto.”",
+"“Realmente no. Estoy leyendo el Sutra del Loto.”",
 {"rt2"},
 },
 },
@@ -1719,7 +1719,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Estuviste buscando dinero dónde fuera en Nueva York, sin preocuparte siquiera\nque te llamaran estafador. Y todo para luchar con los malditos Nakamura.”",
+"“Estuviste buscando dinero donde fuera en Nueva York, sin preocuparte siquiera\nque te llamaran estafador. Y todo para luchar con los malditos Nakamura.”",
 {"rt2"},
 },
 },
@@ -1833,7 +1833,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Pero, ya me voy a morir. Y no pude reunir lo que necesitaba.”",
+"“Pero ya me voy a morir. Y no pude reunir lo que necesitaba.”",
 {"rt2"},
 },
 },
@@ -3168,7 +3168,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“La muchacha no tendrá donde quedarse si no te la llevas. ¿Vas a dejar morir en\nla calle a esta pura e inocente criatura?”",
+"“La muchacha no tendrá dónde quedarse si no te la llevas. ¿Vas a dejar morir en\nla calle a esta pura e inocente criatura?”",
 {"rt2"},
 },
 },
@@ -3224,7 +3224,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Ah! ¡Claro...! Ya, ya lo vi todo.”",
+"“¡Ah! ¡Claro! Ya, ya lo vi todo.”",
 {"rt2"},
 },
 },
@@ -3539,7 +3539,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Lo sé, ¿pero sabes?... no quería ponerte en peligro.”",
+"“Lo sé, ¿pero sabes?... No quería ponerte en peligro.”",
 {"rt2"},
 },
 },

@@ -466,7 +466,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No te creas, los dibujos de niños son vanguardistas. Aunque, por lo general\nterminan siendo algo aburrido.”",
+"“No te creas, los dibujos de niños son vanguardistas. Aunque por lo general\nterminan siendo algo aburrido.”",
 {"rt2"},
 },
 },
@@ -1302,7 +1302,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Dices que no es creación, sino materialización. Que no se trata de talento,\nsino una habilidad especial, eh. Suena bastante a una habilidad supernatural.”",
+"“Dices que no es creación, sino materialización. Que no se trata de talento,\nsino una habilidad especial. Suena bastante a una habilidad supernatural.”",
 {"rt2"},
 },
 },
@@ -1334,7 +1334,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque, la Rin que yo conocí no pintaba.”",
+"“Aunque la Rin que yo conocí no pintaba.”",
 {"rt2"},
 },
 },
@@ -1483,7 +1483,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“O tal vez sentía que no era todavía el momento... quizás.”",
+"“O tal vez sentía que no era todavía el momento...”",
 {"rt2"},
 },
 },
@@ -1927,7 +1927,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No tengo ni idea. Lo único que puedo decir, es que ese poder no es algo que un\nhumano pueda aguantar.”",
+"“No tengo ni idea. Lo único que puedo decir es que ese poder no es algo que un\nhumano pueda aguantar.”",
 {"rt2"},
 },
 },
@@ -1941,7 +1941,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Por qué, crees eso?”",
+"“¿Por qué crees eso?”",
 {"rt2"},
 },
 },
@@ -2300,7 +2300,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Claro que quisiera explicarte. ¿Quieres que te de un simple resumen?”",
+"“Claro que quisiera explicarte. ¿Quieres que te dé un simple resumen?”",
 {"rt2"},
 },
 },
@@ -3687,7 +3687,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero bueno, ya entendí que Rin era una genio, y que necesitaba a Kuzu. ¿Y bien,\nqué viene después?”",
+"“Pero bueno, ya entendí que Rin era una genio, y que necesitaba a Kuzu. Y bien,\n¿qué viene después?”",
 {"rt2"},
 },
 },
@@ -3736,7 +3736,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Justo después fue que todo se reinició. ¿Espera, es reiniciar la palabra\nadecuada? ¿O tal vez no?”",
+"“Justo después fue que todo se reinició. Espera, ¿es reiniciar la palabra\nadecuada? ¿O tal vez no?”",
 {"rt2"},
 },
 },
@@ -4127,7 +4127,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“De ser necesario, los involucrados te contaran cuando llegue el momento.”",
+"“De ser necesario, los involucrados te contarán cuando llegue el momento.”",
 {"rt2"},
 },
 },
@@ -4162,7 +4162,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Estamos hablando de algo oculto. Si no hay necesidad de revelarlo entonces más\nbien debería ser olvidado. Eso lo sabes bien, ¿no?”",
+"“Estamos hablando de algo oculto. Si no hay necesidad de revelarlo, más bien\ndebería ser olvidado. Eso lo sabes bien, ¿no?”",
 {"rt2"},
 },
 },
@@ -4547,7 +4547,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Aunque tengo que decirlo, eh, esa muchacha es mucho para ti...”",
+"“Aunque tengo que decirlo, esa muchacha es mucho para ti...”",
 {"rt2"},
 },
 },
@@ -4759,7 +4759,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Ton, tín. Los Kusanagi somos fieles de nacimiento. Así como la abuela Natsume\nlo fue, solo podemos amar a una sola persona.”",
+"“Tontín. Los Kusanagi somos fieles de nacimiento. Así como la abuela Natsume\nlo fue, solo podemos amar a una sola persona.”",
 {"rt2"},
 },
 },
@@ -4791,7 +4791,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Idiota, no me pongas en el mismo lugar que a ti. El que no ha perdido la\nvirginidad aún eres tú, estoy más que seguro que cuando por fin saborees a\nuna mujer te volverás un maniático del sexo.”",
+"“Idiota, no me pongas en el mismo lugar que a ti. El que no ha perdido la\nvirginidad aún eres tú, estoy más que seguro que cuando por fin saborees a\nuna mujer, te volverás un maniático del sexo.”",
 {"rt2"},
 },
 },

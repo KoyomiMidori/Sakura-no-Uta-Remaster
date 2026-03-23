@@ -284,7 +284,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“P-Pues, sí, no niego que mucho pasó anoche, pero... siendo hoy día de semana,\nambos tenemos que ir al colegio. Por eso cuando te calmaste me prometiste que\nte dormirías rápido, ¿verdad?”",
+"“P-Pues, sí, no niego que mucho pasó anoche, pero... siendo hoy día de semana,\nambos tenemos que ir al colegio. Por eso, cuando te calmaste, me prometiste que\nte dormirías rápido, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1068,7 +1068,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“¿Por qué? Si no comienzas ya no podrás presentarla a tiempo.”",
+"“¿Por qué? Si no comienzas ya, no podrás presentarla a tiempo.”",
 {"rt2"},
 },
 },
@@ -1639,7 +1639,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“H-Heeh...”",
+"“E-Ehhh...”",
 {"rt2"},
 },
 },
@@ -2053,7 +2053,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Ah, sí. ¿Cómo vas tu, Rin-chan?”",
+"“Ah, sí. ¿Cómo vas tú, Rin-chan?”",
 {"rt2"},
 },
 },
@@ -2550,7 +2550,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pues no es muy delicado de tu parte quedartele viendo a Rin-chan en silencio\ncon esa cara solo porque necesitas pensar.”",
+"“Pues no es muy delicado de tu parte quedártele viendo a Rin-chan en silencio\ncon esa cara solo porque necesitas pensar.”",
 {"rt2"},
 },
 },
@@ -2874,7 +2874,7 @@ block_00167={
 text={
 ja={
 {
-"Los cúmulos han comenzado a desaparecer del cielo, y ahora se pueden ver nubes\nmás altas, como los los cirros y los cirrocúmulos.",
+"Los cúmulos han comenzado a desaparecer del cielo, y ahora se pueden ver nubes\nmás altas, como los cirros y los cirrocúmulos.",
 {"rt2"},
 },
 },
@@ -3095,7 +3095,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hmmmm.”",
+"“Mmmmm.”",
 {"rt2"},
 },
 },
@@ -3230,7 +3230,7 @@ block_00191={
 text={
 ja={
 {
-"Así elogiaba Kenichiro Kusanagi las pinturas de Rin. Pero, lo que tengo frente\na mis ojos ahora no se acerca ni un poco a eso...",
+"Así elogiaba Kenichiro Kusanagi las pinturas de Rin. Pero lo que tengo frente\na mis ojos ahora no se acerca ni un poco a eso...",
 {"rt2"},
 },
 },
@@ -3384,7 +3384,7 @@ block_00201={
 text={
 ja={
 {
-"Y tras esa puerta estaba.",
+"Y tras esa puerta estaba...",
 {"rt2"},
 },
 },
@@ -3453,7 +3453,7 @@ block_00205={
 text={
 ja={
 {
-"Moviéndose nerviosamente, Shizuku nos observa a Rin y a mí alternadamente,",
+"Moviéndose nerviosamente, Shizuku nos observa a Rin y a mí alternadamente.",
 {"rt2"},
 },
 },
@@ -3947,7 +3947,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Pero, estoy segura de que los sentimientos de todas y cada una de ellas son\nreales...”",
+"“Pero estoy segura de que los sentimientos de todas y cada una de ellas son\nreales...”",
 {"rt2"},
 },
 },
@@ -5486,7 +5486,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Tal vez. Quiero mucho a Shizuku-chan, para decir la verdad.”",
+"“Tal vez. Quiero mucho a Shizuku-chan, la verdad.”",
 {"rt2"},
 },
 },
@@ -6009,7 +6009,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Si llegas a sacarle una sola lágrima a Shizuku-chan me enojaré bastante.”",
+"“Si llegas a sacarle una sola lágrima a Shizuku-chan, me enojaré bastante.”",
 {"rt2"},
 },
 },
@@ -6073,7 +6073,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Aunque, hay algo que siempre he querido decir.”",
+"“Aunque hay algo que siempre he querido decir.”",
 {"rt2"},
 },
 },

@@ -104,7 +104,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Porque lo necesitaré. Entren rápido, si merodean mucho por el jardín los\nNatsume se darán cuenta.”",
+"“Porque lo necesitaré. Entren rápido, si merodean mucho por el jardín, los\nNatsume se darán cuenta.”",
 {"rt2"},
 },
 },
@@ -1082,7 +1082,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Kukuku, ya veo. Sí, es un buen concepto.”",
+"“Je, ya veo. Sí, es un buen concepto.”",
 {"rt2"},
 },
 },
@@ -1164,7 +1164,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Aunque, no queda mucho tiempo. Haz lo que puedas para convertir los Kusozu en\nuna serie de siete obras originales.”",
+"“Aunque no queda mucho tiempo. Haz lo que puedas para convertir los Kusozu en\nuna serie de siete obras originales.”",
 {"rt2"},
 },
 },
@@ -1215,7 +1215,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Me sobrestimas. Simplemente he estado pensando en varias cosas, es todo.\nDigamos que sé un poco de todo.”",
+"“Me sobrestimas. Simplemente he estado pensando en varias cosas.\nDigamos que sé un poco de todo.”",
 {"rt2"},
 },
 },
@@ -1266,7 +1266,7 @@ block_00074={
 text={
 ja={
 {
-"Debo ser igual, o quizá más prudente aun haciendo esto que con la elaboración\nde los cuadros como tal. Si no obtengo buenos trazos es posible que todos los\ncuadros que elabore se vayan a la basura.",
+"Debo ser igual, o quizá más prudente aun haciendo esto que con la elaboración\nde los cuadros como tal. Si no obtengo buenos trazos, es posible que todos los\ncuadros que elabore se vayan a la basura.",
 {"rt2"},
 },
 },
@@ -1842,7 +1842,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¿Eso, debes hacerlo... por mí?”",
+"“¿Eso debes hacerlo... por mí?”",
 {"rt2"},
 },
 },
@@ -2522,7 +2522,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Esta fase busca, muy seguramente, mostrar como el cuerpo se hincha por los\ngases que se producen debido a la descomposición.”",
+"“Esta fase busca, muy seguramente, mostrar cómo el cuerpo se hincha por los\ngases que se producen debido a la descomposición.”",
 {"rt2"},
 },
 },
@@ -2536,7 +2536,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“La siguiente fase, 'Esou' (La fase de la destrucción), muestra como la piel se\npudre y se deshace al avanzar la descomposición, mostrando la carne.”",
+"“La siguiente fase, 'Esou' (La fase de la destrucción), muestra cómo la piel se\npudre y se deshace al avanzar la descomposición, mostrando la carne.”",
 {"rt2"},
 },
 },
@@ -2564,7 +2564,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Luego sigue 'Nouransou' (La fase de la putrefacción) , donde el cadáver se\ndisuelve por completo.”",
+"“Luego sigue 'Nouransou' (La fase de la putrefacción), donde el cadáver se\ndisuelve por completo.”",
 {"rt2"},
 },
 },
@@ -2667,7 +2667,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ni idea, supongo que habrán querido expresar la transitoriedad del mundo... En\nfin, el Kusozu usa a una hermosa mujer como base. Su concepto es,\nbásicamente, mostrar como algo hermoso se convierte en algo horripilante.”",
+"“Ni idea, supongo que habrán querido expresar la transitoriedad del mundo... En\nfin, el Kusozu usa a una hermosa mujer como base. Su concepto es,\nbásicamente, mostrar cómo algo hermoso se convierte en algo horripilante.”",
 {"rt2"},
 },
 },
@@ -3014,7 +3014,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“P-Pues... sé lo mucho que te han aclamado como niño prodigio, y debo admitir\nque también he visto 'Fantasía de un día de cerezos' varias veces... pero,\nnunca llegué a comprender completamente la verdadera extensión de tu talento.”",
+"“P-Pues... sé lo mucho que te han aclamado como niño prodigio, y debo admitir\nque también he visto 'Fantasía de un día de cerezos' varias veces... pero\nnunca llegué a comprender completamente la verdadera extensión de tu talento.”",
 {"rt2"},
 },
 },
@@ -3061,7 +3061,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Te equivocas. Esto es una falsificación. De no tener una obra tan grande como\n'Cerezos recostados' de base no hubiese podido obtener el impacto que tiene.”",
+"“Te equivocas. Esto es una falsificación. De no tener una obra tan grande como\n'Cerezos recostados' de base, no hubiese podido obtener el impacto que tiene.”",
 {"rt2"},
 },
 },
@@ -3279,7 +3279,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“*fuh*, realmente no entiendo por qué dejaste de pintar.”",
+"“Fuu, realmente no entiendo por qué dejaste de pintar.”",
 {"rt2"},
 },
 },
@@ -3366,7 +3366,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“*fuh*, de verdad que se parecen los dos. No sé cómo es que siempre andan con\nesa modesta actitud...”",
+"“Fuu, de verdad que se parecen los dos. No sé cómo es que siempre andan con\nesa modesta actitud...”",
 {"rt2"},
 },
 },
@@ -3487,7 +3487,7 @@ block_00216={
 text={
 ja={
 {
-"Entre cada pincelada que daba todo iba vaciándose dentro de mí. Sentía esas\ndistracciones desaparecer de mi cabeza.",
+"Entre cada pincelada que daba, todo iba vaciándose dentro de mí. Sentía esas\ndistracciones desaparecer de mi cabeza.",
 {"rt2"},
 },
 },
@@ -3513,7 +3513,7 @@ block_00218={
 text={
 ja={
 {
-"Siento como el pincel se mueve con facilidad en mi mano.",
+"Siento cómo el pincel se mueve con facilidad en mi mano.",
 {"rt2"},
 },
 },
@@ -3631,7 +3631,7 @@ block_00227={
 text={
 ja={
 {
-"A medida que avanzo en la creación de estos seis cuadros voy tomando más\ncerteza de algo.",
+"A medida que avanzo en la creación de estos seis cuadros, voy tomando más\ncerteza de algo.",
 {"rt2"},
 },
 },
@@ -3723,7 +3723,7 @@ block_00234={
 text={
 ja={
 {
-"Esta obra me cansa, me hace sufrir, me dan ganas incluso de huir. Pero aun así,\nestar acá me agrada.",
+"Esta obra me cansa, me hace sufrir, me dan ganas incluso de huir.\nPero aun así, estar acá me agrada.",
 {"rt2"},
 },
 },

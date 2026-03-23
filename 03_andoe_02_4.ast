@@ -710,7 +710,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“Ya bastante basura has sacado de esa boca, muchacho. Si no va a salir nada a la\nluz pública bien podría matarlos a todos ustedes, ¿no te parece? Les voy a\nrecordar el poder que los Nakamura tienen acá en Yumihari.”",
+"“Ya bastante basura has sacado de esa boca, muchacho. Si no va a salir nada a la\nluz pública, bien podría matarlos a todos ustedes, ¿no te parece? Les voy a\nrecordar el poder que los Nakamura tienen acá en Yumihari.”",
 {"rt2"},
 },
 },
@@ -761,7 +761,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, no me sorprende. Ya me han contado como una vez le torciste el brazo a mi\npadre.”",
+"“Sí, no me sorprende. Ya me han contado cómo una vez le torciste el brazo a mi\npadre.”",
 {"rt2"},
 },
 },
@@ -1374,7 +1374,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Qué mierda dices, imbécil? ¿Que no fueron esas meretrices las que te hicieron\nganar todo ese dinero? ¿Quién fue el inepto que a pesar de eso terminó\nhundiendo su propia familia?”",
+"“¿Qué mierda dices, imbécil? ¿Qué no fueron esas meretrices las que te hicieron\nganar todo ese dinero? ¿Quién fue el inepto que a pesar de eso terminó\nhundiendo su propia familia?”",
 {"rt2"},
 },
 },
@@ -1454,7 +1454,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Quizás ya los Natsume se separaron por completo, pero los yakuza leales a\nKotoko Natsume todavía están vivitos y coleando.”",
+"“Quizás ya los Natsume se separaron por completo, pero los yakuzas leales a\nKotoko Natsume todavía están vivitos y coleando.”",
 {"rt2"},
 },
 },
@@ -1468,7 +1468,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si les vuelven a cobrar lo mismo que entonces esta vez sí se irán ustedes a la\nquiebra.”",
+"“Si les vuelven a cobrar lo mismo que entonces, esta vez sí se irán ustedes a la\nquiebra.”",
 {"rt2"},
 },
 },
@@ -1759,7 +1759,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Han pasado varias cosas. Aunque sí, todo comenzó desde que Kenichiro- san\nregresó...”",
+"“Han pasado varias cosas. Aunque sí, todo comenzó desde que Kenichiro-san\nregresó...”",
 {"rt2"},
 },
 },
@@ -1860,7 +1860,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿Quién sabe? Aunque, me alegro de haber mandado a Kei afuera.”",
+"“¿Quién sabe? Aunque me alegro de haber mandado a Kei afuera.”",
 {"rt2"},
 },
 },
@@ -1897,7 +1897,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“De haber dado el primer golpe estaríamos acabados. La ventaja en fuerza la\ntienen ellos por creces.”",
+"“De haber dado el primer golpe, estaríamos acabados. La ventaja en fuerza la\ntienen ellos por creces.”",
 {"rt2"},
 },
 },
@@ -2062,7 +2062,7 @@ block_00122={
 text={
 ja={
 {
-"Resisto las ganas de no mencionar eso.",
+"Resisto las ganas de mencionar eso.",
 {"rt2"},
 },
 },
@@ -2587,7 +2587,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¿Cuando dices que vinieron te refieres a Nakamura Shoichi y sus secuaces?”",
+"“¿Cuando dices que vinieron te refieres a Shoichi Nakamura y sus secuaces?”",
 {"rt2"},
 },
 },
@@ -2850,7 +2850,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Te preocupas demasiado. Ya los Nakamura no pueden hacer tanto estrago como\nantes. No ocurrirá otra guerra de yakuza como sucedió en el pasado.”",
+"“Te preocupas demasiado. Ya los Nakamura no pueden hacer tanto estrago como\nantes. No ocurrirá otra guerra de yakuzas como sucedió en el pasado.”",
 {"rt2"},
 },
 },
@@ -2980,7 +2980,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Mis platos son tan buenos que te sacaran una sonrisa.”",
+"“Mis platos son tan buenos que te sacarán una sonrisa.”",
 {"rt2"},
 },
 },
@@ -3629,7 +3629,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, como un hombre en plena edad reproductiva, debo decir que no me\ndesagrada... pero, mi cuerpo no aguantaría hacerlo por mucho tiempo.”",
+"“Pues, como un hombre en plena edad reproductiva, debo decir que no me\ndesagrada... pero mi cuerpo no aguantaría hacerlo por mucho tiempo.”",
 {"rt2"},
 },
 },
@@ -3680,7 +3680,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¡Si no puedes aguantar puedes descargarte con el cuerpo de Kuzu!”",
+"“¡Si no puedes aguantar, puedes descargarte con el cuerpo de Kuzu!”",
 {"rt2"},
 },
 },
@@ -3759,7 +3759,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“No tengo como objetar a lo que dices. Y que me digas eso me pone algo triste.”",
+"“No tengo cómo objetar a lo que dices. Y que me digas eso me pone algo triste.”",
 {"rt2"},
 },
 },

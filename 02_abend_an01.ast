@@ -587,7 +587,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Sí, busqué en Internet lo que me describías mientras observaba el mapa de la\nciudad. Ya tengo una idea de dónde estás.”",
+"“Sí, busqué en internet lo que me describías mientras observaba el mapa de la\nciudad. Ya tengo una idea de dónde estás.”",
 {"rt2"},
 },
 },
@@ -1880,7 +1880,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No, si nos ponemos a hacer eso acabaré descuidándome y llamándote Kuzu frente a\nlos demás.”",
+"“No, si nos ponemos a hacer eso, acabaré descuidándome y llamándote Kuzu frente a\nlos demás.”",
 {"rt2"},
 },
 },
@@ -2463,7 +2463,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"*Asiente*...",
+"“Sip...”",
 {"rt2"},
 },
 },
@@ -2914,7 +2914,7 @@ block_00181={
 text={
 ja={
 {
-"Shizuku contesta con un tono poco característica de ella.",
+"Shizuku contesta con un tono poco característico de ella.",
 {"rt2"},
 },
 },
@@ -3862,7 +3862,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ah, a mí si, y bastante. Caminé un buen rato llevando carne cruda.”",
+"“Ah, a mí sí, y bastante. Caminé un buen rato llevando carne cruda.”",
 {"rt2"},
 },
 },

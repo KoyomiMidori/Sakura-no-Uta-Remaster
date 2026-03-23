@@ -237,7 +237,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Pero, puedo hacer florecer los cerezos milenarios...”",
+"“Pero puedo hacer florecer los cerezos milenarios...”",
 {"rt2"},
 },
 },
@@ -366,7 +366,7 @@ block_00020={
 text={
 ja={
 {
-"Y apuntando estaba el pincel al templo Hakuki.",
+"Y apuntando estaba el pincel al Templo Hakuki.",
 {"rt2"},
 },
 },
@@ -924,7 +924,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¡Estos cerezos no desaparecerán, de ninguna, absoluta forma! ¡Así pasen mil,\ndiez mil, millones de años, jamás lo harán!”",
+"“¡Estos cerezos no desaparecerán de ninguna forma!\n¡Así pasen mil, diez mil, millones de años, jamás lo harán!”",
 {"rt2"},
 },
 },
@@ -2509,7 +2509,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Si algo le hubiese pasado a Rin... Haberlas juntado a los dos hubiese sido un\nterrible error...”",
+"“Si algo le hubiese pasado a Rin... Haberlas juntado a las dos hubiese sido un\nterrible error...”",
 {"rt2"},
 },
 },

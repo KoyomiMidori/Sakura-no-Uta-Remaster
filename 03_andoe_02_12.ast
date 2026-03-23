@@ -21,7 +21,7 @@ block_00001={
 text={
 ja={
 {
-"Apenas terminó la reunión con los dos me dirigí a la residencia Natsume.",
+"Apenas terminó la reunión con los dos, me dirigí a la residencia Natsume.",
 {"rt2"},
 },
 },
@@ -97,7 +97,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Con todo lo que ha estado pasando con el viejo me dieron ganas de venir a ver\nel depósito.”",
+"“Con todo lo que ha estado pasando con el viejo, me dieron ganas de venir a ver\nel depósito.”",
 {"rt2"},
 },
 },
@@ -123,7 +123,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ya veo, es normal, supongo. Está bien, velo tanto como quieras.”",
+"“Ya veo, es normal, supongo. Está bien, míralo tanto como quieras.”",
 {"rt2"},
 },
 },
@@ -677,7 +677,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“El enemigo siempre atacará cuando menos te lo esperes... Así que, acabas de\nperder.”",
+"“El enemigo siempre atacará cuando menos te lo esperes... Así que acabas de\nperder.”",
 {"rt2"},
 },
 },
@@ -775,7 +775,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¡Ese ataque sorpresa solo le funciona a unos cuántos!”",
+"“¡Ese ataque sorpresa solo le funciona a unos cuantos!”",
 {"rt2"},
 },
 },
@@ -1073,7 +1073,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"Por ahora, quisiera que me dejaras bajarme. Hablar en este estado, es... un\ntanto penoso.",
+"Por ahora, quisiera que me dejaras bajarme. Hablar en este estado es... un\ntanto penoso.",
 {"rt2"},
 },
 },
@@ -1251,7 +1251,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Yo soy mayor, no hay problema en que te abrace. Pero tu no debes. Tú... ¡No sé\nbien por qué, pero no debes!”",
+"“Yo soy mayor, no hay problema en que te abrace. Pero tú no debes. Tú... ¡No sé\nbien por qué, pero no debes!”",
 {"rt2"},
 },
 },
@@ -1303,7 +1303,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“A-Aun así no debes. No, y no, y no.”",
+"“A-Aun así, no debes. No, y no, y no.”",
 {"rt2"},
 },
 },
@@ -1823,7 +1823,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“C-Cuando hablas de trabajo pornográfico... ¿qué, es lo que debes hacer?”",
+"“C-Cuando hablas de trabajo pornográfico... ¿qué es lo que debes hacer?”",
 {"rt2"},
 },
 },
@@ -1903,7 +1903,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Mi situación económica no me permite rechazar ningún trabajo. Ahora que el\nviejo está en peligro, tendré que valerme por mi mismo de ahora en adelante.”",
+"“Mi situación económica no me permite rechazar ningún trabajo. Ahora que el\nviejo está en peligro, tendré que valerme por mí mismo de ahora en adelante.”",
 {"rt2"},
 },
 },
@@ -1965,7 +1965,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“S-Sé que eres estudiante y no tienes una fuente constante de ingresos, pero, en\nestos casos lo normal es hacer un trabajo de medio tiempo convencional, ¿no?\n¿Por qué t-te has puesto a trabajar en esos, esos encargos p-pornográficos?”",
+"“S-Sé que eres estudiante y no tienes una fuente constante de ingresos, pero en\nestos casos lo normal es hacer un trabajo de medio tiempo convencional, ¿no?\n¿Por qué t-te has puesto a trabajar en esos, esos encargos p-pornográficos?”",
 {"rt2"},
 },
 },
@@ -3019,7 +3019,7 @@ vo={
 ja={
 {
 name={"Dueño de la tienda"},
-"“Sí, está bien. Después de tantos años por fin podré ver más de tus obras, así\nque me esforzaré.”",
+"“Sí, está bien. Después de tantos años, por fin podré ver más de tus obras, así\nque me esforzaré.”",
 {"rt2"},
 },
 },
@@ -3562,7 +3562,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y por eso mismo, si sigues haciendo esto podría perder mi control en cualquier\nmomento.”",
+"“Y por eso mismo, si sigues haciendo esto, podría perder mi control en cualquier\nmomento.”",
 {"rt2"},
 },
 },
@@ -3625,7 +3625,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“Pues, pensé que de entrar a bañarnos juntos podría hacer algo que te gustara, y\nal buscar en el navegador del celular di con una página de lubricantes\ncaseros.”",
+"“Pues pensé que de entrar a bañarnos juntos, podría hacer algo que te gustara, y\nal buscar en el navegador del celular di con una página de lubricantes\ncaseros.”",
 {"rt2"},
 },
 },
@@ -3667,7 +3667,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“Se pueden hacer fácilmente con almidón de papa. ¡Pero, el almidón se pudre en\ncuestión de horas! ¡Oh no, hay que usarlo ya!”",
+"“Se pueden hacer fácilmente con almidón de papa. ¡Pero el almidón se pudre en\ncuestión de horas! ¡Oh no, hay que usarlo ya!”",
 {"rt2"},
 },
 },
@@ -4028,7 +4028,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo... aunque, en ese caso no podrás comer nada durante varios días.\n¿Estarás bien?”",
+"“Ya veo... aunque en ese caso no podrás comer nada durante varios días.\n¿Estarás bien?”",
 {"rt2"},
 },
 },
@@ -4170,7 +4170,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“Son fotos mías. Aprendí mucho en Internet, así que muy seguramente te servirán.\nTambién hay algunas donde me 'abro'.”",
+"“Son fotos mías. Aprendí mucho en internet, así que muy seguramente te servirán.\nTambién hay algunas donde me 'abro'.”",
 {"rt2"},
 },
 },

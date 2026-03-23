@@ -101,7 +101,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, el templo Hakuki... Tienes razón...”",
+"“Sí, el Templo Hakuki... Tienes razón...”",
 {"rt2"},
 },
 },
@@ -669,7 +669,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¡O-Ohh! ¡¿Es usted el papá de Rin?! ¡Vaya pero qué gusto en conocerle!”",
+"“¡O-Ohh! ¡¿Es usted el papá de Rin?! ¡Pero qué gusto en conocerle!”",
 {"rt2"},
 },
 },
@@ -1144,7 +1144,7 @@ block_00065={
 text={
 ja={
 {
-"Al dejar dicho eso, el padre de Rin intentó irse del templo Hakuki.",
+"Al dejar dicho eso, el padre de Rin intentó irse del Templo Hakuki.",
 {"rt2"},
 },
 },
@@ -1679,7 +1679,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por supuesto, tal vez después terminemos arrepentidos, lamentándonos de lo que\nhicimos, pero... pero, creo que las cosas no pueden funcionar así.”",
+"“Por supuesto, tal vez después terminemos arrepentidos, lamentándonos de lo que\nhicimos, pero... creo que las cosas no pueden funcionar así.”",
 {"rt2"},
 },
 },
@@ -2148,7 +2148,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Y... por eso quise llevar a mamá a todos aquellos lugares a los que deseara ir,\nmientras tuviera consciencia aún...”",
+"“Y... por eso quise llevar a mamá a todos aquellos lugares a los que deseara ir,\nmientras tuviera conciencia aún...”",
 {"rt2"},
 },
 },
@@ -2222,7 +2222,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Pero, pensé que solo era casualidad. En ese tiempo caminé por aquellos lugares\ndonde florecían los cerezos, y pensé que, tal vez, solo por casualidad\nSui-chan tenía algo que buscar en esos lugares...”",
+"“Pero pensé que solo era casualidad. En ese tiempo caminé por aquellos lugares\ndonde florecían los cerezos, y pensé que, tal vez, solo por casualidad,\nSui-chan tenía algo que buscar en esos lugares...”",
 {"rt2"},
 },
 },
@@ -2277,7 +2277,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Estoy algo loca. Es raro, ¿no te parece? ¿Ya te habías dado cuenta de eso, no\nes así, Nao-kun? Por eso es que me preguntaste si recordaba algo respecto al\nnombre 'Sui', ¿verdad?”",
+"“Estoy algo loca. Es raro, ¿no te parece? Ya te habías dado cuenta de eso, ¿no\nes así, Nao-kun? Por eso es que me preguntaste si recordaba algo respecto al\nnombre 'Sui', ¿verdad?”",
 {"rt2"},
 },
 },
@@ -2587,7 +2587,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“La verdad, es que no sé cuál será la respuesta que conseguirás. Ni tampoco qué\ndesenlace traerá esa respuesta...”",
+"“La verdad es que no sé cuál será la respuesta que conseguirás. Ni tampoco qué\ndesenlace traerá esa respuesta...”",
 {"rt2"},
 },
 },
@@ -2990,7 +2990,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Aún, cuando probablemente solo tratabas de evitarme por bondad... yo misma\nterminé pisoteando esos buenos sentimientos.”",
+"“Aún cuando probablemente solo tratabas de evitarme por bondad... yo misma\nterminé pisoteando esos buenos sentimientos.”",
 {"rt2"},
 },
 },

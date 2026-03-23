@@ -637,7 +637,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Sí, y fíjate, son buenísimos. Comencé a tener divertidas alucinaciones cada vez\nque los tomaba, y entre tanto pedir y pedir más regularon mis dosis.”",
+"“Sí, y fíjate, son buenísimos. Comencé a tener divertidas alucinaciones cada vez\nque los tomaba, y entre tanto pedir y pedir más, regularon mis dosis.”",
 {"rt2"},
 },
 },
@@ -683,7 +683,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Pues, cuando tienes esta enfermedad lo único bueno que consigues son las\ninyecciones de morfina.”",
+"“Pues cuando tienes esta enfermedad lo único bueno que consigues son las\ninyecciones de morfina.”",
 {"rt2"},
 },
 },
@@ -800,7 +800,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿De verdad?... agh...”",
+"“¿De verdad?... Agh...”",
 {"rt2"},
 },
 },
@@ -2043,7 +2043,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Tal vez si los hubiese usado en el brazo izquierdo podría pintar con la mano\nizquierda también.”",
+"“Tal vez si los hubiese usado en el brazo izquierdo, podría pintar con la mano\nizquierda también.”",
 {"rt2"},
 },
 },
@@ -2500,7 +2500,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Kukuku, está bien. Esperaré con ansias por verlas.”",
+"“Jejeje, está bien. Esperaré con ansias por verlas.”",
 {"rt2"},
 },
 },
@@ -2560,7 +2560,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Kukuku, me gusta la mirada que pones en estos momentos. Tienes esa misma fuerte\nmirada que tenía tu madre.”",
+"“Jejeje, me gusta la mirada que pones en estos momentos. Tienes esa misma fuerte\nmirada que tenía tu madre.”",
 {"rt2"},
 },
 },

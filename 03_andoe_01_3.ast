@@ -718,7 +718,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Pero, tampoco creo que nadie pueda verla.”",
+"“Pero tampoco creo que nadie pueda verla.”",
 {"rt2"},
 },
 },
@@ -2216,7 +2216,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“Pues, no creo que hayan muchas personas con extremidades como las de una\nmuñeca.”",
+"“Pues no creo que hayan muchas personas con extremidades como las de una\nmuñeca.”",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Eh? ¿D-De verdad? Pero, habías dicho que no había ninguna ópera de Olympia...”",
+"“¿Eh? ¿D-De verdad? Pero habías dicho que no había ninguna ópera de Olympia...”",
 {"rt2"},
 },
 },
@@ -2742,7 +2742,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“*Asiente*, definitivamente está hecho para ti, Sui. Excellent.”",
+"“Sip, definitivamente está hecho para ti, Sui. Excelente.”",
 {"rt2"},
 },
 },
@@ -3207,7 +3207,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“P-Pero, las eventualidades sexuales...”",
+"“P-Pero las eventualidades sexuales...”",
 {"rt2"},
 },
 },
@@ -3262,7 +3262,7 @@ block_00192={
 text={
 ja={
 {
-"Sui, y Shizuku... ¿Qué vínculo habrá entre las dos?...",
+"Sui y Shizuku... ¿Qué vínculo habrá entre las dos?...",
 {"rt2"},
 },
 },
@@ -4032,7 +4032,7 @@ vo={
 ja={
 {
 name={"Shizuku"},
-"“No hace falta alguna de ocultar nada, siempre y cuando tenga certeza de que\nnada sucederá.”",
+"“No hace falta alguna ocultar nada, siempre y cuando tenga certeza de que\nnada sucederá.”",
 {"rt2"},
 },
 },
@@ -4046,7 +4046,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo. Pero, si llegara a suceder algo...”",
+"“Ya veo. Pero si llegara a suceder algo...”",
 {"rt2"},
 },
 },

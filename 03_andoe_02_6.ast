@@ -12,7 +12,7 @@ block_00000={
 text={
 ja={
 {
-"Al regresar a casa preparé la comida.",
+"Al regresar a casa, preparé la comida.",
 {"rt2"},
 },
 },
@@ -173,7 +173,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, supongo que iré a revisar los lugares que limpió.”",
+"“Pues supongo que iré a revisar los lugares que limpió.”",
 {"rt2"},
 },
 },
@@ -630,7 +630,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Agh, ¿con qué compañía mandaron las cosas? Veré en Internet qué sucedió.”",
+"“Agh, ¿con qué compañía mandaron las cosas? Veré en internet qué sucedió.”",
 {"rt2"},
 },
 },
@@ -662,7 +662,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, hoy en día puedes ver en Internet dónde están los paquetes que envías.”",
+"“Sí, hoy en día puedes ver en internet dónde están los paquetes que envías.”",
 {"rt2"},
 },
 },
@@ -693,7 +693,7 @@ block_00047={
 text={
 ja={
 {
-"Con la información de la compañía que Kuzu me dio, busqué en Internet y\naverigüe el estado del envío.",
+"Con la información de la compañía que Kuzu me dio, busqué en internet y\naverigüe el estado del envío.",
 {"rt2"},
 },
 },
@@ -1399,7 +1399,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¿Prefieres entonces, a las tetonas?”",
+"“¿Prefieres entonces a las tetonas?”",
 {"rt2"},
 },
 },
@@ -1463,7 +1463,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Espera, espera, eso no tiene nada qué ver.”",
+"“Espera, espera, eso no tiene nada que ver.”",
 {"rt2"},
 },
 },
@@ -1824,7 +1824,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¿Espera, qué haces ahora buscando cosas en el navegador del teléfono?!”",
+"“¡Espera, ¿qué haces ahora buscando cosas en el navegador del teléfono?!”",
 {"rt2"},
 },
 },
@@ -1942,7 +1942,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¿Eh? ¿En serio? ¡Pero, en esta página dice que la doble seña es muy erótica!”",
+"“¿Eh? ¿En serio? ¡Pero en esta página dice que la doble seña es muy erótica!”",
 {"rt2"},
 },
 },

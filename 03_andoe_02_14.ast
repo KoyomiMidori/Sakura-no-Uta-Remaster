@@ -437,7 +437,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Y eso qué importa? Vamos, muéstrame. Si no me convence la romperé en pedazos.”",
+"“¿Y eso qué importa? Vamos, muéstrame.\nSi no me convence, la romperé en pedazos.”",
 {"rt2"},
 },
 },
@@ -451,7 +451,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si llegas a hacer eso nada podrá salvar a Kuzu.”",
+"“Si llegas a hacer eso, nada podrá salvar a Kuzu.”",
 {"rt2"},
 },
 },
@@ -679,7 +679,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Eres el salvajismo en la filantropía. El salvajismo en el afecto. Una especie\nde premonición de como el sacrificio en la autoinmolación podría quemar el\nmundo entero...”",
+"“Eres el salvajismo en la filantropía. El salvajismo en el afecto. Una especie\nde premonición de cómo el sacrificio en la autoinmolación podría quemar el\nmundo entero...”",
 {"rt2"},
 },
 },
@@ -980,7 +980,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Y eso qué me importa? ¡Si tanto te duele regrésate a dormir a tu cama del\nhospital!”",
+"“¿Y eso qué me importa? ¡Si tanto te duele, regrésate a dormir a tu cama del\nhospital!”",
 {"rt2"},
 },
 },

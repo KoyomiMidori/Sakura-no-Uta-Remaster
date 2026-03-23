@@ -153,7 +153,7 @@ block_00010={
 text={
 ja={
 {
-"Esta receta la encontré mientras buscaba en Internet.",
+"Esta receta la encontré mientras buscaba en internet.",
 {"rt2"},
 },
 },
@@ -192,7 +192,7 @@ block_00013={
 text={
 ja={
 {
-"Pero el Internet es poderoso. El mundo virtual está repleto de solitarios como\nyo.",
+"Pero el internet es poderoso. El mundo virtual está repleto de solitarios como\nyo.",
 {"rt2"},
 },
 },
@@ -218,7 +218,7 @@ block_00015={
 text={
 ja={
 {
-"Si no existiese el Internet probablemente hubiera muerto ya, incapaz de\npreparar algo más que un rámen instantáneo.",
+"Si no existiese el internet probablemente hubiera muerto ya, incapaz de\npreparar algo más que un rámen instantáneo.",
 {"rt2"},
 },
 },
@@ -811,7 +811,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¡¿Y crees que me importa?! ¡Esa muchacha es una deuda con brazos y piernas de\n1500 millones! ¡¿O es que tú puedes pagar esos 1500 millones, ah?!”",
+"“¡¿Y crees que me importa?! ¡Esa muchacha es una deuda con brazos y piernas de\n1.500 millones! ¡¿O es que tú puedes pagar esos 1500 millones, ah?!”",
 {"rt2"},
 },
 },
@@ -825,7 +825,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“1500 millones...”",
+"“1.500 millones...”",
 {"rt2"},
 },
 },
@@ -1503,7 +1503,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Aprovecha huir y grita lo más que puedas!”",
+"“¡Aprovecha para huir y grita lo más que puedas!”",
 {"rt2"},
 },
 },
@@ -1555,7 +1555,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¿Quienes son estas personas? Ahora que las veo de cerca parecen ser muy, muy\nfuertes.”",
+"“¿Quiénes son estas personas? Ahora que las veo de cerca parecen ser muy, muy\nfuertes.”",
 {"rt2"},
 },
 },
@@ -1601,7 +1601,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Malos es poco, son los Nakamura! ¡Son yakuza, auténticos yakuza!”",
+"“¡Malos es poco, son los Nakamura! ¡Son yakuzas, auténticos yakuzas!”",
 {"rt2"},
 },
 },
@@ -1619,7 +1619,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¿Yakuzaaa?”",
+"“¿Yakuzaaas?”",
 {"rt2"},
 },
 },
@@ -1903,7 +1903,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿De verdad crees que esa excusa te va a servir hoy en día? Voy a denunciarte\ncon la policía. Si piensas llevarte a Kuzu entonces estarás bajo sospecha de\nsecuestro también.”",
+"“¿De verdad crees que esa excusa te va a servir hoy en día? Voy a denunciarte\ncon la policía. Si piensas llevarte a Kuzu, entonces estarás bajo sospecha de\nsecuestro también.”",
 {"rt2"},
 },
 },
@@ -1922,7 +1922,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¡Q-Quizás no lo sepas, pero si esto sale a la luz pública tu padre tampoco\nsaldrá bien parado!”",
+"“¡Q-Quizás no lo sepas, pero si esto sale a la luz pública, tu padre tampoco\nsaldrá bien parado!”",
 {"rt2"},
 },
 },
@@ -1950,7 +1950,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“A mi no me concierne nada de lo que ustedes hayan hecho. Así ese viejo haya\ncometido algún crimen, eso no me concierne a mí.”",
+"“A mí no me concierne nada de lo que ustedes hayan hecho. Así ese viejo haya\ncometido algún crimen, eso no me concierne a mí.”",
 {"rt2"},
 },
 },
@@ -2128,7 +2128,7 @@ block_00135={
 text={
 ja={
 {
-"De no ser así, nada explicaría por qué aun después de que mi padre se llevara a\nKuzu pasaran tantos años sin reportar a la policía.",
+"De no ser así, nada explicaría por qué aun después de que mi padre se llevara a\nKuzu, pasaran tantos años sin reportar a la policía.",
 {"rt2"},
 },
 },
@@ -2199,7 +2199,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¿Nos ves la caras de tontos a los Nakamura, Naoya Kusanagi? Mocoso\nimpertinente, más te vale saber que no nos cuesta nada echar tu cadáver a la\nbahía de Yumihari.”",
+"“¿Nos ves la cara de tontos a los Nakamura, Naoya Kusanagi? Mocoso\nimpertinente, más te vale saber que no nos cuesta nada echar tu cadáver a la\nbahía de Yumihari.”",
 {"rt2"},
 },
 },
@@ -2313,7 +2313,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“Naoya. ¿Sabes cuántas personas han desaparecido hasta ahora en el país?”",
+"“Naoya Kusanagi. ¿Sabes cuántas personas han desaparecido hasta ahora en el país?”",
 {"rt2"},
 },
 },
@@ -2386,7 +2386,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¿De verdad crees que nadie se dio cuenta de lo que está pasando?! Todo este\nescándalo, y las ventanas rotas. ¿Es que crees que los vecinos no estarán\nviendo que pasó?”",
+"“¡¿De verdad crees que nadie se dio cuenta de lo que está pasando?! Todo este\nescándalo, y las ventanas rotas. ¿Es que crees que los vecinos no estarán\nviendo qué pasó?”",
 {"rt2"},
 },
 },
@@ -2565,7 +2565,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¡Es una orden! ¡Si no acaban con ellos serán ustedes los que terminarán\nflotando muertos en la bahía!”",
+"“¡Es una orden! ¡Si no acaban con ellos, serán ustedes los que terminarán\nflotando muertos en la bahía!”",
 {"rt2"},
 },
 },
@@ -2908,7 +2908,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“... El mundialmente reconocido, ... Wataaru, Akkashi...”",
+"“... El mundialmente reconocido... Wataaru, Akkashi...”",
 {"rt2"},
 },
 },
@@ -3139,7 +3139,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¿Kenichiro... Kusanagi...?”",
+"“¿Kenichiro... Kusanagi?...”",
 {"rt2"},
 },
 },
@@ -3825,7 +3825,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Ah, no era por eso, créame. Simplemente no podía asimilar la frustración de que\na pesar de la buena propuesta que traje usted confundió todo y pensó en\nmatarme, y en eso no pude contener mis lágrimas.”",
+"“Ah, no era por eso, créame. Simplemente no podía asimilar la frustración de que\na pesar de la buena propuesta que traje, usted confundió todo y pensó en\nmatarme, y en eso no pude contener mis lágrimas.”",
 {"rt2"},
 },
 },
@@ -4760,7 +4760,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“¿No me crees acaso? Puedes buscarme entonces en Internet. Mi nombre está en el\nsitio de la Fundación Moore.”",
+"“¿No me cree acaso? Puede buscarme entonces en internet. Mi nombre está en el\nsitio de la Fundación Moore.”",
 {"rt2"},
 },
 },
@@ -4964,7 +4964,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Ya él mismo te explico quién es, ¿no? Creo que no hacen falta más\nexplicaciones...”",
+"“Ya él mismo le explico quién es, ¿no? Creo que no hacen falta más\nexplicaciones...”",
 {"rt2"},
 },
 },
@@ -6907,7 +6907,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¿W-Wataaru Akkashi, eres mundialmente reconocido, es que no puedes hacer nada?”",
+"“W-Wataaru Akkashi, eres mundialmente reconocido, ¿es que no puedes hacer nada?”",
 {"rt2"},
 },
 },
@@ -7095,7 +7095,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Así es. Por lo general las ventas individuales de cuadros realizados en\nabsoluto secreto se ejecutan mediante juramentos escritos. También están\ndescritos todos los otros detalles del negocio.”",
+"“Así es. Por lo general, las ventas individuales de cuadros realizados en\nabsoluto secreto se ejecutan mediante juramentos escritos. También están\ndescritos todos los otros detalles del negocio.”",
 {"rt2"},
 },
 },
@@ -7196,7 +7196,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Nakamura-sama, le pido que se decida ahora mismo. De esperar mucho la Fundación\nMoore se interpondrá y no podré moverme con libertad para ayudarlo a usted.\nLe pido que firme ya, por favor.”",
+"“Nakamura-sama, le pido que se decida ahora mismo. De esperar mucho, la Fundación\nMoore se interpondrá y no podré moverme con libertad para ayudarlo a usted.\nLe pido que firme ya, por favor.”",
 {"rt2"},
 },
 },
@@ -7269,7 +7269,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"“¿D-De verdad cree que este bien hacerlo? Jamás había escuchado de algo así.”",
+"“¿D-De verdad cree que esté bien hacerlo? Jamás había escuchado de algo así.”",
 {"rt2"},
 },
 },

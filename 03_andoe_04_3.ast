@@ -95,7 +95,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Eh? ¿Ai, nunca has venido antes? Tú querías entrar al colegio Yumihari, ¿no?”",
+"“¿Eh? Ai, ¿nunca has venido antes? Tú querías entrar al colegio Yumihari, ¿no?”",
 {"rt2"},
 },
 },
@@ -634,7 +634,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Enemigo de quién, por Dios? Si fuese así no te hubieses tomado la molestia de\nvenir aquí y advertirnos.”",
+"“¿Enemigo de quién, por Dios? Si fuese así, no te hubieses tomado la molestia de\nvenir aquí y advertirnos.”",
 {"rt2"},
 },
 },
@@ -712,7 +712,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Y tú no has cambiado mucho tampoco, eh, Saki. Sigues igual de hermosa que\nsiempre.”",
+"“Y tú no has cambiado mucho tampoco, Saki. Sigues igual de hermosa que\nsiempre.”",
 {"rt2"},
 },
 },
@@ -953,7 +953,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Ehhh, ¡¿me van a dejar por fuera?!”",
+"“¡Ehhh, ¿me van a dejar por fuera?!”",
 {"rt2"},
 },
 },
@@ -971,7 +971,7 @@ vo={
 ja={
 {
 name={"Saki"},
-"“¿Prefieres encontrarte entonces con quien tú sabes (Shoichi) y poner en peligro\na estas muchachas?”",
+"“¿Prefieres encontrarte entonces con Shoichi y poner en peligro\na estas muchachas?”",
 {"rt2"},
 },
 },
@@ -1075,7 +1075,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Ah, el templo Hakuki... Sí, los cerezos acá son realmente hermosos.”",
+"“Ah, el Templo Hakuki... Sí, los cerezos acá son realmente hermosos.”",
 {"rt2"},
 },
 },
@@ -1370,7 +1370,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Mmm, ¿mirar los cerezos contigo, eh?... No sé si tenga la habilidad suficiente\npara eso...”",
+"“Mmm, ¿mirar los cerezos contigo?... No sé si tenga la habilidad suficiente\npara eso...”",
 {"rt2"},
 },
 },
@@ -1662,7 +1662,7 @@ vo={
 ja={
 {
 name={"Saki"},
-"“Jajajaja, ahora eso sí que es cómico. ¿Ese Kenichiro Kusanagi, ahora con una\ndiscípula?. Realmente que no sé qué tiene en la cabeza ese hombre...”",
+"“Jajajaja, ahora eso sí que es cómico. ¿Ese Kenichiro Kusanagi, ahora con una\ndiscípula? De verdad que no sé qué tiene en la cabeza ese hombre...”",
 {"rt2"},
 },
 },
@@ -1904,7 +1904,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Aunque, yo creo que incluso todavía le agradas a Kenichiro, Saki-san.”",
+"“Aunque yo creo que todavía le agradas a Kenichiro, Saki-san.”",
 {"rt2"},
 },
 },
@@ -2012,7 +2012,7 @@ vo={
 ja={
 {
 name={"Saki"},
-"“Fufufu... Aunque, debo decir que me gustan las niñas inteligentes.”",
+"“Fufufu... Aunque debo decir que me gustan las niñas inteligentes.”",
 {"rt2"},
 },
 },
@@ -2318,7 +2318,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“P-Pero, seguramente me reprobaran apenas vean mi nombre...”",
+"“P-Pero seguramente me reprobarán apenas vean mi nombre...”",
 {"rt2"},
 },
 },
@@ -2623,7 +2623,7 @@ vo={
 ja={
 {
 name={"Saki"},
-"“En ese época tenía la ilusión de que quizás podría mirar el mismo horizonte que\nel podía ver... pero ahora no.”",
+"“En ese época tenía la ilusión de que quizás podría mirar el mismo horizonte que\nél podía ver... pero ahora no.”",
 {"rt2"},
 },
 },
@@ -3518,7 +3518,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“¿Sabes que me dijo Kenichiro-san cuando le conté eso? Pues entonces pintaré\nunos cerezos que ni en sus sueños pueda pintar él, y tomaré ese titulo para\nmí. Está algo loco, ¿no crees?”",
+"“¿Sabes qué me dijo Kenichiro-san cuando le conté eso? Pues entonces pintaré\nunos cerezos que ni en sus sueños pueda pintar él, y tomaré ese titulo para\nmí. Está algo loco, ¿no crees?”",
 {"rt2"},
 },
 },
@@ -3646,7 +3646,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Ejejeje, Kenichiro-san dice que lo sobrestimo mucho. Pero, me parece que solo\nson celos.”",
+"“Ejejeje, Kenichiro-san dice que lo sobrestimo mucho. Pero me parece que solo\nson celos.”",
 {"rt2"},
 },
 },
@@ -4036,7 +4036,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Si tan solo logro dar con la imagen, sea solo un pelo, un pedazo de uña, una\núnica célula. Solo con dar con eso, quizás pueda lograrlo...”",
+"“Si tan solo logro dar con la imagen, sea solo un pelo, un pedazo de uña, una\núnica célula.\nSolo con dar con eso, quizás pueda lograrlo...”",
 {"rt2"},
 },
 },

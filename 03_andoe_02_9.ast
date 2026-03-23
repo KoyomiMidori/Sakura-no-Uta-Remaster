@@ -638,7 +638,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Eso es lo que debería decir yo. A pesar de que le prometí al viejo que te\ncuidaría te puse en peligro.”",
+"“Eso es lo que debería decir yo. A pesar de que le prometí al viejo que te\ncuidaría, te puse en peligro.”",
 {"rt2"},
 },
 },
@@ -1267,7 +1267,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Kuzu, cuando hablas de una vieja amiga... ¿será, que hablas de una muchacha\nllamada Rin Misakura?”",
+"“Kuzu, cuando hablas de una vieja amiga... ¿será que hablas de una muchacha\nllamada Rin Misakura?”",
 {"rt2"},
 },
 },
@@ -1386,7 +1386,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“¿Eh? ¿Espera, de qué manera me diste de beber el agua?”",
+"“¿Eh? Espera, ¿de qué manera me diste de beber el agua?”",
 {"rt2"},
 },
 },
@@ -2016,7 +2016,7 @@ block_00124={
 text={
 ja={
 {
-"Ahora que lo recuerdo, después de mudarnos al apartamento en Sakuragahara hubo\nun tiempo en el cual no me acercaba mucho a la residencia Natsume",
+"Ahora que lo recuerdo, después de mudarnos al apartamento en Sakuragahara, hubo\nun tiempo en el cual no me acercaba mucho a la residencia Natsume",
 {"rt2"},
 },
 },

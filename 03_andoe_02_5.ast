@@ -152,7 +152,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, lo sé. Cuidaré de no meterme en nada así la próxima vez.”",
+"“Sí, lo sé. Intentaré no meterme en nada así la próxima vez.”",
 {"rt2"},
 },
 },
@@ -327,7 +327,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Sí, justo después de que terminó la guerra alguien comenzó a dirigir el manejo\nde cargamentos del puerto Yumihari. Después de todo era una nueva época,\nhabía un torrente de cargamentos viniendo del extranjero.”",
+"“Sí, justo después de que terminó la guerra, alguien comenzó a dirigir el manejo\nde cargamentos del puerto Yumihari. Después de todo era una nueva época,\nhabía un torrente de cargamentos viniendo del extranjero.”",
 {"rt2"},
 },
 },
@@ -497,7 +497,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Y por eso intentaron apoderarse del mundo bajo de Yumihari, con el apoyo a sus\nespaldas de un enorme grupo de yakuza de la región de Kanto.”",
+"“Y por eso intentaron apoderarse del mundo bajo de Yumihari, con el apoyo a sus\nespaldas de un enorme grupo de yakuzas de la región de Kanto.”",
 {"rt2"},
 },
 },
@@ -532,7 +532,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Bueh, a final de cuentas una guerra de Yakuza.”",
+"“Bueh, a final de cuentas una guerra de yakuzas.”",
 {"rt2"},
 },
 },
@@ -549,7 +549,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Ambos grupos terminaron perdiendo. No, bueno, en realidad la opinión más\npopular es que fueron los Natsume, habiendo aguantado la presión de semejante\norganización, habrían sido los victoriosos. En fin, terminaron en un acuerdo\nde paz.”",
+"“Ambos grupos terminaron perdiendo. No, bueno, en realidad la opinión más\npopular es que los Natsume, habiendo aguantado la presión de semejante\norganización, habrían sido los victoriosos. En fin, terminaron en un acuerdo\nde paz.”",
 {"rt2"},
 },
 },
@@ -1318,7 +1318,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por más que no lo quieran la ley prohíbe el matrimonio desde el primer al\ntercer grado de consanguinidad.”",
+"“Por más que no lo quieran, la ley prohíbe el matrimonio desde el primer al\ntercer grado de consanguinidad.”",
 {"rt2"},
 },
 },
@@ -1510,7 +1510,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Llegué a escuchar a Shoichi Nakamura hablando apasionadamente de eso hace\ntiempo, con la abuela Natsume. Aunque, la abuela no le dio importancia\nalguna.”",
+"“Llegué a escuchar a Shoichi Nakamura hablando apasionadamente de eso hace\ntiempo, con la abuela Natsume. Aunque la abuela no le dio importancia\nalguna.”",
 {"rt2"},
 },
 },
@@ -1655,7 +1655,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Diablos, qué desobediente eres muchacha.”",
+"“Diablos, qué desobediente eres, muchacha.”",
 {"rt2"},
 },
 },
@@ -1753,7 +1753,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Si hubieses hecho todo bien Kuzu no hubiera tenido que seguir tragando sueños?”",
+"“Si hubieses hecho todo bien, ¿Kuzu no hubiera tenido que seguir tragando sueños?”",
 {"rt2"},
 },
 },
@@ -1900,7 +1900,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“De solo escuchar eso cualquiera pensaría que se trata de tráfico de humanos.”",
+"“De solo escuchar eso, cualquiera pensaría que se trata de tráfico de humanos.”",
 {"rt2"},
 },
 },
@@ -2079,7 +2079,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pensé que si querías encubrir a Kuzu de algo, era muy probable de que fuera\nalgo relacionado a esa casa.”",
+"“Pensé que si querías encubrir a Kuzu de algo, era muy probable que fuera\nalgo relacionado a esa casa.”",
 {"rt2"},
 },
 },
@@ -2204,7 +2204,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Te lo digo de una vez, si vas a venir con ese tipo de charlas puedes parar ya.”",
+"“Te lo digo de una vez, si vas a venir con ese tipo de charlas, puedes parar ya.”",
 {"rt2"},
 },
 },
@@ -2310,7 +2310,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Tú, arrepentido de meterme en esto? ¿Es en serio? Kenichiro Kusanagi jamás\nintentaría dárselas del bueno y decir semejante estupidez. Aun al borde de la\nmuerte.”",
+"“¿Tú, arrepentido de meterme en esto? ¿Es en serio? Kenichiro Kusanagi jamás\nintentaría dárselas del bueno y decir semejante estupidez, ni siquiera al borde de la\nmuerte.”",
 {"rt2"},
 },
 },
@@ -2515,7 +2515,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Y falsos no son. No es la clase de tipo que querrías de enemigo, pero si de\naliado. Aunque, solo se mueve por dinero.”",
+"“Y falsos no son. No es la clase de tipo que querrías de enemigo, pero sí de\naliado. Aunque solo se mueve por dinero.”",
 {"rt2"},
 },
 },
@@ -2611,7 +2611,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Tal cual. Pero si te descuidas te hará tropezar en el peor momento. Esa es la\nclase de hombre que Fridmann es.”",
+"“Tal cual. Pero si te descuidas, te hará tropezar en el peor momento. Esa es la\nclase de hombre que Fridmann es.”",
 {"rt2"},
 },
 },
@@ -2803,7 +2803,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No lo sé. Aunque, al parecer puede llegar a sufrir de ataques al tragar\npesadillas. En ese caso dale agua y haz que escupa el sueño.”",
+"“No lo sé. Aunque al parecer puede llegar a sufrir de ataques al tragar\npesadillas. En ese caso, dale agua y haz que escupa el sueño.”",
 {"rt2"},
 },
 },
@@ -2852,7 +2852,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“Si llega a pasar eso yo misma beberé mi agua, no hay problema.”",
+"“Si llega a pasar, eso yo misma beberé mi agua, no hay problema.”",
 {"rt2"},
 },
 },
@@ -2996,7 +2996,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Nada realmente, solo que nunca pude actuar como un padre normal contigo...”",
+"“Nada, solo que nunca pude actuar como un padre normal contigo...”",
 {"rt2"},
 },
 },
@@ -3010,7 +3010,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Entre lo que dijiste hace un rato y ahora te estás contradiciendo.”",
+"“Entre lo que dijiste hace un rato y ahora, te estás contradiciendo.”",
 {"rt2"},
 },
 },
@@ -3183,7 +3183,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si hay alguien que ha pasado su vida haciendo cosas peligrosas es ese viejo. No\nte preocupes, no soy tan descuidado como él.”",
+"“Si hay alguien que ha pasado su vida haciendo cosas peligrosas, es ese viejo. No\nte preocupes, no soy tan descuidado como él.”",
 {"rt2"},
 },
 },

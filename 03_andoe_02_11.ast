@@ -482,7 +482,7 @@ vo={
 ja={
 {
 name={"Kuzu"},
-"“Mi corazón, es una especie de copia de Rin...”",
+"“Mi corazón es una especie de copia de Rin...”",
 {"rt2"},
 },
 },
@@ -1046,7 +1046,7 @@ vo={
 ja={
 {
 name={"Makoto"},
-"“Pero bueno, solo viendo que no tienes esos ojos de muerto que llevas siempre me\ndan ganas de hacer algo por ti.”",
+"“Pero bueno, solo viendo que no tienes esos ojos de muerto que llevas siempre, me\ndan ganas de hacer algo por ti.”",
 {"rt2"},
 },
 },
@@ -1611,7 +1611,7 @@ block_00093={
 text={
 ja={
 {
-"No sé cómo realmente habrá transcurrido todo, pero como resultado Akashi\nterminó encargándose de engañar a los Nakamura, yo quedé en cargo de hacer\nlas falsificaciones, y Fridmann de todo lo demás.",
+"No sé cómo realmente habrá transcurrido todo, pero como resultado Akashi\nterminó encargándose de engañar a los Nakamura, yo quedé a cargo de hacer\nlas falsificaciones, y Fridmann de todo lo demás.",
 {"rt2"},
 },
 },
@@ -1714,7 +1714,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Y bien, por qué lo hiciste? ¿Sentiste la responsabilidad de ayudar a\nKenichiro, tu viejo compañero de negocios?”",
+"“Y bien, ¿por qué lo hiciste? ¿Sentiste la responsabilidad de ayudar a\nKenichiro, tu viejo compañero de negocios?”",
 {"rt2"},
 },
 },
@@ -1966,7 +1966,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¿Cuarenta por ciento? ¿Tantas falsificaciones hay?”",
+"“¿40 %? ¿Tantas falsificaciones hay?”",
 {"rt2"},
 },
 },
@@ -1980,7 +1980,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hay muchas más falsificaciones en el mercado de lo que se cree. Para dar un\nejemplo, se dice que hay 2500 obras reales de Jean-Baptiste Camille Corot,\npero la colección de sus obras, solo en Estados Unidos, alcanza las 7800\nobras.”",
+"“Hay muchas más falsificaciones en el mercado de lo que se cree. Para dar un\nejemplo, se dice que hay 2.500 obras reales de Jean-Baptiste Camille Corot,\npero la colección de sus obras, solo en Estados Unidos, alcanza las 7.800\nobras.”",
 {"rt2"},
 },
 },
@@ -2050,7 +2050,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Las falsificaciones, en el arte, son como el menor de unos gemelos. El mayor se\nlleva toda la atención, pero cabe decir que en realidad las falsificaciones\nson, casi, una parte importante de la historia de ese arte.”",
+"“Las falsificaciones, en el arte, son como el menor de unos gemelos. El mayor se\nlleva toda la atención, pero cabe decir que en realidad las falsificaciones\nson como una parte importante de la historia de ese arte.”",
 {"rt2"},
 },
 },
@@ -2088,7 +2088,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Fiuu, ¿es que acaso crees que los comerciantes de pinturas predican un credo de\nética respecto a las falsificaciones?”",
+"“Fuu, ¿es que acaso crees que los comerciantes de pinturas predican un credo de\nética respecto a las falsificaciones?”",
 {"rt2"},
 },
 },
@@ -2102,7 +2102,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No. Si los comerciantes de arte tuvieran ese credo, no tendríamos un cuarenta\npor ciento de obras falsas circulando en el mercado.”",
+"“No. Si los comerciantes de arte tuvieran ese credo, no tendríamos un 40 %\nde obras falsas circulando en el mercado.”",
 {"rt2"},
 },
 },
@@ -2162,7 +2162,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, ya tuve la oportunidad de ver un guión excelentemente escrito en el\naltercado con Shoichi Nakamura. Jamás creí que alguien de la Fundación Moore\nse podría prestar para semejante teatro.”",
+"“Sí, ya tuve la oportunidad de ver un guion excelentemente escrito en el\naltercado con Shoichi Nakamura. Jamás creí que alguien de la Fundación Moore\nse podría prestar para semejante teatro.”",
 {"rt2"},
 },
 },
@@ -2274,7 +2274,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“¿E-Eso quiere decir que si nos descubren, solo yo iré preso?”",
+"“E-Eso quiere decir que si nos descubren, ¿solo yo iré preso?”",
 {"rt2"},
 },
 },
@@ -3321,7 +3321,7 @@ vo={
 ja={
 {
 name={"Akashi"},
-"“Claro, mientras más alguien intente convencerlo más sospechará él de esa\npersona. Pero tanta insistencia lo hará creer también que las pinturas tienen\nbastante valor. Así que eso planeas hacer.”",
+"“Claro, mientras más se intente convencerlo, más sospechará él de esa\npersona. Pero tanta insistencia lo hará creer también que las pinturas tienen\nbastante valor. Así que eso planeas hacer.”",
 {"rt2"},
 },
 },
@@ -3358,7 +3358,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ciertamente, de escuchar el mismo precio de ambos lados pensará que es el\napropiado.”",
+"“Ciertamente, de escuchar el mismo precio de ambos lados, pensará que es el\napropiado.”",
 {"rt2"},
 },
 },
@@ -3381,7 +3381,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Aunque Nakamura odia gastar su dinero, así que intentará bajar el precio.\nAkashi, después de negociar un poco puedes fingir darte por vencido y\naceptar. Si Nakamura observa que logró bajar el precio creerá que hizo una\ncompra barata.”",
+"“Aunque Nakamura odia gastar su dinero, así que intentará bajar el precio.\nAkashi, después de negociar un poco, puedes fingir darte por vencido y\naceptar. Si Nakamura observa que logró bajar el precio, creerá que hizo una\ncompra barata.”",
 {"rt2"},
 },
 },
@@ -4097,7 +4097,7 @@ block_00232={
 text={
 ja={
 {
-"Akashi se encargará de las negociaciones. Aunque, todas las ideas que usará\nfueron pensadas por Fridmann.",
+"Akashi se encargará de las negociaciones. Aunque todas las ideas que usará\nfueron pensadas por Fridmann.",
 {"rt2"},
 },
 },
@@ -4292,7 +4292,7 @@ block_00247={
 text={
 ja={
 {
-"En ese caso, Shoichi Nakamura también terminará beneficiándose, aunque eso nos\nlibraría de cualquier peligro a nosotros. Para ambos lados este sería el\nmejor resultado.",
+"En ese caso, Shoichi Nakamura también terminará beneficiándose, aunque eso nos\nlibraría de cualquier peligro a nosotros. Para ambos lados, este sería el\nmejor resultado.",
 {"rt2"},
 },
 },
