@@ -90,7 +90,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“Jamás se imaginaría que se trataba de un avanzado truco de negociación de\n la Yakuza, eh.”",
+"“Jamás se imaginaría que se trataba de un avanzado truco de negociación de\n la yakuza, eh.”",
 {"rt2"},
 },
 },
@@ -451,7 +451,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Al contrario, al contrario, si no me hubiese llevado a Mizuna probablemente los\nNatsume me habrían obligado a cortarme el dedo...”",
+"“Al contrario, al contrario, si no me hubiese llevado a Mizuna, probablemente los\nNatsume me habrían obligado a cortarme el dedo...”",
 {"rt2"},
 },
 },
@@ -485,7 +485,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Eso no sirve de nada. Esa abuela está convencida de que cuando una mujer se\ndecide por algo el hombre debe actuar para cumplir eso.”",
+"“Eso no sirve de nada. Esa abuela está convencida de que cuando una mujer se\ndecide por algo, el hombre debe actuar para cumplir eso.”",
 {"rt2"},
 },
 },
@@ -1022,7 +1022,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“No tengo con quien.”",
+"“No tengo con quién.”",
 {"rt2"},
 },
 },
@@ -1177,7 +1177,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Vaya ironía, sí señor. Cuando Mizuna estaba viva lo único que pensaba era en\ncómo conseguir dinero, y aun así no conseguí nada.”",
+"“Vaya ironía, sí señor. Cuando Mizuna estaba viva, lo único que pensaba era en\ncómo conseguir dinero, y aun así no conseguí nada.”",
 {"rt2"},
 },
 },
@@ -1383,7 +1383,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Si eso es el vacío, entonces el mismo vacío es así, Y hasta cierto grado, es\ncompartido por todos.”",
+"“Si eso es el vacío, entonces el mismo vacío es así, y hasta cierto grado, es\ncompartido por todos.”",
 {"rt2"},
 },
 },
@@ -1400,7 +1400,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"(Y así como el todo son todos dentro de mí, también así es el todo dentro de\ncada uno de todos)",
+"(Y así como el todo son todos dentro de mí, también así es el todo dentro de\ncada uno de todos.)",
 {"rt2"},
 },
 },
@@ -1522,7 +1522,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Cuerpo, y corazón... Mizuna nunca dejó de ser atormentada por esos dos.”",
+"“Cuerpo y corazón... Mizuna nunca dejó de ser atormentada por esos dos.”",
 {"rt2"},
 },
 },

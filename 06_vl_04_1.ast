@@ -81,7 +81,7 @@ block_00004={
 text={
 ja={
 {
-"¿Qué ha pasado? ¿La hice enfadar de nuevo?O eso pensé, pero... A medida que se\nacercaba, la expresión en su rostro me hizo saber que no se trataba de eso.",
+"¿Qué ha pasado? ¿La hice enfadar de nuevo?\nO eso pensé, pero... A medida que se acercaba, la expresión en su rostro me\nhizo saber que no se trataba de eso.",
 {"rt2"},
 },
 },
@@ -710,7 +710,7 @@ block_00045={
 text={
 ja={
 {
-"La reacción de los profesores ante las enfurecidas palabras de Sakizaki- kun\nfue débil.",
+"La reacción de los profesores ante las enfurecidas palabras de Sakizaki-kun\nfue débil.",
 {"rt2"},
 },
 },

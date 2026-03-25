@@ -559,7 +559,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Convierten, a las hijas de sus amantes, en nuevas amantes?”",
+"“¿Convierten... a las hijas de sus amantes en nuevas amantes?”",
 {"rt2"},
 },
 },
@@ -743,7 +743,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No entiendo todavía bien lo de la sangre y eso, pero si lo que dices es\ncierto entonces Mizuna y esa muchachita Ai son...”",
+"“No entiendo todavía bien lo de la sangre y eso, pero si lo que dices es\ncierto, entonces Mizuna y esa muchachita Ai son...”",
 {"rt2"},
 },
 },
@@ -935,7 +935,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"*Tch*",
+"*Tch.*",
 {"rt2"},
 },
 },
@@ -2029,7 +2029,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿Eh? ¿Me lo puedo quedar? ¿Puedo quedarme con este osito tan tan parecido a\nRilakk*ma?”",
+"“¿Eh? ¿Me lo puedo quedar? ¿Puedo quedarme con este osito tan parecido a\nRilakk*ma?”",
 {"rt2"},
 },
 },
@@ -3100,7 +3100,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“... Pero, quiero que me prometa algo.”",
+"“... Pero quiero que me prometa algo.”",
 {"rt2"},
 },
 },

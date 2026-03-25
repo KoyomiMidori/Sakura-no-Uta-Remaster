@@ -871,7 +871,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Seiyuu? ¿Los que hacen las voces de doblaje y de los anime?”",
+"“¿Seiyuu? ¿Los que hacen las voces de doblaje y de los animes?”",
 {"rt2"},
 },
 },
@@ -968,7 +968,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No sé si aplica para seiyuu, pero en mi tiempo en Nueva York todas las personas\nque llegué a ver persiguiendo profesiones especiales como canto o baile\nmarcaban la diferencia ya de niños...”",
+"“No sé si aplica para seiyuus, pero en mi tiempo en Nueva York todas las personas\nque llegué a ver persiguiendo profesiones especiales como canto o baile\nmarcaban la diferencia ya de niños...”",
 {"rt2"},
 },
 },
@@ -1045,7 +1045,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ah, pero eso es así en los Estados Unidos. Los seiyuu en Japón son distintos,\n¿no? Supongo, aunque no sé realmente.”",
+"“Ah, pero eso es así en los Estados Unidos. Los seiyuus en Japón son distintos,\n¿no? Supongo, aunque no sé realmente.”",
 {"rt2"},
 },
 },
@@ -1188,8 +1188,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"“Es Katakai.”",
+name={"Katagai"},
+"“Es Katagai.”",
 {"rt2"},
 },
 },
@@ -1220,7 +1220,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“No importa, puedes llamarme Alumno C si quieres.”",
 {"rt2"},
 },
@@ -1237,7 +1237,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Volviendo al tema, pensé que te irías por una universidad de artes, Kusanagi.”",
 {"rt2"},
 },
@@ -1268,7 +1268,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“¿Y no la tienes ya? Te criaste en un garaje taller en Chelsea, Nueva York, ¿no?”",
 {"rt2"},
 },
@@ -1313,7 +1313,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Lo leí en una revista. Definitivamente tipos como tú se crían de manera\ndistinta a los demás. Eso pensé cuando vi el artículo.”",
 {"rt2"},
 },
@@ -1347,7 +1347,7 @@ vo={
 ja={
 {
 name={"Torami"},
-"“¿Y tú qué piensas hacer, Katakai?”",
+"“¿Y tú qué piensas hacer, Katagai?”",
 {"rt2"},
 },
 },
@@ -1363,7 +1363,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Ni idea, no me he puesto a pensar.”",
 {"rt2"},
 },
@@ -1413,7 +1413,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Tampoco son tan buenas.”",
 {"rt2"},
 },
@@ -1444,7 +1444,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Al terminar las vacaciones de verano logré un 7.8 para seis asignaturas. No\nllegué al 80 %.”",
 {"rt2"},
 },
@@ -1488,7 +1488,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“Pues entonces por lo menos apréndete mi nombre...”",
 {"rt2"},
 },
@@ -1521,8 +1521,8 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
-"“Es Katakai.”",
+name={"Katagai"},
+"“Es Katagai.”",
 {"rt2"},
 },
 },
@@ -1677,7 +1677,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“¿Está, aquí?”",
 {"rt2"},
 },
@@ -1855,7 +1855,7 @@ vo={
 },
 ja={
 {
-name={"Katakai"},
+name={"Katagai"},
 "“¡Estudien bastante, sí!”",
 {"rt2"},
 },

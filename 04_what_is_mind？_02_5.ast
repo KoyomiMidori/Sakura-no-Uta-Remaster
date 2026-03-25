@@ -1098,7 +1098,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¡¿Qué me estás diciendo?! ¿Entonces si huyó? ¡Esa mocosa!”",
+"“¡¿Qué me estás diciendo?! ¿Entonces sí huyó? ¡Esa mocosa!”",
 {"rt2"},
 },
 },
@@ -1487,7 +1487,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Eso no tiene nada que ver. No importa donde esté puesto el cuadro, no es de tu\npropiedad. No tienes derecho a romperlo.”",
+"“Eso no tiene nada que ver. No importa dónde esté puesto el cuadro, no es de tu\npropiedad. No tienes derecho a romperlo.”",
 {"rt2"},
 },
 },
@@ -1506,7 +1506,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“Kukuku, ¿y cuánto se supone que cuesta?”",
+"“Jajaja, ¿y cuánto se supone que cuesta?”",
 {"rt2"},
 },
 },
@@ -1882,7 +1882,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Seguro nos querían imitar, sí. Pero escucha bien, jovencito. Nada bueno pasa\ncuando idiotas intentan hacerse pasar por Yakuza.”",
+"“Seguro nos querían imitar, sí. Pero escucha bien, jovencito. Nada bueno pasa\ncuando idiotas intentan hacerse pasar por yakuzas.”",
 {"rt2"},
 },
 },
@@ -1940,7 +1940,7 @@ block_00115={
 text={
 ja={
 {
-"No es esposa de ningún Yakuza. Ella es la jefa legítima.",
+"No es esposa de ningún yakuza. Ella es la jefa legítima.",
 {"rt2"},
 },
 },
@@ -1999,7 +1999,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Los Nakamura han estado controlando Yumihari desde los tiempos de Kamakura.\nGente de alcurnia son ustedes, sí. Y no está nada bien que ustedes, hijos de\npapi y mami, se hagan pasar por Yakuza como nosotros.”",
+"“Los Nakamura han estado controlando Yumihari desde los tiempos de Kamakura.\nGente de alcurnia son ustedes, sí. Y no está nada bien que ustedes, hijos de\npapi y mami, se hagan pasar por yakuzas como nosotros.”",
 {"rt2"},
 },
 },
@@ -2076,7 +2076,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“¿O es que van a ir a lloriquearle a los de Tokyo como lo hicieron ya una vez?\nMucho desastre se hizo aquella vez, eh, y eso que apenas acabamos de calmar\nel fuego.”",
+"“¿O es que van a ir a lloriquearle a los de Tokio como lo hicieron ya una vez?\nMucho desastre se hizo aquella vez, eh, y eso que apenas acabamos de calmar\nel fuego.”",
 {"rt2"},
 },
 },
@@ -2119,7 +2119,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“¿Ahhhn? ¿Qué Yakuza le podría tener miedo a la guerra? No me importa cuántos\nmueran, si guerra quieren guerra tendrán.”",
+"“¿Ahhhn? ¿Qué yakuza le podría tener miedo a la guerra? No me importa cuántos\nmueran, si guerra quieren guerra tendrán.”",
 {"rt2"},
 },
 },
@@ -2194,7 +2194,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“Solo son rumores. No son tan grande en realidad... no deberían.”",
+"“Solo son rumores. No son tan grandes en realidad... no deberían.”",
 {"rt2"},
 },
 },
@@ -2468,7 +2468,7 @@ vo={
 },
 ja={
 {
-name={"Hombres de negro A y B"},
+name={"Hombres de negro"},
 "“S-Sí señor.”",
 {"rt2"},
 },
@@ -2525,7 +2525,7 @@ block_00147={
 text={
 ja={
 {
-"Y menos aún que ya no tienen el apoyo de los Yakuza de Kantou. Junto a los\ncuales, por cierto, tampoco pudieron eliminar a los Natsume.",
+"Y menos aún que ya no tienen el apoyo de los yakuzas de Kantou. Junto a los\ncuales, por cierto, tampoco pudieron eliminar a los Natsume.",
 {"rt2"},
 },
 },
@@ -2571,7 +2571,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“No soy muy adepto de colaborar en los trabajillos de Yakuza, debo decir yo\ntambién.”",
+"“No soy muy adepto de colaborar en los trabajillos de la yakuza, debo decir yo\ntambién.”",
 {"rt2"},
 },
 },
@@ -2589,7 +2589,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Vamos, que eso no importa. Los Yakuza siempre se han caracterizado por ayudar a\nlos débiles y aplastar a los fuertes.”",
+"“Vamos, que eso no importa. La yakuza siempre se ha caracterizado por ayudar a\nlos débiles y aplastar a los fuertes.”",
 {"rt2"},
 },
 },
@@ -2606,7 +2606,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“A esos Yakuza solo los ves en películas.”",
+"“A esos yakuzas solo los ves en películas.”",
 {"rt2"},
 },
 },
@@ -2713,7 +2713,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“No te preocupes, los Yakuza sabemos de mil y un maneras de torturar a alguien\nsin destrozar su cuerpo.”",
+"“No te preocupes, los yakuzas sabemos de mil y un maneras de torturar a alguien\nsin destrozar su cuerpo.”",
 {"rt2"},
 },
 },
@@ -2764,7 +2764,7 @@ block_00160={
 text={
 ja={
 {
-"Mizuna se para frente a los Yakuza, intentando protegerme.",
+"Mizuna se para frente a los yakuzas, intentando protegerme.",
 {"rt2"},
 },
 },
@@ -2826,7 +2826,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“L-Le agradezco por haberles dado una lección a esos hombres. Pero le ruego que\nno le haga daño al profesor, por favor. Si eso quiere hacer golpeeme a mí\ntanto como quiera.”",
+"“L-Le agradezco por haberles dado una lección a esos hombres. Pero le ruego que\nno le haga daño al profesor, por favor. Si eso quiere hacer, golpéeme a mí\ntanto como quiera.”",
 {"rt2"},
 },
 },
@@ -3545,7 +3545,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Esta abuela podrá decir cosas osadas y heroícas, pero no trabaja de gratis. Los\nYakuza solo se mueven por dinero.”",
+"“Esta abuela podrá decir cosas osadas y heroícas, pero no trabaja de gratis. Los\nyakuzas solo se mueven por dinero.”",
 {"rt2"},
 },
 },
@@ -3623,7 +3623,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Kenichiro Kusanagi es uno de los pocos nietos con los que he podido tratar y\nver. No muchos nietos querrían lidiar con una abuela Yakuza después de todo,\neh.”",
+"“Kenichiro Kusanagi es uno de los pocos nietos con los que he podido tratar y\nver. No muchos nietos querrían lidiar con una abuela yakuza después de todo,\neh.”",
 {"rt2"},
 },
 },
@@ -3640,7 +3640,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¿Qué barbaridades andas diciendo, vieja loca? ¡Si no fuese por el dinero ni te\nhubieras molestado en ayudarme! ¡A final de cuentas todo es por el dinero!”",
+"“¿Qué barbaridades andas diciendo, vieja loca? ¡Si no fuese por el dinero, ni te\nhubieras molestado en ayudarme! ¡A final de cuentas todo es por el dinero!”",
 {"rt2"},
 },
 },
@@ -3663,7 +3663,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Por supuesto. Pocas cosas son más importantes para nosotros los Yakuza que un\ntrabajillo. No tenemos ni un minuto, ni un segundo que desperdiciar en\nasuntos sin valor monetario.”",
+"“Por supuesto. Pocas cosas son más importantes para nosotros los yakuzas que un\ntrabajillo. No tenemos ni un minuto, ni un segundo que desperdiciar en\nasuntos sin valor monetario.”",
 {"rt2"},
 },
 },

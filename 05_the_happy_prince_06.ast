@@ -44,7 +44,7 @@ block_00002={
 text={
 ja={
 {
-"A veces con mi mano izquierda, otras con ayuda de los resortes.Sin preocuparme\npor el método, usé todo a mi disposición para obtener el mejor cuadro\nposible.",
+"A veces con mi mano izquierda, otras con ayuda de los resortes. Sin preocuparme\npor el método, usé todo a mi disposición para obtener el mejor cuadro\nposible.",
 {"rt2"},
 },
 },
@@ -345,7 +345,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Hmmm. Bueno...”",
+"“Mmmm. Bueno...”",
 {"rt2"},
 },
 },
@@ -575,7 +575,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero nada es certero.Haré simplemente todo lo que pueda hacer.”",
+"“Pero nada es certero.\nHaré simplemente todo lo que pueda hacer.”",
 {"rt2"},
 },
 },
@@ -640,7 +640,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Ese mundo se perdió cuando apareciste.Pero aún después de retirarte, jamás pude\nrecuperar esos colores.”",
+"“Ese mundo se perdió cuando apareciste.\nPero aún después de retirarte, jamás pude recuperar esos colores.”",
 {"rt2"},
 },
 },
@@ -657,7 +657,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Si logro vencerte después de tu retorno a la escena, quizá pueda volver algún\ndía a reencontrarme con mi mundo.”",
+"“Si logro vencerte después de tu retorno a la escena, quizá pueda\nreencontrarme algún día con mi mundo.”",
 {"rt2"},
 },
 },
@@ -1043,7 +1043,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ah, ¿estos? Pues, no, está bien.\nNo me gustaron, así que pensé en pintarlos de blanco y volver a usarlos como lienzo, pero hasta ahí.”",
+"“Ah, ¿estos? Pues, no, está bien.\nNo me gustaron, así que pensé en pintarlos de blanco y volver a usarlos\ncomo lienzo, pero hasta ahí.”",
 {"rt2"},
 },
 },
@@ -1196,7 +1196,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Nada en particular.Solo quería que me dieras la luna.”",
+"“Nada en particular.\nSolo quería que me dieras la luna.”",
 {"rt2"},
 },
 },

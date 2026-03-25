@@ -36,7 +36,7 @@ block_00002={
 text={
 ja={
 {
-"Según el reglamento, el autor correspondiente debía subir al escenario al\nexhibirse su cuadro. El primero era Shouzou Sakamoto, sin embargo se\nencontraba fumando y la presentación se realizó sin él.",
+"Según el reglamento, el autor correspondiente debía subir al escenario al\nexhibirse su cuadro. El primero era Shouzou Sakamoto, pero se\nencontraba fumando y la presentación se realizó sin él.",
 {"rt2"},
 },
 },
@@ -127,7 +127,7 @@ block_00009={
 text={
 ja={
 {
-"En el ensayo nos explicaron todo el proceso, pero de igual forma...Normalmente\nlas presentaciones de las exposiciones no se realizan en un escenario.",
+"En el ensayo nos explicaron todo el proceso, pero de igual forma...\nNormalmente las presentaciones de las exposiciones no se realizan en un escenario.",
 {"rt2"},
 },
 },
@@ -153,7 +153,7 @@ block_00011={
 text={
 ja={
 {
-"Y mientras pensaba en eso, alguien del personal me dio la señal para salir.",
+"Y mientras pensaba eso, alguien del personal me dio la señal para salir.",
 {"rt2"},
 },
 },
@@ -636,7 +636,7 @@ vo={
 ja={
 {
 name={"Presentador"},
-"“Quiero decir... Este ilusorio enjambre de mariposas, y el remolino... No soy\nquien para decir esto, pero me traen a la mente la muerte.”",
+"“Quiero decir... Este ilusorio enjambre de mariposas, y el remolino... No soy\nquién para decir esto, pero me traen a la mente la muerte.”",
 {"rt2"},
 },
 },
@@ -770,7 +770,7 @@ block_00054={
 text={
 ja={
 {
-"Pero a juzgar por esta reacción,no cabe duda de que logré despertar algo\nparecido.",
+"Pero a juzgar por esta reacción,\nno cabe duda de que logré despertar algo parecido.",
 {"rt2"},
 },
 },
@@ -814,7 +814,7 @@ block_00057={
 text={
 ja={
 {
-"Hay una famosa obra del pintor japonés Gyoushu Hayami.Esta se llama 'Enbu'\n(Danza de las llamas)",
+"Hay una famosa obra del pintor japonés Gyoushu Hayami.Esta se llama\n'Enbu' (Danza de las llamas.)",
 {"rt2"},
 },
 },
@@ -1193,7 +1193,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“¡Hombre, vaya semejante cuadro que has pintado, diablooos!”",
+"“¡Hombre, semejante cuadro que has pintado, diablooos!”",
 {"rt2"},
 },
 },
@@ -1660,7 +1660,7 @@ block_00116={
 text={
 ja={
 {
-"Pero dejan una fuerte impresión, como si intentaran acercarse.Algo ardiente,\nenloquecedor...",
+"Pero dejan una fuerte impresión, como si intentaran acercarse.\nAlgo ardiente, enloquecedor...",
 {"rt2"},
 },
 },
@@ -1673,7 +1673,7 @@ block_00117={
 text={
 ja={
 {
-"Parecieran bambolearse, pero también parecen inmoviles. Parecen suaves al\ntacto, pero también filosos como el acero. Es como si goteara sangre, pero\ntambién como un instante congelado...",
+"Parecieran bambolearse, pero también parecen inmóviles. Parecen suaves al\ntacto, pero también filosos como el acero. Es como si goteara sangre, pero\ntambién como un instante congelado...",
 {"rt2"},
 },
 },
@@ -1725,7 +1725,7 @@ block_00121={
 text={
 ja={
 {
-"No, si es por eso no cabe duda alguna de que mi cuadro 'Soñando con mariposas'\nes superior en estructura, presentación y técnica.",
+"No, si es por eso, no cabe duda alguna de que mi cuadro, 'Soñando con mariposas',\nes superior en estructura, presentación y técnica.",
 {"rt2"},
 },
 },
@@ -2040,7 +2040,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“El público se agitaría si fuese un cuadro difícil.Se escucharía barullo.”",
+"“El público se agitaría si fuese un cuadro difícil.\nSe escucharía barullo.”",
 {"rt2"},
 },
 },
@@ -2227,7 +2227,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Sí, aunque también por la influencia del japonismo en el impresionismo... De\nlos ukiyoe y eso.”",
+"“Sí, aunque también por la influencia del japonismo en el impresionismo... De\nlos ukiyo-e y eso.”",
 {"rt2"},
 },
 },
@@ -2244,7 +2244,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“Pues sí, los ukiyoe eran arte popular...”",
+"“Pues sí, los ukiyo-e eran arte popular...”",
 {"rt2"},
 },
 },
@@ -2329,7 +2329,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Sí, bueno, eso diría un artista. Aunque me pregunto como juzgará Moore ese\ncuadro a final de cuentas.”",
+"“Sí, bueno, eso diría un artista. Aunque me pregunto cómo juzgará Moore ese\ncuadro a final de cuentas.”",
 {"rt2"},
 },
 },
@@ -2498,7 +2498,7 @@ block_00171={
 text={
 ja={
 {
-"Aún mientras el presentador hablaba el teatro estaba en silencio.",
+"Aún mientras el presentador hablaba, el teatro estaba en silencio.",
 {"rt2"},
 },
 },
@@ -2671,7 +2671,7 @@ block_00183={
 text={
 ja={
 {
-"A pesar de ser el primer ganador nacional en tres años,el público no se asombró\ntanto.",
+"A pesar de ser el primer ganador nacional en tres años,\nel público no se asombró tanto.",
 {"rt2"},
 },
 },
@@ -2699,7 +2699,7 @@ block_00185={
 text={
 ja={
 {
-"Las camaras de la prensa no paran de parpadear.",
+"Las cámaras de la prensa no paran de parpadear.",
 {"rt2"},
 },
 },
@@ -2931,7 +2931,7 @@ vo={
 ja={
 {
 name={"Presentador"},
-"“Este premio es uno de altísimo valor, recibido por solo una única persona.Se\ndice que este prioriza más el talento a futuro que el historial de logros.”",
+"“Este premio es uno de altísimo valor, recibido por solo una única persona.\nSe dice que este prioriza más el talento a futuro que el historial de logros.”",
 {"rt2"},
 },
 },
@@ -3045,7 +3045,7 @@ vo={
 ja={
 {
 name={"Presentador"},
-"“¡'Girasoles',de Kei Natsume!”",
+"“¡'Girasoles',\nde Kei Natsume!”",
 {"rt2"},
 },
 },
@@ -3452,7 +3452,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Podríamos decir que es una tierra amada por el arte.O por lo menos muchos\nartistas impresionistas creían eso.”",
+"“Podríamos decir que es una tierra amada por el arte.\nO por lo menos muchos artistas impresionistas creían eso.”",
 {"rt2"},
 },
 },

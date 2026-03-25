@@ -113,7 +113,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“No, antes vamos a Londres. Fue un caso realmente excepcional el suyo, y me han\npedido llevarla primero allá antes que Nueva York.”",
+"“No, antes vamos a Lóndres. Fue un caso realmente excepcional el suyo, y me han\npedido llevarla primero allá antes que Nueva York.”",
 {"rt2"},
 },
 },
@@ -1417,7 +1417,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“La Geidai de Tokyo es mi único objetivo.”",
+"“La Geidai de Tokio es mi único objetivo.”",
 {"rt2"},
 },
 },
@@ -1663,7 +1663,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues, a nivel internacional no hay premio mayor que ese.”",
+"“Pues a nivel internacional no hay premio mayor que ese.”",
 {"rt2"},
 },
 },
@@ -2069,7 +2069,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Y probablemente, ni Kei Matsume ni Rin Misakura podrán destruirlo.”",
+"“Y probablemente, ni Kei Natsume ni Rin Misakura podrán destruirlo.”",
 {"rt2"},
 },
 },

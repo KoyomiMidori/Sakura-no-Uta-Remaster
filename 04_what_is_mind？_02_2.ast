@@ -121,7 +121,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“Aunque, según he escuchado aún no paran de venir hombres a confesársele. Es una\npreciosura, después de todo.”",
+"“Aunque según he escuchado, aún no paran de venir hombres a confesársele. Es una\npreciosura, después de todo.”",
 {"rt2"},
 },
 },
@@ -155,7 +155,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“Aunque supongo que para alguien de una clase tan alta como ella no hay valor\nalguno en tratar con nosotros.”",
+"“Aunque supongo que para alguien de una clase tan alta como ella, no hay valor\nalguno en tratar con nosotros.”",
 {"rt2"},
 },
 },
@@ -190,7 +190,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“No la odian. Al contrario, le tienen miedo. Si bien la familia Nakamura tiene\nprestigio, también es famosa por estar inmiscuida en asuntos con la Yakuza.”",
+"“No la odian. Al contrario, le tienen miedo. Si bien la familia Nakamura tiene\nprestigio, también es famosa por estar inmiscuida en asuntos con la yakuza.”",
 {"rt2"},
 },
 },
@@ -521,7 +521,7 @@ block_00030={
 text={
 ja={
 {
-"No era supervisor ni nada por el estilo, pero no tenía a donde más ir, y por\neso frecuentaba el salón de arte.",
+"No era supervisor ni nada por el estilo, pero no tenía a dónde más ir, y por\neso frecuentaba el salón de arte.",
 {"rt2"},
 },
 },
@@ -1636,7 +1636,7 @@ block_00102={
 text={
 ja={
 {
-"A mi no me pareció así.",
+"A mí no me pareció así.",
 {"rt2"},
 },
 },
@@ -1727,7 +1727,7 @@ block_00109={
 text={
 ja={
 {
-"Lo que me pareció ver ahí no era a alguien luchando por sobrevivir. Sino a\nalguien intentando buscar las respuestas de este mundo en su tiempo libre.",
+"Lo que me pareció ver ahí no era a alguien luchando por sobrevivir, sino a\nalguien intentando buscar las respuestas de este mundo en su tiempo libre.",
 {"rt2"},
 },
 },
@@ -2246,7 +2246,7 @@ vo={
 ja={
 {
 name={"Saki"},
-"“Lo sé... aunque, vivir sin presión alguna como tú también sería problemático.”",
+"“Lo sé... aunque vivir sin presión alguna como tú también sería problemático.”",
 {"rt2"},
 },
 },
@@ -2693,7 +2693,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Eso no es cierto. Confío en ti, Saki. Si tu lo dices yo lo creeré.”",
+"“Eso no es cierto. Confío en ti, Saki. Si tú lo dices, yo lo creeré.”",
 {"rt2"},
 },
 },
@@ -3353,7 +3353,7 @@ vo={
 ja={
 {
 name={"???"},
-"“¡Si sigues intentando acercarte a Mizuna nee-sama haré que te duela más!”",
+"“¡Si sigues intentando acercarte a Mizuna nee-sama, haré que te duela más!”",
 {"rt2"},
 },
 },
@@ -3932,7 +3932,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“¡Wa, wawawah, espera, todo menos eso! ¡Si vuelves a darme otro golpe de esos no\naguantaré mucho!”",
+"“¡Wa, wawawah, espera, todo menos eso! ¡Si vuelves a darme otro golpe de esos, no\naguantaré mucho!”",
 {"rt2"},
 },
 },

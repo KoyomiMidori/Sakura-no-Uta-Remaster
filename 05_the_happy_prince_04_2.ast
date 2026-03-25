@@ -22,7 +22,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“......”",
+"“...”",
 {"rt2"},
 },
 },
@@ -234,7 +234,7 @@ block_00013={
 {"text"},
 select={
 ja={
-"Supongo que con lo largo de tu falda tampoco se verán tus pantaletas.",
+"Supongo que con lo largo de tu falda tampoco se verán tus pantis.",
 "Solo asegúrate de no arrugar mucho la falda.",
 {"rt2"},
 },
@@ -248,7 +248,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, bueno. Supongo que con lo largo de tu falda tampoco se verán tus\npantaletas.”",
+"“Sí, bueno. Supongo que con lo largo de tu falda tampoco se verán tus\npantis.”",
 {"rt2"},
 },
 },
@@ -504,7 +504,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¿--?! ¡¿Q-Qué haces?!”",
+"“¡¿Mm?! ¡¿Q-Qué haces?!”",
 {"rt2"},
 },
 },
@@ -862,7 +862,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Está bien que hagas esto? Si alguien ve a un alumno haciendo esto con su\nprofesora podría malentender las cosas.”",
+"“¿Está bien que hagas esto? Si alguien ve a un alumno haciendo esto con su\nprofesora, podría malentender las cosas.”",
 {"rt2"},
 },
 },
@@ -1017,7 +1017,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ya veo, tiene sentido. Pero, pase lo que pase debes llamarme 'profesora' en el\ncolegio.”",
+"“Ya veo, tiene sentido. Pero pase lo que pase debes llamarme 'profesora' en el\ncolegio.”",
 {"rt2"},
 },
 },
@@ -1031,7 +1031,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Está bien, cuidaré de hacerlo de ahora en adelante.”",
+"“Está bien, procuraré hacerlo de ahora en adelante.”",
 {"rt2"},
 },
 },
@@ -1155,7 +1155,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Sí. Por eso al ver la expresión que tienes recordé a Mizuna-san,a mi hermana\nMizuna nee-sama.”",
+"“Sí. Por eso al ver la expresión que tienes recordé a Mizuna-san, a\nMizuna nee-sama.”",
 {"rt2"},
 },
 },
@@ -1186,7 +1186,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“A diferencia de Kenichiro, Nee-sama se preocupaba con frecuencia por varias\ncosas. Siempre se preocupaba, pensaba, y al final lograba conseguir una\nsolución.”",
+"“A diferencia de Kenichiro, nee-sama se preocupaba con frecuencia por varias\ncosas. Siempre se preocupaba, pensaba, y al final lograba conseguir una\nsolución.”",
 {"rt2"},
 },
 },
@@ -1237,7 +1237,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Pero no me molestaba ver a nee-sama pensando tanto.En esos momentos solía\nmolestarla.”",
+"“Pero no me molestaba ver a nee-sama pensando tanto.\nEn esos momentos solía molestarla.”",
 {"rt2"},
 },
 },
@@ -1383,7 +1383,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Su principal preocupación era de no involucrarlo en lo nuestro. Aunque, creo\nque también había felicidad en ella.”",
+"“Su principal preocupación era no involucrarlo en lo nuestro. Aunque creo\nque también había felicidad en ella.”",
 {"rt2"},
 },
 },
@@ -1866,7 +1866,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Fue ella además quien me contrató como profesora acá.”",
+"“Fue ella quien me contrató como profesora acá.”",
 {"rt2"},
 },
 },
@@ -1897,7 +1897,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Así es. Habrá tenido sus razones, supongo.Pero de igual manera le estoy\nagradecida.”",
+"“Así es. Habrá tenido sus razones, supongo.\nPero de igual manera le estoy agradecida.”",
 {"rt2"},
 },
 },
@@ -2305,7 +2305,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Pero aun así siempre consigue un repuesto y vuelve a montarla. Es el peligro\nmismo hecho persona.”",
+"“Pero aun así, siempre consigue un repuesto y vuelve a montarla. Es el peligro\nmismo hecho persona.”",
 {"rt2"},
 },
 },
@@ -2435,7 +2435,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Me pongo a pensar, en qué pasaría con los dos si decidieras correr esa\ncarrera...”",
+"“Me pongo a pensar en qué pasaría con los dos si decidieras correr esa\ncarrera...”",
 {"rt2"},
 },
 },
@@ -2500,7 +2500,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Si ambos desearan eso no me importaría tanto, por supuesto.”",
+"“Si ambos desearan eso, no me importaría tanto, por supuesto.”",
 {"rt2"},
 },
 },
@@ -2829,7 +2829,7 @@ block_00176={
 text={
 ja={
 {
-"El lugar de dónde salí era...",
+"El lugar de donde salí era...",
 {"rt2"},
 },
 },
@@ -2928,7 +2928,7 @@ block_00182={
 text={
 ja={
 {
-"Al bajar la vista mis ojos dieron con la blanca ropa interior de Ai.",
+"Al bajar la vista, mis ojos dieron con la blanca ropa interior de Ai.",
 {"rt2"},
 },
 },
@@ -2941,7 +2941,7 @@ block_00183={
 text={
 ja={
 {
-"Con esa falda tan larga, jamás creí que podría ver sus pantaletas...",
+"Con esa falda tan larga, jamás creí que podría ver sus pantis...",
 {"rt2"},
 },
 },
@@ -3543,7 +3543,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ni tú ni nadie más ha intentado acercarse a mi antes, mi popularidad con el\nsexo opuesto es cero. Por eso soy algo débil ante esos gestos.”",
+"“Ni tú ni nadie más ha intentado acercarse a mí antes, mi popularidad con el\nsexo opuesto es cero. Por eso soy algo débil ante esos gestos.”",
 {"rt2"},
 },
 },
@@ -3794,7 +3794,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“A esa señora le encantaba decir que los Kusanagi son fieles a una sola persona,\ny les ha lavado el cerebro a toda la familia con eso... Cielos...”",
+"“A esa señora le encantaba decir que los Kusanagi son fieles a una sola persona,\ny le ha lavado el cerebro a toda la familia con eso... Cielos...”",
 {"rt2"},
 },
 },
@@ -3915,7 +3915,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Déjame decirte que estás muy equivocada, y te explico el porqué.Eres hermosa,\npopular entre hombres y mujeres, e incluso yo te veo como toda una mujer.”",
+"“Déjame decirte que estás muy equivocada, y te explico el porqué.\nEres hermosa, popular entre hombres y mujeres, e incluso yo te veo como\ntoda una mujer.”",
 {"rt2"},
 },
 },
@@ -3977,7 +3977,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si sigues diciendo esas tonterías me quedaré a vivir de verdad dentro de esta\nfalda.”",
+"“Si sigues diciendo esas tonterías, me quedaré a vivir de verdad dentro de esta\nfalda.”",
 {"rt2"},
 },
 },
@@ -4097,7 +4097,7 @@ block_00256={
 text={
 ja={
 {
-"Y por eso mismo sé que como mujer, es una preciosura.",
+"Y por eso mismo sé que como mujer es una preciosura.",
 {"rt2"},
 },
 },
@@ -4171,7 +4171,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y sé que ya te lo he dicho varias veces, pero no lo olvides.Eres hermosa, Ai, y\nes muy fácil que te vea como una mujer.”",
+"“Y sé que ya te lo he dicho varias veces, pero no lo olvides.\nEres hermosa, Ai, y es muy fácil que te vea como una mujer.”",
 {"rt2"},
 },
 },
@@ -4233,7 +4233,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, no sé cuando podría perder el control.”",
+"“Sí, no sé cuándo podría perder el control.”",
 {"rt2"},
 },
 },

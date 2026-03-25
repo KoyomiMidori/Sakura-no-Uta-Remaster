@@ -911,7 +911,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Oh, curioso? Aunque ya debes saber qué género es, ¿no? Mods, y eso.”",
+"“¿Oh, te da curiosidad? Aunque ya debes saber qué género es, ¿no? Mods, y eso.”",
 {"rt2"},
 },
 },
@@ -962,7 +962,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Es un movimiento cultural donde la gente monta Vespas como la mía, Lambrettas y\notras motos super guays.”",
+"“Es un movimiento cultural donde la gente monta Vespas como la mía, Lambrettas y\notras motos súper guays.”",
 {"rt2"},
 },
 },
@@ -995,7 +995,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Pues, tomará algo de tiempo explicarlo... ahhh, pero sí tanto quieres saber de\nla cultura Mods entonces te enseñaré.”",
+"“Pues, tomará algo de tiempo explicarlo... ahhh, pero si tanto quieres saber de\nla cultura Mods, entonces te enseñaré.”",
 {"rt2"},
 },
 },
@@ -1041,7 +1041,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Música y motocicletas, déjame adivinar. Es como los Yokohama Ginb*e para los\nBszoku. O lo que es Kishid*n para los malandrines, o algo así.”",
+"“Música y motocicletas, déjame adivinar. Es como los Yokohama Ginb*e para los\nBosozoku. O lo que es Kishid*n para los malandrines, o algo así.”",
 {"rt2"},
 },
 },
@@ -1072,7 +1072,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Cómo puedes decir que no es lo mismo si no conoces ninguna de las dos?. ¡Es lo\nmismo! Fin, se acabó esta discusión.”",
+"“¿Cómo puedes decir que no es lo mismo si no conoces ninguna de las dos? ¡Es lo\nmismo! Fin, se acabó esta discusión.”",
 {"rt2"},
 },
 },
@@ -1368,7 +1368,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“A Gerhard Richter sí lo conozco. Es un artista de Alemania Oriental, famoso\ntambién por su record de obra más cara subastada por un artista vivo. No sé\nqué es eso de Sonic, lo que sea.”",
+"“A Gerhard Richter sí lo conozco. Es un artista de Alemania Oriental, famoso\ntambién por su récord de obra más cara subastada por un artista vivo. No sé\nqué es eso de Sonic lo que sea.”",
 {"rt2"},
 },
 },
@@ -1611,7 +1611,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“E-Eh~ E-Escuchándote decir eso me hizo verte como un perdedor, solo por un\ninstante.”",
+"“E-Eh~ E-Escucharte decir eso me hizo verte como un perdedor, solo por un\ninstante.”",
 {"rt2"},
 },
 },
@@ -1767,7 +1767,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Vamos, vamos, no me mientas~ No hay forma de que Nee-chan pueda preparar algo\nasí.”",
+"“Vamos, vamos, no me mientas~ No hay forma de que nee-chan pueda preparar algo\nasí.”",
 {"rt2"},
 },
 },
@@ -1863,7 +1863,7 @@ block_00120={
 text={
 ja={
 {
-"Después de esos años de aprendizaje el primer platillo que le preparó a Kei era\npracticamente carbón. Le tomó unos años más para perfeccionarlo, al\nparecer...",
+"Después de esos años de aprendizaje, el primer platillo que le preparó a Kei era\npracticamente carbón. Le tomó unos años más para perfeccionarlo, al\nparecer...",
 {"rt2"},
 },
 },
@@ -2148,7 +2148,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Quizá no sea bueno que diga esto, pero... pero, la verdad es que me importa un\nbledo la Exposición Moore.”",
+"“Quizá no sea bueno que diga esto, pero... la verdad es que me importa un\nbledo la Exposición Moore.”",
 {"rt2"},
 },
 },
@@ -2561,7 +2561,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pero es irónico. Fue cuando perdió ese gran motivo y quedó solo con el arte\ncomo su herramienta, que finalmente se convirtió en un artista de renombre\ninternacional.”",
+"“Pero es irónico. Fue cuando perdió ese gran motivo y quedó solo con el arte\ncomo su herramienta que finalmente se convirtió en un artista de renombre\ninternacional.”",
 {"rt2"},
 },
 },
@@ -2603,7 +2603,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Una vez esa fruta madura esta cae al suelo, solo para refrescar a las personas.”",
+"“Una vez esa fruta madura está, cae al suelo solo para refrescar a las personas.”",
 {"rt2"},
 },
 },
@@ -2631,7 +2631,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y esa exposición Moore en la que están ustedes tan enfrascados, funciona\nexactamente así.”",
+"“Y esa Exposición Moore en la que están ustedes tan enfrascados, funciona\nexactamente así.”",
 {"rt2"},
 },
 },
@@ -2663,7 +2663,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Por eso insisto, que aun compitiendo los dos no ocurrirá tan fácilmente.”",
+"“Por eso insisto, que aun compitiendo los dos, no ocurrirá tan fácilmente.”",
 {"rt2"},
 },
 },
@@ -2814,7 +2814,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Pero juntos los dos podremos lograrlo sin llegar a eso.”",
+"“Pero juntos los dos, podremos lograrlo sin llegar a eso.”",
 {"rt2"},
 },
 },
@@ -3028,7 +3028,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Qué, qué pasa? ¿Me estás invitando a un viaje de graduación o algo así? Pero\nlos Natsume somos pobres. ¡Ya veo, así que estás tras el premio en metálico\nde la exposición Moore!”",
+"“¿Qué, qué pasa? ¿Me estás invitando a un viaje de graduación o algo así? Pero\nlos Natsume somos pobres. ¡Ya veo, así que estás tras el premio en metálico\nde la Exposición Moore!”",
 {"rt2"},
 },
 },
@@ -3125,7 +3125,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"*Tch*",
+"*Tch.*",
 {"rt2"},
 },
 },
@@ -3168,7 +3168,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque, obviamente que él tenía toda la intención de llegar a serlo.”",
+"“Aunque obviamente él tenía toda la intención de llegar a serlo.”",
 {"rt2"},
 },
 },

@@ -218,7 +218,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Hace falta que te lo explique? Tu muy bien sabes distinguir lo auténtico de la\nbasura, ¿no es suficiente ya con esto?”",
+"“¿Hace falta que te lo explique? Tú muy bien sabes distinguir lo auténtico de la\nbasura, ¿no es suficiente ya con esto?”",
 {"rt2"},
 },
 },
@@ -885,7 +885,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Qué mujer más extraña eres, eh. ¿Por qué me estás pidiendo que me enoje\ncontigo?”",
+"“Qué mujer más extraña eres. ¿Por qué me estás pidiendo que me enoje\ncontigo?”",
 {"rt2"},
 },
 },
@@ -908,7 +908,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Enfádate, aunque sea un poco. Por favor, ¡o sino!... Ahora que no puedo vivir\nen mi propio mundo al ver tus pinturas... sería muy humillante.”",
+"“Enfádate, aunque sea un poco. Por favor, ¡o si no!... Ahora que no puedo vivir\nen mi propio mundo al ver tus pinturas... sería muy humillante.”",
 {"rt2"},
 },
 },
@@ -1147,7 +1147,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Tú, tú solo... lo único que logras... es, que yo... que yo... me ponga más\ntriste...”",
+"“Tú, tú solo... lo único que logras... es que yo... que yo... me ponga más\ntriste...”",
 {"rt2"},
 },
 },
@@ -1304,7 +1304,7 @@ block_00078={
 text={
 ja={
 {
-"El sol casi imperceptible,era ya de noche.",
+"El sol era casi imperceptible,\nera ya de noche.",
 {"rt2"},
 },
 },
@@ -1565,7 +1565,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"He hablado con muchas más personas de las que te imaginas. Es mi trabajo...",
+"“He hablado con muchas más personas de las que te imaginas. Es mi trabajo...”",
 {"rt2"},
 },
 },
@@ -1601,7 +1601,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Hay más cuadros que la vez pasada que vine... aunque, no parecen ser tuyos.”",
+"“Hay más cuadros que la vez pasada que vine... aunque no parecen ser tuyos.”",
 {"rt2"},
 },
 },
@@ -1641,7 +1641,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Dejaste de pintar, eh... fufufu, sí. Lo había olvidado.”",
+"“Dejaste de pintar, eh... Hmph, sí. Lo había olvidado.”",
 {"rt2"},
 },
 },
@@ -2174,7 +2174,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Buena decisión. Sería una perdida de tiempo, después de todo...”",
+"“Buena decisión. Sería una pérdida de tiempo, después de todo...”",
 {"rt2"},
 },
 },
@@ -2255,7 +2255,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Aunque, jamás vendría a los extremos del oriente solo para ver a ese jovencito.”",
+"“Aunque jamás vendría a los extremos del oriente solo para ver a ese jovencito.”",
 {"rt2"},
 },
 },
@@ -2288,7 +2288,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Sí, así es. Aunque, tenía la opción de ocuparme de un bloque distinto.”",
+"“Sí, así es. Aunque tenía la opción de ocuparme de un bloque distinto.”",
 {"rt2"},
 },
 },
@@ -2758,7 +2758,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Qué complicado todo eso, eh. No entendí nada.”",
+"“Qué complicado todo eso. No entendí nada.”",
 {"rt2"},
 },
 },
@@ -2974,7 +2974,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“En el centro de la enorme metrópolis de Tokyo está el palacio imperial, un\nespacio vacío, sin más que bosques a lo largo de su extensión.”",
+"“En el centro de la enorme metrópolis de Tokio está el palacio imperial, un\nespacio vacío, sin más que bosques a lo largo de su extensión.”",
 {"rt2"},
 },
 },
@@ -3362,7 +3362,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Aun si Kenichiro Kusanagi no me dijera nada al respecto, si se trata de algo de\nvalor lo descubriré tarde o temprano.”",
+"“Aun si Kenichiro Kusanagi no me dijera nada al respecto, si se trata de algo de\nvalor, lo descubriré tarde o temprano.”",
 {"rt2"},
 },
 },
@@ -3738,7 +3738,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Eso no es de importancia ahora. Así que estabas en el taller eh, Naoya.”",
+"“Eso no es de importancia ahora. Así que estabas en el taller, Naoya.”",
 {"rt2"},
 },
 },
@@ -3838,7 +3838,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Da igual. Este almacén es genial, eh. Hace que te concentres.”",
+"“Da igual. Este almacén es genial. Hace que te concentres.”",
 {"rt2"},
 },
 },
@@ -3984,7 +3984,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Pero como te dije ayer, si no corro con toda mis fuerzas no podré alcanzarte.”",
+"“Pero como te dije ayer, si no corro con toda mis fuerzas, no podré alcanzarte.”",
 {"rt2"},
 },
 },
@@ -4063,7 +4063,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sería una perdida de tiempo que lo hiciera, me dijo.”",
+"“Sería una pérdida de tiempo que lo hiciera, me dijo.”",
 {"rt2"},
 },
 },
@@ -4318,7 +4318,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Esa idea es ridícula, por Dios... De verdad que nunca piensas las cosas, eh...”",
+"“Esa idea es ridícula, por Dios... De verdad que nunca piensas las cosas...”",
 {"rt2"},
 },
 },
@@ -4431,7 +4431,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque, en cualquier momento las reunirán y se las llevaran del apartamento.”",
+"“Aunque en cualquier momento las reunirán y se las llevarán del apartamento.”",
 {"rt2"},
 },
 },
@@ -4536,7 +4536,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues si me vas a dar el taller a mí necesitarás algún lugar donde pintar, ¿no?”",
+"“Pues si me vas a dar el taller a mí, necesitarás algún lugar donde pintar, ¿no?”",
 {"rt2"},
 },
 },
@@ -4648,7 +4648,7 @@ block_00283={
 text={
 ja={
 {
-"¿Será que el talento de Kei podrá salir de la cascara y extender sus alas? ¿O\nmorirá sin salir de esa cascara?",
+"¿Será que el talento de Kei podrá salir de la cáscara y extender sus alas? ¿O\nmorirá sin salir de esa cáscara?",
 {"rt2"},
 },
 },
@@ -4674,7 +4674,7 @@ block_00285={
 text={
 ja={
 {
-"Aun así, sabiendo que pintaré podría elevar las posibilidades de que Kei\nemprenda vuelo.",
+"Aun así, saber que pintaré podría elevar las posibilidades de que Kei\nemprenda vuelo.",
 {"rt2"},
 },
 },
@@ -4797,7 +4797,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Santo cielo, realmente das asco cuando dices esas cosas, eh.”",
+"“Santo cielo, realmente das asco cuando dices esas cosas.”",
 {"rt2"},
 },
 },

@@ -44,7 +44,7 @@ block_00002={
 text={
 ja={
 {
-"Hace varios años, cierta estrella de rock se preguntaba '¿Y qué demonios\ncambiará al graduarme?'.",
+"Hace varios años, cierta estrella de rock se preguntaba '¿Y qué demonios\ncambiará al graduarme?'",
 {"rt2"},
 },
 },
@@ -190,7 +190,7 @@ block_00013={
 text={
 ja={
 {
-"Aunque, ese frío de invierno regresa apenas cae el sol...",
+"Aunque ese frío de invierno regresa apenas cae el sol...",
 {"rt2"},
 },
 },
@@ -322,7 +322,7 @@ block_00023={
 text={
 ja={
 {
-"No he tenido a ningún estudiante venir llorando a reportarse conmigo.La\nceremonia de graduación era algo sin importancia para mí.",
+"No he tenido a ningún estudiante venir llorando a reportarse conmigo.\nLa ceremonia de graduación era algo sin importancia para mí.",
 {"rt2"},
 },
 },
@@ -400,7 +400,7 @@ block_00029={
 text={
 ja={
 {
-"El humo se esfuma en el cielo.Un débil viento se lo lleva, desapareciéndolo\nrápidamente de mi vista.",
+"El humo se esfuma en el cielo.\nUn débil viento se lo lleva, desapareciéndolo rápidamente de mi vista.",
 {"rt2"},
 },
 },
@@ -549,7 +549,7 @@ vo={
 ja={
 {
 name={"???"},
-"“¡Ese no es el problema! Además, este colegio tiene una sala de fumadores. Si va\na fumar hágalo allá.”",
+"“¡Ese no es el problema! Además, este colegio tiene una sala de fumadores. Si va\na fumar, hágalo allá.”",
 {"rt2"},
 },
 },
@@ -1097,7 +1097,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Es broma, en parte.Se meterá en problemas si algún otro profesor o alumno lo\ndescubre,y estoy vigilando por su bien.”",
+"“Es broma, en parte.\nSe meterá en problemas si algún otro profesor o alumno lo descubre,\ny estoy vigilando por su bien.”",
 {"rt2"},
 },
 },
@@ -3173,7 +3173,7 @@ block_00200={
 text={
 ja={
 {
-"Ese que tantas vivencias me dio con Kei, Toritani, Hikawa, Kawachino, Akashi y\nThomas,y con la ahora famosa Rin Misakura.Ese club de arte donde pasé tanto\ntiempo con todos, ya no existe.",
+"Ese que tantas vivencias me dio con Kei, Toritani, Hikawa, Kawachino, Akashi y\nThomas, y con la ahora famosa Rin Misakura.\nEse club de arte donde pasé tanto tiempo con todos, ya no existe.",
 {"rt2"},
 },
 },
@@ -3186,7 +3186,7 @@ block_00201={
 text={
 ja={
 {
-"Según parece, después de graduarnos Hikawa y Kawachino se encargaron de él.El\nlogro de Rin hizo que el número de aspirantes al club sobrepasara los cien, o\nalgo así.",
+"Según parece, después de graduarnos, Hikawa y Kawachino se encargaron de él.\nEl logro de Rin hizo que el número de aspirantes al club sobrepasara los cien, o\nalgo así.",
 {"rt2"},
 },
 },
@@ -3238,7 +3238,7 @@ block_00205={
 text={
 ja={
 {
-"Mientras él salía yo entraba, y no pude despedirme.",
+"Mientras él salía, yo entraba, y no pude despedirme.",
 {"rt2"},
 },
 },
@@ -3264,7 +3264,7 @@ block_00207={
 text={
 ja={
 {
-"En cualquier momento podré verlo, pensé, y no se me ocurrió que sería la última\nvez que lo vería.Es algo irritante eso.",
+"En cualquier momento podré verlo, pensé, y no se me ocurrió que sería la última\nvez que lo vería.\nEs algo irritante eso.",
 {"rt2"},
 },
 },
@@ -3698,7 +3698,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Pero, podrían despedirlo...”",
+"“Pero podrían despedirlo...”",
 {"rt2"},
 },
 },
@@ -3712,7 +3712,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Eso me está matando del miedo! Ahora que me he enterado de eso tiemblo de\nterror.”",
+"“¡Eso me está matando del miedo! Ahora que me he enterado de eso, tiemblo de\nterror.”",
 {"rt2"},
 },
 },
@@ -3879,7 +3879,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“... Algún lugar lejano, distinto a este... eh.”",
+"“... Algún lugar lejano, distinto a este...”",
 {"rt2"},
 },
 },

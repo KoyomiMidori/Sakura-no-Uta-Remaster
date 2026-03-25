@@ -73,7 +73,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Ya veo. Solo espero que no se presione demasiado. Siempre que se inmersa en\nalgo pierde la noción de sus alrededores.”",
+"“Ya veo. Solo espero que no se presione demasiado. Siempre que se inmersa en\nalgo, pierde la noción de sus alrededores.”",
 {"rt2"},
 },
 },
@@ -136,7 +136,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Antes de mudarse al apartamento en Sakuragahara siempre que venía a Japón\npintaba en ese taller, siempre.”",
+"“Antes de mudarse al apartamento en Sakuragahara, siempre que venía a Japón,\npintaba en ese taller.”",
 {"rt2"},
 },
 },
@@ -169,7 +169,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sé que en ese entonces el viejo pintaba en el taller, pero no sabía que tú le\nllevabas la comida... es algo raro.”",
+"“Sé que en ese entonces el viejo pintaba en el taller, pero no sabía que tú le\nllevabas la comida... Es algo raro.”",
 {"rt2"},
 },
 },
@@ -314,7 +314,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Solo bromeaba, no lo tomes a mal. De no tener ese pretexto a mano no hubiese\nregresado.”",
+"“Solo bromeaba, no lo tomes a mal. De no tener ese pretexto a mano, no hubiese\nregresado.”",
 {"rt2"},
 },
 },
@@ -420,7 +420,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Aunque el día que te invité a venir la idea de que viviríamos juntos de nuevo\nse me cruzo por la cabeza, y me alegré.”",
+"“Aunque el día que te invité a venir, la idea de que viviríamos juntos de nuevo\nse me cruzo por la cabeza, y me alegré.”",
 {"rt2"},
 },
 },
@@ -1608,7 +1608,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿En serio tengo que... cerrar, los ojos?”",
+"“¿En serio tengo que... cerrar los ojos?”",
 {"rt2"},
 },
 },
@@ -2017,7 +2017,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“E-Eso no es lo que tu crees. No.”",
+"“E-Eso no es lo que tú crees. No.”",
 {"rt2"},
 },
 },
@@ -2054,7 +2054,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Esto... Naoya, llevo viéndote desde que eras un bebé. Así que eres, sí, eres\ncomo un hermano pequeño para mí.”",
+"“Esto... Naoya, llevo viéndote desde que eras un bebé. Así que eres, sí, eres\ncomo un hermano menor para mí.”",
 {"rt2"},
 },
 },
@@ -2606,7 +2606,7 @@ block_00151={
 text={
 ja={
 {
-"Comenzó el segundo periodo.",
+"Comenzó el segundo período.",
 {"rt2"},
 },
 },

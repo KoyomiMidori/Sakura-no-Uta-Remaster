@@ -556,7 +556,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“... Siempre que sale Kei en el tema de conversación tus palabras toman\nintensidad, eh, Toritani.”",
+"“... Siempre que sale Kei en el tema de conversación tus palabras toman\nintensidad, Toritani.”",
 {"rt2"},
 },
 },
@@ -672,7 +672,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí. Si no tiene que venir tampoco tendrá que montarse en esa motocicleta, ¿no?”",
+"“Sí. Si no tiene que venir, tampoco tendrá que montarse en esa motocicleta, ¿no?”",
 {"rt2"},
 },
 },
@@ -1835,7 +1835,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Este tipo está esperando por mí...”",
+"“Este tipo está esperándome...”",
 {"rt2"},
 },
 },
@@ -2904,7 +2904,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“... Me encantaba... no, todavía me gusta. Pero, ahora es más dolor que alegría.\nMe encanta, pero hay dolor...”",
+"“... Me encantaba... no, todavía me gusta. Pero ahora es más dolor que alegría.\nMe encanta, pero hay dolor...”",
 {"rt2"},
 },
 },
@@ -2928,7 +2928,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Aunque Kana es toda una pequeña masoquista, así que el dolor suele convertirse\nen placer, ahah.”",
+"“Aunque Kana es toda una pequeña masoquista, así que el dolor suele convertirse\nen placer, aja.”",
 {"rt2"},
 },
 },
@@ -3985,7 +3985,7 @@ block_00250={
 text={
 ja={
 {
-"No sé quién realmente es esta mujer, pero... me hizo entrar en cuenta.",
+"No sé quién es esta mujer, pero... me hizo entrar en cuenta.",
 {"rt2"},
 },
 },
@@ -4024,7 +4024,7 @@ block_00253={
 text={
 ja={
 {
-"Una que se dice, fue creada como una obra póstuma, con el fin de suicidarse.",
+"Una que se dice fue creada como una obra póstuma, con el fin de suicidarse.",
 {"rt2"},
 },
 },

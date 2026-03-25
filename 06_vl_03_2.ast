@@ -972,7 +972,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y un profesor encargado. Que por cierto, siendo profesor a tiempo parcial yo no\npuedo asumir esa labor.”",
+"“Y un profesor encargado. Que por cierto, siendo profesor a tiempo parcial, yo no\npuedo asumir esa labor.”",
 {"rt2"},
 },
 },
@@ -1385,7 +1385,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Para nada. No se compara al de los antiguos senpai del club de arte. Si la\nmemoria no me falla, entre ellos estaba Makoto Toritani, ¿verdad?”",
+"“Para nada. No se compara al de los antiguos senpais del club de arte. Si la\nmemoria no me falla, entre ellos estaba Makoto Toritani, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1469,7 +1469,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Ruriwo-san me contó bastante de todos los logros alcanzados por los senpai.”",
+"“Ruriwo-san me contó bastante de todos los logros alcanzados por los senpais.”",
 {"rt2"},
 },
 },
@@ -1501,7 +1501,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Pero, fue ese dinamismo lo que le dio vida a la milagrosa obra de 'Las huellas\nde los cerezos', ¿o no?”",
+"“Pero fue ese dinamismo lo que le dio vida a la milagrosa obra de 'Las huellas\nde los cerezos', ¿o no?”",
 {"rt2"},
 },
 },
@@ -1589,7 +1589,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Ah, sí, ciertamente la carrera profesional de Misakura-san demostró su\ngenialidad.Pero escuché que hubo otro galardonado más.”",
+"“Ah, sí, ciertamente la carrera profesional de Misakura-san demostró su\ngenialidad.\nPero escuché que hubo otro galardonado más.”",
 {"rt2"},
 },
 },
@@ -1717,7 +1717,7 @@ block_00101={
 text={
 ja={
 {
-"Ruriwo y Suzuna habían bajado sus cabezas.Probablemente no les contaron lo que\nsucedió con la persona que ganó ese premio.",
+"Ruriwo y Suzuna habían bajado sus cabezas.\nProbablemente no les contaron lo que sucedió con la persona que ganó ese premio.",
 {"rt2"},
 },
 },
@@ -1951,7 +1951,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Mejor enfocarnos en el hoy que en el ayer. Sakizaki-kun se tomó la molestia de\nconseguir la autorización.¿Quieren pintar hoy después de clases?”",
+"“Mejor enfocarnos en el hoy que en el ayer. Sakizaki-kun se tomó la molestia de\nconseguir la autorización.\n¿Quieren pintar hoy después de clases?”",
 {"rt2"},
 },
 },
@@ -2007,7 +2007,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Está bien, aunque solo les puedo enseñar las básicas.He decidido no aceptar\nningún aprendiz.”",
+"“Está bien, aunque solo les puedo enseñar las básicas.\nHe decidido no aceptar ningún aprendiz.”",
 {"rt2"},
 },
 },
@@ -2131,7 +2131,7 @@ block_00126={
 text={
 ja={
 {
-"Enseñar acá es parte de mi día a día...Pero, aun así...",
+"Enseñar acá es parte de mi día a día...\nPero aun así...",
 {"rt2"},
 },
 },
@@ -2354,7 +2354,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“¿Fuoh? ¿Kusanagi-chan, te sucede algo?”",
+"“¿Fuoh? Kusanagi-chan, ¿te sucede algo?”",
 {"rt2"},
 },
 },
@@ -2846,7 +2846,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"*risas*...",
+"“Jejeje...”",
 {"rt2"},
 },
 },
@@ -2860,7 +2860,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Kuriyama-kun!¡¿Por qué te ríes?!”",
+"“¡Kuriyama-kun! ¡¿Por qué te ríes?!”",
 {"rt2"},
 },
 },
@@ -3075,7 +3075,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“Mentiroso. Eras super popular. Rina onee-chan se moría por ti.”",
+"“Mentiroso. Eras súper popular. Rina onee-chan se moría por ti.”",
 {"rt2"},
 },
 },
@@ -3114,7 +3114,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Ja, ¿como amigos? Ya veo, ya veo. Creo entender ahora por qué Onee- sama se\nirritaba tanto al verlo a usted.”",
+"“Jaa, ¿como amigos? Ya veo, ya veo. Creo entender ahora por qué onee-sama se\nirritaba tanto al verlo a usted.”",
 {"rt2"},
 },
 },
@@ -3146,7 +3146,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Aunque no lo crea, Yuumi onee-sama lo quería mucho a usted.Creo que fue la\nexcepción en lo que al sexo opuesto concierne.”",
+"“Aunque no lo crea, Yuumi onee-sama lo quería mucho a usted.\nCreo que fue la excepción en lo que al sexo opuesto concierne.”",
 {"rt2"},
 },
 },
@@ -3184,7 +3184,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Ya veo, ahora sale con eso.Me hubiese gustado que Onee-sama le propinara un\ncuchillazo cuando estaba acá aún.”",
+"“Ya veo, ahora sale con eso.\nMe hubiese gustado que onee-sama le propinara un cuchillazo cuando estaba acá.”",
 {"rt2"},
 },
 },
@@ -3358,7 +3358,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“¿Ya lo ve? En estos momentos usted habla como si no fuese asunto suyo.Yo nunca\ndije que onee-sama hablaba solo de usted. Solo mencioné lo que dijo respecto\na usted.”",
+"“¿Ya lo ve? En estos momentos usted habla como si no fuese asunto suyo.\nYo nunca dije que onee-sama hablaba solo de usted. Solo mencioné lo que\ndijo respecto a usted.”",
 {"rt2"},
 },
 },
@@ -3391,7 +3391,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Además, fue mucho antes de eso que Onee-sama comenzó a respetarlo a usted...\nSegún contó, fue después de la orquesta de cerezos y cipreses.”",
+"“Además, fue mucho antes de eso que onee-sama comenzó a respetarlo a usted...\nSegún contó, fue después de la orquesta de cerezos y cipreses.”",
 {"rt2"},
 },
 },
@@ -3499,7 +3499,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No, no, el profesor Kusanagi nunca ha sido así de flojo. Eso era solo mi forma\nde mostrar cordialidad con los demás.”",
+"“No, no, el profesor Kusanagi nunca ha sido así de flojo. Esa era solo mi forma\nde mostrar cordialidad con los demás.”",
 {"rt2"},
 },
 },
@@ -3519,7 +3519,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"*risas*",
+"“Jejeje.”",
 {"rt2"},
 },
 },
@@ -3553,7 +3553,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"“No es nada, solo que, realmente todas lo quieren tanto.”",
+"“No es nada, es que se nota que todas lo quieren tanto.”",
 {"rt2"},
 },
 },
@@ -3838,7 +3838,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Después de aquella vez Ruriwo-san le ha preguntado lo mismo a Kusanagi- sama,\npero la respuesta ha sido siempre no.”",
+"“Después de aquella vez, Ruriwo-san le ha preguntado lo mismo a Kusanagi- sama,\npero la respuesta ha sido siempre no.”",
 {"rt2"},
 },
 },
@@ -4169,7 +4169,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“Si llegas a admitir que no tuviste novia, acabarás como un\nmentiroso.\nKusanagi-chan, ¿no te parece eso indebido como profesor?”",
+"“Si llegas a admitir que no tuviste novia, acabarás como un mentiroso.\nKusanagi-chan, ¿no te parece eso indebido como profesor?”",
 {"rt2"},
 },
 },
@@ -4343,7 +4343,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Ah, no, l-lo siento... Solo que, repentinamente me sentí feliz... y, no pude\nevitarlo...”",
+"“Ah, no, l-lo siento... Solo que, repentinamente me sentí feliz... y no pude\nevitarlo...”",
 {"rt2"},
 },
 },
@@ -4535,7 +4535,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"“¡P-Perdón!.E-Es que, tú también pareces estar muy alegre de escuchar eso...”",
+"“¡P-Perdón!\nE-Es que tú también pareces estar muy alegre de escuchar eso...”",
 {"rt2"},
 },
 },
@@ -4664,7 +4664,7 @@ block_00271={
 text={
 ja={
 {
-"Y también a Kawachino.\nSiempre la veía molesta conmigo, y ahora que percibí algo similar en Suzuna, siento que debería cuidarme...",
+"Y también a Kawachino.\nSiempre la veía molesta conmigo, y ahora que percibí algo similar en Suzuna,\nsiento que debería cuidarme...",
 {"rt2"},
 },
 },

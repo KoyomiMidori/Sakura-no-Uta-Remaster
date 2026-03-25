@@ -26,7 +26,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Te entiendo... Perdóname, por haberte hecho pasar por tanto dolor...”",
+"“Te entiendo... Perdóname por haberte hecho pasar por tanto dolor...”",
 {"rt2"},
 },
 },
@@ -124,7 +124,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Nuestra salvación vino, probablemente, a costa de muchas perdidas para ti...”",
+"“Nuestra salvación vino, probablemente, a costa de muchas pérdidas para ti...”",
 {"rt2"},
 },
 },
@@ -491,7 +491,7 @@ block_00031={
 text={
 ja={
 {
-"Usualmente me daría vergüenza, pero...el calor de su mano se me hacía ahora\nirresistible.",
+"Usualmente me daría vergüenza, pero... el calor de su mano se me hacía ahora\nirresistible.",
 {"rt2"},
 },
 },
@@ -792,7 +792,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Perdóname, Ai... Perdóname, por decir semejante cosa...”",
+"“Perdóname, Ai... Perdóname por decir semejante cosa...”",
 {"rt2"},
 },
 },
@@ -834,7 +834,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Decir que todo fue un error... Debería saber como se sentirían los demás de\nescuchar eso...”",
+"“Decir que todo fue un error... Debería saber cómo se sentirían los demás de\nescuchar eso...”",
 {"rt2"},
 },
 },
@@ -862,7 +862,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Soy... soy, tan débil, y...”",
+"“Soy... soy tan débil, y...”",
 {"rt2"},
 },
 },
@@ -1261,7 +1261,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya no está mamá... ni papá... y ahora Kei tampoco...”",
+"“Ya no están mamá... ni papá... y ahora Kei tampoco...”",
 {"rt2"},
 },
 },
@@ -2431,7 +2431,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Lo que quise decir es que si así lo quieres, dejaré mi trabajo como\nprofesora.De lo contrario, seguiré.”",
+"“Lo que quise decir es que si así lo quieres, dejaré mi trabajo como\nprofesora.\nDe lo contrario, seguiré.”",
 {"rt2"},
 },
 },

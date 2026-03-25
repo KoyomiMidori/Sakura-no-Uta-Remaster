@@ -98,7 +98,7 @@ block_00006={
 text={
 ja={
 {
-"Al final hice el pincel a un lado,sin haber podido pintar nada.",
+"Al final hice el pincel a un lado,\nsin haber podido pintar nada.",
 {"rt2"},
 },
 },
@@ -128,7 +128,7 @@ block_00008={
 text={
 ja={
 {
-"Al voltear hacia el lugar de origen de la voz me encuentro con Nagayama.",
+"Al voltear hacia el lugar de origen de la voz, me encuentro con Nagayama.",
 {"rt2"},
 },
 },
@@ -179,7 +179,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pensé que te habías marchado de una buena vez por todas esta mañana al\npresenciar mi mediocridad.”",
+"“Pensé que te habías marchado de una buena vez por toda esta mañana al\npresenciar mi mediocridad.”",
 {"rt2"},
 },
 },
@@ -309,7 +309,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Así es. No fue más que un show.\nUno donde trataste de insistir que no podías\npintar...”",
+"“Así es. No fue más que un show.\nUno donde trataste de insistir que no podías pintar...”",
 {"rt2"},
 },
 },
@@ -494,7 +494,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Los genios pintan con toda libertad, casi como por acción divina.Cuando\nencuentran algo que desean pintar, lo materializan.”",
+"“Los genios pintan con toda libertad, casi como por acción divina.\nCuando encuentran algo que desean pintar, lo materializan.”",
 {"rt2"},
 },
 },
@@ -547,7 +547,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Kusanagi-kun, los ojos que tenías cuando te sugerí usar los resortes para\npintar, eran los de un completo mediocre.”",
+"“Kusanagi-kun, los ojos que tenías cuando te sugerí usar los resortes para\npintar eran los de un completo mediocre.”",
 {"rt2"},
 },
 },
@@ -633,7 +633,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“La verdad es que, ahora mismo estoy confundida...”",
+"“La verdad es que... ahora mismo estoy confundida...”",
 {"rt2"},
 },
 },
@@ -843,7 +843,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Y por eso, es que perdiste tan fácilmente ese irreemplazable talento...”",
+"“Y por eso es que perdiste tan fácilmente ese irreemplazable talento...”",
 {"rt2"},
 },
 },
@@ -1118,7 +1118,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“El talento puede fallarle al mediocre,pero la técnica nunca lo hará.”",
+"“El talento puede fallarle al mediocre,\npero la técnica nunca lo hará.”",
 {"rt2"},
 },
 },
@@ -1135,7 +1135,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“La técnica conseguida con esfuerzo es nuestra arma.A veces el cuchillo del\nmediocre puede alcanzar la garganta del mismísimo genio.”",
+"“La técnica conseguida con esfuerzo es nuestra arma.\nA veces el cuchillo del mediocre puede alcanzar la garganta del mismísimo genio.”",
 {"rt2"},
 },
 },
@@ -1153,7 +1153,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“El inteligente tiene técnicas que pueden confundir al genio.Y es que el\ninteligente es también un mediocre.”",
+"“El inteligente tiene técnicas que pueden confundir al genio.\nY es que el inteligente es también un mediocre.”",
 {"rt2"},
 },
 },
@@ -1310,7 +1310,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¿Por qué te quedas callado?¿Acaso te hice enojar?¿O es que estás triste y\nquieres que te consuele?”",
+"“¿Por qué te quedas callado?\n¿Acaso te hice enojar?¿O es que estás triste y quieres que te consuele?”",
 {"rt2"},
 },
 },
@@ -1328,7 +1328,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“En fin, ¿podrías buscarte a alguien más?Eres una celebridad ahora, deben haber\nmuchas chicas que no dudarían en consolarte ahora.”",
+"“En fin, ¿podrías buscarte a alguien más?\nEres una celebridad ahora, deben haber muchas chicas que no dudarían\nen consolarte ahora.”",
 {"rt2"},
 },
 },
@@ -1375,7 +1375,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya pusiste los pies de fondo en el barro.¡Si es por eso, pues entonces\nacompáñame al final con mi lucha!”",
+"“Ya pusiste los pies de fondo en el barro.\n¡Si es por eso, pues entonces acompáñame al final con mi lucha!”",
 {"rt2"},
 },
 },
@@ -1439,7 +1439,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Ugh... ¿K-Kusanagi-kun, de dónde salió ese carácter tuyo?”",
+"“Ugh... K-Kusanagi-kun, ¿de dónde salió ese carácter tuyo?”",
 {"rt2"},
 },
 },
@@ -1467,7 +1467,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Creo que he estado huyendo de todo.Usando mi mano derecha como excusa.”",
+"“Creo que he estado huyendo de todo.\nUsando mi mano derecha como excusa.”",
 {"rt2"},
 },
 },
@@ -1750,7 +1750,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, probablemente sea el único genio que Kenichiro Kusanagi ha reconocido en su\nvida.Sin duda alguna, aprendiz suyo.”",
+"“Sí, probablemente sea el único genio que Kenichiro Kusanagi ha reconocido en su\nvida.\nSin duda alguna, aprendiz suyo.”",
 {"rt2"},
 },
 },
@@ -1821,7 +1821,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ven mañana al colegio Yumihari,a la medianoche.”",
+"“Ven mañana al colegio Yumihari,\na la medianoche.”",
 {"rt2"},
 },
 },
@@ -1892,7 +1892,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Me estás tomando el pelo? ¿Cómo crees que haría algo tan peligroso?Obviamente\nnos enfrentaremos pintando.”",
+"“¿Me estás tomando el pelo? ¿Cómo crees que haría algo tan peligroso?\nObviamente nos enfrentaremos pintando.”",
 {"rt2"},
 },
 },
@@ -2087,7 +2087,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Fuh, por más chatarra que seas sigues siendo Naoya Kusanagi, puedo ver.\nTu ojo no te falla.”",
+"“Fuh, por más chatarra que seas, veo que sigues siendo Naoya Kusanagi.\nTu ojo no te falla.”",
 {"rt2"},
 },
 },
@@ -2238,7 +2238,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, y por eso no hace falta ningún ajuste.Solo basta con buscar a Sui.”",
+"“Sí, y por eso no hace falta ningún ajuste.\nSolo basta con buscar a Sui.”",
 {"rt2"},
 },
 },
@@ -2457,7 +2457,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Kuh... kukukuku... Sí, sí, ciertamente...”",
+"“Kuh... Jejejeje... Sí, sí, ciertamente...”",
 {"rt2"},
 },
 },

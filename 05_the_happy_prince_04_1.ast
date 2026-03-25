@@ -133,7 +133,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Lo sé. Sé que tu brazo ya no sirve,y también que reproducir el estilo de\nKenichiro Kusanagi es imposible.”",
+"“Lo sé. Sé que tu brazo ya no sirve,\ny también que reproducir el estilo de Kenichiro Kusanagi es imposible.”",
 {"rt2"},
 },
 },
@@ -180,7 +180,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hazte a un lado entonces... Llegaré tarde.¿No tienes que ir tú también a\nclases?”",
+"“Hazte a un lado entonces... Llegaré tarde.\n¿No tienes que ir tú también a clases?”",
 {"rt2"},
 },
 },
@@ -202,7 +202,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Mi conclusión es que...'Sakura Nanasouzu' es obra de Naoya Kusanagi.”",
+"“Mi conclusión es que... 'Sakura Nanasouzu' es obra de Naoya Kusanagi.”",
 {"rt2"},
 },
 },
@@ -463,7 +463,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Si no fuese así no me metería en esta estupidez.”",
+"“Si no fuese así, no me metería en esta estupidez.”",
 {"rt2"},
 },
 },
@@ -481,7 +481,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Si no supiese identificar lo auténtico, ya me habría dado por vencido hace\ntiempo...”",
+"“Si no supiese identificar lo auténtico, ya me habría dado por vencida hace\ntiempo...”",
 {"rt2"},
 },
 },
@@ -673,7 +673,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿No es acaso al contrario? ¿Que no es la gente sin talento la que se da por\nvencido fácilmente?”",
+"“¿No es acaso al contrario? ¿Qué no es la gente sin talento la que se da por\nvencida fácilmente?”",
 {"rt2"},
 },
 },
@@ -827,7 +827,7 @@ block_00051={
 text={
 ja={
 {
-"Mientras más talento tiene alguien es más probable que termine en un '¿esto es\ntodo?'.En pocas palabras, tira la toalla con más facilidad.",
+"Mientras más talento tiene alguien, es más probable que termine en un '¿esto es\ntodo?'.\nEn pocas palabras, tira la toalla con más facilidad.",
 {"rt2"},
 },
 },
@@ -1438,7 +1438,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Son los propios genios quienes se cierran las puertas, después de todo.Me\nalegra ver que se arruinen solos.”",
+"“Son los propios genios quienes se cierran las puertas, después de todo.\nMe alegra ver que se arruinen solos.”",
 {"rt2"},
 },
 },
@@ -1484,7 +1484,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Pero qué dices? Cualquier persona que haya creado algo sabe de qué\nhablas.Aunque es raro ver a alguien que lo mencione con tanta soltura.”",
+"“¿Pero qué dices? Cualquier persona que haya creado algo sabe de qué\nhablas.\nAunque es raro ver a alguien que lo mencione con tanta soltura.”",
 {"rt2"},
 },
 },
@@ -1502,7 +1502,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“A pesar de todo, volviste a pintar.Aun habiendo perdido tu brazo derecho,\nlograste pintar esa obra.”",
+"“A pesar de todo, volviste a pintar.\nAun habiendo perdido tu brazo derecho, lograste pintar esa obra.”",
 {"rt2"},
 },
 },
@@ -1886,7 +1886,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¿Qué, es esto?... Estos son... ¿resortes?”",
+"“¿Qué es esto?... Estos son... ¿resortes?”",
 {"rt2"},
 },
 },
@@ -2024,7 +2024,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No por nada el círculo perfecto es la curva más difícil de trazar, en términos\nde precisión.”",
+"“No por nada el círculo perfecto es la curva más difícil de trazar en términos\nde precisión.”",
 {"rt2"},
 },
 },
@@ -2214,7 +2214,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya te mostré bastante igualmente.Solo quiero que veas esto y que de una buena\nvez pierdas todo interés por mí.”",
+"“Ya te mostré bastante igualmente.\nSolo quiero que veas esto y que de una buena vez pierdas todo interés por mí.”",
 {"rt2"},
 },
 },
@@ -2486,7 +2486,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Supernatural, quizá? Mi intuición me decía que podría hacerlo.”",
+"“¿Sobrenatural, quizá? Mi intuición me decía que podría hacerlo.”",
 {"rt2"},
 },
 },
@@ -2591,7 +2591,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y podrías decir también, que todo mi talento lo gasté en esos seis cuadros...”",
+"“Y podrías decir también que todo mi talento lo gasté en esos seis cuadros...”",
 {"rt2"},
 },
 },
@@ -2721,7 +2721,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No te preocupes, no hacen falta las gracias. Aunque, sí te agradecería que\nmantuvieras en secreto lo del Sakura Nanasouzu.”",
+"“No te preocupes, no hacen falta las gracias. Aunque sí te agradecería que\nmantuvieras en secreto lo del Sakura Nanasouzu.”",
 {"rt2"},
 },
 },
@@ -2759,7 +2759,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, la familia Nakamura está involucrada también. Son casi como un grupo de\nYakuza, así que sería mejor que no te metas en esto.”",
+"“Sí, la familia Nakamura está involucrada también. Son casi como un grupo de\nyakuzas, así que sería mejor que no te metas en esto.”",
 {"rt2"},
 },
 },

@@ -193,7 +193,7 @@ block_00013={
 text={
 ja={
 {
-"Supongamos que la encuentro...¿Podré mantener un duelo con ella?",
+"Supongamos que la encuentro...\n¿Podré mantener un duelo con ella?",
 {"rt2"},
 },
 },
@@ -246,7 +246,7 @@ block_00017={
 text={
 ja={
 {
-"Basta con que el talento de Sui sea autentico.",
+"Basta con que el talento de Sui sea auténtico.",
 {"rt2"},
 },
 },
@@ -638,7 +638,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“A Kei, a ti... y a Kenichiro, también...”",
+"“A Kei, a ti... y a Kenichiro también...”",
 {"rt2"},
 },
 },
@@ -1112,7 +1112,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“He dado la imagen de que no pinto más,pero aun así he seguido dibujando sin\nparar.”",
+"“He dado la imagen de que no pinto más,\npero aun así he seguido dibujando sin parar.”",
 {"rt2"},
 },
 },
@@ -1180,7 +1180,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aun cuando pienso que avanzo, siempre me topo con su espalda.En todo momento me\nlleva la delantera.”",
+"“Aun cuando pienso que avanzo, siempre me topo con su espalda.\nEn todo momento me lleva la delantera.”",
 {"rt2"},
 },
 },
@@ -1477,7 +1477,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“N-No voy a... negar... lo...”",
+"“N-No voy a... negarlo...”",
 {"rt2"},
 },
 },
@@ -1574,7 +1574,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Aún desde pequeño eras un niño de mucho espíritu.Nunca dabas un paso atrás, aun\nfrente a un adulto.”",
+"“Aún desde pequeño eras un niño de mucho espíritu.\nNunca dabas un paso atrás, aun frente a un adulto.”",
 {"rt2"},
 },
 },
@@ -2071,7 +2071,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Así se me quita el tembleque...”",
+"“Así se me quita el temblequeo...”",
 {"rt2"},
 },
 },
@@ -2373,7 +2373,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“......”",
+"“...”",
 {"rt2"},
 },
 },
@@ -2401,7 +2401,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Así que estaba temblando...Sí, bueno, lo estaba...”",
+"“Así que estaba temblando...\nSí, bueno, lo estaba...”",
 {"rt2"},
 },
 },
@@ -2667,7 +2667,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“H-Haya o no haya sido así, era un mocoso todavía.Ya no estoy en edad de\nllorar...”",
+"“H-Haya o no haya sido así, era un mocoso todavía.\nYa no estoy en edad de llorar...”",
 {"rt2"},
 },
 },
@@ -2817,7 +2817,7 @@ block_00185={
 text={
 ja={
 {
-"Es lo que te trae intentar resolverlo todo solo.No es una costumbre muy buena\nque digamos...",
+"Es lo que te trae intentar resolverlo todo solo.\nNo es una costumbre muy buena que digamos...",
 {"rt2"},
 },
 },
@@ -3483,7 +3483,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Esa serie que han publicado recientemente no está nada mal...Con ese nivel no\ntendré problema en aceptar el duelo.”",
+"“Esa serie que han publicado recientemente no está nada mal...\nCon ese nivel no tendré problema en aceptar el duelo.”",
 {"rt2"},
 },
 },
@@ -3509,7 +3509,7 @@ block_00228={
 text={
 ja={
 {
-"¿También ella conoce la verdad de 'Sakura Nanasouzu'?",
+"¿También conoce la verdad de 'Sakura Nanasouzu'?",
 {"rt2"},
 },
 },
@@ -3567,7 +3567,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues... pintar algo en un tiempo límite.\nEs lo único que me he pensado hasta\nahora.”",
+"“Pues... pintar algo en un tiempo límite.\nEs lo único que me he pensado hasta ahora.”",
 {"rt2"},
 },
 },
@@ -3733,7 +3733,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Eh? ¿Agua? ¿E-Espera, propones usar pigmentos de acuarela?”",
+"“¿Eh? ¿Agua? E-Espera, ¿propones usar pigmentos de acuarela?”",
 {"rt2"},
 },
 },
@@ -3810,7 +3810,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Sui tomará todo el pigmento del salón de arte.Tú encárgate de conseguir tu\npintura, Kusanagi-san.”",
+"“Sui tomará todo el pigmento del salón de arte.\nTú encárgate de conseguir tu pintura, Kusanagi-san.”",
 {"rt2"},
 },
 },

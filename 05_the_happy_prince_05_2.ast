@@ -543,7 +543,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Si tienes tiempo de hablar ahora entonces mejor deberíamos irnos ya. Debemos ir\npor la pintura.”",
+"“Si tienes tiempo de hablar ahora, mejor deberíamos irnos ya. Debemos ir\npor la pintura.”",
 {"rt2"},
 },
 },
@@ -573,7 +573,7 @@ block_00034={
 text={
 ja={
 {
-"Después de eso reunimos toda la pintura de acuarela que encontramos en mi\napartamento y en el taller de la residencia Natsume.",
+"Después de eso, reunimos toda la pintura de acuarela que encontramos en mi\napartamento y en el taller de la residencia Natsume.",
 {"rt2"},
 },
 },
@@ -949,7 +949,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ya veo. ¿Y bien, conseguiste tu pintura?”",
+"“Ya veo. Y bien, ¿conseguiste tu pintura?”",
 {"rt2"},
 },
 },
@@ -1195,7 +1195,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“No me parece haber visto esta mujer antes. ¿Eres su asistente?”",
+"“No me parece haber visto a esta mujer antes. ¿Eres su asistente?”",
 {"rt2"},
 },
 },
@@ -1382,7 +1382,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“No es necesario. De igual forma este cuadro se borrará por completo después de\nculminarse.”",
+"“No es necesario. De igual forma, este cuadro se borrará por completo después de\nculminarse.”",
 {"rt2"},
 },
 },
@@ -2004,7 +2004,7 @@ block_00122={
 text={
 ja={
 {
-"Solo habían pasado unas cuantas decenas de minutos de haber comenzado, y sin\nembargo Sui estaba expandiendo su pintura a una velocidad increíble.",
+"Solo habían pasado unas cuantas decenas de minutos de haber comenzado, y sin\nembargo, Sui estaba expandiendo su pintura a una velocidad increíble.",
 {"rt2"},
 },
 },
@@ -2406,7 +2406,7 @@ block_00151={
 text={
 ja={
 {
-"Sui va expandiendo el lienzo, sin pararse en ningún momento.\nY a medida que se expande, la diferencia entre realidad y pintura se va haciendo cada vez más ambigua.",
+"Sui va expandiendo el lienzo, sin pararse en ningún momento.\nY a medida que se expande, la diferencia entre realidad y pintura se va\nhaciendo cada vez más ambigua.",
 {"rt2"},
 },
 },
@@ -3219,7 +3219,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¡¿Estás echando pigmento sobre su cuadro?! ¡¿K-Kusanagi-san, pretendes\narruinarle su pintura?!”",
+"“¡¿Estás echando pigmento sobre su cuadro?! ¡K-Kusanagi-san, ¿pretendes\narruinarle su pintura?!”",
 {"rt2"},
 },
 },
@@ -3627,7 +3627,7 @@ block_00226={
 text={
 ja={
 {
-"Esta técnica fue creada hace más de ciento treinta años.",
+"Esta técnica fue creada hace más de 130 años.",
 {"rt2"},
 },
 },
@@ -4160,7 +4160,7 @@ block_00262={
 text={
 ja={
 {
-"Solo puedo estimar, a partir de toda mi experiencia hasta ahora, de cómo se ve\nla pintura de puntos a lo lejos.",
+"Solo puedo estimar, a partir de toda mi experiencia hasta ahora, cómo se ve\nla pintura de puntos a lo lejos.",
 {"rt2"},
 },
 },
@@ -4911,7 +4911,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Seguramente has estado ansioso, dudando de si podrás alcanzar a Kei- san o no,\n¿cierto?”",
+"“Seguramente has estado ansioso, dudando de si podrás alcanzar a Kei-san o no,\n¿cierto?”",
 {"rt2"},
 },
 },
@@ -4925,7 +4925,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Eh? ¿Cómo es que sabes, de Kei?”",
+"“¿Eh? ¿Cómo es que sabes de Kei?”",
 {"rt2"},
 },
 },
@@ -4960,7 +4960,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Pero es una perdida de tiempo que te pongas a pensar en tu duelo con él.\nTus pinturas brillan cuando encuentran un vínculo causal con otras,\nKusanagi-san...”",
+"“Pero es una pérdida de tiempo que te pongas a pensar en tu duelo con él.\nTus pinturas brillan cuando encuentran un vínculo causal con otras,\nKusanagi-san...”",
 {"rt2"},
 },
 },
@@ -5120,7 +5120,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Sui también, aunque no lo creas. De esa forma es que se crea algo nuevo.”",
+"“Para Sui también, aunque no lo creas. De esa forma es que se crea algo nuevo.”",
 {"rt2"},
 },
 },

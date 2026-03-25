@@ -191,7 +191,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“O eso dicen, pero los talentosos sí entran. Si apenas entran cincuenta ya no\npuedes llamar eso examen de ingreso, es simple competición.”",
+"“O eso dicen, pero los talentosos sí entran. Si apenas entran cincuenta, ya no\npuedes llamar a eso examen de ingreso, es simple competición.”",
 {"rt2"},
 },
 },
@@ -474,7 +474,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues no se me ocurren muchos nombres... Aunque si recuerdo a algunos con\ntalento para el dibujo...”",
+"“Pues no se me ocurren muchos nombres... Aunque sí recuerdo a algunos con\ntalento para el dibujo...”",
 {"rt2"},
 },
 },
@@ -1211,7 +1211,7 @@ block_00079={
 text={
 ja={
 {
-"Y por ser tantas, los resultados de la octava y última selección donde se\ndebaten los premios mayores, el 'Platine Epaulard', 'Or Baleine' y 'Argent\nDaufin', se publican al iniciar el año nuevo.",
+"Y por ser tantas, los resultados de la octava y última selección donde se\ndebaten los premios mayores, el 'Platine Épaulard', 'Or Baleine' y 'Argent\nDaufin', se publican al iniciar el año nuevo.",
 {"rt2"},
 },
 },
@@ -1250,7 +1250,7 @@ block_00082={
 text={
 ja={
 {
-"Airain Loutre', solo tres lugares a nivel mundial. Hace tres años ganaron tres\njaponeses.",
+"'Airain Loutre', solo tres lugares a nivel mundial. Hace tres años ganaron tres\njaponeses.",
 {"rt2"},
 },
 },
@@ -1276,7 +1276,7 @@ block_00084={
 text={
 ja={
 {
-"Airain Otarie', solo un lugar. Hace seis años hubo un ganador japonés.",
+"'Airain Otarie', solo un lugar. Hace seis años hubo un ganador japonés.",
 {"rt2"},
 },
 },
@@ -1289,7 +1289,7 @@ block_00085={
 text={
 ja={
 {
-"Argent Daufin', solo un lugar. Hace cinco años hubo un ganador japonés.",
+"'Argent Daufin', solo un lugar. Hace cinco años hubo un ganador japonés.",
 {"rt2"},
 },
 },
@@ -1302,7 +1302,7 @@ block_00086={
 text={
 ja={
 {
-"Or Baleine', solo un lugar. No ha habido ningún ganador japonés.",
+"'Or Baleine', solo un lugar. No ha habido ningún ganador japonés.",
 {"rt2"},
 },
 },
@@ -1315,7 +1315,7 @@ block_00087={
 text={
 ja={
 {
-"Platine Epaulard', solo un lugar. Hace seis años hubo un ganador japonés.",
+"'Platine Épaulard', solo un lugar. Hace seis años hubo un ganador japonés.",
 {"rt2"},
 },
 },
@@ -1328,7 +1328,7 @@ block_00088={
 text={
 ja={
 {
-"El ganador del premio mayor, el 'Platine Epaulard', fue Kenichiro Kusanagi.",
+"El ganador del premio mayor, el 'Platine Épaulard', fue Kenichiro Kusanagi.",
 {"rt2"},
 },
 },
@@ -1354,7 +1354,7 @@ block_00090={
 text={
 ja={
 {
-"En particular para el 'Platine Epaulard', 'Or Baleine' y 'Argent Daufin', los\ncuales tienen casi la misma relevancia.",
+"En particular para el 'Platine Épaulard', 'Or Baleine' y 'Argent Daufin', los\ncuales tienen casi la misma relevancia.",
 {"rt2"},
 },
 },
@@ -1406,7 +1406,7 @@ block_00094={
 text={
 ja={
 {
-"Sin embargo después de los años noventa, el 'Platine Epaulard' de la serie de\nNueva York comenzó a tomar fuerza.",
+"Sin embargo después de los años noventa, el 'Platine Épaulard' de la serie de\nNueva York comenzó a tomar fuerza.",
 {"rt2"},
 },
 },
@@ -1523,7 +1523,7 @@ block_00103={
 text={
 ja={
 {
-"Sin embargo, el arte de Japón no logró integrarse a esa corriente, y dejó ir el\ntriplete de 'Airain Phoque', 'Airain Otarie' y el 'Platine Epaulard' en\nShanghai,China.",
+"Sin embargo, el arte de Japón no logró integrarse a esa corriente, y dejó ir el\ntriplete de 'Airain Phoque', 'Airain Otarie' y el 'Platine Épaulard' en\nShanghai, China.",
 {"rt2"},
 },
 },
@@ -1662,7 +1662,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Increíble, definitivamente es una exposición internacional. Mientras más\nescucho de ellos más pienso eso.”",
+"“Increíble, definitivamente es una exposición internacional. Mientras más\nescucho de ellos, más pienso eso.”",
 {"rt2"},
 },
 },
@@ -1786,7 +1786,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Ohhh, ¿tanto esfuerzo puesto en esta época en arte y no piensa aplicar a una\nuniversidad de artes?... Kukuku, sus buenas calificaciones se irán al piso,\nseguramente.”",
+"“Ohhh, ¿tanto esfuerzo puesto en esta época en arte y no piensa aplicar a una\nuniversidad de artes?... Jejeje, sus buenas calificaciones se irán al piso,\nseguramente.”",
 {"rt2"},
 },
 },
@@ -1804,7 +1804,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“No, al contrario. Su puntuación estándar supero los 70 puntos en el modelo de\nexamen que hizo hace dos domingos en su instituto preparatorio.”",
+"“No, al contrario. Su puntuación estándar superó los 70 puntos en el modelo de\nexamen que hizo hace dos domingos en su instituto preparatorio.”",
 {"rt2"},
 },
 },
@@ -1818,7 +1818,7 @@ block_00122={
 text={
 ja={
 {
-"¡¿W H A T?!",
+"¡¿K H É É É?!",
 {"rt2"},
 },
 },
@@ -2523,7 +2523,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿No?... Pero, me he bañado tres veces antes de dormir...”",
+"“¿No?... Pero me he bañado tres veces antes de dormir...”",
 {"rt2"},
 },
 },
@@ -2749,7 +2749,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Qué tanto duermo? No lo sé... me despierto y ya. Pero, procuro dormir en\nclases.”",
+"“¿Qué tanto duermo? No lo sé... me despierto y ya. Pero procuro dormir en\nclases.”",
 {"rt2"},
 },
 },
@@ -2787,7 +2787,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Vamos Naoya, ¿qué importa eso?”",
+"“Vamos, Naoya, ¿qué importa eso?”",
 {"rt2"},
 },
 },
@@ -2856,7 +2856,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Claro que no. Si sobrepasara mi límite ya me hubiese desmayado, ¿no?”",
+"“Claro que no. Si sobrepasara mi límite, ya me hubiese desmayado, ¿no?”",
 {"rt2"},
 },
 },
@@ -2870,7 +2870,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿De verdad piensas que crearas algo bueno con ese régimen de trabajo? Dormir\nbien es esencial para la creatividad.”",
+"“¿De verdad piensas que crearás algo bueno con ese régimen de trabajo? Dormir\nbien es esencial para la creatividad.”",
 {"rt2"},
 },
 },
@@ -2888,7 +2888,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“¿Quién puede asegurar eso? A mi sí me parece que esto funciona.”",
+"“¿Quién puede asegurar eso? A mí sí me parece que esto funciona.”",
 {"rt2"},
 },
 },
@@ -2906,7 +2906,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Con una siesta de 15 minutos siento que el sueño se va. Te ha pasado también,\n¿verdad Naoya?”",
+"“Con una siesta de 15 minutos siento que el sueño se va. Te ha pasado también,\n¿verdad, Naoya?”",
 {"rt2"},
 },
 },
@@ -3139,7 +3139,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“Así es. Sí hago lo mismo de siempre no te alcanzaré. Si no corro con toda mi\nalma jamás podré llegar a donde estás.”",
+"“Así es. Sí hago lo mismo de siempre, no te alcanzaré. Si no corro con toda mi\nalma, jamás podré llegar a donde estás.”",
 {"rt2"},
 },
 },
@@ -3301,7 +3301,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿D-De que estás hablando?...”",
+"“¿D-De qué estás hablando?...”",
 {"rt2"},
 },
 },
@@ -3830,7 +3830,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No hace falta que hagas eso... ya tú estás a kilómetros por delante de mí...”",
+"“No hace falta que hagas eso... tú ya estás a kilómetros por delante de mí...”",
 {"rt2"},
 },
 },
@@ -4166,7 +4166,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Así es. No soy la clase de persona que me crees ser, y aun si llegas a producir\nuna obra impresionante solo podré verla con admiración como un espectador\nmás...”",
+"“Así es. No soy la clase de persona que me crees ser, y aun si llegas a producir\nuna obra impresionante, solo podré verla con admiración como un espectador\nmás...”",
 {"rt2"},
 },
 },

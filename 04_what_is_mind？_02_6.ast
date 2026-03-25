@@ -441,7 +441,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¿Eh? ¿Desde el primer momento? ¿Ehhh? Pero, mi actitud con usted aquella vez\nfue terrible, ¿no?”",
+"“¿Eh? ¿Desde el primer momento? ¿Ehhh? Pero mi actitud con usted aquella vez\nfue terrible, ¿no?”",
 {"rt2"},
 },
 },
@@ -983,7 +983,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¿Por qué será?... Se supone, que esta es la primera vez que lo siento...”",
+"“¿Por qué será?... Se supone que esta es la primera vez que lo siento...”",
 {"rt2"},
 },
 },
@@ -1388,7 +1388,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“Las personas lloran, también... cuando están felices...”",
+"“Las personas lloran también... cuando están felices...”",
 {"rt2"},
 },
 },
@@ -1524,7 +1524,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“Mi cuerpo, y mi corazón... Siempre, me he preguntado, para qué sirven.”",
+"“Mi cuerpo, y mi corazón... Siempre me he preguntado, para qué sirven.”",
 {"rt2"},
 },
 },
@@ -2327,7 +2327,7 @@ block_00141={
 text={
 ja={
 {
-"Falsos Yakuza como los Nakamura no tenían manera de enfrentarse a verdaderos\nGokudo como los Natsume.",
+"Falsos yakuzas como los Nakamura no tenían manera de enfrentarse a verdaderos\nGokudo como los Natsume.",
 {"rt2"},
 },
 },
@@ -2379,7 +2379,7 @@ block_00145={
 text={
 ja={
 {
-"Hubo un tiempo que trajeron a Yakuza de Tokyo para bloquear ese crecimiento, lo\ncual terminó en conflicto. Y sin embargo, lo único que lograron fue\nfortalecer la influencia de los Natsume en los bajos fondos.",
+"Hubo un tiempo que trajeron a yakuzas de Tokio para bloquear ese crecimiento, lo\ncual terminó en conflicto. Y sin embargo, lo único que lograron fue\nfortalecer la influencia de los Natsume en los bajos fondos.",
 {"rt2"},
 },
 },
@@ -2392,7 +2392,7 @@ block_00146={
 text={
 ja={
 {
-"Los Yakuza de Tokyo decidieron darse por vencido ante el alargamiento del\nconflicto. Años después de que explotara la guerra, decidieron hacer la paz.",
+"Los yakuzas de Tokio decidieron darse por vencidos ante el alargamiento del\nconflicto. Años después de que explotara la guerra, decidieron hacer la paz.",
 {"rt2"},
 },
 },
@@ -2431,7 +2431,7 @@ block_00149={
 text={
 ja={
 {
-"Una entidad tan poderosa jamás se metería en un conflicto de Yakuza regionales.",
+"Una entidad tan poderosa jamás se metería en un conflicto de yakuzas regionales.",
 {"rt2"},
 },
 },
@@ -2541,7 +2541,7 @@ block_00157={
 text={
 ja={
 {
-"Solo hacía falta una razón de conflicto para ella y sus Yakuza. Lo demás, hacer\nlo que mejor saben hacer.",
+"Solo hacía falta una razón de conflicto para ella y sus yakuzas. Lo demás, hacer\nlo que mejor saben hacer.",
 {"rt2"},
 },
 },
@@ -2705,7 +2705,7 @@ block_00168={
 text={
 ja={
 {
-"Y esto se debe a que los Nakamura, a final de cuentas, no eran Yakuza.",
+"Y esto se debe a que los Nakamura, a final de cuentas, no eran yakuzas.",
 {"rt2"},
 },
 },
@@ -2718,7 +2718,7 @@ block_00169={
 text={
 ja={
 {
-"Allí estaba yo, entre los Yakuza, escuchando a las dos partes.",
+"Allí estaba yo, entre los yakuzas, escuchando a las dos partes.",
 {"rt2"},
 },
 },
@@ -4378,7 +4378,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Que ya no puedes hacer más nada. ¿No es así, abuela?”",
+"“Que ya no puedes hacer nada más. ¿No es así, abuela?”",
 {"rt2"},
 },
 },
@@ -4468,7 +4468,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Aunque, esa es la naturaleza del humano, después de todo...”",
+"“Aunque esa es la naturaleza del humano, después de todo...”",
 {"rt2"},
 },
 },
@@ -4528,7 +4528,7 @@ vo={
 ja={
 {
 name={"Kotoko"},
-"“Ya veo. Si esa es tu voluntad no puedo hacer nada más.”",
+"“Ya veo. Si esa es tu voluntad, no puedo hacer nada más.”",
 {"rt2"},
 },
 },

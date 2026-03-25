@@ -441,7 +441,7 @@ block_00029={
 text={
 ja={
 {
-"Tan inexpresiva que siempre.",
+"Tan inexpresiva como siempre.",
 {"rt2"},
 },
 },
@@ -588,7 +588,7 @@ block_00039={
 text={
 ja={
 {
-"Al ver con cuidado, me doy cuento que el delgado perro de hace un momento me\nembistió, para luego atacarme en las piernas con sus patas frontales.",
+"Al ver con cuidado, me doy cuenta que el delgado perro de hace un momento me\nembistió, para luego atacarme en las piernas con sus patas frontales.",
 {"rt2"},
 },
 },
@@ -774,7 +774,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"“No, así como lo ve es un perro adulto.”",
+"“No, así como lo ve, es un perro adulto.”",
 {"rt2"},
 },
 },
@@ -1021,7 +1021,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"“Sí, son una raza curiosa. Les encanta jugar, y según son muy cariñosos.\nAunque en su cabecita solo tienen tanto cerebro como para dos tacitas, así que no son muy inteligentes.”",
+"“Sí, son una raza curiosa. Les encanta jugar, y según son muy cariñosos.\nAunque en su cabecita solo tienen tanto cerebro como para dos tacitas, así que\nno son muy inteligentes.”",
 {"rt2"},
 },
 },
@@ -1049,7 +1049,7 @@ block_00069={
 text={
 ja={
 {
-"El perro juega con mi mano.Sí, parece ser algo tonto...",
+"El perro juega con mi mano.\nSí, parece ser algo tonto...",
 {"rt2"},
 },
 },
@@ -1497,7 +1497,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Así es. No estaría mal comenzar por algo que no te de miedo, pero que te\nemocione, ¿no?”",
+"“Así es. No estaría mal comenzar por algo que no te dé miedo, pero que te\nemocione, ¿no?”",
 {"rt2"},
 },
 },
@@ -1647,7 +1647,7 @@ vo={
 ja={
 {
 name={"Natsuko"},
-"“U-Uh... pero, lo dije en voz baja...”",
+"“U-Uh... pero lo dije en voz baja...”",
 {"rt2"},
 },
 },
@@ -1693,7 +1693,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí. Si hablaras un poco más fuerte sería más difícil escucharte al hablar en\nvoz baja.”",
+"“Sí. Si hablaras un poco más fuerte, sería más difícil escucharte al hablar en\nvoz baja.”",
 {"rt2"},
 },
 },
@@ -1866,7 +1866,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Bueno, si no me cambio ya llegaré tarde al colegio.\nHoy también tengo clases desde la primera hora.”",
+"“Bueno, si no me cambio ya, llegaré tarde al colegio.\nHoy también tengo clases desde la primera hora.”",
 {"rt2"},
 },
 },
@@ -1986,7 +1986,7 @@ block_00127={
 text={
 ja={
 {
-"Los motores de motocicletas son simples, fáciles de entender.Desmantelar una no\nes, por lo general, difícil.",
+"Los motores de motocicletas son simples, fáciles de entender.\nDesmantelar una no es, por lo general, difícil.",
 {"rt2"},
 },
 },
@@ -2297,7 +2297,7 @@ block_00147={
 text={
 ja={
 {
-"Y por reflejo, aleje mi mano.",
+"Y por reflejo, alejé mi mano.",
 {"rt2"},
 },
 },
@@ -2929,7 +2929,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"“No sé de qué habla. Además, da bastante qué pensar el hecho de que no supiera\nquién soy solo por llevar lentes.”",
+"“No sé de qué habla. Además, da bastante que pensar el hecho de que no supiera\nquién soy solo por llevar lentes.”",
 {"rt2"},
 },
 },
@@ -3229,7 +3229,7 @@ vo={
 ja={
 {
 name={"Nonomi"},
-"“Jaa, ¿es que no escuchó a Katakai-san cuando dijo que yo llevaba más años en\nese mundo que usted?”",
+"“Jaa, ¿es que no escuchó a Katagai-san cuando dijo que yo llevaba más años en\nese mundo que usted?”",
 {"rt2"},
 },
 },
@@ -3243,7 +3243,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Tanto tiempo lleva Katakai conociéndote y aun así te pidió que salieran? ¿Es\nacaso un lolicon ese tipo?”",
+"“¿Tanto tiempo lleva Katagai conociéndote y aun así te pidió que salieran? ¿Es\nacaso un lolicon ese tipo?”",
 {"rt2"},
 },
 },
@@ -3538,7 +3538,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¿Qué haces ahí hablando con tanta calma?! ¡Apresurate tú también!”",
+"“¡¿Qué haces ahí hablando con tanta calma?! ¡Apresúrate tú también!”",
 {"rt2"},
 },
 },
@@ -3604,7 +3604,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡Solo asegurate de respetar la relación profesor-alumno! ¡En fin, vamos ya!”",
+"“¡Solo asegúrate de respetar la relación profesor-alumno! ¡En fin, vamos ya!”",
 {"rt2"},
 },
 },

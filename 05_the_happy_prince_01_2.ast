@@ -1813,7 +1813,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Tiene sus años, sí. Aunque, ese aspecto se disfruta también.”",
+"“Tiene sus años, sí. Aunque ese aspecto se disfruta también.”",
 {"rt2"},
 },
 },
@@ -1974,7 +1974,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Pero apenas lo conocí Kenichiro ya estaba enamorado de Mizuna nee-sama...\nCreo que no hubo oportunidad alguna para desarrollar esos sentimientos.”",
+"“Pero apenas lo conocí, Kenichiro ya estaba enamorado de Mizuna nee-sama...\nCreo que no hubo oportunidad alguna para desarrollar esos sentimientos.”",
 {"rt2"},
 },
 },
@@ -1988,7 +1988,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Quieres decir que si él y mi madre no se hubiesen unido en relación tal vez sí\nse habrían desarrollado?”",
+"“¿Quieres decir que si él y mi madre no se hubiesen unido en relación, tal vez sí\nse habrían desarrollado?”",
 {"rt2"},
 },
 },
@@ -2200,7 +2200,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Aunque fue esa terquedad la que nos salvo a nosotras...”",
+"“Aunque fue esa terquedad la que nos salvó a nosotras...”",
 {"rt2"},
 },
 },
@@ -2466,7 +2466,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Quién sabe. Lo único que puedo decir, es que ella jamás trabajaría en eso por\nbeneficio propio.”",
+"“Quién sabe. Lo único que puedo decir es que ella jamás trabajaría en eso por\nbeneficio propio.”",
 {"rt2"},
 },
 },
@@ -2545,7 +2545,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“La expresión en su cara cambió desde que vio los seis cuadros del Sakura\nNanasouzu... Llevo un buen tiempo viviendo con Kei, y es primera vez que lo\nveo así.”",
+"“La expresión en su cara cambió desde que vio los seis cuadros del Sakura\nNanasouzu... Llevo un buen tiempo viviendo con Kei, y es la primera vez que lo\nveo así.”",
 {"rt2"},
 },
 },
@@ -2576,7 +2576,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Quizás tenga aires de tonto, pero en lo que concierne a la pintura es\nextremadamente agudo... Probablemente percibió algo al ver esos cuadros.”",
+"“Quizás tenga aires de tonto, pero en lo que concierne a la pintura es\nextremadamente perspicaz... Probablemente percibió algo al ver esos cuadros.”",
 {"rt2"},
 },
 },
@@ -2639,7 +2639,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Sí, bueno. Aunque, procuraré mantener en secreto todo lo que pienso al\nrespecto.”",
+"“Sí, bueno. Aunque procuraré mantener en secreto todo lo que pienso al\nrespecto.”",
 {"rt2"},
 },
 },
@@ -2912,7 +2912,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Algo me da esa sensación. Así que, quizá en ese sentido tienes aún bastante\ntiempo para pensar...”",
+"“Algo me da esa sensación. Así que, quizá en ese sentido, tienes aún bastante\ntiempo para pensar...”",
 {"rt2"},
 },
 },
@@ -2989,7 +2989,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“El Príncipe le dijo a la pequeña Golondrina, 'Tienes que irte a Egipto'.”",
+"“El Príncipe le dijo a la pequeña Golondrina,\n'Tienes que irte a Egipto'.”",
 {"rt2"},
 },
 },
@@ -3087,7 +3087,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Y aun así, la pequeña Golondrina dijo, 'me quedaré contigo por siempre'.”",
+"“Y aun así, la pequeña Golondrina dijo,\n'me quedaré contigo por siempre'.”",
 {"rt2"},
 },
 },
@@ -3101,7 +3101,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Si yo fuera el Príncipe obligaría a la Golondrina a irse a Egipto.”",
+"“Si yo fuera el Príncipe, obligaría a la Golondrina a irse a Egipto.”",
 {"rt2"},
 },
 },
@@ -3243,7 +3243,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues no, thank you.”",
+"“Pues no, gracias.”",
 {"rt2"},
 },
 },
@@ -3357,7 +3357,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Uhm, tal vez no tanto... aunque, siempre que Kenichiro-san se encerraba a\ntrabajar lo único que comía era eso. Según él, la combinación de vegetales y\ncarne en un solo plato era perfecta.”",
+"“Uhm, tal vez no tanto... aunque siempre que Kenichiro-san se encerraba a\ntrabajar lo único que comía era eso. Según él, la combinación de vegetales y\ncarne en un solo plato era perfecta.”",
 {"rt2"},
 },
 },
@@ -3449,7 +3449,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Quizás estando ocupado arroz frito era la opción más fácil de preparar, pero\neso tiene mucha grasa y sal. Su valor nutritivo no es precisamente alto.”",
+"“Quizás estando ocupando arroz frito, era la opción más fácil de preparar, pero\neso tiene mucha grasa y sal. Su valor nutritivo no es precisamente alto.”",
 {"rt2"},
 },
 },
@@ -3467,7 +3467,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Sí, ciertamente. Kenichiro siempre me decía, el secreto del arroz frito no es\nintentar simplemente saltear el arroz, sino intentar freírlo en abundante\naceite.”",
+"“Sí, ciertamente. Kenichiro siempre me decía que el secreto del arroz frito no es\nintentar simplemente saltear el arroz, sino intentar freírlo en abundante\naceite.”",
 {"rt2"},
 },
 },

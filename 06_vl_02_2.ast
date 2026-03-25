@@ -154,7 +154,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“¿Y bien, qué haces por acá, Kusanagi-chan~? ¿Comprando golosinas~? ¿No está mal\ncomo profesor que compres golosinas saliendo del colegio~?”",
+"“Y bien, ¿qué haces por acá, Kusanagi-chan~? ¿Comprando golosinas~? ¿No está mal\ncomo profesor que compres golosinas saliendo del colegio~?”",
 {"rt2"},
 },
 },
@@ -786,7 +786,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“¿Verdad que sí? Desde que Onee-chan se fue a Tokio no hemos podido hablar con\nél. ¿No es eso triste?”",
+"“¿Verdad que sí? Desde que onee-chan se fue a Tokio no hemos podido hablar con\nél. ¿No es eso triste?”",
 {"rt2"},
 },
 },
@@ -1174,7 +1174,7 @@ block_00065={
 text={
 ja={
 {
-"Suzuna es amable, tanto que ni pareciera ser la hermana de Yuumi Kawachino.Su\nforma de hablar es delicada además... Siempre es cariñosa conmigo.",
+"Suzuna es amable, tanto que ni pareciera ser la hermana de Yuumi Kawachino.\nSu forma de hablar es delicada además... Siempre es cariñosa conmigo.",
 {"rt2"},
 },
 },
@@ -1206,7 +1206,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“Kusanagi-chan, te recuerdo que eres profesor. Si sigues viendo a Suzuna con esa\ncara te arrestarán por crimen sexual~”",
+"“Kusanagi-chan, te recuerdo que eres profesor. Si sigues viendo a Suzuna con esa\ncara, te arrestarán por crimen sexual~”",
 {"rt2"},
 },
 },
@@ -1272,7 +1272,7 @@ vo={
 ja={
 {
 name={"Ruriwo"},
-"“No has cambiado nada, Kusanagi-chan. Aun teniendo una chica tan linda\ndiciéndote eso eres tan frío respondiendo. Es increíble.”",
+"“No has cambiado nada, Kusanagi-chan. Aun teniendo una chica tan linda\ndiciéndote eso, eres tan frío respondiendo. Es increíble.”",
 {"rt2"},
 },
 },
@@ -1485,7 +1485,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“¿Qué está haciendo? Si los otros profesores llegan a verlo se meterá en\nproblemas.”",
+"“¿Qué está haciendo? Si los otros profesores llegan a verlo, se meterá en\nproblemas.”",
 {"rt2"},
 },
 },
@@ -1786,7 +1786,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Está bien. Mantendré mi boca cerrada al respecto.Aunque, ¿les molestaría si me\nuno un rato a la conversación?”",
+"“Está bien. Mantendré mi boca cerrada al respecto.\nAunque, ¿les molestaría si me uno un rato a la conversación?”",
 {"rt2"},
 },
 },
@@ -1937,7 +1937,7 @@ block_00109={
 text={
 ja={
 {
-"Solo escucharla decir eso me recuerda a la vieja Kawachino...\nAunque tratándose de Ruriwo, es probable que simplemente le agraden las chicas lindas y ya...",
+"Solo escucharla decir eso me recuerda a la vieja Kawachino...\nAunque tratándose de Ruriwo, es probable que simplemente le agraden las\nchicas lindas y ya...",
 {"rt2"},
 },
 },
@@ -1955,7 +1955,7 @@ vo={
 ja={
 {
 name={"Suzuna"},
-"“Sí, ciertamente. Es difícil cansarse de ver a una muchacha hermosa. Aunque, no\na los extremos que alcanzó mi hermana...”",
+"“Sí, ciertamente. Es difícil cansarse de ver a una muchacha hermosa. Aunque no\na los extremos que alcanzó mi hermana...”",
 {"rt2"},
 },
 },
@@ -2826,7 +2826,7 @@ block_00167={
 text={
 ja={
 {
-"Una vez que preparas comida para alguien pierdes la motivación de cocinar para\nti mismo.",
+"Una vez que preparas comida para alguien, pierdes la motivación de cocinar para\nti mismo.",
 {"rt2"},
 },
 },
@@ -2839,7 +2839,7 @@ block_00168={
 text={
 ja={
 {
-"Al terminar de hervir el ramen en la cocina me lo llevo todavía en su olla a la\nsala y me siento.",
+"Al terminar de hervir el ramen en la cocina, me lo llevo todavía en su olla a la\nsala y me siento.",
 {"rt2"},
 },
 },
@@ -4392,7 +4392,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“¡Es que, no tengo idea de cuándo decirlo! Además, no sé qué debería decir en el\nmomento.”",
+"“¡Es que no tengo idea de cuándo decirlo! Además, no sé qué debería decir en el\nmomento.”",
 {"rt2"},
 },
 },
@@ -4437,7 +4437,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Que idiotez, yo qué sé.Aunque, me alegro por tu felicidad.”",
+"“Que idiotez, yo qué sé. Aunque me alegro por tu felicidad.”",
 {"rt2"},
 },
 },
@@ -4523,7 +4523,7 @@ vo={
 ja={
 {
 name={"Wakata"},
-"“No vayas a dejar ese licor para el día de tu muerte, eh. No vale la excusa de\nque no sabes si eres feliz o no.”",
+"“No vayas a dejar ese licor para el día de tu muerte. No vale la excusa de\nque no sabes si eres feliz o no.”",
 {"rt2"},
 },
 },

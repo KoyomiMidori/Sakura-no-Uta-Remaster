@@ -692,7 +692,7 @@ block_00038={
 text={
 ja={
 {
-"Aunque, para este entonces ella ya había contraído matrimonio y era parte ahora\nde la prestigiosa familia Nakamura.",
+"Aunque para este entonces ella ya había contraído matrimonio y era parte ahora\nde la prestigiosa familia Nakamura.",
 {"rt2"},
 },
 },
@@ -718,7 +718,7 @@ block_00040={
 text={
 ja={
 {
-"Después de la guerra, el fuerte crecimiento de una familia de Yakuza llevó a\nque perdieran gran parte de su poder. Pero eso no cambió la inflada imagen\nque tenían en la ciudad de Yumihari.",
+"Después de la guerra, el fuerte crecimiento de una familia de yakuzas llevó a\nque perdieran gran parte de su poder. Pero eso no cambió la inflada imagen\nque tenían en la ciudad de Yumihari.",
 {"rt2"},
 },
 },
@@ -815,7 +815,7 @@ block_00047={
 text={
 ja={
 {
-"Aunque, al parecer su voluntad fue ignorada, procediendo todo como un\nmatrimonio de intereses.",
+"Aunque al parecer su voluntad fue ignorada, procediendo todo como un\nmatrimonio de intereses.",
 {"rt2"},
 },
 },
@@ -867,7 +867,7 @@ block_00051={
 text={
 ja={
 {
-"Aunque, si hay algo innegable es que definitivamente no es una personalidad de\ncarisma.",
+"Si hay algo innegable es que definitivamente no es una personalidad de\ncarisma.",
 {"rt2"},
 },
 },
@@ -1898,7 +1898,7 @@ block_00120={
 text={
 ja={
 {
-"Aunque, semejante hazaña no podría lograrse sin ganarse el odio de muchos.",
+"Aunque semejante hazaña no podría lograrse sin ganarse el odio de muchos.",
 {"rt2"},
 },
 },
@@ -2293,7 +2293,7 @@ vo={
 ja={
 {
 name={"???"},
-"“¿Por qué aun cuando intento alejarme siempre de usted usted se acerca?”",
+"“¿Por qué aun cuando intento alejarme de usted se me acerca?”",
 {"rt2"},
 },
 },
@@ -2996,7 +2996,7 @@ block_00190={
 text={
 ja={
 {
-"Esa colección, calificada por el mismo como una de bosquejos mentales, daba\nabarcadura para todo tipo de interpretaciones, y dependiendo de la manera en\nque lo leyeras, podría ser incluso incomprensible.",
+"Esa colección, calificada por él mismo como una de bosquejos mentales, daba\nabarcadura para todo tipo de interpretaciones, y dependiendo de la manera en\nque lo leyeras, podría ser incluso incomprensible.",
 {"rt2"},
 },
 },
@@ -3013,7 +3013,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“'Haru to Shura' de Kenji Miyazawa...\nLos escritos que denominó como bosquejos mentales describen con palabras los panoramas mentales de la misma forma que\nun pincel lo hace con una pintura.”",
+"“'Haru to Shura' de Kenji Miyazawa...\nLos escritos que denominó como bosquejos mentales describen con palabras\nlos panoramas mentales de la misma forma que un pincel lo hace con una pintura.”",
 {"rt2"},
 },
 },

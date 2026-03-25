@@ -472,7 +472,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“El cual terminó en empate, pero...\nahora que me pongo a pensarlo, quizá Sui lo hizo para obligarme a usar toda mi habilidad...”",
+"“El cual terminó en empate, pero...\nahora que me pongo a pensarlo, quizá Sui lo hizo para obligarme a usar\ntoda mi habilidad...”",
 {"rt2"},
 },
 },
@@ -627,7 +627,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí, aunque, creo que realmente fue que no pude controlar mis emociones después\nde escuchar lo de Kei-kun...”",
+"“Sí, aunque creo que realmente fue que no pude controlar mis emociones después\nde escuchar lo de Kei-kun...”",
 {"rt2"},
 },
 },
@@ -1009,7 +1009,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“No fue ni llorar a Kei-kun,o a mi madre,\nni tampoco arrepentirme por la estupidez que cometí.”",
+"“No fue ni llorar a Kei-kun,\no a mi madre,\nni tampoco arrepentirme por la estupidez que cometí.”",
 {"rt2"},
 },
 },
@@ -1127,7 +1127,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Sí...aunque...\nla verdad es que no me interesa mucho eso.”",
+"“Sí... aunque...\nla verdad es que no me interesa mucho eso.”",
 {"rt2"},
 },
 },
@@ -3463,7 +3463,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Definitivamente palabras de Wilde son...”",
+"“Definitivamente son palabras de Wilde...”",
 {"rt2"},
 },
 },
@@ -3699,7 +3699,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y como resultado,\nel gato no podía esquivar cilindros dispuestos horizontalmente. Siempre se golpeaba con ellos.”",
+"“Y como resultado,\nel gato no podía esquivar cilindros dispuestos horizontalmente. Siempre\nse golpeaba con ellos.”",
 {"rt2"},
 },
 },
@@ -3786,7 +3786,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque la palabra concepto aplicada a un gato suena a algo de lenguaje...\nQuiero decir, un objeto de atención, junto a todo aquello requerido para distinguirlo de lo demás.”",
+"“Aunque la palabra concepto aplicada a un gato suena a algo de lenguaje...\nQuiero decir, un objeto de atención, junto a todo aquello requerido para\ndistinguirlo de lo demás.”",
 {"rt2"},
 },
 },
@@ -3814,7 +3814,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“El gatito no tenía todo en su cabeza desde un principio.\nEs decir, los seres vivos aprenden de la naturaleza y van descubriendo una miríada de realidades.”",
+"“El gatito no tenía todo en su cabeza desde un principio.\nEs decir, los seres vivos aprenden de la naturaleza y van descubriendo\nuna miríada de realidades.”",
 {"rt2"},
 },
 },
@@ -5353,7 +5353,7 @@ block_00348={
 text={
 ja={
 {
-"Ciertamente, las verdades matemáticas no son algo que puedas descubrir\nobservando la naturaleza.\nMuchas verdades físicas se han descubierto matemáticamente previo a su observación en la naturaleza.",
+"Ciertamente, las verdades matemáticas no son algo que puedas descubrir\nobservando la naturaleza.\nMuchas verdades físicas se han descubierto matemáticamente previo a su\nobservación en la naturaleza.",
 {"rt2"},
 },
 },
@@ -5712,7 +5712,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Eso dijo una vez el famoso matemático húngaro Paul Erdős.”",
+"“Eso dijo una vez el famoso matemático húngaro Paul Erdos.”",
 {"rt2"},
 },
 },
@@ -5794,7 +5794,7 @@ vo={
 ja={
 {
 name={"Rin"},
-"“Paul Erdős decía que Dios tenía un libro con las demostraciones matemáticas\nmás hermosas habidas.”",
+"“Paul Erdos decía que Dios tenía un libro con las demostraciones matemáticas\nmás hermosas habidas.”",
 {"rt2"},
 },
 },
@@ -5918,7 +5918,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Una belleza sin personas de por medio, eh... Debe ser una muy estoica...”",
+"“Una belleza sin personas de por medio... Debe ser una muy estoica...”",
 {"rt2"},
 },
 },
@@ -6937,7 +6937,7 @@ ja={
 name={"Rin"},
 "(Y así como el todo son todos dentro de mí,",
 {"rt2"},
-"　　　　　　　　　también así es el todo dentro de cada uno de todos)",
+"　　　　　　　　　también así es el todo dentro de cada uno de todos.)",
 {"rt2"},
 },
 },

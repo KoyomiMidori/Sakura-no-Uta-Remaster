@@ -357,7 +357,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Bueno... La verdad es que tengo muchas, así que quizá te llame.”",
+"“Bueno... La verdad es que tengo muchas, así que quizás te llame.”",
 {"rt2"},
 },
 },
@@ -900,7 +900,7 @@ block_00056={
 text={
 ja={
 {
-"El acabado de mi cuadro fue satisfactorio.Seguramente sucedió lo mismo con Kei\nen su caso.",
+"El acabado de mi cuadro fue satisfactorio.\nSeguramente sucedió lo mismo con Kei en su caso.",
 {"rt2"},
 },
 },
@@ -971,7 +971,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No hace falta preocuparse por eso.\nEn primer lugar, esta nominación es para los tres premios de cobre. La nominación para los otros es distinta.”",
+"“No hace falta preocuparse por eso.\nEn primer lugar, esta nominación es para los tres premios de cobre. La\nnominación para los otros es distinta.”",
 {"rt2"},
 },
 },
@@ -1116,7 +1116,7 @@ vo={
 ja={
 {
 name={"Kei"},
-"“De que lo tengo, lo tengo. Es super guay en primer lugar, ¿no te parece?”",
+"“De que lo tengo, lo tengo. Es que es súper genial, ¿no te parece?”",
 {"rt2"},
 },
 },
@@ -1305,7 +1305,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, pero toma más cuidado de ahora en adelante.”",
+"“Sí, pero ten más cuidado de ahora en adelante.”",
 {"rt2"},
 },
 },
@@ -1343,7 +1343,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Pues sí. Por cierto, la ceremonia es en Tokyo. Supongo que irás en tren, ¿no?”",
+"“Pues sí. Por cierto, la ceremonia es en Tokio. Supongo que irás en tren, ¿no?”",
 {"rt2"},
 },
 },
@@ -1572,7 +1572,7 @@ block_00097={
 text={
 ja={
 {
-"Qué vida tan fácil debe tener siendo con esa despreocupada actitud.",
+"Qué vida tan fácil debe tener con esa despreocupada actitud.",
 {"rt2"},
 },
 },
@@ -1585,7 +1585,7 @@ block_00098={
 text={
 ja={
 {
-"Cielos, con lo débil que llegó a estar es asombroso ver lo animado que se\nencuentra ahora.",
+"Cielos, con lo débil que llegó a estar, es asombroso ver lo animado que se\nencuentra ahora.",
 {"rt2"},
 },
 },
@@ -1730,7 +1730,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Qué cantidad de gente...Se supone que no pueden entrar visitantes normales,\n¿no? ¿Tantos asociados hay así?”",
+"“Qué cantidad de gente... Se supone que no pueden entrar visitantes normales,\n¿no? ¿Tantos asociados hay así?”",
 {"rt2"},
 },
 },
@@ -1775,7 +1775,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Hmmm, ya veo. Increíble.”",
+"“Mmmm, ya veo. Increíble.”",
 {"rt2"},
 },
 },
@@ -1918,7 +1918,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No quiero que me entrevisten solo por haber sido nominado.Será horrible si el\npremio para en manos de alguien más...”",
+"“No quiero que me entrevisten solo por haber sido nominado.\nSerá horrible si el premio para en manos de alguien más...”",
 {"rt2"},
 },
 },
@@ -2182,7 +2182,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Aunque al final no sabía realmente si venir en moto o tren.¿Por qué habrá\ninsistido tanto en venir en motocicleta?”",
+"“Aunque al final no sabía realmente si venir en moto o tren.\n¿Por qué habrá insistido tanto en venir en motocicleta?”",
 {"rt2"},
 },
 },
@@ -2482,7 +2482,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No eres el tipo de persona capaz de dejarse llevar por las palabras de alguien como Toritani.\nPor eso pensé que tendrías algo en mente.”",
+"“No eres el tipo de persona capaz de dejarse llevar por las palabras de alguien\ncomo Toritani.\nPor eso pensé que tendrías algo en mente.”",
 {"rt2"},
 },
 },
@@ -2572,7 +2572,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“No hay problema. Sé que tienes una profunda relación con Kei Natsume y Naoya\nKusanagi, Rin Misakura. Quise que entraras a ver la ceremonia.”",
+"“No hay problema. Sé que tienes una profunda relación con Kei Natsume y Naoya\nKusanagi, Rin Misakura-kun. Quise que entraras a ver la ceremonia.”",
 {"rt2"},
 },
 },
@@ -2587,7 +2587,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“......”",
+"“...”",
 {"rt2"},
 },
 },
@@ -2940,7 +2940,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Hmm, qué raro... Le había pedido que viniera temprano... Naoya, ¿por qué no\nvinieron juntos?”",
+"“Mmm, qué raro... Le había pedido que viniera temprano... Naoya, ¿por qué no\nvinieron juntos?”",
 {"rt2"},
 },
 },
@@ -2990,7 +2990,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Solo por si acaso le pediré al personal que investiguen...”",
+"“Solo por si acaso, le pediré al personal que investiguen...”",
 {"rt2"},
 },
 },
@@ -3309,7 +3309,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Y ha sido tal el escándalo que han hecho que los peces gordos nos están viendo\nahora...”",
+"“Y ha sido tal el escándalo que han hecho que los peces gordos nos estén viendo\nahora...”",
 {"rt2"},
 },
 },
@@ -3423,7 +3423,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Volviendo al tema, Kei se está tardando mucho.Lo llamé, pero no contesta.”",
+"“Volviendo al tema, Kei se está tardando mucho.\nLo llamé, pero no contesta.”",
 {"rt2"},
 },
 },
@@ -3736,7 +3736,7 @@ block_00230={
 text={
 ja={
 {
-"A su lado está Shouzou Sakamoto.\nEste también trabaja principalmente en el exterior, y fue seleccionado como uno de los cien artistas más influyentes por la revista artística Écrits.",
+"A su lado está Shouzou Sakamoto.\nEste también trabaja principalmente en el exterior, y fue seleccionado como uno\nde los cien artistas más influyentes por la revista artística Écrits.",
 {"rt2"},
 },
 },
@@ -3775,7 +3775,7 @@ block_00233={
 text={
 ja={
 {
-"También está Mudou Sakamichi, experto en pintura japonesa.Lo suyo no es el arte\nmoderno, sino la pintura japonesa clásica, y ha presentado exposiciones\nindividuales en otros países.",
+"También está Mudou Sakamichi, experto en pintura japonesa.\nLo suyo no es el arte moderno, sino la pintura japonesa clásica, y ha presentado\nexposiciones individuales en otros países.",
 {"rt2"},
 },
 },
@@ -3801,7 +3801,7 @@ block_00235={
 text={
 ja={
 {
-"Su pop-art es extremadamente teórico e ideológico.\nAhora debe estar trabajando como profesor invitado en la universidad de California, campus de Los\nÁngeles.",
+"Su pop-art es extremadamente teórico e ideológico.\nAhora debe estar trabajando como profesor invitado en la universidad de\nCalifornia, campus de Los Ángeles.",
 {"rt2"},
 },
 },
@@ -3840,7 +3840,7 @@ block_00238={
 text={
 ja={
 {
-"Además que el más joven de todos es Shouzou Sakamoto, con un poco más de\ntreinta años... Los demás están en sus cuarenta, o cincuenta. Siendo el único\nmenor de veinte años, se siente bastante íncomodo.",
+"Además que el más joven de todos es Shouzou Sakamoto, con un poco más de\ntreinta años... Los demás están en sus cuarenta, o cincuenta. Siendo el único\nmenor de veinte años, se siente bastante incómodo.",
 {"rt2"},
 },
 },
@@ -3853,7 +3853,7 @@ block_00239={
 text={
 ja={
 {
-"No había podido creer que llegué aquí, y estando acá sentado me lo recuerda.",
+"No había podido creer que llegué aquí, y estar acá sentado me lo recuerda.",
 {"rt2"},
 },
 },
@@ -4214,7 +4214,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Según escuché, es posible que haya sido el Airain Phoque.Ningún japonés lo ha\nganado, así que podría captar bastante atención pública.”",
+"“Según escuché, es posible que haya sido el Airain Phoque.\nNingún japonés lo ha ganado, así que podría captar bastante atención pública.”",
 {"rt2"},
 },
 },
@@ -4324,7 +4324,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“Ya dos japoneses han obtenido el Argent Daufin de Londres y el Platine Epaulard\nde Nueva York.”",
+"“Ya dos japoneses han obtenido el Argent Daufin de Londres y el Platine Épaulard\nde Nueva York.”",
 {"rt2"},
 },
 },
@@ -4389,7 +4389,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“No se cruzan tantos intereses, poniéndolo de manera simple. El Platine Epaulard\ny el Argent Daufin mueven mucho dinero, y a la vez intereses.\nPor eso se dice que tienen tinte político.”",
+"“No se cruzan tantos intereses, poniéndolo de manera simple. El Platine Épaulard\ny el Argent Daufin mueven mucho dinero, y a la vez intereses.\nPor eso se dice que tienen tinte político.”",
 {"rt2"},
 },
 },
@@ -4406,7 +4406,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“En ese sentido no es difícil ver por qué Kenichiro Kusanagi ganó el Platine\nEpaulard, o Hakai Miyazaki el Argent Daufin...”",
+"“En ese sentido no es difícil ver por qué Kenichiro Kusanagi ganó el Platine\nÉpaulard, o Hakai Miyazaki el Argent Daufin...”",
 {"rt2"},
 },
 },
@@ -4555,7 +4555,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Por cierto, tú eres Naoya Kusanagi, ¿verdad?”",
+"“Por cierto, tú eres Naoya Kusanagi-kun, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -4651,7 +4651,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Han pasado años desde entonces, sus cuadros deben ser mucho mejores ahora.Y fue\nnominado de la misma manera que nosotros, así que debe ser un muy buen cuadro\nel que presentó.”",
+"“Han pasado años desde entonces, sus cuadros deben ser mucho mejores ahora.\nY fue nominado de la misma manera que nosotros, así que debe ser un\nmuy buen cuadro el que presentó.”",
 {"rt2"},
 },
 },
@@ -4767,7 +4767,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“Uheeeh, se siente raro que alguien de esa edad hable de esa forma...Solo digo,\nen mi caso llevo más de diez años en esto.”",
+"“Uheeeh, se siente raro que alguien de esa edad hable de esa forma...\nSolo digo, en mi caso llevo más de diez años en esto.”",
 {"rt2"},
 },
 },
@@ -4920,7 +4920,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“Qué frío, eh. Demonios, claro, si ya tu tienes un premio asegurado.”",
+"“Qué frío, eh. Demonios, claro, si ya tú tienes un premio asegurado.”",
 {"rt2"},
 },
 },
@@ -5208,7 +5208,7 @@ vo={
 ja={
 {
 name={"Sakamoto"},
-"“Además que tenemos al Kusanagi junior en la competición. ¿Qué voy a hacer si\neste crío se lleva el premio?”",
+"“Además que tenemos al Kusanagi junior en la competición. ¿Qué voy a hacer si\neste niño se lleva el premio?”",
 {"rt2"},
 },
 },
@@ -5225,7 +5225,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Eso dependerá de quien sea el mejor.”",
+"“Eso dependerá de quién sea el mejor.”",
 {"rt2"},
 },
 },
@@ -5442,7 +5442,7 @@ vo={
 ja={
 {
 name={"Murata"},
-"“Su muerte fue una gran perdida para la comunidad artística de Japón.”",
+"“Su muerte fue una gran pérdida para la comunidad artística de Japón.”",
 {"rt2"},
 },
 },

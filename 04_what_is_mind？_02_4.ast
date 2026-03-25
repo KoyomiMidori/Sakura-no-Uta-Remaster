@@ -520,7 +520,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"“¿Estás sordo? ¡Si no quieres pasarla mal vete ya!”",
+"“¿Estás sordo? ¡Si no quieres pasarla mal, vete ya!”",
 {"rt2"},
 },
 },
@@ -575,7 +575,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¡¿Me lo prometió, recuerda?! ¡Que si llegara a verse en peligro huiría!”",
+"“¡Me lo prometió, ¿recuerda?! ¡Que si llegara a verse en peligro huiría!”",
 {"rt2"},
 },
 },
@@ -979,7 +979,7 @@ block_00057={
 text={
 ja={
 {
-"Podrá haber caído sobre tatami, pero debe haberse golpeado fuertemente la\ncabeza y tardará unos segundos en levantarse. Aprovecho la oportunidad y me\nmonto sobre él.",
+"Podrá haber caído sobre un tatami, pero debe haberse golpeado fuertemente la\ncabeza y tardará unos segundos en levantarse. Aprovecho la oportunidad y me\nmonto sobre él.",
 {"rt2"},
 },
 },
@@ -1955,7 +1955,7 @@ vo={
 ja={
 {
 name={"Hombre de negro A"},
-"*Tch*",
+"*Tch.*",
 {"rt2"},
 },
 },
@@ -2283,7 +2283,7 @@ vo={
 ja={
 {
 name={"???"},
-"Claro. Cállenle esa boca.”",
+"“Claro. Cállenle esa boca.”",
 {"rt2"},
 },
 },
@@ -2385,7 +2385,7 @@ vo={
 ja={
 {
 name={"???"},
-"Vamos, Mizuna, ven para que observes conmigo como terminan las 'peleas de\nniños'...",
+"“Vamos, Mizuna, ven para que observes conmigo como terminan las 'peleas de\nniños'...”",
 {"rt2"},
 },
 },
@@ -2945,7 +2945,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“¡Eh, tú! No vuelvas a herir a la muchacha. ¿Quién te ha dado permiso para\ngolpearla?. Su cuerpo es muy valioso, no dejaré que nadie que no sea yo le\nhaga daño.”",
+"“¡Eh, tú! No vuelvas a herir a la muchacha. ¿Quién te ha dado permiso para\ngolpearla? Su cuerpo es muy valioso, no dejaré que nadie que no sea yo le\nhaga daño.”",
 {"rt2"},
 },
 },
@@ -3602,7 +3602,7 @@ vo={
 ja={
 {
 name={"Shoichi Nakamura"},
-"“Pues sí, si no lo llevamos a un hospital pronto quedará con una herida\nincurable de por vida. Pero ¿sabes, Mizuna? Quisiera que me dieras las\ngracias antes.”",
+"“Pues sí, si no lo llevamos a un hospital pronto, quedará con una herida\nincurable de por vida. Pero ¿sabes, Mizuna? Quisiera que me dieras las\ngracias antes.”",
 {"rt2"},
 },
 },
@@ -3778,7 +3778,7 @@ vo={
 },
 ja={
 {
-name={"Hombres de negro A u B"},
+name={"Hombres de negro"},
 "“Sí señor.”",
 {"rt2"},
 },
@@ -4398,7 +4398,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"“Nakamura no es solo un nombre de prestigio en esta región, es también una\nfamilia con fuertes conexiones con la delincuencia. Hace unos años hubo un\nconflicto entre Yakuzas donde los Nakamura se involucraron en gran parte.”",
+"“Nakamura no es solo un nombre de prestigio en esta región, es también una\nfamilia con fuertes conexiones con la delincuencia. Hace unos años hubo un\nconflicto entre yakuzas donde los Nakamura se involucraron en gran parte.”",
 {"rt2"},
 },
 },
@@ -4815,7 +4815,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“Creo que en algún momento llegué a poner mi fe en usted... Pensé que, tal vez\nusted podría salvarnos... Creo que, en un rincón de mi corazón hubo algo de\nesa fe.”",
+"“Creo que en algún momento llegué a poner mi fe en usted... Pensé que tal vez\nusted podría salvarnos... Creo que en un rincón de mi corazón hubo algo de\nesa fe.”",
 {"rt2"},
 },
 },
@@ -4856,7 +4856,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¡Si hubiese elegido seguir sola usted no estaría sufriendo esto!”",
+"“¡Si hubiese elegido seguir sola, usted no estaría sufriendo esto!”",
 {"rt2"},
 },
 },
@@ -5022,7 +5022,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¿Acaso no lo mencionó usted mismo hace un momento? Ellos estuvieron implicados\nen un conflicto de Yakuzas...”",
+"“¿Acaso no lo mencionó usted mismo hace un momento? Ellos estuvieron implicados\nen un conflicto de yakuzas...”",
 {"rt2"},
 },
 },
@@ -5188,7 +5188,7 @@ vo={
 ja={
 {
 name={"Mizuna"},
-"“¿El teléfono? Si necesita llamar a una ambulancia yo me puedo encargar de eso.”",
+"“¿El teléfono? Si necesita llamar a una ambulancia, yo me puedo encargar de eso.”",
 {"rt2"},
 },
 },
@@ -5974,7 +5974,7 @@ vo={
 ja={
 {
 name={"Kenichiro"},
-"No...",
+"“No...”",
 {"rt2"},
 },
 },

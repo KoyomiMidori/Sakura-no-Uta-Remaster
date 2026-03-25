@@ -136,7 +136,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Usted siempre desayuna pan francés y café.Eso sí tiene bastante donaire y\nelegancia.”",
+"“Usted siempre desayuna pan francés y café.\nEso sí tiene bastante donaire y elegancia.”",
 {"rt2"},
 },
 },
@@ -321,7 +321,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Los rumores dicen que usted es el hijo ilegítimo de un gran pintor, y que llegó\na ser rival y amante de la famosa Rin Misakura... Pero algo en su pasado\nocurrió que ahora está inmerso en la soledad, contemplando todos los días el\ncielo desde la azotea.”",
+"“Los rumores dicen que usted es el hijo ilegítimo de un gran pintor, y que llegó\na ser rival y amante de la famosa Rin Misakura... Pero algo en su pasado\nocurrió y ahora está inmerso en la soledad, contemplando todos los días el\ncielo desde la azotea.”",
 {"rt2"},
 },
 },
@@ -367,7 +367,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Heeh, ya veo...”",
+"“Je, ya veo...”",
 {"rt2"},
 },
 },
@@ -857,7 +857,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Está bien. Aunque, de verdad es solo pan con mayonesa, ¿no?...”",
+"“Está bien. Aunque de verdad es solo pan con mayonesa, ¿no?...”",
 {"rt2"},
 },
 },
@@ -1271,7 +1271,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“No hay nada más ni nada menos que decir de Naoya Kusanagi.\nTú más que nadie sabe eso ahora. ¿No es así, Sakizaki-kun?”",
+"“No hay nada más ni nada menos que decir de Naoya Kusanagi.\nTú más que nadie sabes eso ahora. ¿No es así, Sakizaki-kun?”",
 {"rt2"},
 },
 },
@@ -2171,7 +2171,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“Heeeh, ya veo, ya veo, jeje～”",
+"“Jeee, ya veo, ya veo, jeje～”",
 {"rt2"},
 },
 },
@@ -2276,7 +2276,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Puedes ir a la biblioteca y encontrarás muchos libros de palabras muertas.Si\ntienes tiempo también a la galería de arte, te encontrarás con muchos cuadros\nmuertos colgados en sus paredes.”",
+"“Puedes ir a la biblioteca y encontrarás muchos libros de palabras muertas.\nSi tienes tiempo también a la galería de arte, te encontrarás con muchos cuadros\nmuertos colgados en sus paredes.”",
 {"rt2"},
 },
 },
@@ -2396,7 +2396,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Una eternidad que encierra en sí un instante.Aunque bueno, las obras en sí ya\ntienen límite de vida...”",
+"“Una eternidad que encierra en sí un instante.\nAunque bueno, las obras en sí ya tienen límite de vida...”",
 {"rt2"},
 },
 },
@@ -2540,7 +2540,7 @@ vo={
 ja={
 {
 name={"Sakurako"},
-"“¿Uhm? Pero, usted tampoco parece ser mucho de decir semejantes cosas...”",
+"“¿Uhm? Pero usted tampoco parece ser mucho de decir semejantes cosas...”",
 {"rt2"},
 },
 },
@@ -2793,7 +2793,7 @@ block_00168={
 text={
 ja={
 {
-"Después de agradecerme de una manera muy distinta a la usual,Sakizaki- kun se\nfue por las escaleras.",
+"Después de agradecerme de una manera muy distinta a la usual, Sakizaki-kun se\nfue por las escaleras.",
 {"rt2"},
 },
 },
@@ -3022,7 +3022,7 @@ block_00184={
 text={
 ja={
 {
-"La alumna A es alegre, animada. ¿Tipo gyaru, podríamos decir?En cambio, la\nalumna C es una muchacha tranquila y silenciosa.",
+"La alumna A es alegre, animada. ¿Tipo gyaru, podríamos decir?\nEn cambio, la alumna C es una muchacha tranquila y silenciosa.",
 {"rt2"},
 },
 },
@@ -3119,7 +3119,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Haga silencio. Y deja de ponerla a pintar lo tuyo.”",
+"“Haz silencio. Y deja de ponerla a pintar lo tuyo.”",
 {"rt2"},
 },
 },
@@ -3273,7 +3273,7 @@ block_00202={
 text={
 ja={
 {
-"¿Por qué se esfuerzan tanto en reír?Hay algo fuera de lugar para mí en eso.\nAlgo distante de mí.",
+"¿Por qué se esfuerzan tanto en reír?\nHay algo fuera de lugar para mí en eso. Algo distante de mí.",
 {"rt2"},
 },
 },
@@ -3589,7 +3589,7 @@ block_00223={
 text={
 ja={
 {
-"Es una lata, pero es parte de mi trabajo seguirles la corriente.Qué tontería...",
+"Es una lata, pero es parte de mi trabajo seguirles la corriente.\nQué tontería...",
 {"rt2"},
 },
 },
@@ -3789,7 +3789,7 @@ block_00236={
 text={
 ja={
 {
-"Entre la azotea o durmiendo en la solitaria biblioteca maté el tiempo libre.",
+"Entre la azotea o durmiendo en la solitaria biblioteca, maté el tiempo libre.",
 {"rt2"},
 },
 },

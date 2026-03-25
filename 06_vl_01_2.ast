@@ -328,7 +328,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hmmm...”",
+"“Mmmm...”",
 {"rt2"},
 },
 },
@@ -603,7 +603,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Sí, tal vez. Año tras año, vienen y se van como si nada, esos muchachos.”",
+"“Sí, tal vez. Año tras año, vienen y se van como si nada esos muchachos.”",
 {"rt2"},
 },
 },
@@ -1255,7 +1255,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Hmm, ya veo. Por cierto, Nonomi-kun, la dueña te está llamando.”",
+"“Mmm, ya veo. Por cierto, Nonomi-kun, la dueña te está llamando.”",
 {"rt2"},
 },
 },
@@ -1485,7 +1485,7 @@ vo={
 ja={
 {
 name={"Katagai"},
-"“No hay nada en qué esforzarme... En esa fabrica solo hay hombres...”",
+"“No hay nada en qué esforzarme... En esa fábrica solo hay hombres...”",
 {"rt2"},
 },
 },
@@ -1796,7 +1796,7 @@ vo={
 ja={
 {
 name={"Katagai"},
-"“Sea lo que sea, tu momento es ahora. Tus pocos años antes de los treinta son tu\núltima oportunidad. ¿Qué tal tus alumnas? Presentame a alguna, vamos, ¡dame\nel chance a mí también de enamorarme!”",
+"“Sea lo que sea, tu momento es ahora. Tus pocos años antes de los treinta son tu\núltima oportunidad. ¿Qué tal tus alumnas? Preséntame a alguna, vamos, ¡dame\nel chance a mí también de enamorarme!”",
 {"rt2"},
 },
 },
@@ -1994,7 +1994,7 @@ vo={
 ja={
 {
 name={"Katagai"},
-"“Lo sabía, eres muy joven, Nono-chan. ¿Y bien, qué tal yo?”",
+"“Lo sabía, eres muy joven, Nono-chan. Y bien, ¿qué tal yo?”",
 {"rt2"},
 },
 },
@@ -2341,7 +2341,7 @@ vo={
 ja={
 {
 name={"Katagai"},
-"“En esos días nos llamabas alumno A, B, C y D.”",
+"“En esos días nos llamabas alumnos A, B, C y D.”",
 {"rt2"},
 },
 },
@@ -2918,7 +2918,7 @@ block_00187={
 text={
 ja={
 {
-"Está fuertemente penado manejar bicicleta bajo los efectos del alcohol, así que\nno puedo montar.Si la policía me pilla me despedirán del colegio al día\nsiguiente.",
+"Está fuertemente penado manejar bicicleta bajo los efectos del alcohol, así que\nno puedo montar. Si la policía me pilla me despedirán del colegio al día\nsiguiente.",
 {"rt2"},
 },
 },
@@ -2945,7 +2945,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"Ahora que lo recuerdo, la primera vez que caminé acá fue con Rin...",
+"“Ahora que lo recuerdo, la primera vez que caminé acá fue con Rin...”",
 {"rt2"},
 },
 },
@@ -2984,7 +2984,7 @@ block_00192={
 text={
 ja={
 {
-"Me vino a buscar en bicicleta hasta Namidagawa.Fue ese día que caminé por\nprimera vez por este barrio.",
+"Me vino a buscar en bicicleta hasta Namidagawa.\nFue ese día que caminé por primera vez por este barrio.",
 {"rt2"},
 },
 },

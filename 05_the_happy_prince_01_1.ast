@@ -998,7 +998,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Temes de que ella descubra algo, ¿verdad?”",
+"“Temes que ella descubra algo, ¿verdad?”",
 {"rt2"},
 },
 },
@@ -1238,7 +1238,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“¡E-Eso no tiene sentido alguno! ¡Si vas a alborotarme algo hay otras partes de\nmi cuerpo para eso!”",
+"“¡E-Eso no tiene sentido alguno! ¡Si vas a alborotarme algo, hay otras partes de\nmi cuerpo para eso!”",
 {"rt2"},
 },
 },
@@ -1943,7 +1943,7 @@ vo={
 ja={
 {
 name={"Sui"},
-"“Pero no fue realmente mi maestro, la verdad. No me enseñó como dibujar, ni nada\nde eso.”",
+"“Pero no fue realmente mi maestro, la verdad. No me enseñó cómo dibujar, ni nada\nde eso.”",
 {"rt2"},
 },
 },
@@ -2491,7 +2491,7 @@ block_00156={
 text={
 ja={
 {
-"De que el maestro del cual habla, es Kenichiro Kusanagi.",
+"De que el maestro del que habla es Kenichiro Kusanagi.",
 {"rt2"},
 },
 },
@@ -2892,7 +2892,7 @@ block_00181={
 text={
 ja={
 {
-"Aun así me pareció que, era realmente ella la muchacha maldecida por la\nbelleza.",
+"Aun así, me pareció que era realmente ella la muchacha maldecida por la\nbelleza.",
 {"rt2"},
 },
 },
@@ -3170,7 +3170,7 @@ block_00199={
 text={
 ja={
 {
-"Y en primer lugar, no comentó absolutamente nada respecto a como salté de la\npared...",
+"Y en primer lugar, no comentó absolutamente nada respecto a cómo salté de la\npared...",
 {"rt2"},
 },
 },
@@ -3328,7 +3328,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“¡Lo vi todo en la TV! Fue increíble. En el instante que lo vi, pensé, 'Ah, solo\nKusanagi-kun podría hacer esto'. ¡Nadie más podría hacer algo parecido,\n¿verdad?! No podía esperar menos de ti, fue verdaderamente increíble.”",
+"“¡Lo vi todo en la tele! Fue increíble. En el instante que lo vi, pensé, 'Ah, solo\nKusanagi-kun podría hacer esto'. ¡Nadie más podría hacer algo parecido,\n¿verdad?! No podía esperar menos de ti, fue verdaderamente increíble.”",
 {"rt2"},
 },
 },
@@ -3341,7 +3341,7 @@ block_00210={
 text={
 ja={
 {
-"Es que está hablando del mural de la iglesia?... Eso no lo hice yo, lo hizo\nAkashi.",
+"¿Es que está hablando del mural de la iglesia?... Eso no lo hice yo, lo hizo\nAkashi.",
 {"rt2"},
 },
 },

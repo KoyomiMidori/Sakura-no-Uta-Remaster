@@ -380,7 +380,7 @@ vo={
 ja={
 {
 name={"???"},
-"“Esto... Usted, es el profesor Kusanagi... ¿cierto?”",
+"“Esto... Usted es el profesor Kusanagi... ¿cierto?”",
 {"rt2"},
 },
 },
@@ -976,7 +976,7 @@ vo={
 ja={
 {
 name={"Nei"},
-"“Sí, le he entendido. Aunque, espero con ansias su restablecimiento.”",
+"“Sí, le he entendido. Aunque espero con ansias su restablecimiento.”",
 {"rt2"},
 },
 },
@@ -1121,7 +1121,7 @@ block_00069={
 text={
 ja={
 {
-"Así que... supongo, que de vez en cuando ocurrirán cosas como estas...",
+"Así que... supongo que de vez en cuando ocurrirán cosas como estas...",
 {"rt2"},
 },
 },
@@ -1204,7 +1204,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Te has vuelto todo un profesor, sí. Mira cómo te quieren tus alumnas... Fufufu.”",
+"“Te has vuelto todo un profesor, sí. Mira cómo te quieren tus alumnas... Jejeje.”",
 {"rt2"},
 },
 },
@@ -1235,7 +1235,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Vaya, qué alegría. Esta vez si me recordaste.Juraba que no recordarías ni mi\nnombre.”",
+"“Vaya, qué alegría. Esta vez si me recordaste.\nJuraba que no recordarías ni mi nombre.”",
 {"rt2"},
 },
 },
@@ -1263,7 +1263,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Además, parece que has encendido los medios impresos de arte, eh. Suelo ver tu\nnombre con frecuencia.”",
+"“Además, parece que has encendido los medios impresos de arte. Suelo ver tu\nnombre con frecuencia.”",
 {"rt2"},
 },
 },
@@ -1339,7 +1339,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Arte sensacional... Ya veo. Pues, veo que hacen lo que predican.”",
+"“Arte sensacional... Ya veo. Pues veo que hacen lo que predican.”",
 {"rt2"},
 },
 },
@@ -1446,7 +1446,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Marketing viral lo de ustedes, definitivamente.”",
+"“Marketing viral es lo de ustedes, definitivamente.”",
 {"rt2"},
 },
 },
@@ -1620,7 +1620,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Has dado en el clavo.\nA medida que los años nos pasan encima nuestras posiciones cambian.\nY nuestros entornos también.”",
+"“Has dado en el clavo.\nA medida que los años nos pasan encima, nuestras posiciones cambian.\nY nuestros entornos también.”",
 {"rt2"},
 },
 },
@@ -1654,7 +1654,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Una artista de renombre internacional, y un simple profesor de arte de la\nprovincia...Entre Misakura-san y Kusanagi-kun ya no hay ningún punto en\ncomún, obviamente...”",
+"“Una artista de renombre internacional, y un simple profesor de arte de la\nprovincia...\nEntre Misakura-san y Kusanagi-kun ya no hay ningún punto en\ncomún, obviamente...”",
 {"rt2"},
 },
 },
@@ -1947,7 +1947,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Me gusta. Pero mi odio por ella es más grande aun.”",
+"“Me gusta. Pero mi odio por ella es más grande aún.”",
 {"rt2"},
 },
 },
@@ -2680,7 +2680,7 @@ vo={
 ja={
 {
 name={"Kana"},
-"“Iré adelante, mucho más allá.\nA un lugar que gente como ustedes, siempre contentos con el entorno que los ha aceptado, jamás podrían alcanzar.”",
+"“Iré adelante, mucho más allá.\nA un lugar que gente como ustedes, siempre contentos con el entorno que los\nha aceptado, jamás podrían alcanzar.”",
 {"rt2"},
 },
 },
@@ -2793,7 +2793,7 @@ block_00174={
 text={
 ja={
 {
-"El grupo de arte Bourbagi.\nSi bien no me agradan para nada, debo admitir que la obsesión de Nagayama por la belleza artística supera a la de los talentosos.",
+"El grupo de arte Bourbagi.\nSi bien no me agradan para nada, debo admitir que la obsesión de Nagayama por\nla belleza artística supera a la de los talentosos.",
 {"rt2"},
 },
 },

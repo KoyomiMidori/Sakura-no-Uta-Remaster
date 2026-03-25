@@ -687,7 +687,7 @@ block_00045={
 text={
 ja={
 {
-"Esto insinua la muerte, y por lo tanto decidí pintarlo de manera que resaltara.",
+"Esto insinúa la muerte, y por lo tanto decidí pintarlo de manera que resaltara.",
 {"rt2"},
 },
 },
@@ -857,7 +857,7 @@ block_00058={
 text={
 ja={
 {
-"Kei Natsume salió de su casa en su usual motocicleta.",
+"Kei Natsume salió de su casa en su motocicleta.",
 {"rt2"},
 },
 },
@@ -870,7 +870,7 @@ block_00059={
 text={
 ja={
 {
-"Debió haber tomado la carretera nacional, pasar a la autopista y venir a la\nciudad.Debió.",
+"Debió haber tomado la carretera nacional, pasar a la autopista y venir a la\nciudad.\nDebió.",
 {"rt2"},
 },
 },
@@ -922,7 +922,7 @@ block_00063={
 text={
 ja={
 {
-"Al parecer una niña saltó a la vía de imprevisto.",
+"Al parecer, una niña saltó a la vía de imprevisto.",
 {"rt2"},
 },
 },
@@ -1118,7 +1118,7 @@ block_00078={
 text={
 ja={
 {
-"ni reír,\nni pintar――.",
+"ni reír,\nni pintar――",
 {"rt2"},
 },
 },
@@ -1300,7 +1300,7 @@ block_00092={
 text={
 ja={
 {
-"¿Ya,no podremos caminar juntos de nuevo?",
+"¿Ya,\nno podremos caminar juntos de nuevo?",
 {"rt2"},
 },
 },
@@ -1313,7 +1313,7 @@ block_00093={
 text={
 ja={
 {
-"¿Ya,no podremos pintar juntos de nuevo?",
+"¿Ya,\nno podremos pintar juntos de nuevo?",
 {"rt2"},
 },
 },
@@ -1326,7 +1326,7 @@ block_00094={
 text={
 ja={
 {
-"¿Semejante ridiculez es,posible?",
+"¿Semejante ridiculez es...\nposible?",
 {"rt2"},
 },
 },
@@ -1365,7 +1365,7 @@ block_00097={
 text={
 ja={
 {
-"Todos los artistas se mueren por conseguirlo, pero está en tal lugar que así te\ngastes toda la vida podrías no alcanzarlo.",
+"Todos los artistas se mueren por conseguirlo, pero está en tal lugar que así te\ngastes toda la vida, podrías no alcanzarlo.",
 {"rt2"},
 },
 },
@@ -1404,7 +1404,7 @@ block_00100={
 text={
 ja={
 {
-"¿Pero sabes?Cuando terminé el cuadro pensé en secreto,no debe haber cuadro\nmejor que este.",
+"¿Pero sabes?\nCuando terminé el cuadro pensé en secreto,no debe haber cuadro\nmejor que este.",
 {"rt2"},
 },
 },
@@ -1495,7 +1495,7 @@ block_00107={
 text={
 ja={
 {
-"El único en este planeta que puede pintar algo así,eres tú.",
+"El único en este planeta que puede pintar algo así,\neres tú.",
 {"rt2"},
 },
 },
@@ -1807,7 +1807,7 @@ block_00131={
 text={
 ja={
 {
-"la realidad es clara",
+"la realidad es clara.",
 {"rt2"},
 },
 },
@@ -2494,7 +2494,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Sé cómo se sintieron ambos respecto a ese premio. Tú y Kei...”",
+"“Sé cómo se sintieron ambos respecto a ese premio. Kei y tú...”",
 {"rt2"},
 },
 },
@@ -2529,7 +2529,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Pero lo que hubo entre tú y Kei no fue solo eso.”",
+"“Pero lo que hubo entre Kei y tú no fue solo eso.”",
 {"rt2"},
 },
 },
@@ -2563,7 +2563,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Lo que hubo entre tú y Kei no fue simplemente eso.”",
+"“Lo que hubo entre Kei y tú no fue simplemente eso.”",
 {"rt2"},
 },
 },
@@ -2765,7 +2765,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“Yo no, yo no podía pintar absolutamente nada...\npero aun así él decía que yo era su rival.”",
+"“Yo no, yo no podía pintar absolutamente nada...\npero aun así, él decía que yo era su rival.”",
 {"rt2"},
 },
 },
@@ -3405,7 +3405,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¿Será que no debí haber salvado a Rin aquella vez?¿Será que no debí haber usado\nlo poco que me quedaba de fuerza por Rina?”",
+"“¿Será que no debí haber salvado a Rin aquella vez?\n¿Será que no debí haber usado lo poco que me quedaba de fuerza por Rina?”",
 {"rt2"},
 },
 },
@@ -3781,7 +3781,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“Y no solo a costa de tu mano derecha... Tu herencia, también...”",
+"“Y no solo a costa de tu mano derecha... Tu herencia también...”",
 {"rt2"},
 },
 },
@@ -3797,7 +3797,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“¡¡Pero por todo terminé aplastando el sueño de Kei!!”",
+"“¡¡Pero por todo eso terminé aplastando el sueño de Kei!!”",
 {"rt2"},
 },
 },
@@ -3859,7 +3859,7 @@ vo={
 ja={
 {
 name={"Ai"},
-"“¿Dices que por eso has estado equivocado, entonces?”",
+"“¿Dices que por eso has estado equivocado?”",
 {"rt2"},
 },
 },
@@ -3890,7 +3890,7 @@ text={
 ja={
 {
 name={"Naoya"},
-"“......”",
+"“...”",
 {"rt2"},
 },
 },
@@ -3906,7 +3906,7 @@ block_00269={
 select={
 ja={
 "Sí, todo fue un error.",
-"No lo sé",
+"No lo sé.",
 },
 },
 linkback="block_00268",
@@ -4817,7 +4817,7 @@ block_00330={
 text={
 ja={
 {
-"En otro día de tantos,se anunció la culminación de la selección final y la\nentrega de los tres grandes premios de la Exposición Moore.",
+"En otro día de tantos, se anunció la culminación de la selección final y la\nentrega de los tres grandes premios de la Exposición Moore.",
 {"rt2"},
 },
 },
@@ -4856,7 +4856,7 @@ block_00333={
 text={
 ja={
 {
-"El lugar era en Nueva York.Probablemente era la ceremonia de entrega del\nPlatine Epaulard.",
+"El lugar era en Nueva York.\nProbablemente era la ceremonia de entrega del Platine Épaulard.",
 {"rt2"},
 },
 },
@@ -5003,7 +5003,7 @@ vo={
 ja={
 {
 name={"Fridmann"},
-"“Me siento alegre de poder hacer entrega del Platine Epaulard.”",
+"“Me siento alegre de poder hacer entrega del Platine Épaulard.”",
 {"rt2"},
 },
 },
